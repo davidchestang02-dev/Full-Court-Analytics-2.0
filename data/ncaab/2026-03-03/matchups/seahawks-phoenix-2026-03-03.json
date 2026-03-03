@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/seahawks-phoenix-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:44.238101+00:00",
+  "tables": {
+    "Matchup Menu: UNCW @ ELON": {
+      "headers": [
+        "Stat",
+        "UNCW",
+        "adv",
+        "ELON"
+      ],
+      "team_headers": [
+        "UNCW",
+        "ELON"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "1.114",
+            "value": 1.114
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "1.102",
+            "value": 1.102
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "12.2%",
+            "value": 0.122
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "31.4%",
+            "value": 0.314
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "0.430",
+            "value": 0.43
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "0.335",
+            "value": 0.335
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "75.5",
+            "value": 75.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "78.0",
+            "value": 78.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "+7.9",
+            "value": 7.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "-1.6",
+            "value": -1.6
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "UNCW",
+        "adv",
+        "ELON"
+      ],
+      "team_headers": [
+        "UNCW",
+        "ELON"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "1.114",
+            "value": 1.114
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "1.102",
+            "value": 1.102
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "12.2%",
+            "value": 0.122
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "31.4%",
+            "value": 0.314
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "0.430",
+            "value": 0.43
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "0.335",
+            "value": 0.335
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "75.5",
+            "value": 75.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "78.0",
+            "value": 78.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "+7.9",
+            "value": 7.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "-1.6",
+            "value": -1.6
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "UNCW",
+        "adv",
+        "ELON"
+      ],
+      "team_headers": [
+        "UNCW",
+        "ELON"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "0.997",
+            "value": 0.997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "1.125",
+            "value": 1.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "13.1%",
+            "value": 0.131
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "13.9%",
+            "value": 0.139
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "76.5%",
+            "value": 0.765
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ELON": {
+            "raw": "68.3%",
+            "value": 0.6829999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "0.310",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "0.347",
+            "value": 0.347
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "67.5",
+            "value": 67.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ELON": {
+            "raw": "79.6",
+            "value": 79.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "4.2%",
+            "value": 0.042
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "22.8%",
+            "value": 0.228
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "21.3%",
+            "value": 0.213
+          }
+        }
+      ]
+    },
+    "NC Wilmington vs Elon Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UNCW",
+        "adv",
+        "ELON"
+      ],
+      "team_headers": [
+        "UNCW",
+        "ELON"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "67.8",
+            "value": 67.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "70.8",
+            "value": 70.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "1.114",
+            "value": 1.114
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "1.102",
+            "value": 1.102
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "61.2%",
+            "value": 0.612
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "57.3%",
+            "value": 0.573
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "42.7%",
+            "value": 0.42700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "31.2%",
+            "value": 0.312
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "25.0%",
+            "value": 0.25
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "53.4%",
+            "value": 0.534
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "36.0%",
+            "value": 0.36
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "34.9%",
+            "value": 0.349
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "69.4%",
+            "value": 0.6940000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "70.8%",
+            "value": 0.708
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "34.4",
+            "value": 34.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "36.9",
+            "value": 36.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "24.0",
+            "value": 24.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "26.9",
+            "value": 26.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "31.4%",
+            "value": 0.314
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "76.5%",
+            "value": 0.765
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ELON": {
+            "raw": "68.3%",
+            "value": 0.6829999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "4.2%",
+            "value": 0.042
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "12.2%",
+            "value": 0.122
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "22.8%",
+            "value": 0.228
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "21.3%",
+            "value": 0.213
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "0.518",
+            "value": 0.518
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "0.545",
+            "value": 0.545
+          }
+        }
+      ]
+    },
+    "NC Wilmington vs Elon Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UNCW",
+        "adv",
+        "ELON"
+      ],
+      "team_headers": [
+        "UNCW",
+        "ELON"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "67.8",
+            "value": 67.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "70.8",
+            "value": 70.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "0.997",
+            "value": 0.997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "1.125",
+            "value": 1.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "57.4%",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "55.7%",
+            "value": 0.557
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "42.6%",
+            "value": 0.426
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "44.3%",
+            "value": 0.44299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "25.8%",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "49.5%",
+            "value": 0.495
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "53.4%",
+            "value": 0.534
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ELON": {
+            "raw": "36.3%",
+            "value": 0.363
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "73.8%",
+            "value": 0.738
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "32.6",
+            "value": 32.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "35.7",
+            "value": 35.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "21.9",
+            "value": 21.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "28.9",
+            "value": 28.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ELON": {
+            "raw": "31.7%",
+            "value": 0.317
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "65.5%",
+            "value": 0.655
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "5.0%",
+            "value": 0.05
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "6.2%",
+            "value": 0.062
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "13.1%",
+            "value": 0.131
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ELON": {
+            "raw": "13.9%",
+            "value": 0.139
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ELON": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "UNCW": {
+            "raw": "0.465",
+            "value": 0.465
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ELON": {
+            "raw": "0.551",
+            "value": 0.551
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_uncw_elon.off_efficiency.uncw": 1.114,
+    "matchup_menu_uncw_elon.off_efficiency.elon": 1.102,
+    "matchup_menu_uncw_elon.effective_fg.uncw": 0.509,
+    "matchup_menu_uncw_elon.effective_fg.elon": 0.529,
+    "matchup_menu_uncw_elon.turnovers_play.uncw": 0.122,
+    "matchup_menu_uncw_elon.turnovers_play.elon": 0.132,
+    "matchup_menu_uncw_elon.off_rebound.uncw": 0.345,
+    "matchup_menu_uncw_elon.off_rebound.elon": 0.314,
+    "matchup_menu_uncw_elon.fta_fga.uncw": 0.43,
+    "matchup_menu_uncw_elon.fta_fga.elon": 0.335,
+    "matchup_menu_uncw_elon.points_game.uncw": 75.5,
+    "matchup_menu_uncw_elon.points_game.elon": 78.0,
+    "matchup_menu_uncw_elon.avg_score_margin.uncw": 7.9,
+    "matchup_menu_uncw_elon.avg_score_margin.elon": -1.6,
+    "key_offensive_stats.off_efficiency.uncw": 1.114,
+    "key_offensive_stats.off_efficiency.elon": 1.102,
+    "key_offensive_stats.effective_fg.uncw": 0.509,
+    "key_offensive_stats.effective_fg.elon": 0.529,
+    "key_offensive_stats.turnovers_play.uncw": 0.122,
+    "key_offensive_stats.turnovers_play.elon": 0.132,
+    "key_offensive_stats.off_rebound.uncw": 0.345,
+    "key_offensive_stats.off_rebound.elon": 0.314,
+    "key_offensive_stats.fta_fga.uncw": 0.43,
+    "key_offensive_stats.fta_fga.elon": 0.335,
+    "key_offensive_stats.points_game.uncw": 75.5,
+    "key_offensive_stats.points_game.elon": 78.0,
+    "key_offensive_stats.avg_score_margin.uncw": 7.9,
+    "key_offensive_stats.avg_score_margin.elon": -1.6,
+    "key_defensive_stats.def_efficiency.uncw": 0.997,
+    "key_defensive_stats.def_efficiency.elon": 1.125,
+    "key_defensive_stats.opp_effective_fg.uncw": 0.475,
+    "key_defensive_stats.opp_effective_fg.elon": 0.5379999999999999,
+    "key_defensive_stats.opp_turnovers_play.uncw": 0.131,
+    "key_defensive_stats.opp_turnovers_play.elon": 0.139,
+    "key_defensive_stats.def_rebound.uncw": 0.765,
+    "key_defensive_stats.def_rebound.elon": 0.6829999999999999,
+    "key_defensive_stats.opp_fta_fga.uncw": 0.31,
+    "key_defensive_stats.opp_fta_fga.elon": 0.347,
+    "key_defensive_stats.opp_points_game.uncw": 67.5,
+    "key_defensive_stats.opp_points_game.elon": 79.6,
+    "key_defensive_stats.block.uncw": 0.042,
+    "key_defensive_stats.block.elon": 0.05,
+    "key_defensive_stats.personal_fouls_play.uncw": 0.228,
+    "key_defensive_stats.personal_fouls_play.elon": 0.213,
+    "nc_wilmington_vs_elon_offensive_efficiency.possessions_gm.uncw": 67.8,
+    "nc_wilmington_vs_elon_offensive_efficiency.possessions_gm.elon": 70.8,
+    "nc_wilmington_vs_elon_offensive_efficiency.off_efficiency.uncw": 1.114,
+    "nc_wilmington_vs_elon_offensive_efficiency.off_efficiency.elon": 1.102,
+    "nc_wilmington_vs_elon_offensive_efficiency.effective_fg.uncw": 0.509,
+    "nc_wilmington_vs_elon_offensive_efficiency.effective_fg.elon": 0.529,
+    "nc_wilmington_vs_elon_offensive_efficiency.two_point_rate.uncw": 0.612,
+    "nc_wilmington_vs_elon_offensive_efficiency.two_point_rate.elon": 0.573,
+    "nc_wilmington_vs_elon_offensive_efficiency.three_point_rate.uncw": 0.38799999999999996,
+    "nc_wilmington_vs_elon_offensive_efficiency.three_point_rate.elon": 0.42700000000000005,
+    "nc_wilmington_vs_elon_offensive_efficiency.fta_play.uncw": 0.312,
+    "nc_wilmington_vs_elon_offensive_efficiency.fta_play.elon": 0.25,
+    "nc_wilmington_vs_elon_offensive_efficiency.two_point.uncw": 0.49,
+    "nc_wilmington_vs_elon_offensive_efficiency.two_point.elon": 0.534,
+    "nc_wilmington_vs_elon_offensive_efficiency.three_point.uncw": 0.36,
+    "nc_wilmington_vs_elon_offensive_efficiency.three_point.elon": 0.349,
+    "nc_wilmington_vs_elon_offensive_efficiency.free_throw.uncw": 0.6940000000000001,
+    "nc_wilmington_vs_elon_offensive_efficiency.free_throw.elon": 0.708,
+    "nc_wilmington_vs_elon_offensive_efficiency.points_2_pters.uncw": 34.4,
+    "nc_wilmington_vs_elon_offensive_efficiency.points_2_pters.elon": 36.9,
+    "nc_wilmington_vs_elon_offensive_efficiency.points_3_pters.uncw": 24.0,
+    "nc_wilmington_vs_elon_offensive_efficiency.points_3_pters.elon": 26.9,
+    "nc_wilmington_vs_elon_offensive_efficiency.off_rebound.uncw": 0.345,
+    "nc_wilmington_vs_elon_offensive_efficiency.off_rebound.elon": 0.314,
+    "nc_wilmington_vs_elon_offensive_efficiency.def_rebound.uncw": 0.765,
+    "nc_wilmington_vs_elon_offensive_efficiency.def_rebound.elon": 0.6829999999999999,
+    "nc_wilmington_vs_elon_offensive_efficiency.block.uncw": 0.042,
+    "nc_wilmington_vs_elon_offensive_efficiency.block.elon": 0.05,
+    "nc_wilmington_vs_elon_offensive_efficiency.steals_play.uncw": 0.065,
+    "nc_wilmington_vs_elon_offensive_efficiency.steals_play.elon": 0.08,
+    "nc_wilmington_vs_elon_offensive_efficiency.turnovers_play.uncw": 0.122,
+    "nc_wilmington_vs_elon_offensive_efficiency.turnovers_play.elon": 0.132,
+    "nc_wilmington_vs_elon_offensive_efficiency.personal_fouls_play.uncw": 0.228,
+    "nc_wilmington_vs_elon_offensive_efficiency.personal_fouls_play.elon": 0.213,
+    "nc_wilmington_vs_elon_offensive_efficiency.assists_fgm.uncw": 0.518,
+    "nc_wilmington_vs_elon_offensive_efficiency.assists_fgm.elon": 0.545,
+    "nc_wilmington_vs_elon_defensive_efficiency.possessions_gm.uncw": 67.8,
+    "nc_wilmington_vs_elon_defensive_efficiency.possessions_gm.elon": 70.8,
+    "nc_wilmington_vs_elon_defensive_efficiency.def_efficiency.uncw": 0.997,
+    "nc_wilmington_vs_elon_defensive_efficiency.def_efficiency.elon": 1.125,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_effective_fg.uncw": 0.475,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_effective_fg.elon": 0.5379999999999999,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_two_point_rate.uncw": 0.574,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_two_point_rate.elon": 0.557,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_three_point_rate.uncw": 0.426,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_three_point_rate.elon": 0.44299999999999995,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_fta_play.uncw": 0.23600000000000002,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_fta_play.elon": 0.258,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_two_point.uncw": 0.495,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_two_point.elon": 0.534,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_three_point.uncw": 0.299,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_three_point.elon": 0.363,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_free_throw.uncw": 0.738,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_free_throw.elon": 0.7190000000000001,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_points_2_pters.uncw": 32.6,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_points_2_pters.elon": 35.7,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_points_3_pters.uncw": 21.9,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_points_3_pters.elon": 28.9,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_off_rebound.uncw": 0.235,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_off_rebound.elon": 0.317,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_def_rebound.uncw": 0.655,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_def_rebound.elon": 0.6859999999999999,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_block.uncw": 0.05,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_block.elon": 0.063,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_steals_play.uncw": 0.062,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_steals_play.elon": 0.076,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_turnovers_play.uncw": 0.131,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_turnovers_play.elon": 0.139,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_personal_fouls_play.uncw": 0.24,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_personal_fouls_play.elon": 0.21600000000000003,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_assists_fgm.uncw": 0.465,
+    "nc_wilmington_vs_elon_defensive_efficiency.opp_assists_fgm.elon": 0.551
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "seahawks-phoenix-2026-03-03",
+  "matchup_title": "#111 NC Wilmington at #226 Elon",
+  "teams": {
+    "away": "#111 NC Wilmington",
+    "home": "#226 Elon",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Schar Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/seahawks-phoenix-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/seahawks-phoenix-2026-03-03/efficiency"
+  }
+}

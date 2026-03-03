@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/flyers-spiders-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:42.176265+00:00",
+  "tables": {
+    "Matchup Menu: DAY @ RICH": {
+      "headers": [
+        "Stat",
+        "DAY",
+        "adv",
+        "RICH"
+      ],
+      "team_headers": [
+        "DAY",
+        "RICH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DAY": {
+            "raw": "1.068",
+            "value": 1.068
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "1.095",
+            "value": 1.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "52.3%",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "52.5%",
+            "value": 0.525
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "RICH": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DAY": {
+            "raw": "0.480",
+            "value": 0.48
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "0.375",
+            "value": 0.375
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DAY": {
+            "raw": "75.9",
+            "value": 75.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "77.4",
+            "value": 77.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DAY": {
+            "raw": "+5.3",
+            "value": 5.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "+2.7",
+            "value": 2.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "DAY",
+        "adv",
+        "RICH"
+      ],
+      "team_headers": [
+        "DAY",
+        "RICH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DAY": {
+            "raw": "1.068",
+            "value": 1.068
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "1.095",
+            "value": 1.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "52.3%",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "52.5%",
+            "value": 0.525
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "RICH": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DAY": {
+            "raw": "0.480",
+            "value": 0.48
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "0.375",
+            "value": 0.375
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DAY": {
+            "raw": "75.9",
+            "value": 75.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "77.4",
+            "value": 77.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DAY": {
+            "raw": "+5.3",
+            "value": 5.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "+2.7",
+            "value": 2.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "DAY",
+        "adv",
+        "RICH"
+      ],
+      "team_headers": [
+        "DAY",
+        "RICH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DAY": {
+            "raw": "0.992",
+            "value": 0.992
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "1.057",
+            "value": 1.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "51.1%",
+            "value": 0.511
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "51.6%",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "15.1%",
+            "value": 0.151
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "DAY": {
+            "raw": "0.359",
+            "value": 0.359
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "0.347",
+            "value": 0.347
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "DAY": {
+            "raw": "70.6",
+            "value": 70.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "74.7",
+            "value": 74.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "RICH": {
+            "raw": "4.0%",
+            "value": 0.04
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "21.0%",
+            "value": 0.21
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          }
+        }
+      ]
+    },
+    "Dayton vs Richmond Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DAY",
+        "adv",
+        "RICH"
+      ],
+      "team_headers": [
+        "DAY",
+        "RICH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DAY": {
+            "raw": "71.1",
+            "value": 71.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DAY": {
+            "raw": "1.068",
+            "value": 1.068
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "1.095",
+            "value": 1.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "52.3%",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "52.5%",
+            "value": 0.525
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "DAY": {
+            "raw": "58.8%",
+            "value": 0.588
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "57.7%",
+            "value": 0.5770000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "DAY": {
+            "raw": "41.2%",
+            "value": 0.41200000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "42.3%",
+            "value": 0.423
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "32.9%",
+            "value": 0.32899999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "27.7%",
+            "value": 0.27699999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "52.8%",
+            "value": 0.528
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "50.1%",
+            "value": 0.501
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "37.3%",
+            "value": 0.373
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "75.1%",
+            "value": 0.7509999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "DAY": {
+            "raw": "33.5",
+            "value": 33.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "33.2",
+            "value": 33.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "DAY": {
+            "raw": "22.9",
+            "value": 22.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "27.2",
+            "value": 27.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "RICH": {
+            "raw": "4.0%",
+            "value": 0.04
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "11.1%",
+            "value": 0.111
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "8.7%",
+            "value": 0.087
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "RICH": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "21.0%",
+            "value": 0.21
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "DAY": {
+            "raw": "0.594",
+            "value": 0.594
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "0.552",
+            "value": 0.552
+          }
+        }
+      ]
+    },
+    "Dayton vs Richmond Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DAY",
+        "adv",
+        "RICH"
+      ],
+      "team_headers": [
+        "DAY",
+        "RICH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DAY": {
+            "raw": "71.1",
+            "value": 71.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DAY": {
+            "raw": "0.992",
+            "value": 0.992
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "1.057",
+            "value": 1.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "51.1%",
+            "value": 0.511
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "51.6%",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "DAY": {
+            "raw": "58.9%",
+            "value": 0.589
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "55.0%",
+            "value": 0.55
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "DAY": {
+            "raw": "41.1%",
+            "value": 0.41100000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "45.0%",
+            "value": 0.45
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "24.9%",
+            "value": 0.249
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "25.3%",
+            "value": 0.253
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "49.1%",
+            "value": 0.491
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "RICH": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "35.9%",
+            "value": 0.359
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "RICH": {
+            "raw": "32.8%",
+            "value": 0.32799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "DAY": {
+            "raw": "32.0",
+            "value": 32.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "34.5",
+            "value": 34.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "DAY": {
+            "raw": "24.5",
+            "value": 24.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "25.9",
+            "value": 25.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "28.1%",
+            "value": 0.281
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "74.9%",
+            "value": 0.7490000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "77.0%",
+            "value": 0.77
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "DAY": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "RICH": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "9.0%",
+            "value": 0.09
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "RICH": {
+            "raw": "6.9%",
+            "value": 0.069
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "15.1%",
+            "value": 0.151
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "DAY": {
+            "raw": "26.3%",
+            "value": 0.263
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "RICH": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "DAY": {
+            "raw": "0.521",
+            "value": 0.521
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "RICH": {
+            "raw": "0.477",
+            "value": 0.477
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_day_rich.off_efficiency.day": 1.068,
+    "matchup_menu_day_rich.off_efficiency.rich": 1.095,
+    "matchup_menu_day_rich.effective_fg.day": 0.523,
+    "matchup_menu_day_rich.effective_fg.rich": 0.525,
+    "matchup_menu_day_rich.turnovers_play.day": 0.153,
+    "matchup_menu_day_rich.turnovers_play.rich": 0.128,
+    "matchup_menu_day_rich.off_rebound.day": 0.251,
+    "matchup_menu_day_rich.off_rebound.rich": 0.23,
+    "matchup_menu_day_rich.fta_fga.day": 0.48,
+    "matchup_menu_day_rich.fta_fga.rich": 0.375,
+    "matchup_menu_day_rich.points_game.day": 75.9,
+    "matchup_menu_day_rich.points_game.rich": 77.4,
+    "matchup_menu_day_rich.avg_score_margin.day": 5.3,
+    "matchup_menu_day_rich.avg_score_margin.rich": 2.7,
+    "key_offensive_stats.off_efficiency.day": 1.068,
+    "key_offensive_stats.off_efficiency.rich": 1.095,
+    "key_offensive_stats.effective_fg.day": 0.523,
+    "key_offensive_stats.effective_fg.rich": 0.525,
+    "key_offensive_stats.turnovers_play.day": 0.153,
+    "key_offensive_stats.turnovers_play.rich": 0.128,
+    "key_offensive_stats.off_rebound.day": 0.251,
+    "key_offensive_stats.off_rebound.rich": 0.23,
+    "key_offensive_stats.fta_fga.day": 0.48,
+    "key_offensive_stats.fta_fga.rich": 0.375,
+    "key_offensive_stats.points_game.day": 75.9,
+    "key_offensive_stats.points_game.rich": 77.4,
+    "key_offensive_stats.avg_score_margin.day": 5.3,
+    "key_offensive_stats.avg_score_margin.rich": 2.7,
+    "key_defensive_stats.def_efficiency.day": 0.992,
+    "key_defensive_stats.def_efficiency.rich": 1.057,
+    "key_defensive_stats.opp_effective_fg.day": 0.511,
+    "key_defensive_stats.opp_effective_fg.rich": 0.516,
+    "key_defensive_stats.opp_turnovers_play.day": 0.19399999999999998,
+    "key_defensive_stats.opp_turnovers_play.rich": 0.151,
+    "key_defensive_stats.def_rebound.day": 0.7190000000000001,
+    "key_defensive_stats.def_rebound.rich": 0.7120000000000001,
+    "key_defensive_stats.opp_fta_fga.day": 0.359,
+    "key_defensive_stats.opp_fta_fga.rich": 0.347,
+    "key_defensive_stats.opp_points_game.day": 70.6,
+    "key_defensive_stats.opp_points_game.rich": 74.7,
+    "key_defensive_stats.block.day": 0.076,
+    "key_defensive_stats.block.rich": 0.04,
+    "key_defensive_stats.personal_fouls_play.day": 0.21,
+    "key_defensive_stats.personal_fouls_play.rich": 0.22399999999999998,
+    "dayton_vs_richmond_offensive_efficiency.possessions_gm.day": 71.1,
+    "dayton_vs_richmond_offensive_efficiency.possessions_gm.rich": 70.7,
+    "dayton_vs_richmond_offensive_efficiency.off_efficiency.day": 1.068,
+    "dayton_vs_richmond_offensive_efficiency.off_efficiency.rich": 1.095,
+    "dayton_vs_richmond_offensive_efficiency.effective_fg.day": 0.523,
+    "dayton_vs_richmond_offensive_efficiency.effective_fg.rich": 0.525,
+    "dayton_vs_richmond_offensive_efficiency.two_point_rate.day": 0.588,
+    "dayton_vs_richmond_offensive_efficiency.two_point_rate.rich": 0.5770000000000001,
+    "dayton_vs_richmond_offensive_efficiency.three_point_rate.day": 0.41200000000000003,
+    "dayton_vs_richmond_offensive_efficiency.three_point_rate.rich": 0.423,
+    "dayton_vs_richmond_offensive_efficiency.fta_play.day": 0.32899999999999996,
+    "dayton_vs_richmond_offensive_efficiency.fta_play.rich": 0.27699999999999997,
+    "dayton_vs_richmond_offensive_efficiency.two_point.day": 0.528,
+    "dayton_vs_richmond_offensive_efficiency.two_point.rich": 0.501,
+    "dayton_vs_richmond_offensive_efficiency.three_point.day": 0.34299999999999997,
+    "dayton_vs_richmond_offensive_efficiency.three_point.rich": 0.373,
+    "dayton_vs_richmond_offensive_efficiency.free_throw.day": 0.754,
+    "dayton_vs_richmond_offensive_efficiency.free_throw.rich": 0.7509999999999999,
+    "dayton_vs_richmond_offensive_efficiency.points_2_pters.day": 33.5,
+    "dayton_vs_richmond_offensive_efficiency.points_2_pters.rich": 33.2,
+    "dayton_vs_richmond_offensive_efficiency.points_3_pters.day": 22.9,
+    "dayton_vs_richmond_offensive_efficiency.points_3_pters.rich": 27.2,
+    "dayton_vs_richmond_offensive_efficiency.off_rebound.day": 0.251,
+    "dayton_vs_richmond_offensive_efficiency.off_rebound.rich": 0.23,
+    "dayton_vs_richmond_offensive_efficiency.def_rebound.day": 0.7190000000000001,
+    "dayton_vs_richmond_offensive_efficiency.def_rebound.rich": 0.7120000000000001,
+    "dayton_vs_richmond_offensive_efficiency.block.day": 0.076,
+    "dayton_vs_richmond_offensive_efficiency.block.rich": 0.04,
+    "dayton_vs_richmond_offensive_efficiency.steals_play.day": 0.111,
+    "dayton_vs_richmond_offensive_efficiency.steals_play.rich": 0.087,
+    "dayton_vs_richmond_offensive_efficiency.turnovers_play.day": 0.153,
+    "dayton_vs_richmond_offensive_efficiency.turnovers_play.rich": 0.128,
+    "dayton_vs_richmond_offensive_efficiency.personal_fouls_play.day": 0.21,
+    "dayton_vs_richmond_offensive_efficiency.personal_fouls_play.rich": 0.22399999999999998,
+    "dayton_vs_richmond_offensive_efficiency.assists_fgm.day": 0.594,
+    "dayton_vs_richmond_offensive_efficiency.assists_fgm.rich": 0.552,
+    "dayton_vs_richmond_defensive_efficiency.possessions_gm.day": 71.1,
+    "dayton_vs_richmond_defensive_efficiency.possessions_gm.rich": 70.7,
+    "dayton_vs_richmond_defensive_efficiency.def_efficiency.day": 0.992,
+    "dayton_vs_richmond_defensive_efficiency.def_efficiency.rich": 1.057,
+    "dayton_vs_richmond_defensive_efficiency.opp_effective_fg.day": 0.511,
+    "dayton_vs_richmond_defensive_efficiency.opp_effective_fg.rich": 0.516,
+    "dayton_vs_richmond_defensive_efficiency.opp_two_point_rate.day": 0.589,
+    "dayton_vs_richmond_defensive_efficiency.opp_two_point_rate.rich": 0.55,
+    "dayton_vs_richmond_defensive_efficiency.opp_three_point_rate.day": 0.41100000000000003,
+    "dayton_vs_richmond_defensive_efficiency.opp_three_point_rate.rich": 0.45,
+    "dayton_vs_richmond_defensive_efficiency.opp_fta_play.day": 0.249,
+    "dayton_vs_richmond_defensive_efficiency.opp_fta_play.rich": 0.253,
+    "dayton_vs_richmond_defensive_efficiency.opp_two_point.day": 0.491,
+    "dayton_vs_richmond_defensive_efficiency.opp_two_point.rich": 0.536,
+    "dayton_vs_richmond_defensive_efficiency.opp_three_point.day": 0.359,
+    "dayton_vs_richmond_defensive_efficiency.opp_three_point.rich": 0.32799999999999996,
+    "dayton_vs_richmond_defensive_efficiency.opp_free_throw.day": 0.7070000000000001,
+    "dayton_vs_richmond_defensive_efficiency.opp_free_throw.rich": 0.7020000000000001,
+    "dayton_vs_richmond_defensive_efficiency.opp_points_2_pters.day": 32.0,
+    "dayton_vs_richmond_defensive_efficiency.opp_points_2_pters.rich": 34.5,
+    "dayton_vs_richmond_defensive_efficiency.opp_points_3_pters.day": 24.5,
+    "dayton_vs_richmond_defensive_efficiency.opp_points_3_pters.rich": 25.9,
+    "dayton_vs_richmond_defensive_efficiency.opp_off_rebound.day": 0.281,
+    "dayton_vs_richmond_defensive_efficiency.opp_off_rebound.rich": 0.28800000000000003,
+    "dayton_vs_richmond_defensive_efficiency.opp_def_rebound.day": 0.7490000000000001,
+    "dayton_vs_richmond_defensive_efficiency.opp_def_rebound.rich": 0.77,
+    "dayton_vs_richmond_defensive_efficiency.opp_block.day": 0.066,
+    "dayton_vs_richmond_defensive_efficiency.opp_block.rich": 0.046,
+    "dayton_vs_richmond_defensive_efficiency.opp_steals_play.day": 0.09,
+    "dayton_vs_richmond_defensive_efficiency.opp_steals_play.rich": 0.069,
+    "dayton_vs_richmond_defensive_efficiency.opp_turnovers_play.day": 0.19399999999999998,
+    "dayton_vs_richmond_defensive_efficiency.opp_turnovers_play.rich": 0.151,
+    "dayton_vs_richmond_defensive_efficiency.opp_personal_fouls_play.day": 0.263,
+    "dayton_vs_richmond_defensive_efficiency.opp_personal_fouls_play.rich": 0.23600000000000002,
+    "dayton_vs_richmond_defensive_efficiency.opp_assists_fgm.day": 0.521,
+    "dayton_vs_richmond_defensive_efficiency.opp_assists_fgm.rich": 0.477
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "flyers-spiders-2026-03-03",
+  "matchup_title": "#80 Dayton at #136 Richmond",
+  "teams": {
+    "away": "#80 Dayton",
+    "home": "#136 Richmond",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Robins Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/flyers-spiders-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/flyers-spiders-2026-03-03/efficiency"
+  }
+}

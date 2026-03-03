@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/delta-devils-braves-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:02:00.577412+00:00",
+  "tables": {
+    "Matchup Menu: MVSU @ ALCN": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "MVSU",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.875",
+            "value": 0.875
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.949",
+            "value": 0.949
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "48.4%",
+            "value": 0.484
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "19.2%",
+            "value": 0.192
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "17.4%",
+            "value": 0.174
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "25.4%",
+            "value": 0.254
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.326",
+            "value": 0.326
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.294",
+            "value": 0.294
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "63.1",
+            "value": 63.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "67.6",
+            "value": 67.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "-21.3",
+            "value": -21.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "-14.1",
+            "value": -14.1
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "MVSU",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.875",
+            "value": 0.875
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.949",
+            "value": 0.949
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "48.4%",
+            "value": 0.484
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "19.2%",
+            "value": 0.192
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "17.4%",
+            "value": 0.174
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "25.4%",
+            "value": 0.254
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.326",
+            "value": 0.326
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.294",
+            "value": 0.294
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "63.1",
+            "value": 63.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "67.6",
+            "value": 67.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "-21.3",
+            "value": -21.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "-14.1",
+            "value": -14.1
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "MVSU",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "1.171",
+            "value": 1.171
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "1.148",
+            "value": 1.148
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "56.0%",
+            "value": 0.56
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "56.4%",
+            "value": 0.564
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "65.5%",
+            "value": 0.655
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "64.6%",
+            "value": 0.6459999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.493",
+            "value": 0.493
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.400",
+            "value": 0.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "84.4",
+            "value": 84.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "81.8",
+            "value": 81.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "4.5%",
+            "value": 0.045
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        }
+      ]
+    },
+    "Miss Valley St vs Alcorn St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "MVSU",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "72.1",
+            "value": 72.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "71.2",
+            "value": 71.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.875",
+            "value": 0.875
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.949",
+            "value": 0.949
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "48.4%",
+            "value": 0.484
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "65.8%",
+            "value": 0.6579999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "30.1%",
+            "value": 0.301
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "34.2%",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "22.8%",
+            "value": 0.228
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "21.3%",
+            "value": 0.213
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "45.5%",
+            "value": 0.455
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "46.5%",
+            "value": 0.465
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "71.0%",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "35.6",
+            "value": 35.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "35.1",
+            "value": 35.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "14.6",
+            "value": 14.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "20.5",
+            "value": 20.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "25.4%",
+            "value": 0.254
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "65.5%",
+            "value": 0.655
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "64.6%",
+            "value": 0.6459999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "4.5%",
+            "value": 0.045
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "8.8%",
+            "value": 0.08800000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "19.2%",
+            "value": 0.192
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "17.4%",
+            "value": 0.174
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.511",
+            "value": 0.511
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.467",
+            "value": 0.467
+          }
+        }
+      ]
+    },
+    "Miss Valley St vs Alcorn St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "MVSU",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "72.1",
+            "value": 72.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "71.2",
+            "value": 71.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "1.171",
+            "value": 1.171
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "1.148",
+            "value": 1.148
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "56.0%",
+            "value": 0.56
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "56.4%",
+            "value": 0.564
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "57.0%",
+            "value": 0.57
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "64.3%",
+            "value": 0.643
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "43.0%",
+            "value": 0.43
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "35.7%",
+            "value": 0.35700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "33.9%",
+            "value": 0.33899999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "56.5%",
+            "value": 0.565
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "59.0%",
+            "value": 0.59
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "37.0%",
+            "value": 0.37
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "34.5%",
+            "value": 0.345
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "75.1%",
+            "value": 0.7509999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "72.6%",
+            "value": 0.726
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "36.5",
+            "value": 36.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "43.7",
+            "value": 43.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "27.0",
+            "value": 27.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "21.3",
+            "value": 21.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "76.0%",
+            "value": 0.76
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "74.6%",
+            "value": 0.746
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "6.2%",
+            "value": 0.062
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "7.5%",
+            "value": 0.075
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "11.0%",
+            "value": 0.11
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "21.7%",
+            "value": 0.217
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "18.7%",
+            "value": 0.187
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.605",
+            "value": 0.605
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.550",
+            "value": 0.55
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_mvsu_alcn.off_efficiency.mvsu": 0.875,
+    "matchup_menu_mvsu_alcn.off_efficiency.alcn": 0.949,
+    "matchup_menu_mvsu_alcn.effective_fg.mvsu": 0.449,
+    "matchup_menu_mvsu_alcn.effective_fg.alcn": 0.484,
+    "matchup_menu_mvsu_alcn.turnovers_play.mvsu": 0.192,
+    "matchup_menu_mvsu_alcn.turnovers_play.alcn": 0.174,
+    "matchup_menu_mvsu_alcn.off_rebound.mvsu": 0.24,
+    "matchup_menu_mvsu_alcn.off_rebound.alcn": 0.254,
+    "matchup_menu_mvsu_alcn.fta_fga.mvsu": 0.326,
+    "matchup_menu_mvsu_alcn.fta_fga.alcn": 0.294,
+    "matchup_menu_mvsu_alcn.points_game.mvsu": 63.1,
+    "matchup_menu_mvsu_alcn.points_game.alcn": 67.6,
+    "matchup_menu_mvsu_alcn.avg_score_margin.mvsu": -21.3,
+    "matchup_menu_mvsu_alcn.avg_score_margin.alcn": -14.1,
+    "key_offensive_stats.off_efficiency.mvsu": 0.875,
+    "key_offensive_stats.off_efficiency.alcn": 0.949,
+    "key_offensive_stats.effective_fg.mvsu": 0.449,
+    "key_offensive_stats.effective_fg.alcn": 0.484,
+    "key_offensive_stats.turnovers_play.mvsu": 0.192,
+    "key_offensive_stats.turnovers_play.alcn": 0.174,
+    "key_offensive_stats.off_rebound.mvsu": 0.24,
+    "key_offensive_stats.off_rebound.alcn": 0.254,
+    "key_offensive_stats.fta_fga.mvsu": 0.326,
+    "key_offensive_stats.fta_fga.alcn": 0.294,
+    "key_offensive_stats.points_game.mvsu": 63.1,
+    "key_offensive_stats.points_game.alcn": 67.6,
+    "key_offensive_stats.avg_score_margin.mvsu": -21.3,
+    "key_offensive_stats.avg_score_margin.alcn": -14.1,
+    "key_defensive_stats.def_efficiency.mvsu": 1.171,
+    "key_defensive_stats.def_efficiency.alcn": 1.148,
+    "key_defensive_stats.opp_effective_fg.mvsu": 0.56,
+    "key_defensive_stats.opp_effective_fg.alcn": 0.564,
+    "key_defensive_stats.opp_turnovers_play.mvsu": 0.14800000000000002,
+    "key_defensive_stats.opp_turnovers_play.alcn": 0.159,
+    "key_defensive_stats.def_rebound.mvsu": 0.655,
+    "key_defensive_stats.def_rebound.alcn": 0.6459999999999999,
+    "key_defensive_stats.opp_fta_fga.mvsu": 0.493,
+    "key_defensive_stats.opp_fta_fga.alcn": 0.4,
+    "key_defensive_stats.opp_points_game.mvsu": 84.4,
+    "key_defensive_stats.opp_points_game.alcn": 81.8,
+    "key_defensive_stats.block.mvsu": 0.045,
+    "key_defensive_stats.block.alcn": 0.057,
+    "key_defensive_stats.personal_fouls_play.mvsu": 0.259,
+    "key_defensive_stats.personal_fouls_play.alcn": 0.21899999999999997,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.possessions_gm.mvsu": 72.1,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.possessions_gm.alcn": 71.2,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.off_efficiency.mvsu": 0.875,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.off_efficiency.alcn": 0.949,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.effective_fg.mvsu": 0.449,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.effective_fg.alcn": 0.484,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.two_point_rate.mvsu": 0.6990000000000001,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.two_point_rate.alcn": 0.6579999999999999,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.three_point_rate.mvsu": 0.301,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.three_point_rate.alcn": 0.342,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.fta_play.mvsu": 0.228,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.fta_play.alcn": 0.213,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.two_point.mvsu": 0.455,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.two_point.alcn": 0.465,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.three_point.mvsu": 0.28800000000000003,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.three_point.alcn": 0.34700000000000003,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.free_throw.mvsu": 0.71,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.free_throw.alcn": 0.71,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.points_2_pters.mvsu": 35.6,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.points_2_pters.alcn": 35.1,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.points_3_pters.mvsu": 14.6,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.points_3_pters.alcn": 20.5,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.off_rebound.mvsu": 0.24,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.off_rebound.alcn": 0.254,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.def_rebound.mvsu": 0.655,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.def_rebound.alcn": 0.6459999999999999,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.block.mvsu": 0.045,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.block.alcn": 0.057,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.steals_play.mvsu": 0.08800000000000001,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.steals_play.alcn": 0.095,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.turnovers_play.mvsu": 0.192,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.turnovers_play.alcn": 0.174,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.personal_fouls_play.mvsu": 0.259,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.personal_fouls_play.alcn": 0.21899999999999997,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.assists_fgm.mvsu": 0.511,
+    "miss_valley_st_vs_alcorn_st_offensive_efficiency.assists_fgm.alcn": 0.467,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.possessions_gm.mvsu": 72.1,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.possessions_gm.alcn": 71.2,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.def_efficiency.mvsu": 1.171,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.def_efficiency.alcn": 1.148,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_effective_fg.mvsu": 0.56,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_effective_fg.alcn": 0.564,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_two_point_rate.mvsu": 0.57,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_two_point_rate.alcn": 0.643,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_three_point_rate.mvsu": 0.43,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_three_point_rate.alcn": 0.35700000000000004,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_fta_play.mvsu": 0.33899999999999997,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_fta_play.alcn": 0.28300000000000003,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_two_point.mvsu": 0.565,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_two_point.alcn": 0.59,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_three_point.mvsu": 0.37,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_three_point.alcn": 0.345,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_free_throw.mvsu": 0.7509999999999999,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_free_throw.alcn": 0.726,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_points_2_pters.mvsu": 36.5,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_points_2_pters.alcn": 43.7,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_points_3_pters.mvsu": 27.0,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_points_3_pters.alcn": 21.3,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_off_rebound.mvsu": 0.345,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_off_rebound.alcn": 0.354,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_def_rebound.mvsu": 0.76,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_def_rebound.alcn": 0.746,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_block.mvsu": 0.062,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_block.alcn": 0.075,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_steals_play.mvsu": 0.11,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_steals_play.alcn": 0.095,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_turnovers_play.mvsu": 0.14800000000000002,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_turnovers_play.alcn": 0.159,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_personal_fouls_play.mvsu": 0.217,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_personal_fouls_play.alcn": 0.187,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_assists_fgm.mvsu": 0.605,
+    "miss_valley_st_vs_alcorn_st_defensive_efficiency.opp_assists_fgm.alcn": 0.55
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "delta-devils-braves-2026-03-03",
+  "matchup_title": "#365 Miss Valley St at #352 Alcorn St",
+  "teams": {
+    "away": "#365 Miss Valley St",
+    "home": "#352 Alcorn St",
+    "neutral_site": false
+  },
+  "time_local": "9:00 PM",
+  "location": "Davey Whitney Complex",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/delta-devils-braves-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/delta-devils-braves-2026-03-03/efficiency"
+  }
+}

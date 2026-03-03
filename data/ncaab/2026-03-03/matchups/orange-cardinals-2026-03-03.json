@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/orange-cardinals-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:33.355598+00:00",
+  "tables": {
+    "Matchup Menu: SYR @ LOU": {
+      "headers": [
+        "Stat",
+        "SYR",
+        "adv",
+        "LOU"
+      ],
+      "team_headers": [
+        "SYR",
+        "LOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SYR": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "1.176",
+            "value": 1.176
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "26.4%",
+            "value": 0.264
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "32.4%",
+            "value": 0.324
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SYR": {
+            "raw": "0.364",
+            "value": 0.364
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "0.338",
+            "value": 0.338
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SYR": {
+            "raw": "75.9",
+            "value": 75.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "86.0",
+            "value": 86.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SYR": {
+            "raw": "+2.0",
+            "value": 2.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "+13.7",
+            "value": 13.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "SYR",
+        "adv",
+        "LOU"
+      ],
+      "team_headers": [
+        "SYR",
+        "LOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SYR": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "1.176",
+            "value": 1.176
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "26.4%",
+            "value": 0.264
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "32.4%",
+            "value": 0.324
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SYR": {
+            "raw": "0.364",
+            "value": 0.364
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "0.338",
+            "value": 0.338
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SYR": {
+            "raw": "75.9",
+            "value": 75.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "86.0",
+            "value": 86.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SYR": {
+            "raw": "+2.0",
+            "value": 2.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "+13.7",
+            "value": 13.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "SYR",
+        "adv",
+        "LOU"
+      ],
+      "team_headers": [
+        "SYR",
+        "LOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SYR": {
+            "raw": "1.036",
+            "value": 1.036
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "0.988",
+            "value": 0.988
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "48.3%",
+            "value": 0.483
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "75.8%",
+            "value": 0.758
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "SYR": {
+            "raw": "0.340",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "0.336",
+            "value": 0.336
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "SYR": {
+            "raw": "73.9",
+            "value": 73.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "72.2",
+            "value": 72.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "10.1%",
+            "value": 0.10099999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "20.5%",
+            "value": 0.205
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        }
+      ]
+    },
+    "Syracuse vs Louisville Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SYR",
+        "adv",
+        "LOU"
+      ],
+      "team_headers": [
+        "SYR",
+        "LOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SYR": {
+            "raw": "71.3",
+            "value": 71.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "73.1",
+            "value": 73.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SYR": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "1.176",
+            "value": 1.176
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "SYR": {
+            "raw": "63.4%",
+            "value": 0.634
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "46.6%",
+            "value": 0.466
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "SYR": {
+            "raw": "36.6%",
+            "value": 0.366
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "53.4%",
+            "value": 0.534
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "26.8%",
+            "value": 0.268
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "25.0%",
+            "value": 0.25
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "54.7%",
+            "value": 0.547
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "59.8%",
+            "value": 0.598
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "33.7%",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "35.8%",
+            "value": 0.358
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "63.9%",
+            "value": 0.639
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LOU": {
+            "raw": "77.4%",
+            "value": 0.774
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "SYR": {
+            "raw": "40.6",
+            "value": 40.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "34.4",
+            "value": 34.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "SYR": {
+            "raw": "21.6",
+            "value": 21.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "35.4",
+            "value": 35.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "26.4%",
+            "value": 0.264
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "32.4%",
+            "value": 0.324
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "75.8%",
+            "value": 0.758
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "10.1%",
+            "value": 0.10099999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "8.8%",
+            "value": 0.08800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "20.5%",
+            "value": 0.205
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "SYR": {
+            "raw": "0.472",
+            "value": 0.472
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "0.596",
+            "value": 0.596
+          }
+        }
+      ]
+    },
+    "Syracuse vs Louisville Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SYR",
+        "adv",
+        "LOU"
+      ],
+      "team_headers": [
+        "SYR",
+        "LOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SYR": {
+            "raw": "71.3",
+            "value": 71.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "73.1",
+            "value": 73.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SYR": {
+            "raw": "1.036",
+            "value": 1.036
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "0.988",
+            "value": 0.988
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "48.3%",
+            "value": 0.483
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "SYR": {
+            "raw": "65.5%",
+            "value": 0.655
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "60.3%",
+            "value": 0.603
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "SYR": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "39.7%",
+            "value": 0.397
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "24.8%",
+            "value": 0.248
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "24.7%",
+            "value": 0.247
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "49.3%",
+            "value": 0.493
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "34.2%",
+            "value": 0.342
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "32.6%",
+            "value": 0.326
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "72.0%",
+            "value": 0.72
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "SYR": {
+            "raw": "38.3",
+            "value": 38.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "34.6",
+            "value": 34.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "SYR": {
+            "raw": "21.0",
+            "value": 21.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "23.3",
+            "value": 23.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "30.8%",
+            "value": 0.308
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LOU": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "73.6%",
+            "value": 0.736
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "67.6%",
+            "value": 0.6759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "SYR": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "5.4%",
+            "value": 0.054000000000000006
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "8.6%",
+            "value": 0.086
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LOU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "SYR": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "SYR": {
+            "raw": "0.531",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LOU": {
+            "raw": "0.483",
+            "value": 0.483
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_syr_lou.off_efficiency.syr": 1.064,
+    "matchup_menu_syr_lou.off_efficiency.lou": 1.176,
+    "matchup_menu_syr_lou.effective_fg.syr": 0.532,
+    "matchup_menu_syr_lou.effective_fg.lou": 0.565,
+    "matchup_menu_syr_lou.turnovers_play.syr": 0.139,
+    "matchup_menu_syr_lou.turnovers_play.lou": 0.142,
+    "matchup_menu_syr_lou.off_rebound.syr": 0.264,
+    "matchup_menu_syr_lou.off_rebound.lou": 0.324,
+    "matchup_menu_syr_lou.fta_fga.syr": 0.364,
+    "matchup_menu_syr_lou.fta_fga.lou": 0.338,
+    "matchup_menu_syr_lou.points_game.syr": 75.9,
+    "matchup_menu_syr_lou.points_game.lou": 86.0,
+    "matchup_menu_syr_lou.avg_score_margin.syr": 2.0,
+    "matchup_menu_syr_lou.avg_score_margin.lou": 13.7,
+    "key_offensive_stats.off_efficiency.syr": 1.064,
+    "key_offensive_stats.off_efficiency.lou": 1.176,
+    "key_offensive_stats.effective_fg.syr": 0.532,
+    "key_offensive_stats.effective_fg.lou": 0.565,
+    "key_offensive_stats.turnovers_play.syr": 0.139,
+    "key_offensive_stats.turnovers_play.lou": 0.142,
+    "key_offensive_stats.off_rebound.syr": 0.264,
+    "key_offensive_stats.off_rebound.lou": 0.324,
+    "key_offensive_stats.fta_fga.syr": 0.364,
+    "key_offensive_stats.fta_fga.lou": 0.338,
+    "key_offensive_stats.points_game.syr": 75.9,
+    "key_offensive_stats.points_game.lou": 86.0,
+    "key_offensive_stats.avg_score_margin.syr": 2.0,
+    "key_offensive_stats.avg_score_margin.lou": 13.7,
+    "key_defensive_stats.def_efficiency.syr": 1.036,
+    "key_defensive_stats.def_efficiency.lou": 0.988,
+    "key_defensive_stats.opp_effective_fg.syr": 0.5,
+    "key_defensive_stats.opp_effective_fg.lou": 0.483,
+    "key_defensive_stats.opp_turnovers_play.syr": 0.152,
+    "key_defensive_stats.opp_turnovers_play.lou": 0.14800000000000002,
+    "key_defensive_stats.def_rebound.syr": 0.6920000000000001,
+    "key_defensive_stats.def_rebound.lou": 0.758,
+    "key_defensive_stats.opp_fta_fga.syr": 0.34,
+    "key_defensive_stats.opp_fta_fga.lou": 0.336,
+    "key_defensive_stats.opp_points_game.syr": 73.9,
+    "key_defensive_stats.opp_points_game.lou": 72.2,
+    "key_defensive_stats.block.syr": 0.10099999999999999,
+    "key_defensive_stats.block.lou": 0.055999999999999994,
+    "key_defensive_stats.personal_fouls_play.syr": 0.205,
+    "key_defensive_stats.personal_fouls_play.lou": 0.228,
+    "syracuse_vs_louisville_offensive_efficiency.possessions_gm.syr": 71.3,
+    "syracuse_vs_louisville_offensive_efficiency.possessions_gm.lou": 73.1,
+    "syracuse_vs_louisville_offensive_efficiency.off_efficiency.syr": 1.064,
+    "syracuse_vs_louisville_offensive_efficiency.off_efficiency.lou": 1.176,
+    "syracuse_vs_louisville_offensive_efficiency.effective_fg.syr": 0.532,
+    "syracuse_vs_louisville_offensive_efficiency.effective_fg.lou": 0.565,
+    "syracuse_vs_louisville_offensive_efficiency.two_point_rate.syr": 0.634,
+    "syracuse_vs_louisville_offensive_efficiency.two_point_rate.lou": 0.466,
+    "syracuse_vs_louisville_offensive_efficiency.three_point_rate.syr": 0.366,
+    "syracuse_vs_louisville_offensive_efficiency.three_point_rate.lou": 0.534,
+    "syracuse_vs_louisville_offensive_efficiency.fta_play.syr": 0.268,
+    "syracuse_vs_louisville_offensive_efficiency.fta_play.lou": 0.25,
+    "syracuse_vs_louisville_offensive_efficiency.two_point.syr": 0.547,
+    "syracuse_vs_louisville_offensive_efficiency.two_point.lou": 0.598,
+    "syracuse_vs_louisville_offensive_efficiency.three_point.syr": 0.337,
+    "syracuse_vs_louisville_offensive_efficiency.three_point.lou": 0.358,
+    "syracuse_vs_louisville_offensive_efficiency.free_throw.syr": 0.639,
+    "syracuse_vs_louisville_offensive_efficiency.free_throw.lou": 0.774,
+    "syracuse_vs_louisville_offensive_efficiency.points_2_pters.syr": 40.6,
+    "syracuse_vs_louisville_offensive_efficiency.points_2_pters.lou": 34.4,
+    "syracuse_vs_louisville_offensive_efficiency.points_3_pters.syr": 21.6,
+    "syracuse_vs_louisville_offensive_efficiency.points_3_pters.lou": 35.4,
+    "syracuse_vs_louisville_offensive_efficiency.off_rebound.syr": 0.264,
+    "syracuse_vs_louisville_offensive_efficiency.off_rebound.lou": 0.324,
+    "syracuse_vs_louisville_offensive_efficiency.def_rebound.syr": 0.6920000000000001,
+    "syracuse_vs_louisville_offensive_efficiency.def_rebound.lou": 0.758,
+    "syracuse_vs_louisville_offensive_efficiency.block.syr": 0.10099999999999999,
+    "syracuse_vs_louisville_offensive_efficiency.block.lou": 0.055999999999999994,
+    "syracuse_vs_louisville_offensive_efficiency.steals_play.syr": 0.079,
+    "syracuse_vs_louisville_offensive_efficiency.steals_play.lou": 0.08800000000000001,
+    "syracuse_vs_louisville_offensive_efficiency.turnovers_play.syr": 0.139,
+    "syracuse_vs_louisville_offensive_efficiency.turnovers_play.lou": 0.142,
+    "syracuse_vs_louisville_offensive_efficiency.personal_fouls_play.syr": 0.205,
+    "syracuse_vs_louisville_offensive_efficiency.personal_fouls_play.lou": 0.228,
+    "syracuse_vs_louisville_offensive_efficiency.assists_fgm.syr": 0.472,
+    "syracuse_vs_louisville_offensive_efficiency.assists_fgm.lou": 0.596,
+    "syracuse_vs_louisville_defensive_efficiency.possessions_gm.syr": 71.3,
+    "syracuse_vs_louisville_defensive_efficiency.possessions_gm.lou": 73.1,
+    "syracuse_vs_louisville_defensive_efficiency.def_efficiency.syr": 1.036,
+    "syracuse_vs_louisville_defensive_efficiency.def_efficiency.lou": 0.988,
+    "syracuse_vs_louisville_defensive_efficiency.opp_effective_fg.syr": 0.5,
+    "syracuse_vs_louisville_defensive_efficiency.opp_effective_fg.lou": 0.483,
+    "syracuse_vs_louisville_defensive_efficiency.opp_two_point_rate.syr": 0.655,
+    "syracuse_vs_louisville_defensive_efficiency.opp_two_point_rate.lou": 0.603,
+    "syracuse_vs_louisville_defensive_efficiency.opp_three_point_rate.syr": 0.345,
+    "syracuse_vs_louisville_defensive_efficiency.opp_three_point_rate.lou": 0.397,
+    "syracuse_vs_louisville_defensive_efficiency.opp_fta_play.syr": 0.248,
+    "syracuse_vs_louisville_defensive_efficiency.opp_fta_play.lou": 0.247,
+    "syracuse_vs_louisville_defensive_efficiency.opp_two_point.syr": 0.493,
+    "syracuse_vs_louisville_defensive_efficiency.opp_two_point.lou": 0.479,
+    "syracuse_vs_louisville_defensive_efficiency.opp_three_point.syr": 0.342,
+    "syracuse_vs_louisville_defensive_efficiency.opp_three_point.lou": 0.326,
+    "syracuse_vs_louisville_defensive_efficiency.opp_free_throw.syr": 0.72,
+    "syracuse_vs_louisville_defensive_efficiency.opp_free_throw.lou": 0.7120000000000001,
+    "syracuse_vs_louisville_defensive_efficiency.opp_points_2_pters.syr": 38.3,
+    "syracuse_vs_louisville_defensive_efficiency.opp_points_2_pters.lou": 34.6,
+    "syracuse_vs_louisville_defensive_efficiency.opp_points_3_pters.syr": 21.0,
+    "syracuse_vs_louisville_defensive_efficiency.opp_points_3_pters.lou": 23.3,
+    "syracuse_vs_louisville_defensive_efficiency.opp_off_rebound.syr": 0.308,
+    "syracuse_vs_louisville_defensive_efficiency.opp_off_rebound.lou": 0.242,
+    "syracuse_vs_louisville_defensive_efficiency.opp_def_rebound.syr": 0.736,
+    "syracuse_vs_louisville_defensive_efficiency.opp_def_rebound.lou": 0.6759999999999999,
+    "syracuse_vs_louisville_defensive_efficiency.opp_block.syr": 0.051,
+    "syracuse_vs_louisville_defensive_efficiency.opp_block.lou": 0.054000000000000006,
+    "syracuse_vs_louisville_defensive_efficiency.opp_steals_play.syr": 0.086,
+    "syracuse_vs_louisville_defensive_efficiency.opp_steals_play.lou": 0.08,
+    "syracuse_vs_louisville_defensive_efficiency.opp_turnovers_play.syr": 0.152,
+    "syracuse_vs_louisville_defensive_efficiency.opp_turnovers_play.lou": 0.14800000000000002,
+    "syracuse_vs_louisville_defensive_efficiency.opp_personal_fouls_play.syr": 0.23199999999999998,
+    "syracuse_vs_louisville_defensive_efficiency.opp_personal_fouls_play.lou": 0.21600000000000003,
+    "syracuse_vs_louisville_defensive_efficiency.opp_assists_fgm.syr": 0.531,
+    "syracuse_vs_louisville_defensive_efficiency.opp_assists_fgm.lou": 0.483
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "orange-cardinals-2026-03-03",
+  "matchup_title": "#75 Syracuse at #14 Louisville",
+  "teams": {
+    "away": "#75 Syracuse",
+    "home": "#14 Louisville",
+    "neutral_site": false
+  },
+  "time_local": "9:00 PM",
+  "location": "KFC Yum! Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/orange-cardinals-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/orange-cardinals-2026-03-03/efficiency"
+  }
+}

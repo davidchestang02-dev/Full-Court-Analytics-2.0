@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/lopes-falcons-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:49.690560+00:00",
+  "tables": {
+    "Matchup Menu: GCU @ AFA": {
+      "headers": [
+        "Stat",
+        "GCU",
+        "adv",
+        "AFA"
+      ],
+      "team_headers": [
+        "GCU",
+        "AFA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GCU": {
+            "raw": "1.069",
+            "value": 1.069
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "0.908",
+            "value": 0.908
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "49.6%",
+            "value": 0.496
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "15.6%",
+            "value": 0.156
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "20.0%",
+            "value": 0.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "32.2%",
+            "value": 0.322
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GCU": {
+            "raw": "0.391",
+            "value": 0.391
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "0.350",
+            "value": 0.35
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GCU": {
+            "raw": "74.8",
+            "value": 74.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "62.2",
+            "value": 62.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GCU": {
+            "raw": "+6.1",
+            "value": 6.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "-17.6",
+            "value": -17.6
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "GCU",
+        "adv",
+        "AFA"
+      ],
+      "team_headers": [
+        "GCU",
+        "AFA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GCU": {
+            "raw": "1.069",
+            "value": 1.069
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "0.908",
+            "value": 0.908
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "49.6%",
+            "value": 0.496
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "15.6%",
+            "value": 0.156
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "20.0%",
+            "value": 0.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "32.2%",
+            "value": 0.322
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GCU": {
+            "raw": "0.391",
+            "value": 0.391
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "0.350",
+            "value": 0.35
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GCU": {
+            "raw": "74.8",
+            "value": 74.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "62.2",
+            "value": 62.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GCU": {
+            "raw": "+6.1",
+            "value": 6.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "-17.6",
+            "value": -17.6
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "GCU",
+        "adv",
+        "AFA"
+      ],
+      "team_headers": [
+        "GCU",
+        "AFA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GCU": {
+            "raw": "0.982",
+            "value": 0.982
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "1.165",
+            "value": 1.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "13.0%",
+            "value": 0.13
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "74.9%",
+            "value": 0.7490000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "GCU": {
+            "raw": "0.373",
+            "value": 0.373
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "0.360",
+            "value": 0.36
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "GCU": {
+            "raw": "68.7",
+            "value": 68.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "79.9",
+            "value": 79.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "4.3%",
+            "value": 0.043
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "23.3%",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        }
+      ]
+    },
+    "Grand Canyon vs Air Force Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GCU",
+        "adv",
+        "AFA"
+      ],
+      "team_headers": [
+        "GCU",
+        "AFA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GCU": {
+            "raw": "70.0",
+            "value": 70.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "68.6",
+            "value": 68.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GCU": {
+            "raw": "1.069",
+            "value": 1.069
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "0.908",
+            "value": 0.908
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "49.6%",
+            "value": 0.496
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "GCU": {
+            "raw": "61.2%",
+            "value": 0.612
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "57.3%",
+            "value": 0.573
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "GCU": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "42.7%",
+            "value": 0.42700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "27.9%",
+            "value": 0.27899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "24.0%",
+            "value": 0.24
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "51.1%",
+            "value": 0.511
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "30.9%",
+            "value": 0.309
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "31.8%",
+            "value": 0.318
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "75.8%",
+            "value": 0.758
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "63.8%",
+            "value": 0.638
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "GCU": {
+            "raw": "37.4",
+            "value": 37.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "30.0",
+            "value": 30.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "GCU": {
+            "raw": "20.5",
+            "value": 20.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "20.8",
+            "value": 20.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "32.2%",
+            "value": 0.322
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "74.9%",
+            "value": 0.7490000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "4.3%",
+            "value": 0.043
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "15.6%",
+            "value": 0.156
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "20.0%",
+            "value": 0.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "23.3%",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "GCU": {
+            "raw": "0.484",
+            "value": 0.484
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "0.571",
+            "value": 0.571
+          }
+        }
+      ]
+    },
+    "Grand Canyon vs Air Force Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GCU",
+        "adv",
+        "AFA"
+      ],
+      "team_headers": [
+        "GCU",
+        "AFA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GCU": {
+            "raw": "70.0",
+            "value": 70.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "68.6",
+            "value": 68.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GCU": {
+            "raw": "0.982",
+            "value": 0.982
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "1.165",
+            "value": 1.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "GCU": {
+            "raw": "61.3%",
+            "value": 0.613
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "60.8%",
+            "value": 0.608
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "GCU": {
+            "raw": "38.7%",
+            "value": 0.387
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "39.2%",
+            "value": 0.392
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "26.8%",
+            "value": 0.268
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "26.8%",
+            "value": 0.268
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "46.9%",
+            "value": 0.469
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "55.9%",
+            "value": 0.5589999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "32.4%",
+            "value": 0.324
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "38.3%",
+            "value": 0.38299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "72.3%",
+            "value": 0.723
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "GCU": {
+            "raw": "32.3",
+            "value": 32.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "39.0",
+            "value": 39.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "GCU": {
+            "raw": "21.1",
+            "value": 21.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "25.9",
+            "value": 25.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "67.8%",
+            "value": 0.6779999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AFA": {
+            "raw": "79.6%",
+            "value": 0.7959999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "GCU": {
+            "raw": "4.8%",
+            "value": 0.048
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AFA": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "10.8%",
+            "value": 0.10800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AFA": {
+            "raw": "13.0%",
+            "value": 0.13
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "GCU": {
+            "raw": "25.4%",
+            "value": 0.254
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "GCU": {
+            "raw": "0.504",
+            "value": 0.504
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AFA": {
+            "raw": "0.538",
+            "value": 0.538
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_gcu_afa.off_efficiency.gcu": 1.069,
+    "matchup_menu_gcu_afa.off_efficiency.afa": 0.908,
+    "matchup_menu_gcu_afa.effective_fg.gcu": 0.509,
+    "matchup_menu_gcu_afa.effective_fg.afa": 0.496,
+    "matchup_menu_gcu_afa.turnovers_play.gcu": 0.156,
+    "matchup_menu_gcu_afa.turnovers_play.afa": 0.2,
+    "matchup_menu_gcu_afa.off_rebound.gcu": 0.322,
+    "matchup_menu_gcu_afa.off_rebound.afa": 0.204,
+    "matchup_menu_gcu_afa.fta_fga.gcu": 0.391,
+    "matchup_menu_gcu_afa.fta_fga.afa": 0.35,
+    "matchup_menu_gcu_afa.points_game.gcu": 74.8,
+    "matchup_menu_gcu_afa.points_game.afa": 62.2,
+    "matchup_menu_gcu_afa.avg_score_margin.gcu": 6.1,
+    "matchup_menu_gcu_afa.avg_score_margin.afa": -17.6,
+    "key_offensive_stats.off_efficiency.gcu": 1.069,
+    "key_offensive_stats.off_efficiency.afa": 0.908,
+    "key_offensive_stats.effective_fg.gcu": 0.509,
+    "key_offensive_stats.effective_fg.afa": 0.496,
+    "key_offensive_stats.turnovers_play.gcu": 0.156,
+    "key_offensive_stats.turnovers_play.afa": 0.2,
+    "key_offensive_stats.off_rebound.gcu": 0.322,
+    "key_offensive_stats.off_rebound.afa": 0.204,
+    "key_offensive_stats.fta_fga.gcu": 0.391,
+    "key_offensive_stats.fta_fga.afa": 0.35,
+    "key_offensive_stats.points_game.gcu": 74.8,
+    "key_offensive_stats.points_game.afa": 62.2,
+    "key_offensive_stats.avg_score_margin.gcu": 6.1,
+    "key_offensive_stats.avg_score_margin.afa": -17.6,
+    "key_defensive_stats.def_efficiency.gcu": 0.982,
+    "key_defensive_stats.def_efficiency.afa": 1.165,
+    "key_defensive_stats.opp_effective_fg.gcu": 0.475,
+    "key_defensive_stats.opp_effective_fg.afa": 0.565,
+    "key_defensive_stats.opp_turnovers_play.gcu": 0.152,
+    "key_defensive_stats.opp_turnovers_play.afa": 0.13,
+    "key_defensive_stats.def_rebound.gcu": 0.7490000000000001,
+    "key_defensive_stats.def_rebound.afa": 0.7040000000000001,
+    "key_defensive_stats.opp_fta_fga.gcu": 0.373,
+    "key_defensive_stats.opp_fta_fga.afa": 0.36,
+    "key_defensive_stats.opp_points_game.gcu": 68.7,
+    "key_defensive_stats.opp_points_game.afa": 79.9,
+    "key_defensive_stats.block.gcu": 0.064,
+    "key_defensive_stats.block.afa": 0.043,
+    "key_defensive_stats.personal_fouls_play.gcu": 0.233,
+    "key_defensive_stats.personal_fouls_play.afa": 0.228,
+    "grand_canyon_vs_air_force_offensive_efficiency.possessions_gm.gcu": 70.0,
+    "grand_canyon_vs_air_force_offensive_efficiency.possessions_gm.afa": 68.6,
+    "grand_canyon_vs_air_force_offensive_efficiency.off_efficiency.gcu": 1.069,
+    "grand_canyon_vs_air_force_offensive_efficiency.off_efficiency.afa": 0.908,
+    "grand_canyon_vs_air_force_offensive_efficiency.effective_fg.gcu": 0.509,
+    "grand_canyon_vs_air_force_offensive_efficiency.effective_fg.afa": 0.496,
+    "grand_canyon_vs_air_force_offensive_efficiency.two_point_rate.gcu": 0.612,
+    "grand_canyon_vs_air_force_offensive_efficiency.two_point_rate.afa": 0.573,
+    "grand_canyon_vs_air_force_offensive_efficiency.three_point_rate.gcu": 0.38799999999999996,
+    "grand_canyon_vs_air_force_offensive_efficiency.three_point_rate.afa": 0.42700000000000005,
+    "grand_canyon_vs_air_force_offensive_efficiency.fta_play.gcu": 0.27899999999999997,
+    "grand_canyon_vs_air_force_offensive_efficiency.fta_play.afa": 0.24,
+    "grand_canyon_vs_air_force_offensive_efficiency.two_point.gcu": 0.5379999999999999,
+    "grand_canyon_vs_air_force_offensive_efficiency.two_point.afa": 0.511,
+    "grand_canyon_vs_air_force_offensive_efficiency.three_point.gcu": 0.309,
+    "grand_canyon_vs_air_force_offensive_efficiency.three_point.afa": 0.318,
+    "grand_canyon_vs_air_force_offensive_efficiency.free_throw.gcu": 0.758,
+    "grand_canyon_vs_air_force_offensive_efficiency.free_throw.afa": 0.638,
+    "grand_canyon_vs_air_force_offensive_efficiency.points_2_pters.gcu": 37.4,
+    "grand_canyon_vs_air_force_offensive_efficiency.points_2_pters.afa": 30.0,
+    "grand_canyon_vs_air_force_offensive_efficiency.points_3_pters.gcu": 20.5,
+    "grand_canyon_vs_air_force_offensive_efficiency.points_3_pters.afa": 20.8,
+    "grand_canyon_vs_air_force_offensive_efficiency.off_rebound.gcu": 0.322,
+    "grand_canyon_vs_air_force_offensive_efficiency.off_rebound.afa": 0.204,
+    "grand_canyon_vs_air_force_offensive_efficiency.def_rebound.gcu": 0.7490000000000001,
+    "grand_canyon_vs_air_force_offensive_efficiency.def_rebound.afa": 0.7040000000000001,
+    "grand_canyon_vs_air_force_offensive_efficiency.block.gcu": 0.064,
+    "grand_canyon_vs_air_force_offensive_efficiency.block.afa": 0.043,
+    "grand_canyon_vs_air_force_offensive_efficiency.steals_play.gcu": 0.083,
+    "grand_canyon_vs_air_force_offensive_efficiency.steals_play.afa": 0.071,
+    "grand_canyon_vs_air_force_offensive_efficiency.turnovers_play.gcu": 0.156,
+    "grand_canyon_vs_air_force_offensive_efficiency.turnovers_play.afa": 0.2,
+    "grand_canyon_vs_air_force_offensive_efficiency.personal_fouls_play.gcu": 0.233,
+    "grand_canyon_vs_air_force_offensive_efficiency.personal_fouls_play.afa": 0.228,
+    "grand_canyon_vs_air_force_offensive_efficiency.assists_fgm.gcu": 0.484,
+    "grand_canyon_vs_air_force_offensive_efficiency.assists_fgm.afa": 0.571,
+    "grand_canyon_vs_air_force_defensive_efficiency.possessions_gm.gcu": 70.0,
+    "grand_canyon_vs_air_force_defensive_efficiency.possessions_gm.afa": 68.6,
+    "grand_canyon_vs_air_force_defensive_efficiency.def_efficiency.gcu": 0.982,
+    "grand_canyon_vs_air_force_defensive_efficiency.def_efficiency.afa": 1.165,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_effective_fg.gcu": 0.475,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_effective_fg.afa": 0.565,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_two_point_rate.gcu": 0.613,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_two_point_rate.afa": 0.608,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_three_point_rate.gcu": 0.387,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_three_point_rate.afa": 0.392,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_fta_play.gcu": 0.268,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_fta_play.afa": 0.268,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_two_point.gcu": 0.469,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_two_point.afa": 0.5589999999999999,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_three_point.gcu": 0.324,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_three_point.afa": 0.38299999999999995,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_free_throw.gcu": 0.7290000000000001,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_free_throw.afa": 0.723,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_points_2_pters.gcu": 32.3,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_points_2_pters.afa": 39.0,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_points_3_pters.gcu": 21.1,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_points_3_pters.afa": 25.9,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_off_rebound.gcu": 0.251,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_off_rebound.afa": 0.29600000000000004,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_def_rebound.gcu": 0.6779999999999999,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_def_rebound.afa": 0.7959999999999999,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_block.gcu": 0.048,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_block.afa": 0.066,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_steals_play.gcu": 0.083,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_steals_play.afa": 0.10800000000000001,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_turnovers_play.gcu": 0.152,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_turnovers_play.afa": 0.13,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_personal_fouls_play.gcu": 0.254,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_personal_fouls_play.afa": 0.23800000000000002,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_assists_fgm.gcu": 0.504,
+    "grand_canyon_vs_air_force_defensive_efficiency.opp_assists_fgm.afa": 0.538
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "lopes-falcons-2026-03-03",
+  "matchup_title": "#77 Grand Canyon at #350 Air Force",
+  "teams": {
+    "away": "#77 Grand Canyon",
+    "home": "#350 Air Force",
+    "neutral_site": false
+  },
+  "time_local": "9:00 PM",
+  "location": "Clune Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/lopes-falcons-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/lopes-falcons-2026-03-03/efficiency"
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-gators-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:34.719604+00:00",
+  "tables": {
+    "Matchup Menu: MSST @ FLA": {
+      "headers": [
+        "Stat",
+        "MSST",
+        "adv",
+        "FLA"
+      ],
+      "team_headers": [
+        "MSST",
+        "FLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MSST": {
+            "raw": "1.055",
+            "value": 1.055
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "1.173",
+            "value": 1.173
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "51.2%",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "42.7%",
+            "value": 0.42700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MSST": {
+            "raw": "0.313",
+            "value": 0.313
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "0.389",
+            "value": 0.389
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MSST": {
+            "raw": "77.7",
+            "value": 77.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "87.1",
+            "value": 87.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MSST": {
+            "raw": "-2.6",
+            "value": -2.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "+15.7",
+            "value": 15.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "MSST",
+        "adv",
+        "FLA"
+      ],
+      "team_headers": [
+        "MSST",
+        "FLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MSST": {
+            "raw": "1.055",
+            "value": 1.055
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "1.173",
+            "value": 1.173
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "51.2%",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "42.7%",
+            "value": 0.42700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MSST": {
+            "raw": "0.313",
+            "value": 0.313
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "0.389",
+            "value": 0.389
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MSST": {
+            "raw": "77.7",
+            "value": 77.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "87.1",
+            "value": 87.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MSST": {
+            "raw": "-2.6",
+            "value": -2.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "+15.7",
+            "value": 15.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "MSST",
+        "adv",
+        "FLA"
+      ],
+      "team_headers": [
+        "MSST",
+        "FLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MSST": {
+            "raw": "1.090",
+            "value": 1.09
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "0.961",
+            "value": 0.961
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "45.8%",
+            "value": 0.45799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "13.6%",
+            "value": 0.136
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "77.6%",
+            "value": 0.7759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "MSST": {
+            "raw": "0.324",
+            "value": 0.324
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "0.339",
+            "value": 0.339
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "MSST": {
+            "raw": "80.3",
+            "value": 80.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "71.4",
+            "value": 71.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "8.3%",
+            "value": 0.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        }
+      ]
+    },
+    "Mississippi St vs Florida Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MSST",
+        "adv",
+        "FLA"
+      ],
+      "team_headers": [
+        "MSST",
+        "FLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MSST": {
+            "raw": "73.6",
+            "value": 73.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "74.3",
+            "value": 74.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MSST": {
+            "raw": "1.055",
+            "value": 1.055
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "1.173",
+            "value": 1.173
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "51.2%",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "MSST": {
+            "raw": "59.7%",
+            "value": 0.597
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "61.8%",
+            "value": 0.618
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "MSST": {
+            "raw": "40.3%",
+            "value": 0.40299999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "38.2%",
+            "value": 0.382
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "58.6%",
+            "value": 0.586
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "30.8%",
+            "value": 0.308
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "66.7%",
+            "value": 0.667
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "MSST": {
+            "raw": "39.9",
+            "value": 39.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "46.6",
+            "value": 46.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "MSST": {
+            "raw": "24.6",
+            "value": 24.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "22.7",
+            "value": 22.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "42.7%",
+            "value": 0.42700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "77.6%",
+            "value": 0.7759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "8.3%",
+            "value": 0.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "7.1%",
+            "value": 0.071
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "8.1%",
+            "value": 0.081
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "MSST": {
+            "raw": "0.453",
+            "value": 0.453
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "0.535",
+            "value": 0.535
+          }
+        }
+      ]
+    },
+    "Mississippi St vs Florida Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MSST",
+        "adv",
+        "FLA"
+      ],
+      "team_headers": [
+        "MSST",
+        "FLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MSST": {
+            "raw": "73.6",
+            "value": 73.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "74.3",
+            "value": 74.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MSST": {
+            "raw": "1.090",
+            "value": 1.09
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "0.961",
+            "value": 0.961
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "45.8%",
+            "value": 0.45799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "MSST": {
+            "raw": "60.5%",
+            "value": 0.605
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "66.9%",
+            "value": 0.669
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "MSST": {
+            "raw": "39.5%",
+            "value": 0.395
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "24.9%",
+            "value": 0.249
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "25.4%",
+            "value": 0.254
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "50.8%",
+            "value": 0.508
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "44.7%",
+            "value": 0.447
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "32.8%",
+            "value": 0.32799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "32.0%",
+            "value": 0.32
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "75.5%",
+            "value": 0.755
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "MSST": {
+            "raw": "39.5",
+            "value": 39.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "36.8",
+            "value": 36.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "MSST": {
+            "raw": "25.0",
+            "value": 25.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "19.6",
+            "value": 19.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "28.2%",
+            "value": 0.282
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "57.3%",
+            "value": 0.573
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "MSST": {
+            "raw": "6.7%",
+            "value": 0.067
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FLA": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FLA": {
+            "raw": "7.5%",
+            "value": 0.075
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "13.6%",
+            "value": 0.136
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "MSST": {
+            "raw": "20.2%",
+            "value": 0.20199999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "MSST": {
+            "raw": "0.514",
+            "value": 0.514
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FLA": {
+            "raw": "0.425",
+            "value": 0.425
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_msst_fla.off_efficiency.msst": 1.055,
+    "matchup_menu_msst_fla.off_efficiency.fla": 1.173,
+    "matchup_menu_msst_fla.effective_fg.msst": 0.512,
+    "matchup_menu_msst_fla.effective_fg.fla": 0.5379999999999999,
+    "matchup_menu_msst_fla.turnovers_play.msst": 0.13699999999999998,
+    "matchup_menu_msst_fla.turnovers_play.fla": 0.135,
+    "matchup_menu_msst_fla.off_rebound.msst": 0.28600000000000003,
+    "matchup_menu_msst_fla.off_rebound.fla": 0.42700000000000005,
+    "matchup_menu_msst_fla.fta_fga.msst": 0.313,
+    "matchup_menu_msst_fla.fta_fga.fla": 0.389,
+    "matchup_menu_msst_fla.points_game.msst": 77.7,
+    "matchup_menu_msst_fla.points_game.fla": 87.1,
+    "matchup_menu_msst_fla.avg_score_margin.msst": -2.6,
+    "matchup_menu_msst_fla.avg_score_margin.fla": 15.7,
+    "key_offensive_stats.off_efficiency.msst": 1.055,
+    "key_offensive_stats.off_efficiency.fla": 1.173,
+    "key_offensive_stats.effective_fg.msst": 0.512,
+    "key_offensive_stats.effective_fg.fla": 0.5379999999999999,
+    "key_offensive_stats.turnovers_play.msst": 0.13699999999999998,
+    "key_offensive_stats.turnovers_play.fla": 0.135,
+    "key_offensive_stats.off_rebound.msst": 0.28600000000000003,
+    "key_offensive_stats.off_rebound.fla": 0.42700000000000005,
+    "key_offensive_stats.fta_fga.msst": 0.313,
+    "key_offensive_stats.fta_fga.fla": 0.389,
+    "key_offensive_stats.points_game.msst": 77.7,
+    "key_offensive_stats.points_game.fla": 87.1,
+    "key_offensive_stats.avg_score_margin.msst": -2.6,
+    "key_offensive_stats.avg_score_margin.fla": 15.7,
+    "key_defensive_stats.def_efficiency.msst": 1.09,
+    "key_defensive_stats.def_efficiency.fla": 0.961,
+    "key_defensive_stats.opp_effective_fg.msst": 0.502,
+    "key_defensive_stats.opp_effective_fg.fla": 0.45799999999999996,
+    "key_defensive_stats.opp_turnovers_play.msst": 0.11199999999999999,
+    "key_defensive_stats.opp_turnovers_play.fla": 0.136,
+    "key_defensive_stats.def_rebound.msst": 0.718,
+    "key_defensive_stats.def_rebound.fla": 0.7759999999999999,
+    "key_defensive_stats.opp_fta_fga.msst": 0.324,
+    "key_defensive_stats.opp_fta_fga.fla": 0.339,
+    "key_defensive_stats.opp_points_game.msst": 80.3,
+    "key_defensive_stats.opp_points_game.fla": 71.4,
+    "key_defensive_stats.block.msst": 0.07,
+    "key_defensive_stats.block.fla": 0.083,
+    "key_defensive_stats.personal_fouls_play.msst": 0.193,
+    "key_defensive_stats.personal_fouls_play.fla": 0.21600000000000003,
+    "mississippi_st_vs_florida_offensive_efficiency.possessions_gm.msst": 73.6,
+    "mississippi_st_vs_florida_offensive_efficiency.possessions_gm.fla": 74.3,
+    "mississippi_st_vs_florida_offensive_efficiency.off_efficiency.msst": 1.055,
+    "mississippi_st_vs_florida_offensive_efficiency.off_efficiency.fla": 1.173,
+    "mississippi_st_vs_florida_offensive_efficiency.effective_fg.msst": 0.512,
+    "mississippi_st_vs_florida_offensive_efficiency.effective_fg.fla": 0.5379999999999999,
+    "mississippi_st_vs_florida_offensive_efficiency.two_point_rate.msst": 0.597,
+    "mississippi_st_vs_florida_offensive_efficiency.two_point_rate.fla": 0.618,
+    "mississippi_st_vs_florida_offensive_efficiency.three_point_rate.msst": 0.40299999999999997,
+    "mississippi_st_vs_florida_offensive_efficiency.three_point_rate.fla": 0.382,
+    "mississippi_st_vs_florida_offensive_efficiency.fta_play.msst": 0.235,
+    "mississippi_st_vs_florida_offensive_efficiency.fta_play.fla": 0.28300000000000003,
+    "mississippi_st_vs_florida_offensive_efficiency.two_point.msst": 0.531,
+    "mississippi_st_vs_florida_offensive_efficiency.two_point.fla": 0.586,
+    "mississippi_st_vs_florida_offensive_efficiency.three_point.msst": 0.32299999999999995,
+    "mississippi_st_vs_florida_offensive_efficiency.three_point.fla": 0.308,
+    "mississippi_st_vs_florida_offensive_efficiency.free_throw.msst": 0.667,
+    "mississippi_st_vs_florida_offensive_efficiency.free_throw.fla": 0.7140000000000001,
+    "mississippi_st_vs_florida_offensive_efficiency.points_2_pters.msst": 39.9,
+    "mississippi_st_vs_florida_offensive_efficiency.points_2_pters.fla": 46.6,
+    "mississippi_st_vs_florida_offensive_efficiency.points_3_pters.msst": 24.6,
+    "mississippi_st_vs_florida_offensive_efficiency.points_3_pters.fla": 22.7,
+    "mississippi_st_vs_florida_offensive_efficiency.off_rebound.msst": 0.28600000000000003,
+    "mississippi_st_vs_florida_offensive_efficiency.off_rebound.fla": 0.42700000000000005,
+    "mississippi_st_vs_florida_offensive_efficiency.def_rebound.msst": 0.718,
+    "mississippi_st_vs_florida_offensive_efficiency.def_rebound.fla": 0.7759999999999999,
+    "mississippi_st_vs_florida_offensive_efficiency.block.msst": 0.07,
+    "mississippi_st_vs_florida_offensive_efficiency.block.fla": 0.083,
+    "mississippi_st_vs_florida_offensive_efficiency.steals_play.msst": 0.071,
+    "mississippi_st_vs_florida_offensive_efficiency.steals_play.fla": 0.081,
+    "mississippi_st_vs_florida_offensive_efficiency.turnovers_play.msst": 0.13699999999999998,
+    "mississippi_st_vs_florida_offensive_efficiency.turnovers_play.fla": 0.135,
+    "mississippi_st_vs_florida_offensive_efficiency.personal_fouls_play.msst": 0.193,
+    "mississippi_st_vs_florida_offensive_efficiency.personal_fouls_play.fla": 0.21600000000000003,
+    "mississippi_st_vs_florida_offensive_efficiency.assists_fgm.msst": 0.453,
+    "mississippi_st_vs_florida_offensive_efficiency.assists_fgm.fla": 0.535,
+    "mississippi_st_vs_florida_defensive_efficiency.possessions_gm.msst": 73.6,
+    "mississippi_st_vs_florida_defensive_efficiency.possessions_gm.fla": 74.3,
+    "mississippi_st_vs_florida_defensive_efficiency.def_efficiency.msst": 1.09,
+    "mississippi_st_vs_florida_defensive_efficiency.def_efficiency.fla": 0.961,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_effective_fg.msst": 0.502,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_effective_fg.fla": 0.45799999999999996,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_two_point_rate.msst": 0.605,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_two_point_rate.fla": 0.669,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_three_point_rate.msst": 0.395,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_three_point_rate.fla": 0.331,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_fta_play.msst": 0.249,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_fta_play.fla": 0.254,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_two_point.msst": 0.508,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_two_point.fla": 0.447,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_three_point.msst": 0.32799999999999996,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_three_point.fla": 0.32,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_free_throw.msst": 0.755,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_free_throw.fla": 0.7190000000000001,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_points_2_pters.msst": 39.5,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_points_2_pters.fla": 36.8,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_points_3_pters.msst": 25.0,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_points_3_pters.fla": 19.6,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_off_rebound.msst": 0.282,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_off_rebound.fla": 0.22399999999999998,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_def_rebound.msst": 0.7140000000000001,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_def_rebound.fla": 0.573,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_block.msst": 0.067,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_block.fla": 0.044000000000000004,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_steals_play.msst": 0.079,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_steals_play.fla": 0.075,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_turnovers_play.msst": 0.11199999999999999,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_turnovers_play.fla": 0.136,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_personal_fouls_play.msst": 0.20199999999999999,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_personal_fouls_play.fla": 0.223,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_assists_fgm.msst": 0.514,
+    "mississippi_st_vs_florida_defensive_efficiency.opp_assists_fgm.fla": 0.425
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "bulldogs-gators-2026-03-03",
+  "matchup_title": "#84 Mississippi St at #4 Florida",
+  "teams": {
+    "away": "#84 Mississippi St",
+    "home": "#4 Florida",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Exactech Arena at the Stephen C. O'Connell Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-gators-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-gators-2026-03-03/efficiency"
+  }
+}

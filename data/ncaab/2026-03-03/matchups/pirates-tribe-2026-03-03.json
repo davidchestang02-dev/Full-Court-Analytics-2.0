@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/pirates-tribe-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:47.646958+00:00",
+  "tables": {
+    "Matchup Menu: HAMP @ CWM": {
+      "headers": [
+        "Stat",
+        "HAMP",
+        "adv",
+        "CWM"
+      ],
+      "team_headers": [
+        "HAMP",
+        "CWM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.982",
+            "value": 0.982
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "45.8%",
+            "value": 0.45799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.392",
+            "value": 0.392
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "0.417",
+            "value": 0.417
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "67.4",
+            "value": 67.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "82.2",
+            "value": 82.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "-3.9",
+            "value": -3.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "+3.4",
+            "value": 3.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "HAMP",
+        "adv",
+        "CWM"
+      ],
+      "team_headers": [
+        "HAMP",
+        "CWM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.982",
+            "value": 0.982
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "45.8%",
+            "value": 0.45799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.392",
+            "value": 0.392
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "0.417",
+            "value": 0.417
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "67.4",
+            "value": 67.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "82.2",
+            "value": 82.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "-3.9",
+            "value": -3.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "+3.4",
+            "value": 3.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "HAMP",
+        "adv",
+        "CWM"
+      ],
+      "team_headers": [
+        "HAMP",
+        "CWM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "1.038",
+            "value": 1.038
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "1.044",
+            "value": 1.044
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "51.6%",
+            "value": 0.516
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "52.0%",
+            "value": 0.52
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "14.9%",
+            "value": 0.149
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "16.8%",
+            "value": 0.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.453",
+            "value": 0.453
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "0.346",
+            "value": 0.346
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "71.3",
+            "value": 71.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "78.8",
+            "value": 78.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "25.5%",
+            "value": 0.255
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "20.3%",
+            "value": 0.203
+          }
+        }
+      ]
+    },
+    "Hampton vs William & Mary Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HAMP",
+        "adv",
+        "CWM"
+      ],
+      "team_headers": [
+        "HAMP",
+        "CWM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "68.6",
+            "value": 68.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "75.5",
+            "value": 75.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.982",
+            "value": 0.982
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "45.8%",
+            "value": 0.45799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "63.5%",
+            "value": 0.635
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "56.8%",
+            "value": 0.568
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "36.5%",
+            "value": 0.365
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "43.2%",
+            "value": 0.43200000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "46.8%",
+            "value": 0.46799999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "58.5%",
+            "value": 0.585
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "32.9%",
+            "value": 0.32899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "72.4%",
+            "value": 0.7240000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "75.0%",
+            "value": 0.75
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "33.4",
+            "value": 33.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "38.9",
+            "value": 38.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "18.0",
+            "value": 18.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "25.0",
+            "value": 25.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "25.5%",
+            "value": 0.255
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "20.3%",
+            "value": 0.203
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.489",
+            "value": 0.489
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "0.640",
+            "value": 0.64
+          }
+        }
+      ]
+    },
+    "Hampton vs William & Mary Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HAMP",
+        "adv",
+        "CWM"
+      ],
+      "team_headers": [
+        "HAMP",
+        "CWM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "68.6",
+            "value": 68.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "75.5",
+            "value": 75.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "1.038",
+            "value": 1.038
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "1.044",
+            "value": 1.044
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "51.6%",
+            "value": 0.516
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "52.0%",
+            "value": 0.52
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "65.8%",
+            "value": 0.6579999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "55.5%",
+            "value": 0.555
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "34.2%",
+            "value": 0.342
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "44.5%",
+            "value": 0.445
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "31.6%",
+            "value": 0.316
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CWM": {
+            "raw": "24.8%",
+            "value": 0.248
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "54.1%",
+            "value": 0.541
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "31.6%",
+            "value": 0.316
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "33.0%",
+            "value": 0.33
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "67.2%",
+            "value": 0.672
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "70.3%",
+            "value": 0.703
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "37.8",
+            "value": 37.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "36.9",
+            "value": 36.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "17.3",
+            "value": 17.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CWM": {
+            "raw": "27.0",
+            "value": 27.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "27.1%",
+            "value": 0.271
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "71.3%",
+            "value": 0.713
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "76.4%",
+            "value": 0.764
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "8.0%",
+            "value": 0.08
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "8.7%",
+            "value": 0.087
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "14.9%",
+            "value": 0.149
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CWM": {
+            "raw": "16.8%",
+            "value": 0.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "24.7%",
+            "value": 0.247
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "HAMP": {
+            "raw": "0.509",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CWM": {
+            "raw": "0.541",
+            "value": 0.541
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_hamp_cwm.off_efficiency.hamp": 0.982,
+    "matchup_menu_hamp_cwm.off_efficiency.cwm": 1.088,
+    "matchup_menu_hamp_cwm.effective_fg.hamp": 0.45799999999999996,
+    "matchup_menu_hamp_cwm.effective_fg.cwm": 0.546,
+    "matchup_menu_hamp_cwm.turnovers_play.hamp": 0.14800000000000002,
+    "matchup_menu_hamp_cwm.turnovers_play.cwm": 0.14800000000000002,
+    "matchup_menu_hamp_cwm.off_rebound.hamp": 0.287,
+    "matchup_menu_hamp_cwm.off_rebound.cwm": 0.23600000000000002,
+    "matchup_menu_hamp_cwm.fta_fga.hamp": 0.392,
+    "matchup_menu_hamp_cwm.fta_fga.cwm": 0.417,
+    "matchup_menu_hamp_cwm.points_game.hamp": 67.4,
+    "matchup_menu_hamp_cwm.points_game.cwm": 82.2,
+    "matchup_menu_hamp_cwm.avg_score_margin.hamp": -3.9,
+    "matchup_menu_hamp_cwm.avg_score_margin.cwm": 3.4,
+    "key_offensive_stats.off_efficiency.hamp": 0.982,
+    "key_offensive_stats.off_efficiency.cwm": 1.088,
+    "key_offensive_stats.effective_fg.hamp": 0.45799999999999996,
+    "key_offensive_stats.effective_fg.cwm": 0.546,
+    "key_offensive_stats.turnovers_play.hamp": 0.14800000000000002,
+    "key_offensive_stats.turnovers_play.cwm": 0.14800000000000002,
+    "key_offensive_stats.off_rebound.hamp": 0.287,
+    "key_offensive_stats.off_rebound.cwm": 0.23600000000000002,
+    "key_offensive_stats.fta_fga.hamp": 0.392,
+    "key_offensive_stats.fta_fga.cwm": 0.417,
+    "key_offensive_stats.points_game.hamp": 67.4,
+    "key_offensive_stats.points_game.cwm": 82.2,
+    "key_offensive_stats.avg_score_margin.hamp": -3.9,
+    "key_offensive_stats.avg_score_margin.cwm": 3.4,
+    "key_defensive_stats.def_efficiency.hamp": 1.038,
+    "key_defensive_stats.def_efficiency.cwm": 1.044,
+    "key_defensive_stats.opp_effective_fg.hamp": 0.516,
+    "key_defensive_stats.opp_effective_fg.cwm": 0.52,
+    "key_defensive_stats.opp_turnovers_play.hamp": 0.149,
+    "key_defensive_stats.opp_turnovers_play.cwm": 0.168,
+    "key_defensive_stats.def_rebound.hamp": 0.7290000000000001,
+    "key_defensive_stats.def_rebound.cwm": 0.6990000000000001,
+    "key_defensive_stats.opp_fta_fga.hamp": 0.453,
+    "key_defensive_stats.opp_fta_fga.cwm": 0.346,
+    "key_defensive_stats.opp_points_game.hamp": 71.3,
+    "key_defensive_stats.opp_points_game.cwm": 78.8,
+    "key_defensive_stats.block.hamp": 0.055999999999999994,
+    "key_defensive_stats.block.cwm": 0.062,
+    "key_defensive_stats.personal_fouls_play.hamp": 0.255,
+    "key_defensive_stats.personal_fouls_play.cwm": 0.203,
+    "hampton_vs_william_and_mary_offensive_efficiency.possessions_gm.hamp": 68.6,
+    "hampton_vs_william_and_mary_offensive_efficiency.possessions_gm.cwm": 75.5,
+    "hampton_vs_william_and_mary_offensive_efficiency.off_efficiency.hamp": 0.982,
+    "hampton_vs_william_and_mary_offensive_efficiency.off_efficiency.cwm": 1.088,
+    "hampton_vs_william_and_mary_offensive_efficiency.effective_fg.hamp": 0.45799999999999996,
+    "hampton_vs_william_and_mary_offensive_efficiency.effective_fg.cwm": 0.546,
+    "hampton_vs_william_and_mary_offensive_efficiency.two_point_rate.hamp": 0.635,
+    "hampton_vs_william_and_mary_offensive_efficiency.two_point_rate.cwm": 0.568,
+    "hampton_vs_william_and_mary_offensive_efficiency.three_point_rate.hamp": 0.365,
+    "hampton_vs_william_and_mary_offensive_efficiency.three_point_rate.cwm": 0.43200000000000005,
+    "hampton_vs_william_and_mary_offensive_efficiency.fta_play.hamp": 0.28300000000000003,
+    "hampton_vs_william_and_mary_offensive_efficiency.fta_play.cwm": 0.29600000000000004,
+    "hampton_vs_william_and_mary_offensive_efficiency.two_point.hamp": 0.46799999999999997,
+    "hampton_vs_william_and_mary_offensive_efficiency.two_point.cwm": 0.585,
+    "hampton_vs_william_and_mary_offensive_efficiency.three_point.hamp": 0.293,
+    "hampton_vs_william_and_mary_offensive_efficiency.three_point.cwm": 0.32899999999999996,
+    "hampton_vs_william_and_mary_offensive_efficiency.free_throw.hamp": 0.7240000000000001,
+    "hampton_vs_william_and_mary_offensive_efficiency.free_throw.cwm": 0.75,
+    "hampton_vs_william_and_mary_offensive_efficiency.points_2_pters.hamp": 33.4,
+    "hampton_vs_william_and_mary_offensive_efficiency.points_2_pters.cwm": 38.9,
+    "hampton_vs_william_and_mary_offensive_efficiency.points_3_pters.hamp": 18.0,
+    "hampton_vs_william_and_mary_offensive_efficiency.points_3_pters.cwm": 25.0,
+    "hampton_vs_william_and_mary_offensive_efficiency.off_rebound.hamp": 0.287,
+    "hampton_vs_william_and_mary_offensive_efficiency.off_rebound.cwm": 0.23600000000000002,
+    "hampton_vs_william_and_mary_offensive_efficiency.def_rebound.hamp": 0.7290000000000001,
+    "hampton_vs_william_and_mary_offensive_efficiency.def_rebound.cwm": 0.6990000000000001,
+    "hampton_vs_william_and_mary_offensive_efficiency.block.hamp": 0.055999999999999994,
+    "hampton_vs_william_and_mary_offensive_efficiency.block.cwm": 0.062,
+    "hampton_vs_william_and_mary_offensive_efficiency.steals_play.hamp": 0.083,
+    "hampton_vs_william_and_mary_offensive_efficiency.steals_play.cwm": 0.095,
+    "hampton_vs_william_and_mary_offensive_efficiency.turnovers_play.hamp": 0.14800000000000002,
+    "hampton_vs_william_and_mary_offensive_efficiency.turnovers_play.cwm": 0.14800000000000002,
+    "hampton_vs_william_and_mary_offensive_efficiency.personal_fouls_play.hamp": 0.255,
+    "hampton_vs_william_and_mary_offensive_efficiency.personal_fouls_play.cwm": 0.203,
+    "hampton_vs_william_and_mary_offensive_efficiency.assists_fgm.hamp": 0.489,
+    "hampton_vs_william_and_mary_offensive_efficiency.assists_fgm.cwm": 0.64,
+    "hampton_vs_william_and_mary_defensive_efficiency.possessions_gm.hamp": 68.6,
+    "hampton_vs_william_and_mary_defensive_efficiency.possessions_gm.cwm": 75.5,
+    "hampton_vs_william_and_mary_defensive_efficiency.def_efficiency.hamp": 1.038,
+    "hampton_vs_william_and_mary_defensive_efficiency.def_efficiency.cwm": 1.044,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_effective_fg.hamp": 0.516,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_effective_fg.cwm": 0.52,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_two_point_rate.hamp": 0.6579999999999999,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_two_point_rate.cwm": 0.555,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_three_point_rate.hamp": 0.342,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_three_point_rate.cwm": 0.445,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_fta_play.hamp": 0.316,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_fta_play.cwm": 0.248,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_two_point.hamp": 0.539,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_two_point.cwm": 0.541,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_three_point.hamp": 0.316,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_three_point.cwm": 0.33,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_free_throw.hamp": 0.672,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_free_throw.cwm": 0.703,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_points_2_pters.hamp": 37.8,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_points_2_pters.cwm": 36.9,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_points_3_pters.hamp": 17.3,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_points_3_pters.cwm": 27.0,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_off_rebound.hamp": 0.271,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_off_rebound.cwm": 0.301,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_def_rebound.hamp": 0.713,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_def_rebound.cwm": 0.764,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_block.hamp": 0.076,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_block.cwm": 0.057999999999999996,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_steals_play.hamp": 0.08,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_steals_play.cwm": 0.087,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_turnovers_play.hamp": 0.149,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_turnovers_play.cwm": 0.168,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_personal_fouls_play.hamp": 0.242,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_personal_fouls_play.cwm": 0.247,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_assists_fgm.hamp": 0.509,
+    "hampton_vs_william_and_mary_defensive_efficiency.opp_assists_fgm.cwm": 0.541
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "pirates-tribe-2026-03-03",
+  "matchup_title": "#267 Hampton at #140 William & Mary",
+  "teams": {
+    "away": "#267 Hampton",
+    "home": "#140 William & Mary",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Kaplan Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/pirates-tribe-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/pirates-tribe-2026-03-03/efficiency"
+  }
+}

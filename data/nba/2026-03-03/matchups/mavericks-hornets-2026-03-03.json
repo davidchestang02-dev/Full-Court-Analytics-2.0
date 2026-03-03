@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/mavericks-hornets-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:21.213162+00:00",
+  "tables": {
+    "Matchup Menu: DAL @ CHA": {
+      "headers": [
+        "Stat",
+        "DAL",
+        "adv",
+        "CHA"
+      ],
+      "team_headers": [
+        "DAL",
+        "CHA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DAL": {
+            "raw": "1.075",
+            "value": 1.075
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "55.0%",
+            "value": 0.55
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "12.8%",
+            "value": 0.128
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DAL": {
+            "raw": "0.286",
+            "value": 0.286
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "0.252",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DAL": {
+            "raw": "113.9",
+            "value": 113.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "116.0",
+            "value": 116.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DAL": {
+            "raw": "-3.8",
+            "value": -3.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "+3.0",
+            "value": 3.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "DAL",
+        "adv",
+        "CHA"
+      ],
+      "team_headers": [
+        "DAL",
+        "CHA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DAL": {
+            "raw": "1.075",
+            "value": 1.075
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "55.0%",
+            "value": 0.55
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "12.8%",
+            "value": 0.128
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DAL": {
+            "raw": "0.286",
+            "value": 0.286
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "0.252",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DAL": {
+            "raw": "113.9",
+            "value": 113.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "116.0",
+            "value": 116.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DAL": {
+            "raw": "-3.8",
+            "value": -3.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "+3.0",
+            "value": 3.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "DAL",
+        "adv",
+        "CHA"
+      ],
+      "team_headers": [
+        "DAL",
+        "CHA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DAL": {
+            "raw": "1.111",
+            "value": 1.111
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "1.112",
+            "value": 1.112
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "53.4%",
+            "value": 0.534
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "54.5%",
+            "value": 0.545
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "11.3%",
+            "value": 0.113
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "76.6%",
+            "value": 0.7659999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "DAL": {
+            "raw": "0.236",
+            "value": 0.236
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "0.230",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "DAL": {
+            "raw": "117.7",
+            "value": 117.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "113.0",
+            "value": 113.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "15.4%",
+            "value": 0.154
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "17.0%",
+            "value": 0.17
+          }
+        }
+      ]
+    },
+    "Dallas vs Charlotte Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DAL",
+        "adv",
+        "CHA"
+      ],
+      "team_headers": [
+        "DAL",
+        "CHA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DAL": {
+            "raw": "105.9",
+            "value": 105.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "101.6",
+            "value": 101.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DAL": {
+            "raw": "1.075",
+            "value": 1.075
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "55.0%",
+            "value": 0.55
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "DAL": {
+            "raw": "65.0%",
+            "value": 0.65
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "DAL": {
+            "raw": "35.0%",
+            "value": 0.35
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "47.3%",
+            "value": 0.473
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "22.0%",
+            "value": 0.22
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "19.5%",
+            "value": 0.195
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "54.2%",
+            "value": 0.542
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "34.2%",
+            "value": 0.342
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "37.8%",
+            "value": 0.37799999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "74.0%",
+            "value": 0.74
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "81.9%",
+            "value": 0.8190000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "DAL": {
+            "raw": "62.9",
+            "value": 62.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "50.0",
+            "value": 50.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "DAL": {
+            "raw": "32.1",
+            "value": 32.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "47.7",
+            "value": 47.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "76.6%",
+            "value": 0.7659999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "6.3%",
+            "value": 0.063
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "12.8%",
+            "value": 0.128
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "15.4%",
+            "value": 0.154
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "17.0%",
+            "value": 0.17
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "DAL": {
+            "raw": "0.592",
+            "value": 0.592
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "0.649",
+            "value": 0.649
+          }
+        }
+      ]
+    },
+    "Dallas vs Charlotte Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DAL",
+        "adv",
+        "CHA"
+      ],
+      "team_headers": [
+        "DAL",
+        "CHA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DAL": {
+            "raw": "105.9",
+            "value": 105.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "101.6",
+            "value": 101.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DAL": {
+            "raw": "1.111",
+            "value": 1.111
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "1.112",
+            "value": 1.112
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "53.4%",
+            "value": 0.534
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "54.5%",
+            "value": 0.545
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "DAL": {
+            "raw": "61.9%",
+            "value": 0.619
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "59.7%",
+            "value": 0.597
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "DAL": {
+            "raw": "38.1%",
+            "value": 0.381
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "40.3%",
+            "value": 0.40299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "18.8%",
+            "value": 0.188
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "18.2%",
+            "value": 0.182
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "36.3%",
+            "value": 0.363
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "77.7%",
+            "value": 0.777
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "80.2%",
+            "value": 0.802
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "DAL": {
+            "raw": "63.8",
+            "value": 63.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "57.8",
+            "value": 57.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "DAL": {
+            "raw": "36.6",
+            "value": 36.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "38.9",
+            "value": 38.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHA": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "77.3%",
+            "value": 0.773
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CHA": {
+            "raw": "69.5%",
+            "value": 0.695
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "DAL": {
+            "raw": "5.7%",
+            "value": 0.057
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "7.8%",
+            "value": 0.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "11.3%",
+            "value": 0.113
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "DAL": {
+            "raw": "18.2%",
+            "value": 0.182
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHA": {
+            "raw": "17.5%",
+            "value": 0.175
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "DAL": {
+            "raw": "0.623",
+            "value": 0.623
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHA": {
+            "raw": "0.638",
+            "value": 0.638
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_dal_cha.off_efficiency.dal": 1.075,
+    "matchup_menu_dal_cha.off_efficiency.cha": 1.142,
+    "matchup_menu_dal_cha.effective_fg.dal": 0.532,
+    "matchup_menu_dal_cha.effective_fg.cha": 0.55,
+    "matchup_menu_dal_cha.turnovers_play.dal": 0.128,
+    "matchup_menu_dal_cha.turnovers_play.cha": 0.138,
+    "matchup_menu_dal_cha.off_rebound.dal": 0.22699999999999998,
+    "matchup_menu_dal_cha.off_rebound.cha": 0.305,
+    "matchup_menu_dal_cha.fta_fga.dal": 0.286,
+    "matchup_menu_dal_cha.fta_fga.cha": 0.252,
+    "matchup_menu_dal_cha.points_game.dal": 113.9,
+    "matchup_menu_dal_cha.points_game.cha": 116.0,
+    "matchup_menu_dal_cha.avg_score_margin.dal": -3.8,
+    "matchup_menu_dal_cha.avg_score_margin.cha": 3.0,
+    "key_offensive_stats.off_efficiency.dal": 1.075,
+    "key_offensive_stats.off_efficiency.cha": 1.142,
+    "key_offensive_stats.effective_fg.dal": 0.532,
+    "key_offensive_stats.effective_fg.cha": 0.55,
+    "key_offensive_stats.turnovers_play.dal": 0.128,
+    "key_offensive_stats.turnovers_play.cha": 0.138,
+    "key_offensive_stats.off_rebound.dal": 0.22699999999999998,
+    "key_offensive_stats.off_rebound.cha": 0.305,
+    "key_offensive_stats.fta_fga.dal": 0.286,
+    "key_offensive_stats.fta_fga.cha": 0.252,
+    "key_offensive_stats.points_game.dal": 113.9,
+    "key_offensive_stats.points_game.cha": 116.0,
+    "key_offensive_stats.avg_score_margin.dal": -3.8,
+    "key_offensive_stats.avg_score_margin.cha": 3.0,
+    "key_defensive_stats.def_efficiency.dal": 1.111,
+    "key_defensive_stats.def_efficiency.cha": 1.112,
+    "key_defensive_stats.opp_effective_fg.dal": 0.534,
+    "key_defensive_stats.opp_effective_fg.cha": 0.545,
+    "key_defensive_stats.opp_turnovers_play.dal": 0.11199999999999999,
+    "key_defensive_stats.opp_turnovers_play.cha": 0.113,
+    "key_defensive_stats.def_rebound.dal": 0.7390000000000001,
+    "key_defensive_stats.def_rebound.cha": 0.7659999999999999,
+    "key_defensive_stats.opp_fta_fga.dal": 0.236,
+    "key_defensive_stats.opp_fta_fga.cha": 0.23,
+    "key_defensive_stats.opp_points_game.dal": 117.7,
+    "key_defensive_stats.opp_points_game.cha": 113.0,
+    "key_defensive_stats.block.dal": 0.055999999999999994,
+    "key_defensive_stats.block.cha": 0.051,
+    "key_defensive_stats.personal_fouls_play.dal": 0.154,
+    "key_defensive_stats.personal_fouls_play.cha": 0.17,
+    "dallas_vs_charlotte_offensive_efficiency.possessions_gm.dal": 105.9,
+    "dallas_vs_charlotte_offensive_efficiency.possessions_gm.cha": 101.6,
+    "dallas_vs_charlotte_offensive_efficiency.off_efficiency.dal": 1.075,
+    "dallas_vs_charlotte_offensive_efficiency.off_efficiency.cha": 1.142,
+    "dallas_vs_charlotte_offensive_efficiency.effective_fg.dal": 0.532,
+    "dallas_vs_charlotte_offensive_efficiency.effective_fg.cha": 0.55,
+    "dallas_vs_charlotte_offensive_efficiency.two_point_rate.dal": 0.65,
+    "dallas_vs_charlotte_offensive_efficiency.two_point_rate.cha": 0.527,
+    "dallas_vs_charlotte_offensive_efficiency.three_point_rate.dal": 0.35,
+    "dallas_vs_charlotte_offensive_efficiency.three_point_rate.cha": 0.473,
+    "dallas_vs_charlotte_offensive_efficiency.fta_play.dal": 0.22,
+    "dallas_vs_charlotte_offensive_efficiency.fta_play.cha": 0.195,
+    "dallas_vs_charlotte_offensive_efficiency.two_point.dal": 0.542,
+    "dallas_vs_charlotte_offensive_efficiency.two_point.cha": 0.535,
+    "dallas_vs_charlotte_offensive_efficiency.three_point.dal": 0.342,
+    "dallas_vs_charlotte_offensive_efficiency.three_point.cha": 0.37799999999999995,
+    "dallas_vs_charlotte_offensive_efficiency.free_throw.dal": 0.74,
+    "dallas_vs_charlotte_offensive_efficiency.free_throw.cha": 0.8190000000000001,
+    "dallas_vs_charlotte_offensive_efficiency.points_2_pters.dal": 62.9,
+    "dallas_vs_charlotte_offensive_efficiency.points_2_pters.cha": 50.0,
+    "dallas_vs_charlotte_offensive_efficiency.points_3_pters.dal": 32.1,
+    "dallas_vs_charlotte_offensive_efficiency.points_3_pters.cha": 47.7,
+    "dallas_vs_charlotte_offensive_efficiency.off_rebound.dal": 0.22699999999999998,
+    "dallas_vs_charlotte_offensive_efficiency.off_rebound.cha": 0.305,
+    "dallas_vs_charlotte_offensive_efficiency.def_rebound.dal": 0.7390000000000001,
+    "dallas_vs_charlotte_offensive_efficiency.def_rebound.cha": 0.7659999999999999,
+    "dallas_vs_charlotte_offensive_efficiency.block.dal": 0.055999999999999994,
+    "dallas_vs_charlotte_offensive_efficiency.block.cha": 0.051,
+    "dallas_vs_charlotte_offensive_efficiency.steals_play.dal": 0.063,
+    "dallas_vs_charlotte_offensive_efficiency.steals_play.cha": 0.062,
+    "dallas_vs_charlotte_offensive_efficiency.turnovers_play.dal": 0.128,
+    "dallas_vs_charlotte_offensive_efficiency.turnovers_play.cha": 0.138,
+    "dallas_vs_charlotte_offensive_efficiency.personal_fouls_play.dal": 0.154,
+    "dallas_vs_charlotte_offensive_efficiency.personal_fouls_play.cha": 0.17,
+    "dallas_vs_charlotte_offensive_efficiency.assists_fgm.dal": 0.592,
+    "dallas_vs_charlotte_offensive_efficiency.assists_fgm.cha": 0.649,
+    "dallas_vs_charlotte_defensive_efficiency.possessions_gm.dal": 105.9,
+    "dallas_vs_charlotte_defensive_efficiency.possessions_gm.cha": 101.6,
+    "dallas_vs_charlotte_defensive_efficiency.def_efficiency.dal": 1.111,
+    "dallas_vs_charlotte_defensive_efficiency.def_efficiency.cha": 1.112,
+    "dallas_vs_charlotte_defensive_efficiency.opp_effective_fg.dal": 0.534,
+    "dallas_vs_charlotte_defensive_efficiency.opp_effective_fg.cha": 0.545,
+    "dallas_vs_charlotte_defensive_efficiency.opp_two_point_rate.dal": 0.619,
+    "dallas_vs_charlotte_defensive_efficiency.opp_two_point_rate.cha": 0.597,
+    "dallas_vs_charlotte_defensive_efficiency.opp_three_point_rate.dal": 0.381,
+    "dallas_vs_charlotte_defensive_efficiency.opp_three_point_rate.cha": 0.40299999999999997,
+    "dallas_vs_charlotte_defensive_efficiency.opp_fta_play.dal": 0.188,
+    "dallas_vs_charlotte_defensive_efficiency.opp_fta_play.cha": 0.182,
+    "dallas_vs_charlotte_defensive_efficiency.opp_two_point.dal": 0.5479999999999999,
+    "dallas_vs_charlotte_defensive_efficiency.opp_two_point.cha": 0.546,
+    "dallas_vs_charlotte_defensive_efficiency.opp_three_point.dal": 0.34,
+    "dallas_vs_charlotte_defensive_efficiency.opp_three_point.cha": 0.363,
+    "dallas_vs_charlotte_defensive_efficiency.opp_free_throw.dal": 0.777,
+    "dallas_vs_charlotte_defensive_efficiency.opp_free_throw.cha": 0.802,
+    "dallas_vs_charlotte_defensive_efficiency.opp_points_2_pters.dal": 63.8,
+    "dallas_vs_charlotte_defensive_efficiency.opp_points_2_pters.cha": 57.8,
+    "dallas_vs_charlotte_defensive_efficiency.opp_points_3_pters.dal": 36.6,
+    "dallas_vs_charlotte_defensive_efficiency.opp_points_3_pters.cha": 38.9,
+    "dallas_vs_charlotte_defensive_efficiency.opp_off_rebound.dal": 0.261,
+    "dallas_vs_charlotte_defensive_efficiency.opp_off_rebound.cha": 0.23399999999999999,
+    "dallas_vs_charlotte_defensive_efficiency.opp_def_rebound.dal": 0.773,
+    "dallas_vs_charlotte_defensive_efficiency.opp_def_rebound.cha": 0.695,
+    "dallas_vs_charlotte_defensive_efficiency.opp_block.dal": 0.057,
+    "dallas_vs_charlotte_defensive_efficiency.opp_block.cha": 0.051,
+    "dallas_vs_charlotte_defensive_efficiency.opp_steals_play.dal": 0.078,
+    "dallas_vs_charlotte_defensive_efficiency.opp_steals_play.cha": 0.076,
+    "dallas_vs_charlotte_defensive_efficiency.opp_turnovers_play.dal": 0.11199999999999999,
+    "dallas_vs_charlotte_defensive_efficiency.opp_turnovers_play.cha": 0.113,
+    "dallas_vs_charlotte_defensive_efficiency.opp_personal_fouls_play.dal": 0.182,
+    "dallas_vs_charlotte_defensive_efficiency.opp_personal_fouls_play.cha": 0.175,
+    "dallas_vs_charlotte_defensive_efficiency.opp_assists_fgm.dal": 0.623,
+    "dallas_vs_charlotte_defensive_efficiency.opp_assists_fgm.cha": 0.638
+  },
+  "sport": "nba",
+  "date": "2026-03-03",
+  "slug": "mavericks-hornets-2026-03-03",
+  "matchup_title": "#23 Dallas at #15 Charlotte",
+  "teams": {
+    "away": "#23 Dallas",
+    "home": "#15 Charlotte",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Spectrum Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/mavericks-hornets-2026-03-03",
+    "detail": "https://www.teamrankings.com/nba/matchup/mavericks-hornets-2026-03-03/efficiency"
+  }
+}

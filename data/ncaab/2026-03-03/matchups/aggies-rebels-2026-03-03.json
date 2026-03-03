@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/aggies-rebels-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:39.523584+00:00",
+  "tables": {
+    "Matchup Menu: USU @ UNLV": {
+      "headers": [
+        "Stat",
+        "USU",
+        "adv",
+        "UNLV"
+      ],
+      "team_headers": [
+        "USU",
+        "UNLV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "USU": {
+            "raw": "1.171",
+            "value": 1.171
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "1.082",
+            "value": 1.082
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "USU": {
+            "raw": "57.5%",
+            "value": 0.575
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "14.5%",
+            "value": 0.145
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "USU": {
+            "raw": "32.0%",
+            "value": 0.32
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "30.2%",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "USU": {
+            "raw": "0.379",
+            "value": 0.379
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "0.423",
+            "value": 0.423
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "USU": {
+            "raw": "82.3",
+            "value": 82.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "79.3",
+            "value": 79.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "USU": {
+            "raw": "+12.0",
+            "value": 12.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "-0.8",
+            "value": -0.8
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "USU",
+        "adv",
+        "UNLV"
+      ],
+      "team_headers": [
+        "USU",
+        "UNLV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "USU": {
+            "raw": "1.171",
+            "value": 1.171
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "1.082",
+            "value": 1.082
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "USU": {
+            "raw": "57.5%",
+            "value": 0.575
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "14.5%",
+            "value": 0.145
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "USU": {
+            "raw": "32.0%",
+            "value": 0.32
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "30.2%",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "USU": {
+            "raw": "0.379",
+            "value": 0.379
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "0.423",
+            "value": 0.423
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "USU": {
+            "raw": "82.3",
+            "value": 82.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "79.3",
+            "value": 79.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "USU": {
+            "raw": "+12.0",
+            "value": 12.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "-0.8",
+            "value": -0.8
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "USU",
+        "adv",
+        "UNLV"
+      ],
+      "team_headers": [
+        "USU",
+        "UNLV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "USU": {
+            "raw": "1.000",
+            "value": 1.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UNLV": {
+            "raw": "1.093",
+            "value": 1.093
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "USU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UNLV": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "15.5%",
+            "value": 0.155
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "USU": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "71.7%",
+            "value": 0.7170000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "USU": {
+            "raw": "0.394",
+            "value": 0.394
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "0.472",
+            "value": 0.472
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "USU": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UNLV": {
+            "raw": "80.1",
+            "value": 80.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "USU": {
+            "raw": "5.3%",
+            "value": 0.053
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "26.8%",
+            "value": 0.268
+          }
+        }
+      ]
+    },
+    "Utah St vs UNLV Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "USU",
+        "adv",
+        "UNLV"
+      ],
+      "team_headers": [
+        "USU",
+        "UNLV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "USU": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "73.3",
+            "value": 73.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "USU": {
+            "raw": "1.171",
+            "value": 1.171
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "1.082",
+            "value": 1.082
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "USU": {
+            "raw": "57.5%",
+            "value": 0.575
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "USU": {
+            "raw": "59.2%",
+            "value": 0.5920000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "64.7%",
+            "value": 0.647
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "USU": {
+            "raw": "40.8%",
+            "value": 0.408
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "35.3%",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "27.7%",
+            "value": 0.27699999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "30.0%",
+            "value": 0.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "USU": {
+            "raw": "59.6%",
+            "value": 0.596
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "USU": {
+            "raw": "36.3%",
+            "value": 0.363
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "USU": {
+            "raw": "70.1%",
+            "value": 0.701
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "68.5%",
+            "value": 0.685
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "USU": {
+            "raw": "41.0",
+            "value": 41.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "40.7",
+            "value": 40.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "USU": {
+            "raw": "25.8",
+            "value": 25.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "21.5",
+            "value": 21.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "USU": {
+            "raw": "32.0%",
+            "value": 0.32
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "30.2%",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "USU": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "71.7%",
+            "value": 0.7170000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "USU": {
+            "raw": "5.3%",
+            "value": 0.053
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "11.0%",
+            "value": 0.11
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "9.3%",
+            "value": 0.09300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "14.5%",
+            "value": 0.145
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "26.8%",
+            "value": 0.268
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "USU": {
+            "raw": "0.594",
+            "value": 0.594
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "0.508",
+            "value": 0.508
+          }
+        }
+      ]
+    },
+    "Utah St vs UNLV Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "USU",
+        "adv",
+        "UNLV"
+      ],
+      "team_headers": [
+        "USU",
+        "UNLV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "USU": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "73.3",
+            "value": 73.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "USU": {
+            "raw": "1.000",
+            "value": 1.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UNLV": {
+            "raw": "1.093",
+            "value": 1.093
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "USU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UNLV": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "USU": {
+            "raw": "58.9%",
+            "value": 0.589
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "63.5%",
+            "value": 0.635
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "USU": {
+            "raw": "41.1%",
+            "value": 0.41100000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "36.5%",
+            "value": 0.365
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "27.4%",
+            "value": 0.27399999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "32.8%",
+            "value": 0.32799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "USU": {
+            "raw": "48.1%",
+            "value": 0.48100000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "51.7%",
+            "value": 0.517
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "USU": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "36.8%",
+            "value": 0.368
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "USU": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "73.3%",
+            "value": 0.733
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "USU": {
+            "raw": "31.4",
+            "value": 31.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UNLV": {
+            "raw": "37.4",
+            "value": 37.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "USU": {
+            "raw": "22.8",
+            "value": 22.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "22.9",
+            "value": 22.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "USU": {
+            "raw": "30.4%",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UNLV": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "USU": {
+            "raw": "68.0%",
+            "value": 0.68
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "69.8%",
+            "value": 0.698
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "USU": {
+            "raw": "5.5%",
+            "value": 0.055
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "15.5%",
+            "value": 0.155
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "USU": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UNLV": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "USU": {
+            "raw": "0.479",
+            "value": 0.479
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UNLV": {
+            "raw": "0.564",
+            "value": 0.564
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_usu_unlv.off_efficiency.usu": 1.171,
+    "matchup_menu_usu_unlv.off_efficiency.unlv": 1.082,
+    "matchup_menu_usu_unlv.effective_fg.usu": 0.575,
+    "matchup_menu_usu_unlv.effective_fg.unlv": 0.53,
+    "matchup_menu_usu_unlv.turnovers_play.usu": 0.135,
+    "matchup_menu_usu_unlv.turnovers_play.unlv": 0.145,
+    "matchup_menu_usu_unlv.off_rebound.usu": 0.32,
+    "matchup_menu_usu_unlv.off_rebound.unlv": 0.302,
+    "matchup_menu_usu_unlv.fta_fga.usu": 0.379,
+    "matchup_menu_usu_unlv.fta_fga.unlv": 0.423,
+    "matchup_menu_usu_unlv.points_game.usu": 82.3,
+    "matchup_menu_usu_unlv.points_game.unlv": 79.3,
+    "matchup_menu_usu_unlv.avg_score_margin.usu": 12.0,
+    "matchup_menu_usu_unlv.avg_score_margin.unlv": -0.8,
+    "key_offensive_stats.off_efficiency.usu": 1.171,
+    "key_offensive_stats.off_efficiency.unlv": 1.082,
+    "key_offensive_stats.effective_fg.usu": 0.575,
+    "key_offensive_stats.effective_fg.unlv": 0.53,
+    "key_offensive_stats.turnovers_play.usu": 0.135,
+    "key_offensive_stats.turnovers_play.unlv": 0.145,
+    "key_offensive_stats.off_rebound.usu": 0.32,
+    "key_offensive_stats.off_rebound.unlv": 0.302,
+    "key_offensive_stats.fta_fga.usu": 0.379,
+    "key_offensive_stats.fta_fga.unlv": 0.423,
+    "key_offensive_stats.points_game.usu": 82.3,
+    "key_offensive_stats.points_game.unlv": 79.3,
+    "key_offensive_stats.avg_score_margin.usu": 12.0,
+    "key_offensive_stats.avg_score_margin.unlv": -0.8,
+    "key_defensive_stats.def_efficiency.usu": 1.0,
+    "key_defensive_stats.def_efficiency.unlv": 1.093,
+    "key_defensive_stats.opp_effective_fg.usu": 0.49,
+    "key_defensive_stats.opp_effective_fg.unlv": 0.53,
+    "key_defensive_stats.opp_turnovers_play.usu": 0.17800000000000002,
+    "key_defensive_stats.opp_turnovers_play.unlv": 0.155,
+    "key_defensive_stats.def_rebound.usu": 0.696,
+    "key_defensive_stats.def_rebound.unlv": 0.7170000000000001,
+    "key_defensive_stats.opp_fta_fga.usu": 0.394,
+    "key_defensive_stats.opp_fta_fga.unlv": 0.472,
+    "key_defensive_stats.opp_points_game.usu": 70.3,
+    "key_defensive_stats.opp_points_game.unlv": 80.1,
+    "key_defensive_stats.block.usu": 0.053,
+    "key_defensive_stats.block.unlv": 0.073,
+    "key_defensive_stats.personal_fouls_play.usu": 0.23800000000000002,
+    "key_defensive_stats.personal_fouls_play.unlv": 0.268,
+    "utah_st_vs_unlv_offensive_efficiency.possessions_gm.usu": 70.3,
+    "utah_st_vs_unlv_offensive_efficiency.possessions_gm.unlv": 73.3,
+    "utah_st_vs_unlv_offensive_efficiency.off_efficiency.usu": 1.171,
+    "utah_st_vs_unlv_offensive_efficiency.off_efficiency.unlv": 1.082,
+    "utah_st_vs_unlv_offensive_efficiency.effective_fg.usu": 0.575,
+    "utah_st_vs_unlv_offensive_efficiency.effective_fg.unlv": 0.53,
+    "utah_st_vs_unlv_offensive_efficiency.two_point_rate.usu": 0.5920000000000001,
+    "utah_st_vs_unlv_offensive_efficiency.two_point_rate.unlv": 0.647,
+    "utah_st_vs_unlv_offensive_efficiency.three_point_rate.usu": 0.408,
+    "utah_st_vs_unlv_offensive_efficiency.three_point_rate.unlv": 0.353,
+    "utah_st_vs_unlv_offensive_efficiency.fta_play.usu": 0.27699999999999997,
+    "utah_st_vs_unlv_offensive_efficiency.fta_play.unlv": 0.3,
+    "utah_st_vs_unlv_offensive_efficiency.two_point.usu": 0.596,
+    "utah_st_vs_unlv_offensive_efficiency.two_point.unlv": 0.535,
+    "utah_st_vs_unlv_offensive_efficiency.three_point.usu": 0.363,
+    "utah_st_vs_unlv_offensive_efficiency.three_point.unlv": 0.34700000000000003,
+    "utah_st_vs_unlv_offensive_efficiency.free_throw.usu": 0.701,
+    "utah_st_vs_unlv_offensive_efficiency.free_throw.unlv": 0.685,
+    "utah_st_vs_unlv_offensive_efficiency.points_2_pters.usu": 41.0,
+    "utah_st_vs_unlv_offensive_efficiency.points_2_pters.unlv": 40.7,
+    "utah_st_vs_unlv_offensive_efficiency.points_3_pters.usu": 25.8,
+    "utah_st_vs_unlv_offensive_efficiency.points_3_pters.unlv": 21.5,
+    "utah_st_vs_unlv_offensive_efficiency.off_rebound.usu": 0.32,
+    "utah_st_vs_unlv_offensive_efficiency.off_rebound.unlv": 0.302,
+    "utah_st_vs_unlv_offensive_efficiency.def_rebound.usu": 0.696,
+    "utah_st_vs_unlv_offensive_efficiency.def_rebound.unlv": 0.7170000000000001,
+    "utah_st_vs_unlv_offensive_efficiency.block.usu": 0.053,
+    "utah_st_vs_unlv_offensive_efficiency.block.unlv": 0.073,
+    "utah_st_vs_unlv_offensive_efficiency.steals_play.usu": 0.11,
+    "utah_st_vs_unlv_offensive_efficiency.steals_play.unlv": 0.09300000000000001,
+    "utah_st_vs_unlv_offensive_efficiency.turnovers_play.usu": 0.135,
+    "utah_st_vs_unlv_offensive_efficiency.turnovers_play.unlv": 0.145,
+    "utah_st_vs_unlv_offensive_efficiency.personal_fouls_play.usu": 0.23800000000000002,
+    "utah_st_vs_unlv_offensive_efficiency.personal_fouls_play.unlv": 0.268,
+    "utah_st_vs_unlv_offensive_efficiency.assists_fgm.usu": 0.594,
+    "utah_st_vs_unlv_offensive_efficiency.assists_fgm.unlv": 0.508,
+    "utah_st_vs_unlv_defensive_efficiency.possessions_gm.usu": 70.3,
+    "utah_st_vs_unlv_defensive_efficiency.possessions_gm.unlv": 73.3,
+    "utah_st_vs_unlv_defensive_efficiency.def_efficiency.usu": 1.0,
+    "utah_st_vs_unlv_defensive_efficiency.def_efficiency.unlv": 1.093,
+    "utah_st_vs_unlv_defensive_efficiency.opp_effective_fg.usu": 0.49,
+    "utah_st_vs_unlv_defensive_efficiency.opp_effective_fg.unlv": 0.53,
+    "utah_st_vs_unlv_defensive_efficiency.opp_two_point_rate.usu": 0.589,
+    "utah_st_vs_unlv_defensive_efficiency.opp_two_point_rate.unlv": 0.635,
+    "utah_st_vs_unlv_defensive_efficiency.opp_three_point_rate.usu": 0.41100000000000003,
+    "utah_st_vs_unlv_defensive_efficiency.opp_three_point_rate.unlv": 0.365,
+    "utah_st_vs_unlv_defensive_efficiency.opp_fta_play.usu": 0.27399999999999997,
+    "utah_st_vs_unlv_defensive_efficiency.opp_fta_play.unlv": 0.32799999999999996,
+    "utah_st_vs_unlv_defensive_efficiency.opp_two_point.usu": 0.48100000000000004,
+    "utah_st_vs_unlv_defensive_efficiency.opp_two_point.unlv": 0.517,
+    "utah_st_vs_unlv_defensive_efficiency.opp_three_point.usu": 0.33399999999999996,
+    "utah_st_vs_unlv_defensive_efficiency.opp_three_point.unlv": 0.368,
+    "utah_st_vs_unlv_defensive_efficiency.opp_free_throw.usu": 0.7390000000000001,
+    "utah_st_vs_unlv_defensive_efficiency.opp_free_throw.unlv": 0.733,
+    "utah_st_vs_unlv_defensive_efficiency.opp_points_2_pters.usu": 31.4,
+    "utah_st_vs_unlv_defensive_efficiency.opp_points_2_pters.unlv": 37.4,
+    "utah_st_vs_unlv_defensive_efficiency.opp_points_3_pters.usu": 22.8,
+    "utah_st_vs_unlv_defensive_efficiency.opp_points_3_pters.unlv": 22.9,
+    "utah_st_vs_unlv_defensive_efficiency.opp_off_rebound.usu": 0.304,
+    "utah_st_vs_unlv_defensive_efficiency.opp_off_rebound.unlv": 0.28300000000000003,
+    "utah_st_vs_unlv_defensive_efficiency.opp_def_rebound.usu": 0.68,
+    "utah_st_vs_unlv_defensive_efficiency.opp_def_rebound.unlv": 0.698,
+    "utah_st_vs_unlv_defensive_efficiency.opp_block.usu": 0.055,
+    "utah_st_vs_unlv_defensive_efficiency.opp_block.unlv": 0.05,
+    "utah_st_vs_unlv_defensive_efficiency.opp_steals_play.usu": 0.07200000000000001,
+    "utah_st_vs_unlv_defensive_efficiency.opp_steals_play.unlv": 0.076,
+    "utah_st_vs_unlv_defensive_efficiency.opp_turnovers_play.usu": 0.17800000000000002,
+    "utah_st_vs_unlv_defensive_efficiency.opp_turnovers_play.unlv": 0.155,
+    "utah_st_vs_unlv_defensive_efficiency.opp_personal_fouls_play.usu": 0.22699999999999998,
+    "utah_st_vs_unlv_defensive_efficiency.opp_personal_fouls_play.unlv": 0.242,
+    "utah_st_vs_unlv_defensive_efficiency.opp_assists_fgm.usu": 0.479,
+    "utah_st_vs_unlv_defensive_efficiency.opp_assists_fgm.unlv": 0.564
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "aggies-rebels-2026-03-03",
+  "matchup_title": "#34 Utah St at #121 UNLV",
+  "teams": {
+    "away": "#34 Utah St",
+    "home": "#121 UNLV",
+    "neutral_site": false
+  },
+  "time_local": "11:00 PM",
+  "location": "Thomas & Mack Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/aggies-rebels-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/aggies-rebels-2026-03-03/efficiency"
+  }
+}

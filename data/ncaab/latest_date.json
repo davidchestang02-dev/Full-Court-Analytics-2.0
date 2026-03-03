@@ -1,0 +1,9 @@
+{
+  "sport": "ncaab",
+  "latest_date": "2026-03-03",
+  "out_of_season": false,
+  "schedule_path": "ncaab/2026-03-03/schedule.json",
+  "combined_daily_path": "ncaab/2026-03-03/combined_daily.json",
+  "matchups_dir": "ncaab/2026-03-03/matchups",
+  "updated_at_utc": "2026-03-03T12:02:01.161534+00:00"
+}

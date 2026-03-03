@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/river-hawks-black-bears-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:57.178083+00:00",
+  "tables": {
+    "Matchup Menu: UMASS @ ME": {
+      "headers": [
+        "Stat",
+        "UMASS",
+        "adv",
+        "ME"
+      ],
+      "team_headers": [
+        "UMASS",
+        "ME"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "1.013",
+            "value": 1.013
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "0.922",
+            "value": 0.922
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "49.8%",
+            "value": 0.498
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "15.7%",
+            "value": 0.157
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "0.362",
+            "value": 0.362
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "0.379",
+            "value": 0.379
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "71.7",
+            "value": 71.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "61.5",
+            "value": 61.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "-6.1",
+            "value": -6.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "-7.4",
+            "value": -7.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "UMASS",
+        "adv",
+        "ME"
+      ],
+      "team_headers": [
+        "UMASS",
+        "ME"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "1.013",
+            "value": 1.013
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "0.922",
+            "value": 0.922
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "49.8%",
+            "value": 0.498
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "15.7%",
+            "value": 0.157
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "0.362",
+            "value": 0.362
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "0.379",
+            "value": 0.379
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "71.7",
+            "value": 71.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "61.5",
+            "value": 61.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "-6.1",
+            "value": -6.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "-7.4",
+            "value": -7.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "UMASS",
+        "adv",
+        "ME"
+      ],
+      "team_headers": [
+        "UMASS",
+        "ME"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "1.099",
+            "value": 1.099
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "1.033",
+            "value": 1.033
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "53.5%",
+            "value": 0.535
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "50.9%",
+            "value": 0.509
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "12.4%",
+            "value": 0.124
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ME": {
+            "raw": "16.6%",
+            "value": 0.166
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "73.2%",
+            "value": 0.732
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "68.1%",
+            "value": 0.6809999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "0.283",
+            "value": 0.283
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "0.343",
+            "value": 0.343
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "77.8",
+            "value": 77.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ME": {
+            "raw": "68.9",
+            "value": 68.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "19.1%",
+            "value": 0.191
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "22.1%",
+            "value": 0.221
+          }
+        }
+      ]
+    },
+    "UMass Lowell vs Maine Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UMASS",
+        "adv",
+        "ME"
+      ],
+      "team_headers": [
+        "UMASS",
+        "ME"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "70.8",
+            "value": 70.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "66.7",
+            "value": 66.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "1.013",
+            "value": 1.013
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "0.922",
+            "value": 0.922
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "49.8%",
+            "value": 0.498
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "69.1%",
+            "value": 0.691
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "62.6%",
+            "value": 0.626
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "30.9%",
+            "value": 0.309
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "37.4%",
+            "value": 0.374
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "26.2%",
+            "value": 0.262
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "50.8%",
+            "value": 0.508
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "51.4%",
+            "value": 0.514
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "32.6%",
+            "value": 0.326
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "65.1%",
+            "value": 0.6509999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "64.9%",
+            "value": 0.649
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "40.6",
+            "value": 40.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "31.9",
+            "value": 31.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "17.4",
+            "value": 17.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "17.4",
+            "value": 17.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "73.2%",
+            "value": 0.732
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "68.1%",
+            "value": 0.6809999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ME": {
+            "raw": "10.3%",
+            "value": 0.10300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "15.7%",
+            "value": 0.157
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "19.1%",
+            "value": 0.191
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "22.1%",
+            "value": 0.221
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "0.450",
+            "value": 0.45
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ME": {
+            "raw": "0.536",
+            "value": 0.536
+          }
+        }
+      ]
+    },
+    "UMass Lowell vs Maine Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UMASS",
+        "adv",
+        "ME"
+      ],
+      "team_headers": [
+        "UMASS",
+        "ME"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "70.8",
+            "value": 70.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "66.7",
+            "value": 66.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "1.099",
+            "value": 1.099
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "1.033",
+            "value": 1.033
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "53.5%",
+            "value": 0.535
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "50.9%",
+            "value": 0.509
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "64.9%",
+            "value": 0.649
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "63.0%",
+            "value": 0.63
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "35.1%",
+            "value": 0.35100000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "37.0%",
+            "value": 0.37
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ME": {
+            "raw": "24.9%",
+            "value": 0.249
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "54.6%",
+            "value": 0.546
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ME": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ME": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ME": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "43.2",
+            "value": 43.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "37.5",
+            "value": 37.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "22.0",
+            "value": 22.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "18.3",
+            "value": 18.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "26.8%",
+            "value": 0.268
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "31.9%",
+            "value": 0.319
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "70.1%",
+            "value": 0.701
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ME": {
+            "raw": "83.3%",
+            "value": 0.833
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "10.2%",
+            "value": 0.102
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ME": {
+            "raw": "8.6%",
+            "value": 0.086
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "12.4%",
+            "value": 0.124
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ME": {
+            "raw": "16.6%",
+            "value": 0.166
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "20.5%",
+            "value": 0.205
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ME": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "UMASS": {
+            "raw": "0.475",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ME": {
+            "raw": "0.526",
+            "value": 0.526
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_umass_me.off_efficiency.umass": 1.013,
+    "matchup_menu_umass_me.off_efficiency.me": 0.922,
+    "matchup_menu_umass_me.effective_fg.umass": 0.502,
+    "matchup_menu_umass_me.effective_fg.me": 0.498,
+    "matchup_menu_umass_me.turnovers_play.umass": 0.157,
+    "matchup_menu_umass_me.turnovers_play.me": 0.17300000000000001,
+    "matchup_menu_umass_me.off_rebound.umass": 0.299,
+    "matchup_menu_umass_me.off_rebound.me": 0.16699999999999998,
+    "matchup_menu_umass_me.fta_fga.umass": 0.362,
+    "matchup_menu_umass_me.fta_fga.me": 0.379,
+    "matchup_menu_umass_me.points_game.umass": 71.7,
+    "matchup_menu_umass_me.points_game.me": 61.5,
+    "matchup_menu_umass_me.avg_score_margin.umass": -6.1,
+    "matchup_menu_umass_me.avg_score_margin.me": -7.4,
+    "key_offensive_stats.off_efficiency.umass": 1.013,
+    "key_offensive_stats.off_efficiency.me": 0.922,
+    "key_offensive_stats.effective_fg.umass": 0.502,
+    "key_offensive_stats.effective_fg.me": 0.498,
+    "key_offensive_stats.turnovers_play.umass": 0.157,
+    "key_offensive_stats.turnovers_play.me": 0.17300000000000001,
+    "key_offensive_stats.off_rebound.umass": 0.299,
+    "key_offensive_stats.off_rebound.me": 0.16699999999999998,
+    "key_offensive_stats.fta_fga.umass": 0.362,
+    "key_offensive_stats.fta_fga.me": 0.379,
+    "key_offensive_stats.points_game.umass": 71.7,
+    "key_offensive_stats.points_game.me": 61.5,
+    "key_offensive_stats.avg_score_margin.umass": -6.1,
+    "key_offensive_stats.avg_score_margin.me": -7.4,
+    "key_defensive_stats.def_efficiency.umass": 1.099,
+    "key_defensive_stats.def_efficiency.me": 1.033,
+    "key_defensive_stats.opp_effective_fg.umass": 0.535,
+    "key_defensive_stats.opp_effective_fg.me": 0.509,
+    "key_defensive_stats.opp_turnovers_play.umass": 0.124,
+    "key_defensive_stats.opp_turnovers_play.me": 0.166,
+    "key_defensive_stats.def_rebound.umass": 0.732,
+    "key_defensive_stats.def_rebound.me": 0.6809999999999999,
+    "key_defensive_stats.opp_fta_fga.umass": 0.283,
+    "key_defensive_stats.opp_fta_fga.me": 0.343,
+    "key_defensive_stats.opp_points_game.umass": 77.8,
+    "key_defensive_stats.opp_points_game.me": 68.9,
+    "key_defensive_stats.block.umass": 0.049,
+    "key_defensive_stats.block.me": 0.057,
+    "key_defensive_stats.personal_fouls_play.umass": 0.191,
+    "key_defensive_stats.personal_fouls_play.me": 0.221,
+    "umass_lowell_vs_maine_offensive_efficiency.possessions_gm.umass": 70.8,
+    "umass_lowell_vs_maine_offensive_efficiency.possessions_gm.me": 66.7,
+    "umass_lowell_vs_maine_offensive_efficiency.off_efficiency.umass": 1.013,
+    "umass_lowell_vs_maine_offensive_efficiency.off_efficiency.me": 0.922,
+    "umass_lowell_vs_maine_offensive_efficiency.effective_fg.umass": 0.502,
+    "umass_lowell_vs_maine_offensive_efficiency.effective_fg.me": 0.498,
+    "umass_lowell_vs_maine_offensive_efficiency.two_point_rate.umass": 0.691,
+    "umass_lowell_vs_maine_offensive_efficiency.two_point_rate.me": 0.626,
+    "umass_lowell_vs_maine_offensive_efficiency.three_point_rate.umass": 0.309,
+    "umass_lowell_vs_maine_offensive_efficiency.three_point_rate.me": 0.374,
+    "umass_lowell_vs_maine_offensive_efficiency.fta_play.umass": 0.261,
+    "umass_lowell_vs_maine_offensive_efficiency.fta_play.me": 0.262,
+    "umass_lowell_vs_maine_offensive_efficiency.two_point.umass": 0.508,
+    "umass_lowell_vs_maine_offensive_efficiency.two_point.me": 0.514,
+    "umass_lowell_vs_maine_offensive_efficiency.three_point.umass": 0.326,
+    "umass_lowell_vs_maine_offensive_efficiency.three_point.me": 0.313,
+    "umass_lowell_vs_maine_offensive_efficiency.free_throw.umass": 0.6509999999999999,
+    "umass_lowell_vs_maine_offensive_efficiency.free_throw.me": 0.649,
+    "umass_lowell_vs_maine_offensive_efficiency.points_2_pters.umass": 40.6,
+    "umass_lowell_vs_maine_offensive_efficiency.points_2_pters.me": 31.9,
+    "umass_lowell_vs_maine_offensive_efficiency.points_3_pters.umass": 17.4,
+    "umass_lowell_vs_maine_offensive_efficiency.points_3_pters.me": 17.4,
+    "umass_lowell_vs_maine_offensive_efficiency.off_rebound.umass": 0.299,
+    "umass_lowell_vs_maine_offensive_efficiency.off_rebound.me": 0.16699999999999998,
+    "umass_lowell_vs_maine_offensive_efficiency.def_rebound.umass": 0.732,
+    "umass_lowell_vs_maine_offensive_efficiency.def_rebound.me": 0.6809999999999999,
+    "umass_lowell_vs_maine_offensive_efficiency.block.umass": 0.049,
+    "umass_lowell_vs_maine_offensive_efficiency.block.me": 0.057,
+    "umass_lowell_vs_maine_offensive_efficiency.steals_play.umass": 0.064,
+    "umass_lowell_vs_maine_offensive_efficiency.steals_play.me": 0.10300000000000001,
+    "umass_lowell_vs_maine_offensive_efficiency.turnovers_play.umass": 0.157,
+    "umass_lowell_vs_maine_offensive_efficiency.turnovers_play.me": 0.17300000000000001,
+    "umass_lowell_vs_maine_offensive_efficiency.personal_fouls_play.umass": 0.191,
+    "umass_lowell_vs_maine_offensive_efficiency.personal_fouls_play.me": 0.221,
+    "umass_lowell_vs_maine_offensive_efficiency.assists_fgm.umass": 0.45,
+    "umass_lowell_vs_maine_offensive_efficiency.assists_fgm.me": 0.536,
+    "umass_lowell_vs_maine_defensive_efficiency.possessions_gm.umass": 70.8,
+    "umass_lowell_vs_maine_defensive_efficiency.possessions_gm.me": 66.7,
+    "umass_lowell_vs_maine_defensive_efficiency.def_efficiency.umass": 1.099,
+    "umass_lowell_vs_maine_defensive_efficiency.def_efficiency.me": 1.033,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_effective_fg.umass": 0.535,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_effective_fg.me": 0.509,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_two_point_rate.umass": 0.649,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_two_point_rate.me": 0.63,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_three_point_rate.umass": 0.35100000000000003,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_three_point_rate.me": 0.37,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_fta_play.umass": 0.218,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_fta_play.me": 0.249,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_two_point.umass": 0.546,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_two_point.me": 0.5429999999999999,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_three_point.umass": 0.34299999999999997,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_three_point.me": 0.301,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_free_throw.umass": 0.73,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_free_throw.me": 0.6920000000000001,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_points_2_pters.umass": 43.2,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_points_2_pters.me": 37.5,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_points_3_pters.umass": 22.0,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_points_3_pters.me": 18.3,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_off_rebound.umass": 0.268,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_off_rebound.me": 0.319,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_def_rebound.umass": 0.701,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_def_rebound.me": 0.833,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_block.umass": 0.07,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_block.me": 0.057,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_steals_play.umass": 0.102,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_steals_play.me": 0.086,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_turnovers_play.umass": 0.124,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_turnovers_play.me": 0.166,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_personal_fouls_play.umass": 0.205,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_personal_fouls_play.me": 0.23800000000000002,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_assists_fgm.umass": 0.475,
+    "umass_lowell_vs_maine_defensive_efficiency.opp_assists_fgm.me": 0.526
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "river-hawks-black-bears-2026-03-03",
+  "matchup_title": "#307 UMass Lowell at #332 Maine",
+  "teams": {
+    "away": "#307 UMass Lowell",
+    "home": "#332 Maine",
+    "neutral_site": false
+  },
+  "time_local": "6:00 PM",
+  "location": "Skip Chappelle Court at Memorial Gym",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/river-hawks-black-bears-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/river-hawks-black-bears-2026-03-03/efficiency"
+  }
+}

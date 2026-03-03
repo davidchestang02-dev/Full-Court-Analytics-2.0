@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/thunder-bulls-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:20.473031+00:00",
+  "tables": {
+    "Matchup Menu: OKC @ CHI": {
+      "headers": [
+        "Stat",
+        "OKC",
+        "adv",
+        "CHI"
+      ],
+      "team_headers": [
+        "OKC",
+        "CHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "OKC": {
+            "raw": "1.150",
+            "value": 1.15
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "1.101",
+            "value": 1.101
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "56.0%",
+            "value": 0.56
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "55.1%",
+            "value": 0.551
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "13.0%",
+            "value": 0.13
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "22.1%",
+            "value": 0.221
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "OKC": {
+            "raw": "0.266",
+            "value": 0.266
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "0.241",
+            "value": 0.241
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "OKC": {
+            "raw": "119.2",
+            "value": 119.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "115.8",
+            "value": 115.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "OKC": {
+            "raw": "+11.3",
+            "value": 11.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "-4.3",
+            "value": -4.3
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "OKC",
+        "adv",
+        "CHI"
+      ],
+      "team_headers": [
+        "OKC",
+        "CHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "OKC": {
+            "raw": "1.150",
+            "value": 1.15
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "1.101",
+            "value": 1.101
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "56.0%",
+            "value": 0.56
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "55.1%",
+            "value": 0.551
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "13.0%",
+            "value": 0.13
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "22.1%",
+            "value": 0.221
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "OKC": {
+            "raw": "0.266",
+            "value": 0.266
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "0.241",
+            "value": 0.241
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "OKC": {
+            "raw": "119.2",
+            "value": 119.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "115.8",
+            "value": 115.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "OKC": {
+            "raw": "+11.3",
+            "value": 11.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "-4.3",
+            "value": -4.3
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "OKC",
+        "adv",
+        "CHI"
+      ],
+      "team_headers": [
+        "OKC",
+        "CHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "OKC": {
+            "raw": "1.041",
+            "value": 1.041
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "51.7%",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "55.1%",
+            "value": 0.551
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "14.7%",
+            "value": 0.147
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "11.0%",
+            "value": 0.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "74.1%",
+            "value": 0.741
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "75.8%",
+            "value": 0.758
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "OKC": {
+            "raw": "0.253",
+            "value": 0.253
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "0.243",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "OKC": {
+            "raw": "107.9",
+            "value": 107.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "120.1",
+            "value": 120.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "5.5%",
+            "value": 0.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "16.0%",
+            "value": 0.16
+          }
+        }
+      ]
+    },
+    "Okla City vs Chicago Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "OKC",
+        "adv",
+        "CHI"
+      ],
+      "team_headers": [
+        "OKC",
+        "CHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "OKC": {
+            "raw": "103.7",
+            "value": 103.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "105.2",
+            "value": 105.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "OKC": {
+            "raw": "1.150",
+            "value": 1.15
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "1.101",
+            "value": 1.101
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "56.0%",
+            "value": 0.56
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "55.1%",
+            "value": 0.551
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "OKC": {
+            "raw": "57.9%",
+            "value": 0.579
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "OKC": {
+            "raw": "42.1%",
+            "value": 0.42100000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "44.7%",
+            "value": 0.447
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "21.0%",
+            "value": 0.21
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "18.7%",
+            "value": 0.187
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "57.1%",
+            "value": 0.5710000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "36.6%",
+            "value": 0.366
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "82.0%",
+            "value": 0.82
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "78.5%",
+            "value": 0.785
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "OKC": {
+            "raw": "59.0",
+            "value": 59.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "54.9",
+            "value": 54.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "OKC": {
+            "raw": "40.7",
+            "value": 40.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "44.0",
+            "value": 44.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "22.1%",
+            "value": 0.221
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "74.1%",
+            "value": 0.741
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "75.8%",
+            "value": 0.758
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "5.5%",
+            "value": 0.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "8.5%",
+            "value": 0.085
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "13.0%",
+            "value": 0.13
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "16.0%",
+            "value": 0.16
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "OKC": {
+            "raw": "0.594",
+            "value": 0.594
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "0.686",
+            "value": 0.686
+          }
+        }
+      ]
+    },
+    "Okla City vs Chicago Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "OKC",
+        "adv",
+        "CHI"
+      ],
+      "team_headers": [
+        "OKC",
+        "CHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "OKC": {
+            "raw": "103.7",
+            "value": 103.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "105.2",
+            "value": 105.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "OKC": {
+            "raw": "1.041",
+            "value": 1.041
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "51.7%",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "55.1%",
+            "value": 0.551
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "OKC": {
+            "raw": "56.1%",
+            "value": 0.561
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "59.5%",
+            "value": 0.595
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "OKC": {
+            "raw": "43.9%",
+            "value": 0.439
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "40.5%",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "19.5%",
+            "value": 0.195
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "36.7%",
+            "value": 0.36700000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "37.2%",
+            "value": 0.37200000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "74.7%",
+            "value": 0.747
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "77.6%",
+            "value": 0.7759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "OKC": {
+            "raw": "48.5",
+            "value": 48.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "60.5",
+            "value": 60.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "OKC": {
+            "raw": "42.7",
+            "value": 42.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "42.0",
+            "value": 42.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CHI": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "77.9%",
+            "value": 0.779
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "77.1%",
+            "value": 0.7709999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "OKC": {
+            "raw": "5.0%",
+            "value": 0.05
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "6.8%",
+            "value": 0.068
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CHI": {
+            "raw": "7.7%",
+            "value": 0.077
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "14.7%",
+            "value": 0.147
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "11.0%",
+            "value": 0.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "OKC": {
+            "raw": "18.6%",
+            "value": 0.18600000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CHI": {
+            "raw": "16.1%",
+            "value": 0.161
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "OKC": {
+            "raw": "0.649",
+            "value": 0.649
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CHI": {
+            "raw": "0.642",
+            "value": 0.642
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_okc_chi.off_efficiency.okc": 1.15,
+    "matchup_menu_okc_chi.off_efficiency.chi": 1.101,
+    "matchup_menu_okc_chi.effective_fg.okc": 0.56,
+    "matchup_menu_okc_chi.effective_fg.chi": 0.551,
+    "matchup_menu_okc_chi.turnovers_play.okc": 0.11199999999999999,
+    "matchup_menu_okc_chi.turnovers_play.chi": 0.13,
+    "matchup_menu_okc_chi.off_rebound.okc": 0.221,
+    "matchup_menu_okc_chi.off_rebound.chi": 0.22899999999999998,
+    "matchup_menu_okc_chi.fta_fga.okc": 0.266,
+    "matchup_menu_okc_chi.fta_fga.chi": 0.241,
+    "matchup_menu_okc_chi.points_game.okc": 119.2,
+    "matchup_menu_okc_chi.points_game.chi": 115.8,
+    "matchup_menu_okc_chi.avg_score_margin.okc": 11.3,
+    "matchup_menu_okc_chi.avg_score_margin.chi": -4.3,
+    "key_offensive_stats.off_efficiency.okc": 1.15,
+    "key_offensive_stats.off_efficiency.chi": 1.101,
+    "key_offensive_stats.effective_fg.okc": 0.56,
+    "key_offensive_stats.effective_fg.chi": 0.551,
+    "key_offensive_stats.turnovers_play.okc": 0.11199999999999999,
+    "key_offensive_stats.turnovers_play.chi": 0.13,
+    "key_offensive_stats.off_rebound.okc": 0.221,
+    "key_offensive_stats.off_rebound.chi": 0.22899999999999998,
+    "key_offensive_stats.fta_fga.okc": 0.266,
+    "key_offensive_stats.fta_fga.chi": 0.241,
+    "key_offensive_stats.points_game.okc": 119.2,
+    "key_offensive_stats.points_game.chi": 115.8,
+    "key_offensive_stats.avg_score_margin.okc": 11.3,
+    "key_offensive_stats.avg_score_margin.chi": -4.3,
+    "key_defensive_stats.def_efficiency.okc": 1.041,
+    "key_defensive_stats.def_efficiency.chi": 1.142,
+    "key_defensive_stats.opp_effective_fg.okc": 0.517,
+    "key_defensive_stats.opp_effective_fg.chi": 0.551,
+    "key_defensive_stats.opp_turnovers_play.okc": 0.147,
+    "key_defensive_stats.opp_turnovers_play.chi": 0.11,
+    "key_defensive_stats.def_rebound.okc": 0.741,
+    "key_defensive_stats.def_rebound.chi": 0.758,
+    "key_defensive_stats.opp_fta_fga.okc": 0.253,
+    "key_defensive_stats.opp_fta_fga.chi": 0.243,
+    "key_defensive_stats.opp_points_game.okc": 107.9,
+    "key_defensive_stats.opp_points_game.chi": 120.1,
+    "key_defensive_stats.block.okc": 0.065,
+    "key_defensive_stats.block.chi": 0.055,
+    "key_defensive_stats.personal_fouls_play.okc": 0.16699999999999998,
+    "key_defensive_stats.personal_fouls_play.chi": 0.16,
+    "okla_city_vs_chicago_offensive_efficiency.possessions_gm.okc": 103.7,
+    "okla_city_vs_chicago_offensive_efficiency.possessions_gm.chi": 105.2,
+    "okla_city_vs_chicago_offensive_efficiency.off_efficiency.okc": 1.15,
+    "okla_city_vs_chicago_offensive_efficiency.off_efficiency.chi": 1.101,
+    "okla_city_vs_chicago_offensive_efficiency.effective_fg.okc": 0.56,
+    "okla_city_vs_chicago_offensive_efficiency.effective_fg.chi": 0.551,
+    "okla_city_vs_chicago_offensive_efficiency.two_point_rate.okc": 0.579,
+    "okla_city_vs_chicago_offensive_efficiency.two_point_rate.chi": 0.5529999999999999,
+    "okla_city_vs_chicago_offensive_efficiency.three_point_rate.okc": 0.42100000000000004,
+    "okla_city_vs_chicago_offensive_efficiency.three_point_rate.chi": 0.447,
+    "okla_city_vs_chicago_offensive_efficiency.fta_play.okc": 0.21,
+    "okla_city_vs_chicago_offensive_efficiency.fta_play.chi": 0.187,
+    "okla_city_vs_chicago_offensive_efficiency.two_point.okc": 0.5710000000000001,
+    "okla_city_vs_chicago_offensive_efficiency.two_point.chi": 0.5529999999999999,
+    "okla_city_vs_chicago_offensive_efficiency.three_point.okc": 0.36200000000000004,
+    "okla_city_vs_chicago_offensive_efficiency.three_point.chi": 0.366,
+    "okla_city_vs_chicago_offensive_efficiency.free_throw.okc": 0.82,
+    "okla_city_vs_chicago_offensive_efficiency.free_throw.chi": 0.785,
+    "okla_city_vs_chicago_offensive_efficiency.points_2_pters.okc": 59.0,
+    "okla_city_vs_chicago_offensive_efficiency.points_2_pters.chi": 54.9,
+    "okla_city_vs_chicago_offensive_efficiency.points_3_pters.okc": 40.7,
+    "okla_city_vs_chicago_offensive_efficiency.points_3_pters.chi": 44.0,
+    "okla_city_vs_chicago_offensive_efficiency.off_rebound.okc": 0.221,
+    "okla_city_vs_chicago_offensive_efficiency.off_rebound.chi": 0.22899999999999998,
+    "okla_city_vs_chicago_offensive_efficiency.def_rebound.okc": 0.741,
+    "okla_city_vs_chicago_offensive_efficiency.def_rebound.chi": 0.758,
+    "okla_city_vs_chicago_offensive_efficiency.block.okc": 0.065,
+    "okla_city_vs_chicago_offensive_efficiency.block.chi": 0.055,
+    "okla_city_vs_chicago_offensive_efficiency.steals_play.okc": 0.085,
+    "okla_city_vs_chicago_offensive_efficiency.steals_play.chi": 0.066,
+    "okla_city_vs_chicago_offensive_efficiency.turnovers_play.okc": 0.11199999999999999,
+    "okla_city_vs_chicago_offensive_efficiency.turnovers_play.chi": 0.13,
+    "okla_city_vs_chicago_offensive_efficiency.personal_fouls_play.okc": 0.16699999999999998,
+    "okla_city_vs_chicago_offensive_efficiency.personal_fouls_play.chi": 0.16,
+    "okla_city_vs_chicago_offensive_efficiency.assists_fgm.okc": 0.594,
+    "okla_city_vs_chicago_offensive_efficiency.assists_fgm.chi": 0.686,
+    "okla_city_vs_chicago_defensive_efficiency.possessions_gm.okc": 103.7,
+    "okla_city_vs_chicago_defensive_efficiency.possessions_gm.chi": 105.2,
+    "okla_city_vs_chicago_defensive_efficiency.def_efficiency.okc": 1.041,
+    "okla_city_vs_chicago_defensive_efficiency.def_efficiency.chi": 1.142,
+    "okla_city_vs_chicago_defensive_efficiency.opp_effective_fg.okc": 0.517,
+    "okla_city_vs_chicago_defensive_efficiency.opp_effective_fg.chi": 0.551,
+    "okla_city_vs_chicago_defensive_efficiency.opp_two_point_rate.okc": 0.561,
+    "okla_city_vs_chicago_defensive_efficiency.opp_two_point_rate.chi": 0.595,
+    "okla_city_vs_chicago_defensive_efficiency.opp_three_point_rate.okc": 0.439,
+    "okla_city_vs_chicago_defensive_efficiency.opp_three_point_rate.chi": 0.405,
+    "okla_city_vs_chicago_defensive_efficiency.opp_fta_play.okc": 0.193,
+    "okla_city_vs_chicago_defensive_efficiency.opp_fta_play.chi": 0.195,
+    "okla_city_vs_chicago_defensive_efficiency.opp_two_point.okc": 0.49,
+    "okla_city_vs_chicago_defensive_efficiency.opp_two_point.chi": 0.546,
+    "okla_city_vs_chicago_defensive_efficiency.opp_three_point.okc": 0.36700000000000005,
+    "okla_city_vs_chicago_defensive_efficiency.opp_three_point.chi": 0.37200000000000005,
+    "okla_city_vs_chicago_defensive_efficiency.opp_free_throw.okc": 0.747,
+    "okla_city_vs_chicago_defensive_efficiency.opp_free_throw.chi": 0.7759999999999999,
+    "okla_city_vs_chicago_defensive_efficiency.opp_points_2_pters.okc": 48.5,
+    "okla_city_vs_chicago_defensive_efficiency.opp_points_2_pters.chi": 60.5,
+    "okla_city_vs_chicago_defensive_efficiency.opp_points_3_pters.okc": 42.7,
+    "okla_city_vs_chicago_defensive_efficiency.opp_points_3_pters.chi": 42.0,
+    "okla_city_vs_chicago_defensive_efficiency.opp_off_rebound.okc": 0.259,
+    "okla_city_vs_chicago_defensive_efficiency.opp_off_rebound.chi": 0.242,
+    "okla_city_vs_chicago_defensive_efficiency.opp_def_rebound.okc": 0.779,
+    "okla_city_vs_chicago_defensive_efficiency.opp_def_rebound.chi": 0.7709999999999999,
+    "okla_city_vs_chicago_defensive_efficiency.opp_block.okc": 0.05,
+    "okla_city_vs_chicago_defensive_efficiency.opp_block.chi": 0.06,
+    "okla_city_vs_chicago_defensive_efficiency.opp_steals_play.okc": 0.068,
+    "okla_city_vs_chicago_defensive_efficiency.opp_steals_play.chi": 0.077,
+    "okla_city_vs_chicago_defensive_efficiency.opp_turnovers_play.okc": 0.147,
+    "okla_city_vs_chicago_defensive_efficiency.opp_turnovers_play.chi": 0.11,
+    "okla_city_vs_chicago_defensive_efficiency.opp_personal_fouls_play.okc": 0.18600000000000003,
+    "okla_city_vs_chicago_defensive_efficiency.opp_personal_fouls_play.chi": 0.161,
+    "okla_city_vs_chicago_defensive_efficiency.opp_assists_fgm.okc": 0.649,
+    "okla_city_vs_chicago_defensive_efficiency.opp_assists_fgm.chi": 0.642
+  },
+  "sport": "nba",
+  "date": "2026-03-03",
+  "slug": "thunder-bulls-2026-03-03",
+  "matchup_title": "#1 Okla City at #24 Chicago",
+  "teams": {
+    "away": "#1 Okla City",
+    "home": "#24 Chicago",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "United Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/thunder-bulls-2026-03-03",
+    "detail": "https://www.teamrankings.com/nba/matchup/thunder-bulls-2026-03-03/efficiency"
+  }
+}

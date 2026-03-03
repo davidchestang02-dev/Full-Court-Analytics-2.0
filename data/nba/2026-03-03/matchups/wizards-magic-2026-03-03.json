@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/wizards-magic-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:23.909583+00:00",
+  "tables": {
+    "Matchup Menu: WAS @ ORL": {
+      "headers": [
+        "Stat",
+        "WAS",
+        "adv",
+        "ORL"
+      ],
+      "team_headers": [
+        "WAS",
+        "ORL"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "WAS": {
+            "raw": "1.070",
+            "value": 1.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "1.104",
+            "value": 1.104
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "53.0%",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "13.3%",
+            "value": 0.133
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "12.0%",
+            "value": 0.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "24.8%",
+            "value": 0.248
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "25.0%",
+            "value": 0.25
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "WAS": {
+            "raw": "0.234",
+            "value": 0.234
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ORL": {
+            "raw": "0.301",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "WAS": {
+            "raw": "112.3",
+            "value": 112.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "114.6",
+            "value": 114.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "WAS": {
+            "raw": "-10.7",
+            "value": -10.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "+0.1",
+            "value": 0.1
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "WAS",
+        "adv",
+        "ORL"
+      ],
+      "team_headers": [
+        "WAS",
+        "ORL"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "WAS": {
+            "raw": "1.070",
+            "value": 1.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "1.104",
+            "value": 1.104
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "53.0%",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "13.3%",
+            "value": 0.133
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "12.0%",
+            "value": 0.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "24.8%",
+            "value": 0.248
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "25.0%",
+            "value": 0.25
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "WAS": {
+            "raw": "0.234",
+            "value": 0.234
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ORL": {
+            "raw": "0.301",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "WAS": {
+            "raw": "112.3",
+            "value": 112.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "114.6",
+            "value": 114.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "WAS": {
+            "raw": "-10.7",
+            "value": -10.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "+0.1",
+            "value": 0.1
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "WAS",
+        "adv",
+        "ORL"
+      ],
+      "team_headers": [
+        "WAS",
+        "ORL"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "WAS": {
+            "raw": "1.172",
+            "value": 1.172
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "1.103",
+            "value": 1.103
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "54.4%",
+            "value": 0.544
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "11.6%",
+            "value": 0.11599999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "13.1%",
+            "value": 0.131
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ORL": {
+            "raw": "75.2%",
+            "value": 0.752
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "WAS": {
+            "raw": "0.281",
+            "value": 0.281
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "0.284",
+            "value": 0.284
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "WAS": {
+            "raw": "123.0",
+            "value": 123.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "114.4",
+            "value": 114.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "17.6%",
+            "value": 0.17600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "18.1%",
+            "value": 0.18100000000000002
+          }
+        }
+      ]
+    },
+    "Washington vs Orlando Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "WAS",
+        "adv",
+        "ORL"
+      ],
+      "team_headers": [
+        "WAS",
+        "ORL"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "WAS": {
+            "raw": "104.9",
+            "value": 104.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "103.7",
+            "value": 103.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "WAS": {
+            "raw": "1.070",
+            "value": 1.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "1.104",
+            "value": 1.104
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "53.0%",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "WAS": {
+            "raw": "60.1%",
+            "value": 0.601
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "61.7%",
+            "value": 0.617
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "WAS": {
+            "raw": "39.9%",
+            "value": 0.39899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "38.3%",
+            "value": 0.38299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "18.2%",
+            "value": 0.182
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ORL": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "53.4%",
+            "value": 0.534
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "34.4%",
+            "value": 0.344
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "77.2%",
+            "value": 0.772
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "79.6%",
+            "value": 0.7959999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "WAS": {
+            "raw": "57.4",
+            "value": 57.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "58.3",
+            "value": 58.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "WAS": {
+            "raw": "38.6",
+            "value": 38.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "35.0",
+            "value": 35.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "24.8%",
+            "value": 0.248
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "25.0%",
+            "value": 0.25
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ORL": {
+            "raw": "75.2%",
+            "value": 0.752
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "6.8%",
+            "value": 0.068
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "13.3%",
+            "value": 0.133
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "12.0%",
+            "value": 0.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "17.6%",
+            "value": 0.17600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "18.1%",
+            "value": 0.18100000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "WAS": {
+            "raw": "0.605",
+            "value": 0.605
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "0.643",
+            "value": 0.643
+          }
+        }
+      ]
+    },
+    "Washington vs Orlando Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "WAS",
+        "adv",
+        "ORL"
+      ],
+      "team_headers": [
+        "WAS",
+        "ORL"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "WAS": {
+            "raw": "104.9",
+            "value": 104.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "103.7",
+            "value": 103.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "WAS": {
+            "raw": "1.172",
+            "value": 1.172
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "1.103",
+            "value": 1.103
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "54.4%",
+            "value": 0.544
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "WAS": {
+            "raw": "58.8%",
+            "value": 0.588
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "62.3%",
+            "value": 0.623
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "WAS": {
+            "raw": "41.2%",
+            "value": 0.41200000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "37.7%",
+            "value": 0.377
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "22.0%",
+            "value": 0.22
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "21.7%",
+            "value": 0.217
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "55.5%",
+            "value": 0.555
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "55.2%",
+            "value": 0.552
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "36.6%",
+            "value": 0.366
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "35.3%",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "79.5%",
+            "value": 0.795
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "78.0%",
+            "value": 0.78
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "WAS": {
+            "raw": "60.4",
+            "value": 60.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "60.1",
+            "value": 60.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "WAS": {
+            "raw": "41.9",
+            "value": 41.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "34.9",
+            "value": 34.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "29.8%",
+            "value": 0.298
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ORL": {
+            "raw": "24.8%",
+            "value": 0.248
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "75.2%",
+            "value": 0.752
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "75.0%",
+            "value": 0.75
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "WAS": {
+            "raw": "6.0%",
+            "value": 0.06
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ORL": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "8.5%",
+            "value": 0.085
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "6.9%",
+            "value": 0.069
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "11.6%",
+            "value": 0.11599999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ORL": {
+            "raw": "13.1%",
+            "value": 0.131
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "WAS": {
+            "raw": "15.0%",
+            "value": 0.15
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ORL": {
+            "raw": "18.8%",
+            "value": 0.188
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "WAS": {
+            "raw": "0.649",
+            "value": 0.649
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ORL": {
+            "raw": "0.603",
+            "value": 0.603
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_was_orl.off_efficiency.was": 1.07,
+    "matchup_menu_was_orl.off_efficiency.orl": 1.104,
+    "matchup_menu_was_orl.effective_fg.was": 0.53,
+    "matchup_menu_was_orl.effective_fg.orl": 0.527,
+    "matchup_menu_was_orl.turnovers_play.was": 0.133,
+    "matchup_menu_was_orl.turnovers_play.orl": 0.12,
+    "matchup_menu_was_orl.off_rebound.was": 0.248,
+    "matchup_menu_was_orl.off_rebound.orl": 0.25,
+    "matchup_menu_was_orl.fta_fga.was": 0.234,
+    "matchup_menu_was_orl.fta_fga.orl": 0.301,
+    "matchup_menu_was_orl.points_game.was": 112.3,
+    "matchup_menu_was_orl.points_game.orl": 114.6,
+    "matchup_menu_was_orl.avg_score_margin.was": -10.7,
+    "matchup_menu_was_orl.avg_score_margin.orl": 0.1,
+    "key_offensive_stats.off_efficiency.was": 1.07,
+    "key_offensive_stats.off_efficiency.orl": 1.104,
+    "key_offensive_stats.effective_fg.was": 0.53,
+    "key_offensive_stats.effective_fg.orl": 0.527,
+    "key_offensive_stats.turnovers_play.was": 0.133,
+    "key_offensive_stats.turnovers_play.orl": 0.12,
+    "key_offensive_stats.off_rebound.was": 0.248,
+    "key_offensive_stats.off_rebound.orl": 0.25,
+    "key_offensive_stats.fta_fga.was": 0.234,
+    "key_offensive_stats.fta_fga.orl": 0.301,
+    "key_offensive_stats.points_game.was": 112.3,
+    "key_offensive_stats.points_game.orl": 114.6,
+    "key_offensive_stats.avg_score_margin.was": -10.7,
+    "key_offensive_stats.avg_score_margin.orl": 0.1,
+    "key_defensive_stats.def_efficiency.was": 1.172,
+    "key_defensive_stats.def_efficiency.orl": 1.103,
+    "key_defensive_stats.opp_effective_fg.was": 0.5529999999999999,
+    "key_defensive_stats.opp_effective_fg.orl": 0.544,
+    "key_defensive_stats.opp_turnovers_play.was": 0.11599999999999999,
+    "key_defensive_stats.opp_turnovers_play.orl": 0.131,
+    "key_defensive_stats.def_rebound.was": 0.7020000000000001,
+    "key_defensive_stats.def_rebound.orl": 0.752,
+    "key_defensive_stats.opp_fta_fga.was": 0.281,
+    "key_defensive_stats.opp_fta_fga.orl": 0.284,
+    "key_defensive_stats.opp_points_game.was": 123.0,
+    "key_defensive_stats.opp_points_game.orl": 114.4,
+    "key_defensive_stats.block.was": 0.065,
+    "key_defensive_stats.block.orl": 0.06,
+    "key_defensive_stats.personal_fouls_play.was": 0.17600000000000002,
+    "key_defensive_stats.personal_fouls_play.orl": 0.18100000000000002,
+    "washington_vs_orlando_offensive_efficiency.possessions_gm.was": 104.9,
+    "washington_vs_orlando_offensive_efficiency.possessions_gm.orl": 103.7,
+    "washington_vs_orlando_offensive_efficiency.off_efficiency.was": 1.07,
+    "washington_vs_orlando_offensive_efficiency.off_efficiency.orl": 1.104,
+    "washington_vs_orlando_offensive_efficiency.effective_fg.was": 0.53,
+    "washington_vs_orlando_offensive_efficiency.effective_fg.orl": 0.527,
+    "washington_vs_orlando_offensive_efficiency.two_point_rate.was": 0.601,
+    "washington_vs_orlando_offensive_efficiency.two_point_rate.orl": 0.617,
+    "washington_vs_orlando_offensive_efficiency.three_point_rate.was": 0.39899999999999997,
+    "washington_vs_orlando_offensive_efficiency.three_point_rate.orl": 0.38299999999999995,
+    "washington_vs_orlando_offensive_efficiency.fta_play.was": 0.182,
+    "washington_vs_orlando_offensive_efficiency.fta_play.orl": 0.23199999999999998,
+    "washington_vs_orlando_offensive_efficiency.two_point.was": 0.527,
+    "washington_vs_orlando_offensive_efficiency.two_point.orl": 0.534,
+    "washington_vs_orlando_offensive_efficiency.three_point.was": 0.35600000000000004,
+    "washington_vs_orlando_offensive_efficiency.three_point.orl": 0.344,
+    "washington_vs_orlando_offensive_efficiency.free_throw.was": 0.772,
+    "washington_vs_orlando_offensive_efficiency.free_throw.orl": 0.7959999999999999,
+    "washington_vs_orlando_offensive_efficiency.points_2_pters.was": 57.4,
+    "washington_vs_orlando_offensive_efficiency.points_2_pters.orl": 58.3,
+    "washington_vs_orlando_offensive_efficiency.points_3_pters.was": 38.6,
+    "washington_vs_orlando_offensive_efficiency.points_3_pters.orl": 35.0,
+    "washington_vs_orlando_offensive_efficiency.off_rebound.was": 0.248,
+    "washington_vs_orlando_offensive_efficiency.off_rebound.orl": 0.25,
+    "washington_vs_orlando_offensive_efficiency.def_rebound.was": 0.7020000000000001,
+    "washington_vs_orlando_offensive_efficiency.def_rebound.orl": 0.752,
+    "washington_vs_orlando_offensive_efficiency.block.was": 0.065,
+    "washington_vs_orlando_offensive_efficiency.block.orl": 0.06,
+    "washington_vs_orlando_offensive_efficiency.steals_play.was": 0.068,
+    "washington_vs_orlando_offensive_efficiency.steals_play.orl": 0.076,
+    "washington_vs_orlando_offensive_efficiency.turnovers_play.was": 0.133,
+    "washington_vs_orlando_offensive_efficiency.turnovers_play.orl": 0.12,
+    "washington_vs_orlando_offensive_efficiency.personal_fouls_play.was": 0.17600000000000002,
+    "washington_vs_orlando_offensive_efficiency.personal_fouls_play.orl": 0.18100000000000002,
+    "washington_vs_orlando_offensive_efficiency.assists_fgm.was": 0.605,
+    "washington_vs_orlando_offensive_efficiency.assists_fgm.orl": 0.643,
+    "washington_vs_orlando_defensive_efficiency.possessions_gm.was": 104.9,
+    "washington_vs_orlando_defensive_efficiency.possessions_gm.orl": 103.7,
+    "washington_vs_orlando_defensive_efficiency.def_efficiency.was": 1.172,
+    "washington_vs_orlando_defensive_efficiency.def_efficiency.orl": 1.103,
+    "washington_vs_orlando_defensive_efficiency.opp_effective_fg.was": 0.5529999999999999,
+    "washington_vs_orlando_defensive_efficiency.opp_effective_fg.orl": 0.544,
+    "washington_vs_orlando_defensive_efficiency.opp_two_point_rate.was": 0.588,
+    "washington_vs_orlando_defensive_efficiency.opp_two_point_rate.orl": 0.623,
+    "washington_vs_orlando_defensive_efficiency.opp_three_point_rate.was": 0.41200000000000003,
+    "washington_vs_orlando_defensive_efficiency.opp_three_point_rate.orl": 0.377,
+    "washington_vs_orlando_defensive_efficiency.opp_fta_play.was": 0.22,
+    "washington_vs_orlando_defensive_efficiency.opp_fta_play.orl": 0.217,
+    "washington_vs_orlando_defensive_efficiency.opp_two_point.was": 0.555,
+    "washington_vs_orlando_defensive_efficiency.opp_two_point.orl": 0.552,
+    "washington_vs_orlando_defensive_efficiency.opp_three_point.was": 0.366,
+    "washington_vs_orlando_defensive_efficiency.opp_three_point.orl": 0.353,
+    "washington_vs_orlando_defensive_efficiency.opp_free_throw.was": 0.795,
+    "washington_vs_orlando_defensive_efficiency.opp_free_throw.orl": 0.78,
+    "washington_vs_orlando_defensive_efficiency.opp_points_2_pters.was": 60.4,
+    "washington_vs_orlando_defensive_efficiency.opp_points_2_pters.orl": 60.1,
+    "washington_vs_orlando_defensive_efficiency.opp_points_3_pters.was": 41.9,
+    "washington_vs_orlando_defensive_efficiency.opp_points_3_pters.orl": 34.9,
+    "washington_vs_orlando_defensive_efficiency.opp_off_rebound.was": 0.298,
+    "washington_vs_orlando_defensive_efficiency.opp_off_rebound.orl": 0.248,
+    "washington_vs_orlando_defensive_efficiency.opp_def_rebound.was": 0.752,
+    "washington_vs_orlando_defensive_efficiency.opp_def_rebound.orl": 0.75,
+    "washington_vs_orlando_defensive_efficiency.opp_block.was": 0.06,
+    "washington_vs_orlando_defensive_efficiency.opp_block.orl": 0.062,
+    "washington_vs_orlando_defensive_efficiency.opp_steals_play.was": 0.085,
+    "washington_vs_orlando_defensive_efficiency.opp_steals_play.orl": 0.069,
+    "washington_vs_orlando_defensive_efficiency.opp_turnovers_play.was": 0.11599999999999999,
+    "washington_vs_orlando_defensive_efficiency.opp_turnovers_play.orl": 0.131,
+    "washington_vs_orlando_defensive_efficiency.opp_personal_fouls_play.was": 0.15,
+    "washington_vs_orlando_defensive_efficiency.opp_personal_fouls_play.orl": 0.188,
+    "washington_vs_orlando_defensive_efficiency.opp_assists_fgm.was": 0.649,
+    "washington_vs_orlando_defensive_efficiency.opp_assists_fgm.orl": 0.603
+  },
+  "sport": "nba",
+  "date": "2026-03-03",
+  "slug": "wizards-magic-2026-03-03",
+  "matchup_title": "#30 Washington at #16 Orlando",
+  "teams": {
+    "away": "#30 Washington",
+    "home": "#16 Orlando",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Kia Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/wizards-magic-2026-03-03",
+    "detail": "https://www.teamrankings.com/nba/matchup/wizards-magic-2026-03-03/efficiency"
+  }
+}

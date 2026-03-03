@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/spartans-bulldogs-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:45.567527+00:00",
+  "tables": {
+    "Matchup Menu: SJSU @ FRES": {
+      "headers": [
+        "Stat",
+        "SJSU",
+        "adv",
+        "FRES"
+      ],
+      "team_headers": [
+        "SJSU",
+        "FRES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "1.038",
+            "value": 1.038
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "1.024",
+            "value": 1.024
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "49.2%",
+            "value": 0.49200000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "50.9%",
+            "value": 0.509
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "27.3%",
+            "value": 0.273
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "0.327",
+            "value": 0.327
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "0.346",
+            "value": 0.346
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "70.0",
+            "value": 70.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "72.8",
+            "value": 72.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "-8.5",
+            "value": -8.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "-0.8",
+            "value": -0.8
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "SJSU",
+        "adv",
+        "FRES"
+      ],
+      "team_headers": [
+        "SJSU",
+        "FRES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "1.038",
+            "value": 1.038
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "1.024",
+            "value": 1.024
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "49.2%",
+            "value": 0.49200000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "50.9%",
+            "value": 0.509
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "27.3%",
+            "value": 0.273
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "0.327",
+            "value": 0.327
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "0.346",
+            "value": 0.346
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "70.0",
+            "value": 70.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "72.8",
+            "value": 72.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "-8.5",
+            "value": -8.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "-0.8",
+            "value": -0.8
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "SJSU",
+        "adv",
+        "FRES"
+      ],
+      "team_headers": [
+        "SJSU",
+        "FRES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "1.165",
+            "value": 1.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FRES": {
+            "raw": "1.035",
+            "value": 1.035
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "57.4%",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "51.7%",
+            "value": 0.517
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "16.3%",
+            "value": 0.163
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "65.9%",
+            "value": 0.659
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "0.357",
+            "value": 0.357
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "0.292",
+            "value": 0.292
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "78.5",
+            "value": 78.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "73.5",
+            "value": 73.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "3.6%",
+            "value": 0.036000000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "3.3%",
+            "value": 0.033
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "23.3%",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "21.0%",
+            "value": 0.21
+          }
+        }
+      ]
+    },
+    "San Jose St vs Fresno St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SJSU",
+        "adv",
+        "FRES"
+      ],
+      "team_headers": [
+        "SJSU",
+        "FRES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "67.4",
+            "value": 67.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "71.1",
+            "value": 71.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "1.038",
+            "value": 1.038
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "1.024",
+            "value": 1.024
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "49.2%",
+            "value": 0.49200000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "50.9%",
+            "value": 0.509
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "61.3%",
+            "value": 0.613
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "59.0%",
+            "value": 0.59
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "38.7%",
+            "value": 0.387
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "41.0%",
+            "value": 0.41
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "24.5%",
+            "value": 0.245
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "25.0%",
+            "value": 0.25
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "46.4%",
+            "value": 0.46399999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FRES": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "35.9%",
+            "value": 0.359
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "FRES": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "74.6%",
+            "value": 0.746
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "32.3",
+            "value": 32.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "35.6",
+            "value": 35.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "23.7",
+            "value": 23.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "22.5",
+            "value": 22.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "27.3%",
+            "value": 0.273
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "65.9%",
+            "value": 0.659
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "3.6%",
+            "value": 0.036000000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "3.3%",
+            "value": 0.033
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "8.7%",
+            "value": 0.087
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "23.3%",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "21.0%",
+            "value": 0.21
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "0.434",
+            "value": 0.434
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "0.507",
+            "value": 0.507
+          }
+        }
+      ]
+    },
+    "San Jose St vs Fresno St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SJSU",
+        "adv",
+        "FRES"
+      ],
+      "team_headers": [
+        "SJSU",
+        "FRES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "67.4",
+            "value": 67.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "71.1",
+            "value": 71.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "1.165",
+            "value": 1.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FRES": {
+            "raw": "1.035",
+            "value": 1.035
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "57.4%",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "51.7%",
+            "value": 0.517
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "60.2%",
+            "value": 0.602
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "55.9%",
+            "value": 0.5589999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "39.8%",
+            "value": 0.39799999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "44.1%",
+            "value": 0.441
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "25.8%",
+            "value": 0.258
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "21.4%",
+            "value": 0.214
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "59.8%",
+            "value": 0.598
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "56.2%",
+            "value": 0.562
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "35.8%",
+            "value": 0.358
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FRES": {
+            "raw": "30.6%",
+            "value": 0.306
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "76.8%",
+            "value": 0.768
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "73.0%",
+            "value": 0.73
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "39.8",
+            "value": 39.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "37.1",
+            "value": 37.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "23.6",
+            "value": 23.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "23.9",
+            "value": 23.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "34.1%",
+            "value": 0.341
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "29.3%",
+            "value": 0.293
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "72.7%",
+            "value": 0.727
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "74.5%",
+            "value": 0.745
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "5.5%",
+            "value": 0.055
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "FRES": {
+            "raw": "9.4%",
+            "value": 0.094
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "FRES": {
+            "raw": "16.3%",
+            "value": 0.163
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "FRES": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "SJSU": {
+            "raw": "0.588",
+            "value": 0.588
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "FRES": {
+            "raw": "0.507",
+            "value": 0.507
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_sjsu_fres.off_efficiency.sjsu": 1.038,
+    "matchup_menu_sjsu_fres.off_efficiency.fres": 1.024,
+    "matchup_menu_sjsu_fres.effective_fg.sjsu": 0.49200000000000005,
+    "matchup_menu_sjsu_fres.effective_fg.fres": 0.509,
+    "matchup_menu_sjsu_fres.turnovers_play.sjsu": 0.13699999999999998,
+    "matchup_menu_sjsu_fres.turnovers_play.fres": 0.162,
+    "matchup_menu_sjsu_fres.off_rebound.sjsu": 0.273,
+    "matchup_menu_sjsu_fres.off_rebound.fres": 0.255,
+    "matchup_menu_sjsu_fres.fta_fga.sjsu": 0.327,
+    "matchup_menu_sjsu_fres.fta_fga.fres": 0.346,
+    "matchup_menu_sjsu_fres.points_game.sjsu": 70.0,
+    "matchup_menu_sjsu_fres.points_game.fres": 72.8,
+    "matchup_menu_sjsu_fres.avg_score_margin.sjsu": -8.5,
+    "matchup_menu_sjsu_fres.avg_score_margin.fres": -0.8,
+    "key_offensive_stats.off_efficiency.sjsu": 1.038,
+    "key_offensive_stats.off_efficiency.fres": 1.024,
+    "key_offensive_stats.effective_fg.sjsu": 0.49200000000000005,
+    "key_offensive_stats.effective_fg.fres": 0.509,
+    "key_offensive_stats.turnovers_play.sjsu": 0.13699999999999998,
+    "key_offensive_stats.turnovers_play.fres": 0.162,
+    "key_offensive_stats.off_rebound.sjsu": 0.273,
+    "key_offensive_stats.off_rebound.fres": 0.255,
+    "key_offensive_stats.fta_fga.sjsu": 0.327,
+    "key_offensive_stats.fta_fga.fres": 0.346,
+    "key_offensive_stats.points_game.sjsu": 70.0,
+    "key_offensive_stats.points_game.fres": 72.8,
+    "key_offensive_stats.avg_score_margin.sjsu": -8.5,
+    "key_offensive_stats.avg_score_margin.fres": -0.8,
+    "key_defensive_stats.def_efficiency.sjsu": 1.165,
+    "key_defensive_stats.def_efficiency.fres": 1.035,
+    "key_defensive_stats.opp_effective_fg.sjsu": 0.574,
+    "key_defensive_stats.opp_effective_fg.fres": 0.517,
+    "key_defensive_stats.opp_turnovers_play.sjsu": 0.153,
+    "key_defensive_stats.opp_turnovers_play.fres": 0.163,
+    "key_defensive_stats.def_rebound.sjsu": 0.659,
+    "key_defensive_stats.def_rebound.fres": 0.7070000000000001,
+    "key_defensive_stats.opp_fta_fga.sjsu": 0.357,
+    "key_defensive_stats.opp_fta_fga.fres": 0.292,
+    "key_defensive_stats.opp_points_game.sjsu": 78.5,
+    "key_defensive_stats.opp_points_game.fres": 73.5,
+    "key_defensive_stats.block.sjsu": 0.036000000000000004,
+    "key_defensive_stats.block.fres": 0.033,
+    "key_defensive_stats.personal_fouls_play.sjsu": 0.233,
+    "key_defensive_stats.personal_fouls_play.fres": 0.21,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.possessions_gm.sjsu": 67.4,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.possessions_gm.fres": 71.1,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.off_efficiency.sjsu": 1.038,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.off_efficiency.fres": 1.024,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.effective_fg.sjsu": 0.49200000000000005,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.effective_fg.fres": 0.509,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.two_point_rate.sjsu": 0.613,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.two_point_rate.fres": 0.59,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.three_point_rate.sjsu": 0.387,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.three_point_rate.fres": 0.41,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.fta_play.sjsu": 0.245,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.fta_play.fres": 0.25,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.two_point.sjsu": 0.46399999999999997,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.two_point.fres": 0.529,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.three_point.sjsu": 0.359,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.three_point.fres": 0.321,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.free_throw.sjsu": 0.754,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.free_throw.fres": 0.746,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.points_2_pters.sjsu": 32.3,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.points_2_pters.fres": 35.6,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.points_3_pters.sjsu": 23.7,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.points_3_pters.fres": 22.5,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.off_rebound.sjsu": 0.273,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.off_rebound.fres": 0.255,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.def_rebound.sjsu": 0.659,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.def_rebound.fres": 0.7070000000000001,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.block.sjsu": 0.036000000000000004,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.block.fres": 0.033,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.steals_play.sjsu": 0.076,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.steals_play.fres": 0.087,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.turnovers_play.sjsu": 0.13699999999999998,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.turnovers_play.fres": 0.162,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.personal_fouls_play.sjsu": 0.233,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.personal_fouls_play.fres": 0.21,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.assists_fgm.sjsu": 0.434,
+    "san_jose_st_vs_fresno_st_offensive_efficiency.assists_fgm.fres": 0.507,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.possessions_gm.sjsu": 67.4,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.possessions_gm.fres": 71.1,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.def_efficiency.sjsu": 1.165,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.def_efficiency.fres": 1.035,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_effective_fg.sjsu": 0.574,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_effective_fg.fres": 0.517,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_two_point_rate.sjsu": 0.602,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_two_point_rate.fres": 0.5589999999999999,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_three_point_rate.sjsu": 0.39799999999999996,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_three_point_rate.fres": 0.441,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_fta_play.sjsu": 0.258,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_fta_play.fres": 0.214,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_two_point.sjsu": 0.598,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_two_point.fres": 0.562,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_three_point.sjsu": 0.358,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_three_point.fres": 0.306,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_free_throw.sjsu": 0.768,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_free_throw.fres": 0.73,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_points_2_pters.sjsu": 39.8,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_points_2_pters.fres": 37.1,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_points_3_pters.sjsu": 23.6,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_points_3_pters.fres": 23.9,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_off_rebound.sjsu": 0.341,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_off_rebound.fres": 0.293,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_def_rebound.sjsu": 0.727,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_def_rebound.fres": 0.745,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_block.sjsu": 0.055,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_block.fres": 0.059000000000000004,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_steals_play.sjsu": 0.07400000000000001,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_steals_play.fres": 0.094,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_turnovers_play.sjsu": 0.153,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_turnovers_play.fres": 0.163,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_personal_fouls_play.sjsu": 0.215,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_personal_fouls_play.fres": 0.23199999999999998,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_assists_fgm.sjsu": 0.588,
+    "san_jose_st_vs_fresno_st_defensive_efficiency.opp_assists_fgm.fres": 0.507
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "spartans-bulldogs-2026-03-03",
+  "matchup_title": "#228 San Jose St at #150 Fresno St",
+  "teams": {
+    "away": "#228 San Jose St",
+    "home": "#150 Fresno St",
+    "neutral_site": false
+  },
+  "time_local": "9:00 PM",
+  "location": "Save Mart Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/spartans-bulldogs-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/spartans-bulldogs-2026-03-03/efficiency"
+  }
+}

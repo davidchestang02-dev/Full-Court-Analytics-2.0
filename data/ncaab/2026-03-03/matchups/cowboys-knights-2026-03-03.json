@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/cowboys-knights-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:35.422008+00:00",
+  "tables": {
+    "Matchup Menu: OKST @ UCF": {
+      "headers": [
+        "Stat",
+        "OKST",
+        "adv",
+        "UCF"
+      ],
+      "team_headers": [
+        "OKST",
+        "UCF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "OKST": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "1.137",
+            "value": 1.137
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "52.1%",
+            "value": 0.521
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "27.8%",
+            "value": 0.278
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "OKST": {
+            "raw": "0.390",
+            "value": 0.39
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UCF": {
+            "raw": "0.298",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "OKST": {
+            "raw": "83.3",
+            "value": 83.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "82.1",
+            "value": 82.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "OKST": {
+            "raw": "+1.5",
+            "value": 1.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "+4.4",
+            "value": 4.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "OKST",
+        "adv",
+        "UCF"
+      ],
+      "team_headers": [
+        "OKST",
+        "UCF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "OKST": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "1.137",
+            "value": 1.137
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "52.1%",
+            "value": 0.521
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "27.8%",
+            "value": 0.278
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "OKST": {
+            "raw": "0.390",
+            "value": 0.39
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UCF": {
+            "raw": "0.298",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "OKST": {
+            "raw": "83.3",
+            "value": 83.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "82.1",
+            "value": 82.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "OKST": {
+            "raw": "+1.5",
+            "value": 1.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "+4.4",
+            "value": 4.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "OKST",
+        "adv",
+        "UCF"
+      ],
+      "team_headers": [
+        "OKST",
+        "UCF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "OKST": {
+            "raw": "1.065",
+            "value": 1.065
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "1.076",
+            "value": 1.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "52.5%",
+            "value": 0.525
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "14.0%",
+            "value": 0.14
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "73.1%",
+            "value": 0.731
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "OKST": {
+            "raw": "0.319",
+            "value": 0.319
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "0.336",
+            "value": 0.336
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "OKST": {
+            "raw": "81.8",
+            "value": 81.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "77.8",
+            "value": 77.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "4.1%",
+            "value": 0.040999999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "19.7%",
+            "value": 0.19699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "21.1%",
+            "value": 0.21100000000000002
+          }
+        }
+      ]
+    },
+    "Oklahoma St vs UCF Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "OKST",
+        "adv",
+        "UCF"
+      ],
+      "team_headers": [
+        "OKST",
+        "UCF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "OKST": {
+            "raw": "76.8",
+            "value": 76.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "72.3",
+            "value": 72.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "OKST": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "1.137",
+            "value": 1.137
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "52.1%",
+            "value": 0.521
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "OKST": {
+            "raw": "63.8%",
+            "value": 0.638
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "65.0%",
+            "value": 0.65
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "OKST": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "35.0%",
+            "value": 0.35
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "28.4%",
+            "value": 0.284
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UCF": {
+            "raw": "22.5%",
+            "value": 0.225
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "34.1%",
+            "value": 0.341
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "38.5%",
+            "value": 0.385
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "73.6%",
+            "value": 0.736
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "75.4%",
+            "value": 0.754
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "OKST": {
+            "raw": "42.1",
+            "value": 42.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "42.9",
+            "value": 42.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "OKST": {
+            "raw": "23.2",
+            "value": 23.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "25.2",
+            "value": 25.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "27.8%",
+            "value": 0.278
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "73.1%",
+            "value": 0.731
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "4.1%",
+            "value": 0.040999999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "8.6%",
+            "value": 0.086
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "6.9%",
+            "value": 0.069
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "19.7%",
+            "value": 0.19699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "21.1%",
+            "value": 0.21100000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "OKST": {
+            "raw": "0.526",
+            "value": 0.526
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "0.553",
+            "value": 0.553
+          }
+        }
+      ]
+    },
+    "Oklahoma St vs UCF Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "OKST",
+        "adv",
+        "UCF"
+      ],
+      "team_headers": [
+        "OKST",
+        "UCF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "OKST": {
+            "raw": "76.8",
+            "value": 76.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "72.3",
+            "value": 72.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "OKST": {
+            "raw": "1.065",
+            "value": 1.065
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "1.076",
+            "value": 1.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "52.5%",
+            "value": 0.525
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "OKST": {
+            "raw": "56.5%",
+            "value": 0.565
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "60.0%",
+            "value": 0.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "OKST": {
+            "raw": "43.5%",
+            "value": 0.435
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "40.0%",
+            "value": 0.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "24.9%",
+            "value": 0.249
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "52.1%",
+            "value": 0.521
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "53.9%",
+            "value": 0.539
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "35.3%",
+            "value": 0.353
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "33.6%",
+            "value": 0.336
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "71.5%",
+            "value": 0.715
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "74.2%",
+            "value": 0.742
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "OKST": {
+            "raw": "37.7",
+            "value": 37.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "38.7",
+            "value": 38.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "OKST": {
+            "raw": "29.5",
+            "value": 29.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "24.1",
+            "value": 24.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "26.9%",
+            "value": 0.26899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "72.2%",
+            "value": 0.722
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "66.9%",
+            "value": 0.669
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "OKST": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "14.0%",
+            "value": 0.14
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "OKST": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCF": {
+            "raw": "20.5%",
+            "value": 0.205
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "OKST": {
+            "raw": "0.582",
+            "value": 0.582
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCF": {
+            "raw": "0.522",
+            "value": 0.522
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_okst_ucf.off_efficiency.okst": 1.084,
+    "matchup_menu_okst_ucf.off_efficiency.ucf": 1.137,
+    "matchup_menu_okst_ucf.effective_fg.okst": 0.521,
+    "matchup_menu_okst_ucf.effective_fg.ucf": 0.546,
+    "matchup_menu_okst_ucf.turnovers_play.okst": 0.14400000000000002,
+    "matchup_menu_okst_ucf.turnovers_play.ucf": 0.138,
+    "matchup_menu_okst_ucf.off_rebound.okst": 0.278,
+    "matchup_menu_okst_ucf.off_rebound.ucf": 0.331,
+    "matchup_menu_okst_ucf.fta_fga.okst": 0.39,
+    "matchup_menu_okst_ucf.fta_fga.ucf": 0.298,
+    "matchup_menu_okst_ucf.points_game.okst": 83.3,
+    "matchup_menu_okst_ucf.points_game.ucf": 82.1,
+    "matchup_menu_okst_ucf.avg_score_margin.okst": 1.5,
+    "matchup_menu_okst_ucf.avg_score_margin.ucf": 4.4,
+    "key_offensive_stats.off_efficiency.okst": 1.084,
+    "key_offensive_stats.off_efficiency.ucf": 1.137,
+    "key_offensive_stats.effective_fg.okst": 0.521,
+    "key_offensive_stats.effective_fg.ucf": 0.546,
+    "key_offensive_stats.turnovers_play.okst": 0.14400000000000002,
+    "key_offensive_stats.turnovers_play.ucf": 0.138,
+    "key_offensive_stats.off_rebound.okst": 0.278,
+    "key_offensive_stats.off_rebound.ucf": 0.331,
+    "key_offensive_stats.fta_fga.okst": 0.39,
+    "key_offensive_stats.fta_fga.ucf": 0.298,
+    "key_offensive_stats.points_game.okst": 83.3,
+    "key_offensive_stats.points_game.ucf": 82.1,
+    "key_offensive_stats.avg_score_margin.okst": 1.5,
+    "key_offensive_stats.avg_score_margin.ucf": 4.4,
+    "key_defensive_stats.def_efficiency.okst": 1.065,
+    "key_defensive_stats.def_efficiency.ucf": 1.076,
+    "key_defensive_stats.opp_effective_fg.okst": 0.525,
+    "key_defensive_stats.opp_effective_fg.ucf": 0.525,
+    "key_defensive_stats.opp_turnovers_play.okst": 0.14400000000000002,
+    "key_defensive_stats.opp_turnovers_play.ucf": 0.14,
+    "key_defensive_stats.def_rebound.okst": 0.7120000000000001,
+    "key_defensive_stats.def_rebound.ucf": 0.731,
+    "key_defensive_stats.opp_fta_fga.okst": 0.319,
+    "key_defensive_stats.opp_fta_fga.ucf": 0.336,
+    "key_defensive_stats.opp_points_game.okst": 81.8,
+    "key_defensive_stats.opp_points_game.ucf": 77.8,
+    "key_defensive_stats.block.okst": 0.040999999999999995,
+    "key_defensive_stats.block.ucf": 0.051,
+    "key_defensive_stats.personal_fouls_play.okst": 0.19699999999999998,
+    "key_defensive_stats.personal_fouls_play.ucf": 0.21100000000000002,
+    "oklahoma_st_vs_ucf_offensive_efficiency.possessions_gm.okst": 76.8,
+    "oklahoma_st_vs_ucf_offensive_efficiency.possessions_gm.ucf": 72.3,
+    "oklahoma_st_vs_ucf_offensive_efficiency.off_efficiency.okst": 1.084,
+    "oklahoma_st_vs_ucf_offensive_efficiency.off_efficiency.ucf": 1.137,
+    "oklahoma_st_vs_ucf_offensive_efficiency.effective_fg.okst": 0.521,
+    "oklahoma_st_vs_ucf_offensive_efficiency.effective_fg.ucf": 0.546,
+    "oklahoma_st_vs_ucf_offensive_efficiency.two_point_rate.okst": 0.638,
+    "oklahoma_st_vs_ucf_offensive_efficiency.two_point_rate.ucf": 0.65,
+    "oklahoma_st_vs_ucf_offensive_efficiency.three_point_rate.okst": 0.36200000000000004,
+    "oklahoma_st_vs_ucf_offensive_efficiency.three_point_rate.ucf": 0.35,
+    "oklahoma_st_vs_ucf_offensive_efficiency.fta_play.okst": 0.284,
+    "oklahoma_st_vs_ucf_offensive_efficiency.fta_play.ucf": 0.225,
+    "oklahoma_st_vs_ucf_offensive_efficiency.two_point.okst": 0.527,
+    "oklahoma_st_vs_ucf_offensive_efficiency.two_point.ucf": 0.529,
+    "oklahoma_st_vs_ucf_offensive_efficiency.three_point.okst": 0.341,
+    "oklahoma_st_vs_ucf_offensive_efficiency.three_point.ucf": 0.385,
+    "oklahoma_st_vs_ucf_offensive_efficiency.free_throw.okst": 0.736,
+    "oklahoma_st_vs_ucf_offensive_efficiency.free_throw.ucf": 0.754,
+    "oklahoma_st_vs_ucf_offensive_efficiency.points_2_pters.okst": 42.1,
+    "oklahoma_st_vs_ucf_offensive_efficiency.points_2_pters.ucf": 42.9,
+    "oklahoma_st_vs_ucf_offensive_efficiency.points_3_pters.okst": 23.2,
+    "oklahoma_st_vs_ucf_offensive_efficiency.points_3_pters.ucf": 25.2,
+    "oklahoma_st_vs_ucf_offensive_efficiency.off_rebound.okst": 0.278,
+    "oklahoma_st_vs_ucf_offensive_efficiency.off_rebound.ucf": 0.331,
+    "oklahoma_st_vs_ucf_offensive_efficiency.def_rebound.okst": 0.7120000000000001,
+    "oklahoma_st_vs_ucf_offensive_efficiency.def_rebound.ucf": 0.731,
+    "oklahoma_st_vs_ucf_offensive_efficiency.block.okst": 0.040999999999999995,
+    "oklahoma_st_vs_ucf_offensive_efficiency.block.ucf": 0.051,
+    "oklahoma_st_vs_ucf_offensive_efficiency.steals_play.okst": 0.086,
+    "oklahoma_st_vs_ucf_offensive_efficiency.steals_play.ucf": 0.069,
+    "oklahoma_st_vs_ucf_offensive_efficiency.turnovers_play.okst": 0.14400000000000002,
+    "oklahoma_st_vs_ucf_offensive_efficiency.turnovers_play.ucf": 0.138,
+    "oklahoma_st_vs_ucf_offensive_efficiency.personal_fouls_play.okst": 0.19699999999999998,
+    "oklahoma_st_vs_ucf_offensive_efficiency.personal_fouls_play.ucf": 0.21100000000000002,
+    "oklahoma_st_vs_ucf_offensive_efficiency.assists_fgm.okst": 0.526,
+    "oklahoma_st_vs_ucf_offensive_efficiency.assists_fgm.ucf": 0.553,
+    "oklahoma_st_vs_ucf_defensive_efficiency.possessions_gm.okst": 76.8,
+    "oklahoma_st_vs_ucf_defensive_efficiency.possessions_gm.ucf": 72.3,
+    "oklahoma_st_vs_ucf_defensive_efficiency.def_efficiency.okst": 1.065,
+    "oklahoma_st_vs_ucf_defensive_efficiency.def_efficiency.ucf": 1.076,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_effective_fg.okst": 0.525,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_effective_fg.ucf": 0.525,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_two_point_rate.okst": 0.565,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_two_point_rate.ucf": 0.6,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_three_point_rate.okst": 0.435,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_three_point_rate.ucf": 0.4,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_fta_play.okst": 0.235,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_fta_play.ucf": 0.249,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_two_point.okst": 0.521,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_two_point.ucf": 0.539,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_three_point.okst": 0.353,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_three_point.ucf": 0.336,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_free_throw.okst": 0.715,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_free_throw.ucf": 0.742,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_points_2_pters.okst": 37.7,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_points_2_pters.ucf": 38.7,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_points_3_pters.okst": 29.5,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_points_3_pters.ucf": 24.1,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_off_rebound.okst": 0.28800000000000003,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_off_rebound.ucf": 0.26899999999999996,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_def_rebound.okst": 0.722,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_def_rebound.ucf": 0.669,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_block.okst": 0.066,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_block.ucf": 0.055999999999999994,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_steals_play.okst": 0.081,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_steals_play.ucf": 0.073,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_turnovers_play.okst": 0.14400000000000002,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_turnovers_play.ucf": 0.14,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_personal_fouls_play.okst": 0.215,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_personal_fouls_play.ucf": 0.205,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_assists_fgm.okst": 0.582,
+    "oklahoma_st_vs_ucf_defensive_efficiency.opp_assists_fgm.ucf": 0.522
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "cowboys-knights-2026-03-03",
+  "matchup_title": "#74 Oklahoma St at #52 UCF",
+  "teams": {
+    "away": "#74 Oklahoma St",
+    "home": "#52 UCF",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Addition Financial Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/cowboys-knights-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/cowboys-knights-2026-03-03/efficiency"
+  }
+}

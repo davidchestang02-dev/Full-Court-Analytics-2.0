@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-lions-tigers-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:59.896404+00:00",
+  "tables": {
+    "Matchup Menu: ARPB @ JKST": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "ARPB",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.001",
+            "value": 1.001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.946",
+            "value": 0.946
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.5%",
+            "value": 0.495
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.9%",
+            "value": 0.45899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "16.8%",
+            "value": 0.168
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "25.6%",
+            "value": 0.256
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.387",
+            "value": 0.387
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "0.348",
+            "value": 0.348
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.3",
+            "value": 73.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "69.8",
+            "value": 69.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "-9.8",
+            "value": -9.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "-15.5",
+            "value": -15.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "ARPB",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.001",
+            "value": 1.001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.946",
+            "value": 0.946
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.5%",
+            "value": 0.495
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.9%",
+            "value": 0.45899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "16.8%",
+            "value": 0.168
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "25.6%",
+            "value": 0.256
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.387",
+            "value": 0.387
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "0.348",
+            "value": 0.348
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.3",
+            "value": 73.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "69.8",
+            "value": 69.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "-9.8",
+            "value": -9.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "-15.5",
+            "value": -15.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "ARPB",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.136",
+            "value": 1.136
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "1.156",
+            "value": 1.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "65.9%",
+            "value": 0.659
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "63.1%",
+            "value": 0.631
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.438",
+            "value": 0.438
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.414",
+            "value": 0.414
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "83.1",
+            "value": 83.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "85.3",
+            "value": 85.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "4.9%",
+            "value": 0.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        }
+      ]
+    },
+    "AR-Pine Bluff vs Jackson St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "ARPB",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.2",
+            "value": 73.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "73.8",
+            "value": 73.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.001",
+            "value": 1.001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.946",
+            "value": 0.946
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.5%",
+            "value": 0.495
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.9%",
+            "value": 0.45899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "62.0%",
+            "value": 0.62
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "56.6%",
+            "value": 0.5660000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "38.0%",
+            "value": 0.38
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "43.4%",
+            "value": 0.434
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "27.2%",
+            "value": 0.272
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "24.9%",
+            "value": 0.249
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.1%",
+            "value": 0.491
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.1%",
+            "value": 0.451
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "74.9%",
+            "value": 0.7490000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "76.3%",
+            "value": 0.763
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "34.9",
+            "value": 34.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "30.1",
+            "value": 30.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "21.8",
+            "value": 21.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "24.0",
+            "value": 24.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "25.6%",
+            "value": 0.256
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "65.9%",
+            "value": 0.659
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "63.1%",
+            "value": 0.631
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "4.9%",
+            "value": 0.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "6.9%",
+            "value": 0.069
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "16.8%",
+            "value": 0.168
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.567",
+            "value": 0.567
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "JKST": {
+            "raw": "0.466",
+            "value": 0.466
+          }
+        }
+      ]
+    },
+    "AR-Pine Bluff vs Jackson St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "ARPB",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.2",
+            "value": 73.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "73.8",
+            "value": 73.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.136",
+            "value": 1.136
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "1.156",
+            "value": 1.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "62.4%",
+            "value": 0.624
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "59.7%",
+            "value": 0.597
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "37.6%",
+            "value": 0.376
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "40.3%",
+            "value": 0.40299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "31.2%",
+            "value": 0.312
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "29.9%",
+            "value": 0.299
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "54.4%",
+            "value": 0.544
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "32.9%",
+            "value": 0.32899999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "34.4%",
+            "value": 0.344
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "76.1%",
+            "value": 0.7609999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "41.1",
+            "value": 41.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "40.4",
+            "value": 40.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "22.1",
+            "value": 22.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "25.9",
+            "value": 25.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "34.1%",
+            "value": 0.341
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "36.9%",
+            "value": 0.369
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "74.5%",
+            "value": 0.745
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "5.7%",
+            "value": 0.057
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "9.6%",
+            "value": 0.096
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "9.7%",
+            "value": 0.09699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "21.0%",
+            "value": 0.21
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "21.5%",
+            "value": 0.215
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.544",
+            "value": 0.544
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "0.612",
+            "value": 0.612
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_arpb_jkst.off_efficiency.arpb": 1.001,
+    "matchup_menu_arpb_jkst.off_efficiency.jkst": 0.946,
+    "matchup_menu_arpb_jkst.effective_fg.arpb": 0.495,
+    "matchup_menu_arpb_jkst.effective_fg.jkst": 0.45899999999999996,
+    "matchup_menu_arpb_jkst.turnovers_play.arpb": 0.168,
+    "matchup_menu_arpb_jkst.turnovers_play.jkst": 0.171,
+    "matchup_menu_arpb_jkst.off_rebound.arpb": 0.256,
+    "matchup_menu_arpb_jkst.off_rebound.jkst": 0.255,
+    "matchup_menu_arpb_jkst.fta_fga.arpb": 0.387,
+    "matchup_menu_arpb_jkst.fta_fga.jkst": 0.348,
+    "matchup_menu_arpb_jkst.points_game.arpb": 73.3,
+    "matchup_menu_arpb_jkst.points_game.jkst": 69.8,
+    "matchup_menu_arpb_jkst.avg_score_margin.arpb": -9.8,
+    "matchup_menu_arpb_jkst.avg_score_margin.jkst": -15.5,
+    "key_offensive_stats.off_efficiency.arpb": 1.001,
+    "key_offensive_stats.off_efficiency.jkst": 0.946,
+    "key_offensive_stats.effective_fg.arpb": 0.495,
+    "key_offensive_stats.effective_fg.jkst": 0.45899999999999996,
+    "key_offensive_stats.turnovers_play.arpb": 0.168,
+    "key_offensive_stats.turnovers_play.jkst": 0.171,
+    "key_offensive_stats.off_rebound.arpb": 0.256,
+    "key_offensive_stats.off_rebound.jkst": 0.255,
+    "key_offensive_stats.fta_fga.arpb": 0.387,
+    "key_offensive_stats.fta_fga.jkst": 0.348,
+    "key_offensive_stats.points_game.arpb": 73.3,
+    "key_offensive_stats.points_game.jkst": 69.8,
+    "key_offensive_stats.avg_score_margin.arpb": -9.8,
+    "key_offensive_stats.avg_score_margin.jkst": -15.5,
+    "key_defensive_stats.def_efficiency.arpb": 1.136,
+    "key_defensive_stats.def_efficiency.jkst": 1.156,
+    "key_defensive_stats.opp_effective_fg.arpb": 0.531,
+    "key_defensive_stats.opp_effective_fg.jkst": 0.5329999999999999,
+    "key_defensive_stats.opp_turnovers_play.arpb": 0.139,
+    "key_defensive_stats.opp_turnovers_play.jkst": 0.132,
+    "key_defensive_stats.def_rebound.arpb": 0.659,
+    "key_defensive_stats.def_rebound.jkst": 0.631,
+    "key_defensive_stats.opp_fta_fga.arpb": 0.438,
+    "key_defensive_stats.opp_fta_fga.jkst": 0.414,
+    "key_defensive_stats.opp_points_game.arpb": 83.1,
+    "key_defensive_stats.opp_points_game.jkst": 85.3,
+    "key_defensive_stats.block.arpb": 0.051,
+    "key_defensive_stats.block.jkst": 0.049,
+    "key_defensive_stats.personal_fouls_play.arpb": 0.23800000000000002,
+    "key_defensive_stats.personal_fouls_play.jkst": 0.228,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.possessions_gm.arpb": 73.2,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.possessions_gm.jkst": 73.8,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.off_efficiency.arpb": 1.001,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.off_efficiency.jkst": 0.946,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.effective_fg.arpb": 0.495,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.effective_fg.jkst": 0.45899999999999996,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.two_point_rate.arpb": 0.62,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.two_point_rate.jkst": 0.5660000000000001,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.three_point_rate.arpb": 0.38,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.three_point_rate.jkst": 0.434,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.fta_play.arpb": 0.272,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.fta_play.jkst": 0.249,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.two_point.arpb": 0.491,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.two_point.jkst": 0.451,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.three_point.arpb": 0.33399999999999996,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.three_point.jkst": 0.313,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.free_throw.arpb": 0.7490000000000001,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.free_throw.jkst": 0.763,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.points_2_pters.arpb": 34.9,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.points_2_pters.jkst": 30.1,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.points_3_pters.arpb": 21.8,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.points_3_pters.jkst": 24.0,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.off_rebound.arpb": 0.256,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.off_rebound.jkst": 0.255,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.def_rebound.arpb": 0.659,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.def_rebound.jkst": 0.631,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.block.arpb": 0.051,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.block.jkst": 0.049,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.steals_play.arpb": 0.081,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.steals_play.jkst": 0.069,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.turnovers_play.arpb": 0.168,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.turnovers_play.jkst": 0.171,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.personal_fouls_play.arpb": 0.23800000000000002,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.personal_fouls_play.jkst": 0.228,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.assists_fgm.arpb": 0.567,
+    "ar_pine_bluff_vs_jackson_st_offensive_efficiency.assists_fgm.jkst": 0.466,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.possessions_gm.arpb": 73.2,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.possessions_gm.jkst": 73.8,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.def_efficiency.arpb": 1.136,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.def_efficiency.jkst": 1.156,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_effective_fg.arpb": 0.531,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_effective_fg.jkst": 0.5329999999999999,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_two_point_rate.arpb": 0.624,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_two_point_rate.jkst": 0.597,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_three_point_rate.arpb": 0.376,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_three_point_rate.jkst": 0.40299999999999997,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_fta_play.arpb": 0.312,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_fta_play.jkst": 0.299,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_two_point.arpb": 0.5529999999999999,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_two_point.jkst": 0.544,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_three_point.arpb": 0.32899999999999996,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_three_point.jkst": 0.344,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_free_throw.arpb": 0.7609999999999999,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_free_throw.jkst": 0.7390000000000001,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_points_2_pters.arpb": 41.1,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_points_2_pters.jkst": 40.4,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_points_3_pters.arpb": 22.1,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_points_3_pters.jkst": 25.9,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_off_rebound.arpb": 0.341,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_off_rebound.jkst": 0.369,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_def_rebound.arpb": 0.7440000000000001,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_def_rebound.jkst": 0.745,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_block.arpb": 0.057,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_block.jkst": 0.07200000000000001,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_steals_play.arpb": 0.096,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_steals_play.jkst": 0.09699999999999999,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_turnovers_play.arpb": 0.139,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_turnovers_play.jkst": 0.132,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_personal_fouls_play.arpb": 0.21,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_personal_fouls_play.jkst": 0.215,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_assists_fgm.arpb": 0.544,
+    "ar_pine_bluff_vs_jackson_st_defensive_efficiency.opp_assists_fgm.jkst": 0.612
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "golden-lions-tigers-2026-03-03",
+  "matchup_title": "#342 AR-Pine Bluff at #353 Jackson St",
+  "teams": {
+    "away": "#342 AR-Pine Bluff",
+    "home": "#353 Jackson St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Williams Assembly Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-lions-tigers-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-lions-tigers-2026-03-03/efficiency"
+  }
+}

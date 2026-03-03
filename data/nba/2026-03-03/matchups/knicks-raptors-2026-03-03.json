@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/knicks-raptors-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:18.215747+00:00",
+  "tables": {
+    "Matchup Menu: NY @ TOR": {
+      "headers": [
+        "Stat",
+        "NY",
+        "adv",
+        "TOR"
+      ],
+      "team_headers": [
+        "NY",
+        "TOR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NY": {
+            "raw": "1.155",
+            "value": 1.155
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NY": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "53.7%",
+            "value": 0.537
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "12.1%",
+            "value": 0.121
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NY": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "25.9%",
+            "value": 0.259
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NY": {
+            "raw": "0.240",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "0.257",
+            "value": 0.257
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NY": {
+            "raw": "117.3",
+            "value": 117.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "114.0",
+            "value": 114.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NY": {
+            "raw": "+6.2",
+            "value": 6.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "+2.0",
+            "value": 2.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "NY",
+        "adv",
+        "TOR"
+      ],
+      "team_headers": [
+        "NY",
+        "TOR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NY": {
+            "raw": "1.155",
+            "value": 1.155
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NY": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "53.7%",
+            "value": 0.537
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "12.1%",
+            "value": 0.121
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NY": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "25.9%",
+            "value": 0.259
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NY": {
+            "raw": "0.240",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "0.257",
+            "value": 0.257
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NY": {
+            "raw": "117.3",
+            "value": 117.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "114.0",
+            "value": 114.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NY": {
+            "raw": "+6.2",
+            "value": 6.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "+2.0",
+            "value": 2.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "NY",
+        "adv",
+        "TOR"
+      ],
+      "team_headers": [
+        "NY",
+        "TOR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NY": {
+            "raw": "1.095",
+            "value": 1.095
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "1.091",
+            "value": 1.091
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NY": {
+            "raw": "53.6%",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "12.7%",
+            "value": 0.127
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "13.9%",
+            "value": 0.139
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NY": {
+            "raw": "76.2%",
+            "value": 0.762
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "NY": {
+            "raw": "0.271",
+            "value": 0.271
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "0.278",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "NY": {
+            "raw": "111.2",
+            "value": 111.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "112.0",
+            "value": 112.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NY": {
+            "raw": "4.8%",
+            "value": 0.048
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "18.2%",
+            "value": 0.182
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "18.4%",
+            "value": 0.184
+          }
+        }
+      ]
+    },
+    "New York vs Toronto Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NY",
+        "adv",
+        "TOR"
+      ],
+      "team_headers": [
+        "NY",
+        "TOR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NY": {
+            "raw": "101.5",
+            "value": 101.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "102.7",
+            "value": 102.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NY": {
+            "raw": "1.155",
+            "value": 1.155
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NY": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "53.7%",
+            "value": 0.537
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "NY": {
+            "raw": "56.3%",
+            "value": 0.563
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "62.8%",
+            "value": 0.628
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "NY": {
+            "raw": "43.7%",
+            "value": 0.43700000000000006
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "37.2%",
+            "value": 0.37200000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "19.0%",
+            "value": 0.19
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "20.1%",
+            "value": 0.201
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "NY": {
+            "raw": "54.5%",
+            "value": 0.545
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "NY": {
+            "raw": "37.6%",
+            "value": 0.376
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "NY": {
+            "raw": "78.4%",
+            "value": 0.784
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "78.4%",
+            "value": 0.784
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "NY": {
+            "raw": "55.6",
+            "value": 55.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "61.4",
+            "value": 61.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "NY": {
+            "raw": "44.7",
+            "value": 44.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "34.6",
+            "value": 34.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NY": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "25.9%",
+            "value": 0.259
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NY": {
+            "raw": "76.2%",
+            "value": 0.762
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NY": {
+            "raw": "4.8%",
+            "value": 0.048
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "12.1%",
+            "value": 0.121
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "18.2%",
+            "value": 0.182
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "18.4%",
+            "value": 0.184
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "NY": {
+            "raw": "0.646",
+            "value": 0.646
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "0.690",
+            "value": 0.69
+          }
+        }
+      ]
+    },
+    "New York vs Toronto Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NY",
+        "adv",
+        "TOR"
+      ],
+      "team_headers": [
+        "NY",
+        "TOR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NY": {
+            "raw": "101.5",
+            "value": 101.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "102.7",
+            "value": 102.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NY": {
+            "raw": "1.095",
+            "value": 1.095
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "1.091",
+            "value": 1.091
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NY": {
+            "raw": "53.6%",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "NY": {
+            "raw": "55.6%",
+            "value": 0.556
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "57.2%",
+            "value": 0.5720000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "NY": {
+            "raw": "44.4%",
+            "value": 0.444
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "42.8%",
+            "value": 0.428
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "21.0%",
+            "value": 0.21
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "21.1%",
+            "value": 0.21100000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "NY": {
+            "raw": "53.6%",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "NY": {
+            "raw": "35.7%",
+            "value": 0.35700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "34.9%",
+            "value": 0.349
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "NY": {
+            "raw": "77.5%",
+            "value": 0.775
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "79.5%",
+            "value": 0.795
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "NY": {
+            "raw": "51.7",
+            "value": 51.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "54.1",
+            "value": 54.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "NY": {
+            "raw": "41.2",
+            "value": 41.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "38.8",
+            "value": 38.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "NY": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TOR": {
+            "raw": "26.1%",
+            "value": 0.261
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "NY": {
+            "raw": "70.6%",
+            "value": 0.706
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "74.1%",
+            "value": 0.741
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "NY": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "6.3%",
+            "value": 0.063
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "7.0%",
+            "value": 0.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "12.7%",
+            "value": 0.127
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TOR": {
+            "raw": "13.9%",
+            "value": 0.139
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "NY": {
+            "raw": "17.0%",
+            "value": 0.17
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "NY": {
+            "raw": "0.624",
+            "value": 0.624
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TOR": {
+            "raw": "0.613",
+            "value": 0.613
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_ny_tor.off_efficiency.ny": 1.155,
+    "matchup_menu_ny_tor.off_efficiency.tor": 1.11,
+    "matchup_menu_ny_tor.effective_fg.ny": 0.5529999999999999,
+    "matchup_menu_ny_tor.effective_fg.tor": 0.537,
+    "matchup_menu_ny_tor.turnovers_play.ny": 0.11699999999999999,
+    "matchup_menu_ny_tor.turnovers_play.tor": 0.121,
+    "matchup_menu_ny_tor.off_rebound.ny": 0.294,
+    "matchup_menu_ny_tor.off_rebound.tor": 0.259,
+    "matchup_menu_ny_tor.fta_fga.ny": 0.24,
+    "matchup_menu_ny_tor.fta_fga.tor": 0.257,
+    "matchup_menu_ny_tor.points_game.ny": 117.3,
+    "matchup_menu_ny_tor.points_game.tor": 114.0,
+    "matchup_menu_ny_tor.avg_score_margin.ny": 6.2,
+    "matchup_menu_ny_tor.avg_score_margin.tor": 2.0,
+    "key_offensive_stats.off_efficiency.ny": 1.155,
+    "key_offensive_stats.off_efficiency.tor": 1.11,
+    "key_offensive_stats.effective_fg.ny": 0.5529999999999999,
+    "key_offensive_stats.effective_fg.tor": 0.537,
+    "key_offensive_stats.turnovers_play.ny": 0.11699999999999999,
+    "key_offensive_stats.turnovers_play.tor": 0.121,
+    "key_offensive_stats.off_rebound.ny": 0.294,
+    "key_offensive_stats.off_rebound.tor": 0.259,
+    "key_offensive_stats.fta_fga.ny": 0.24,
+    "key_offensive_stats.fta_fga.tor": 0.257,
+    "key_offensive_stats.points_game.ny": 117.3,
+    "key_offensive_stats.points_game.tor": 114.0,
+    "key_offensive_stats.avg_score_margin.ny": 6.2,
+    "key_offensive_stats.avg_score_margin.tor": 2.0,
+    "key_defensive_stats.def_efficiency.ny": 1.095,
+    "key_defensive_stats.def_efficiency.tor": 1.091,
+    "key_defensive_stats.opp_effective_fg.ny": 0.536,
+    "key_defensive_stats.opp_effective_fg.tor": 0.536,
+    "key_defensive_stats.opp_turnovers_play.ny": 0.127,
+    "key_defensive_stats.opp_turnovers_play.tor": 0.139,
+    "key_defensive_stats.def_rebound.ny": 0.762,
+    "key_defensive_stats.def_rebound.tor": 0.7390000000000001,
+    "key_defensive_stats.opp_fta_fga.ny": 0.271,
+    "key_defensive_stats.opp_fta_fga.tor": 0.278,
+    "key_defensive_stats.opp_points_game.ny": 111.2,
+    "key_defensive_stats.opp_points_game.tor": 112.0,
+    "key_defensive_stats.block.ny": 0.048,
+    "key_defensive_stats.block.tor": 0.055999999999999994,
+    "key_defensive_stats.personal_fouls_play.ny": 0.182,
+    "key_defensive_stats.personal_fouls_play.tor": 0.184,
+    "new_york_vs_toronto_offensive_efficiency.possessions_gm.ny": 101.5,
+    "new_york_vs_toronto_offensive_efficiency.possessions_gm.tor": 102.7,
+    "new_york_vs_toronto_offensive_efficiency.off_efficiency.ny": 1.155,
+    "new_york_vs_toronto_offensive_efficiency.off_efficiency.tor": 1.11,
+    "new_york_vs_toronto_offensive_efficiency.effective_fg.ny": 0.5529999999999999,
+    "new_york_vs_toronto_offensive_efficiency.effective_fg.tor": 0.537,
+    "new_york_vs_toronto_offensive_efficiency.two_point_rate.ny": 0.563,
+    "new_york_vs_toronto_offensive_efficiency.two_point_rate.tor": 0.628,
+    "new_york_vs_toronto_offensive_efficiency.three_point_rate.ny": 0.43700000000000006,
+    "new_york_vs_toronto_offensive_efficiency.three_point_rate.tor": 0.37200000000000005,
+    "new_york_vs_toronto_offensive_efficiency.fta_play.ny": 0.19,
+    "new_york_vs_toronto_offensive_efficiency.fta_play.tor": 0.201,
+    "new_york_vs_toronto_offensive_efficiency.two_point.ny": 0.545,
+    "new_york_vs_toronto_offensive_efficiency.two_point.tor": 0.5479999999999999,
+    "new_york_vs_toronto_offensive_efficiency.three_point.ny": 0.376,
+    "new_york_vs_toronto_offensive_efficiency.three_point.tor": 0.34700000000000003,
+    "new_york_vs_toronto_offensive_efficiency.free_throw.ny": 0.784,
+    "new_york_vs_toronto_offensive_efficiency.free_throw.tor": 0.784,
+    "new_york_vs_toronto_offensive_efficiency.points_2_pters.ny": 55.6,
+    "new_york_vs_toronto_offensive_efficiency.points_2_pters.tor": 61.4,
+    "new_york_vs_toronto_offensive_efficiency.points_3_pters.ny": 44.7,
+    "new_york_vs_toronto_offensive_efficiency.points_3_pters.tor": 34.6,
+    "new_york_vs_toronto_offensive_efficiency.off_rebound.ny": 0.294,
+    "new_york_vs_toronto_offensive_efficiency.off_rebound.tor": 0.259,
+    "new_york_vs_toronto_offensive_efficiency.def_rebound.ny": 0.762,
+    "new_york_vs_toronto_offensive_efficiency.def_rebound.tor": 0.7390000000000001,
+    "new_york_vs_toronto_offensive_efficiency.block.ny": 0.048,
+    "new_york_vs_toronto_offensive_efficiency.block.tor": 0.055999999999999994,
+    "new_york_vs_toronto_offensive_efficiency.steals_play.ny": 0.07400000000000001,
+    "new_york_vs_toronto_offensive_efficiency.steals_play.tor": 0.076,
+    "new_york_vs_toronto_offensive_efficiency.turnovers_play.ny": 0.11699999999999999,
+    "new_york_vs_toronto_offensive_efficiency.turnovers_play.tor": 0.121,
+    "new_york_vs_toronto_offensive_efficiency.personal_fouls_play.ny": 0.182,
+    "new_york_vs_toronto_offensive_efficiency.personal_fouls_play.tor": 0.184,
+    "new_york_vs_toronto_offensive_efficiency.assists_fgm.ny": 0.646,
+    "new_york_vs_toronto_offensive_efficiency.assists_fgm.tor": 0.69,
+    "new_york_vs_toronto_defensive_efficiency.possessions_gm.ny": 101.5,
+    "new_york_vs_toronto_defensive_efficiency.possessions_gm.tor": 102.7,
+    "new_york_vs_toronto_defensive_efficiency.def_efficiency.ny": 1.095,
+    "new_york_vs_toronto_defensive_efficiency.def_efficiency.tor": 1.091,
+    "new_york_vs_toronto_defensive_efficiency.opp_effective_fg.ny": 0.536,
+    "new_york_vs_toronto_defensive_efficiency.opp_effective_fg.tor": 0.536,
+    "new_york_vs_toronto_defensive_efficiency.opp_two_point_rate.ny": 0.556,
+    "new_york_vs_toronto_defensive_efficiency.opp_two_point_rate.tor": 0.5720000000000001,
+    "new_york_vs_toronto_defensive_efficiency.opp_three_point_rate.ny": 0.444,
+    "new_york_vs_toronto_defensive_efficiency.opp_three_point_rate.tor": 0.428,
+    "new_york_vs_toronto_defensive_efficiency.opp_fta_play.ny": 0.21,
+    "new_york_vs_toronto_defensive_efficiency.opp_fta_play.tor": 0.21100000000000002,
+    "new_york_vs_toronto_defensive_efficiency.opp_two_point.ny": 0.536,
+    "new_york_vs_toronto_defensive_efficiency.opp_two_point.tor": 0.546,
+    "new_york_vs_toronto_defensive_efficiency.opp_three_point.ny": 0.35700000000000004,
+    "new_york_vs_toronto_defensive_efficiency.opp_three_point.tor": 0.349,
+    "new_york_vs_toronto_defensive_efficiency.opp_free_throw.ny": 0.775,
+    "new_york_vs_toronto_defensive_efficiency.opp_free_throw.tor": 0.795,
+    "new_york_vs_toronto_defensive_efficiency.opp_points_2_pters.ny": 51.7,
+    "new_york_vs_toronto_defensive_efficiency.opp_points_2_pters.tor": 54.1,
+    "new_york_vs_toronto_defensive_efficiency.opp_points_3_pters.ny": 41.2,
+    "new_york_vs_toronto_defensive_efficiency.opp_points_3_pters.tor": 38.8,
+    "new_york_vs_toronto_defensive_efficiency.opp_off_rebound.ny": 0.23800000000000002,
+    "new_york_vs_toronto_defensive_efficiency.opp_off_rebound.tor": 0.261,
+    "new_york_vs_toronto_defensive_efficiency.opp_def_rebound.ny": 0.706,
+    "new_york_vs_toronto_defensive_efficiency.opp_def_rebound.tor": 0.741,
+    "new_york_vs_toronto_defensive_efficiency.opp_block.ny": 0.051,
+    "new_york_vs_toronto_defensive_efficiency.opp_block.tor": 0.059000000000000004,
+    "new_york_vs_toronto_defensive_efficiency.opp_steals_play.ny": 0.063,
+    "new_york_vs_toronto_defensive_efficiency.opp_steals_play.tor": 0.07,
+    "new_york_vs_toronto_defensive_efficiency.opp_turnovers_play.ny": 0.127,
+    "new_york_vs_toronto_defensive_efficiency.opp_turnovers_play.tor": 0.139,
+    "new_york_vs_toronto_defensive_efficiency.opp_personal_fouls_play.ny": 0.17,
+    "new_york_vs_toronto_defensive_efficiency.opp_personal_fouls_play.tor": 0.171,
+    "new_york_vs_toronto_defensive_efficiency.opp_assists_fgm.ny": 0.624,
+    "new_york_vs_toronto_defensive_efficiency.opp_assists_fgm.tor": 0.613
+  },
+  "sport": "nba",
+  "date": "2026-03-03",
+  "slug": "knicks-raptors-2026-03-03",
+  "matchup_title": "#5 New York at #12 Toronto",
+  "teams": {
+    "away": "#5 New York",
+    "home": "#12 Toronto",
+    "neutral_site": false
+  },
+  "time_local": "7:30 PM",
+  "location": "Scotiabank Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/knicks-raptors-2026-03-03",
+    "detail": "https://www.teamrankings.com/nba/matchup/knicks-raptors-2026-03-03/efficiency"
+  }
+}

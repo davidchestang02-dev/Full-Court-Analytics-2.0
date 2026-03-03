@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/aggies-fighting-camels-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:51.729365+00:00",
+  "tables": {
+    "Matchup Menu: NCAT @ CAMP": {
+      "headers": [
+        "Stat",
+        "NCAT",
+        "adv",
+        "CAMP"
+      ],
+      "team_headers": [
+        "NCAT",
+        "CAMP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "1.051",
+            "value": 1.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "49.1%",
+            "value": 0.491
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "16.1%",
+            "value": 0.161
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "31.0%",
+            "value": 0.31
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "0.423",
+            "value": 0.423
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "0.411",
+            "value": 0.411
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "74.0",
+            "value": 74.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "75.0",
+            "value": 75.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "-3.7",
+            "value": -3.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "-4.2",
+            "value": -4.2
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "NCAT",
+        "adv",
+        "CAMP"
+      ],
+      "team_headers": [
+        "NCAT",
+        "CAMP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "1.051",
+            "value": 1.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "49.1%",
+            "value": 0.491
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "16.1%",
+            "value": 0.161
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "31.0%",
+            "value": 0.31
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "0.423",
+            "value": 0.423
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "0.411",
+            "value": 0.411
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "74.0",
+            "value": 74.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "75.0",
+            "value": 75.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "-3.7",
+            "value": -3.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "-4.2",
+            "value": -4.2
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "NCAT",
+        "adv",
+        "CAMP"
+      ],
+      "team_headers": [
+        "NCAT",
+        "CAMP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "1.092",
+            "value": 1.092
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "52.3%",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "54.9%",
+            "value": 0.5489999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "12.1%",
+            "value": 0.121
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "15.0%",
+            "value": 0.15
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "74.0%",
+            "value": 0.74
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "0.375",
+            "value": 0.375
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "0.372",
+            "value": 0.372
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "77.7",
+            "value": 77.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "79.2",
+            "value": 79.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "6.3%",
+            "value": 0.063
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "2.5%",
+            "value": 0.025
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "22.6%",
+            "value": 0.226
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        }
+      ]
+    },
+    "NC A&T vs Campbell Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NCAT",
+        "adv",
+        "CAMP"
+      ],
+      "team_headers": [
+        "NCAT",
+        "CAMP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "71.1",
+            "value": 71.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "71.4",
+            "value": 71.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "1.051",
+            "value": 1.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "49.1%",
+            "value": 0.491
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "66.6%",
+            "value": 0.6659999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "62.9%",
+            "value": 0.629
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "37.1%",
+            "value": 0.371
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "29.5%",
+            "value": 0.295
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "52.6%",
+            "value": 0.526
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "31.7%",
+            "value": 0.317
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "32.0%",
+            "value": 0.32
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "73.8%",
+            "value": 0.738
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "72.3%",
+            "value": 0.723
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "39.0",
+            "value": 39.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "36.6",
+            "value": 36.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "17.7",
+            "value": 17.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "20.9",
+            "value": 20.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "31.0%",
+            "value": 0.31
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "74.0%",
+            "value": 0.74
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "6.3%",
+            "value": 0.063
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "2.5%",
+            "value": 0.025
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "16.1%",
+            "value": 0.161
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "22.6%",
+            "value": 0.226
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "0.456",
+            "value": 0.456
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "0.434",
+            "value": 0.434
+          }
+        }
+      ]
+    },
+    "NC A&T vs Campbell Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NCAT",
+        "adv",
+        "CAMP"
+      ],
+      "team_headers": [
+        "NCAT",
+        "CAMP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "71.1",
+            "value": 71.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "71.4",
+            "value": 71.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "1.092",
+            "value": 1.092
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "52.3%",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "54.9%",
+            "value": 0.5489999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "62.0%",
+            "value": 0.62
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "70.0%",
+            "value": 0.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "38.0%",
+            "value": 0.38
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "30.0%",
+            "value": 0.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "28.0%",
+            "value": 0.28
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "26.6%",
+            "value": 0.266
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "36.1%",
+            "value": 0.361
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "37.0%",
+            "value": 0.37
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "69.3%",
+            "value": 0.693
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "74.0%",
+            "value": 0.74
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "37.8",
+            "value": 37.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "44.1",
+            "value": 44.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "24.5",
+            "value": 24.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "19.2",
+            "value": 19.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "26.0%",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "31.4%",
+            "value": 0.314
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "69.0%",
+            "value": 0.69
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CAMP": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "12.1%",
+            "value": 0.121
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "15.0%",
+            "value": 0.15
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CAMP": {
+            "raw": "23.9%",
+            "value": 0.239
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "NCAT": {
+            "raw": "0.583",
+            "value": 0.583
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CAMP": {
+            "raw": "0.507",
+            "value": 0.507
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_ncat_camp.off_efficiency.ncat": 1.04,
+    "matchup_menu_ncat_camp.off_efficiency.camp": 1.051,
+    "matchup_menu_ncat_camp.effective_fg.ncat": 0.509,
+    "matchup_menu_ncat_camp.effective_fg.camp": 0.491,
+    "matchup_menu_ncat_camp.turnovers_play.ncat": 0.161,
+    "matchup_menu_ncat_camp.turnovers_play.camp": 0.14800000000000002,
+    "matchup_menu_ncat_camp.off_rebound.ncat": 0.293,
+    "matchup_menu_ncat_camp.off_rebound.camp": 0.31,
+    "matchup_menu_ncat_camp.fta_fga.ncat": 0.423,
+    "matchup_menu_ncat_camp.fta_fga.camp": 0.411,
+    "matchup_menu_ncat_camp.points_game.ncat": 74.0,
+    "matchup_menu_ncat_camp.points_game.camp": 75.0,
+    "matchup_menu_ncat_camp.avg_score_margin.ncat": -3.7,
+    "matchup_menu_ncat_camp.avg_score_margin.camp": -4.2,
+    "key_offensive_stats.off_efficiency.ncat": 1.04,
+    "key_offensive_stats.off_efficiency.camp": 1.051,
+    "key_offensive_stats.effective_fg.ncat": 0.509,
+    "key_offensive_stats.effective_fg.camp": 0.491,
+    "key_offensive_stats.turnovers_play.ncat": 0.161,
+    "key_offensive_stats.turnovers_play.camp": 0.14800000000000002,
+    "key_offensive_stats.off_rebound.ncat": 0.293,
+    "key_offensive_stats.off_rebound.camp": 0.31,
+    "key_offensive_stats.fta_fga.ncat": 0.423,
+    "key_offensive_stats.fta_fga.camp": 0.411,
+    "key_offensive_stats.points_game.ncat": 74.0,
+    "key_offensive_stats.points_game.camp": 75.0,
+    "key_offensive_stats.avg_score_margin.ncat": -3.7,
+    "key_offensive_stats.avg_score_margin.camp": -4.2,
+    "key_defensive_stats.def_efficiency.ncat": 1.092,
+    "key_defensive_stats.def_efficiency.camp": 1.11,
+    "key_defensive_stats.opp_effective_fg.ncat": 0.523,
+    "key_defensive_stats.opp_effective_fg.camp": 0.5489999999999999,
+    "key_defensive_stats.opp_turnovers_play.ncat": 0.121,
+    "key_defensive_stats.opp_turnovers_play.camp": 0.15,
+    "key_defensive_stats.def_rebound.ncat": 0.74,
+    "key_defensive_stats.def_rebound.camp": 0.6859999999999999,
+    "key_defensive_stats.opp_fta_fga.ncat": 0.375,
+    "key_defensive_stats.opp_fta_fga.camp": 0.372,
+    "key_defensive_stats.opp_points_game.ncat": 77.7,
+    "key_defensive_stats.opp_points_game.camp": 79.2,
+    "key_defensive_stats.block.ncat": 0.063,
+    "key_defensive_stats.block.camp": 0.025,
+    "key_defensive_stats.personal_fouls_play.ncat": 0.226,
+    "key_defensive_stats.personal_fouls_play.camp": 0.223,
+    "nc_aandt_vs_campbell_offensive_efficiency.possessions_gm.ncat": 71.1,
+    "nc_aandt_vs_campbell_offensive_efficiency.possessions_gm.camp": 71.4,
+    "nc_aandt_vs_campbell_offensive_efficiency.off_efficiency.ncat": 1.04,
+    "nc_aandt_vs_campbell_offensive_efficiency.off_efficiency.camp": 1.051,
+    "nc_aandt_vs_campbell_offensive_efficiency.effective_fg.ncat": 0.509,
+    "nc_aandt_vs_campbell_offensive_efficiency.effective_fg.camp": 0.491,
+    "nc_aandt_vs_campbell_offensive_efficiency.two_point_rate.ncat": 0.6659999999999999,
+    "nc_aandt_vs_campbell_offensive_efficiency.two_point_rate.camp": 0.629,
+    "nc_aandt_vs_campbell_offensive_efficiency.three_point_rate.ncat": 0.33399999999999996,
+    "nc_aandt_vs_campbell_offensive_efficiency.three_point_rate.camp": 0.371,
+    "nc_aandt_vs_campbell_offensive_efficiency.fta_play.ncat": 0.295,
+    "nc_aandt_vs_campbell_offensive_efficiency.fta_play.camp": 0.29600000000000004,
+    "nc_aandt_vs_campbell_offensive_efficiency.two_point.ncat": 0.526,
+    "nc_aandt_vs_campbell_offensive_efficiency.two_point.camp": 0.49700000000000005,
+    "nc_aandt_vs_campbell_offensive_efficiency.three_point.ncat": 0.317,
+    "nc_aandt_vs_campbell_offensive_efficiency.three_point.camp": 0.32,
+    "nc_aandt_vs_campbell_offensive_efficiency.free_throw.ncat": 0.738,
+    "nc_aandt_vs_campbell_offensive_efficiency.free_throw.camp": 0.723,
+    "nc_aandt_vs_campbell_offensive_efficiency.points_2_pters.ncat": 39.0,
+    "nc_aandt_vs_campbell_offensive_efficiency.points_2_pters.camp": 36.6,
+    "nc_aandt_vs_campbell_offensive_efficiency.points_3_pters.ncat": 17.7,
+    "nc_aandt_vs_campbell_offensive_efficiency.points_3_pters.camp": 20.9,
+    "nc_aandt_vs_campbell_offensive_efficiency.off_rebound.ncat": 0.293,
+    "nc_aandt_vs_campbell_offensive_efficiency.off_rebound.camp": 0.31,
+    "nc_aandt_vs_campbell_offensive_efficiency.def_rebound.ncat": 0.74,
+    "nc_aandt_vs_campbell_offensive_efficiency.def_rebound.camp": 0.6859999999999999,
+    "nc_aandt_vs_campbell_offensive_efficiency.block.ncat": 0.063,
+    "nc_aandt_vs_campbell_offensive_efficiency.block.camp": 0.025,
+    "nc_aandt_vs_campbell_offensive_efficiency.steals_play.ncat": 0.064,
+    "nc_aandt_vs_campbell_offensive_efficiency.steals_play.camp": 0.08199999999999999,
+    "nc_aandt_vs_campbell_offensive_efficiency.turnovers_play.ncat": 0.161,
+    "nc_aandt_vs_campbell_offensive_efficiency.turnovers_play.camp": 0.14800000000000002,
+    "nc_aandt_vs_campbell_offensive_efficiency.personal_fouls_play.ncat": 0.226,
+    "nc_aandt_vs_campbell_offensive_efficiency.personal_fouls_play.camp": 0.223,
+    "nc_aandt_vs_campbell_offensive_efficiency.assists_fgm.ncat": 0.456,
+    "nc_aandt_vs_campbell_offensive_efficiency.assists_fgm.camp": 0.434,
+    "nc_aandt_vs_campbell_defensive_efficiency.possessions_gm.ncat": 71.1,
+    "nc_aandt_vs_campbell_defensive_efficiency.possessions_gm.camp": 71.4,
+    "nc_aandt_vs_campbell_defensive_efficiency.def_efficiency.ncat": 1.092,
+    "nc_aandt_vs_campbell_defensive_efficiency.def_efficiency.camp": 1.11,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_effective_fg.ncat": 0.523,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_effective_fg.camp": 0.5489999999999999,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_two_point_rate.ncat": 0.62,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_two_point_rate.camp": 0.7,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_three_point_rate.ncat": 0.38,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_three_point_rate.camp": 0.3,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_fta_play.ncat": 0.28,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_fta_play.camp": 0.266,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_two_point.ncat": 0.513,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_two_point.camp": 0.546,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_three_point.ncat": 0.361,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_three_point.camp": 0.37,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_free_throw.ncat": 0.693,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_free_throw.camp": 0.74,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_points_2_pters.ncat": 37.8,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_points_2_pters.camp": 44.1,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_points_3_pters.ncat": 24.5,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_points_3_pters.camp": 19.2,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_off_rebound.ncat": 0.26,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_off_rebound.camp": 0.314,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_def_rebound.ncat": 0.7070000000000001,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_def_rebound.camp": 0.69,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_block.ncat": 0.055999999999999994,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_block.camp": 0.07200000000000001,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_steals_play.ncat": 0.083,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_steals_play.camp": 0.08199999999999999,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_turnovers_play.ncat": 0.121,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_turnovers_play.camp": 0.15,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_personal_fouls_play.ncat": 0.242,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_personal_fouls_play.camp": 0.239,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_assists_fgm.ncat": 0.583,
+    "nc_aandt_vs_campbell_defensive_efficiency.opp_assists_fgm.camp": 0.507
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "aggies-fighting-camels-2026-03-03",
+  "matchup_title": "#293 NC A&T at #193 Campbell",
+  "teams": {
+    "away": "#293 NC A&T",
+    "home": "#193 Campbell",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Gore Arena/Pope Convocation Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/aggies-fighting-camels-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/aggies-fighting-camels-2026-03-03/efficiency"
+  }
+}

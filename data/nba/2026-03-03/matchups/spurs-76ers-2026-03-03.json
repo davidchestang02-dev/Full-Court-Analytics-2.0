@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/spurs-76ers-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:19.003675+00:00",
+  "tables": {
+    "Matchup Menu: SA @ PHI": {
+      "headers": [
+        "Stat",
+        "SA",
+        "adv",
+        "PHI"
+      ],
+      "team_headers": [
+        "SA",
+        "PHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SA": {
+            "raw": "1.138",
+            "value": 1.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "1.118",
+            "value": 1.118
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SA": {
+            "raw": "54.9%",
+            "value": 0.5489999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "11.8%",
+            "value": 0.11800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SA": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "26.5%",
+            "value": 0.265
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SA": {
+            "raw": "0.282",
+            "value": 0.282
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "0.283",
+            "value": 0.283
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SA": {
+            "raw": "117.9",
+            "value": 117.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "116.4",
+            "value": 116.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SA": {
+            "raw": "+5.9",
+            "value": 5.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "+0.5",
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "SA",
+        "adv",
+        "PHI"
+      ],
+      "team_headers": [
+        "SA",
+        "PHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SA": {
+            "raw": "1.138",
+            "value": 1.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "1.118",
+            "value": 1.118
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SA": {
+            "raw": "54.9%",
+            "value": 0.5489999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "11.8%",
+            "value": 0.11800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SA": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "26.5%",
+            "value": 0.265
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SA": {
+            "raw": "0.282",
+            "value": 0.282
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "0.283",
+            "value": 0.283
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SA": {
+            "raw": "117.9",
+            "value": 117.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "116.4",
+            "value": 116.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SA": {
+            "raw": "+5.9",
+            "value": 5.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "+0.5",
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "SA",
+        "adv",
+        "PHI"
+      ],
+      "team_headers": [
+        "SA",
+        "PHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SA": {
+            "raw": "1.081",
+            "value": 1.081
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "1.113",
+            "value": 1.113
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SA": {
+            "raw": "52.4%",
+            "value": 0.524
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "PHI": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SA": {
+            "raw": "75.9%",
+            "value": 0.759
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "PHI": {
+            "raw": "72.4%",
+            "value": 0.7240000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "SA": {
+            "raw": "0.228",
+            "value": 0.228
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "PHI": {
+            "raw": "0.276",
+            "value": 0.276
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "SA": {
+            "raw": "112.0",
+            "value": 112.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "115.9",
+            "value": 115.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SA": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "PHI": {
+            "raw": "17.7%",
+            "value": 0.177
+          }
+        }
+      ]
+    },
+    "San Antonio vs Philadelphia Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SA",
+        "adv",
+        "PHI"
+      ],
+      "team_headers": [
+        "SA",
+        "PHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SA": {
+            "raw": "103.6",
+            "value": 103.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "104.1",
+            "value": 104.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SA": {
+            "raw": "1.138",
+            "value": 1.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "1.118",
+            "value": 1.118
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SA": {
+            "raw": "54.9%",
+            "value": 0.5489999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "SA": {
+            "raw": "58.1%",
+            "value": 0.581
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "60.3%",
+            "value": 0.603
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "SA": {
+            "raw": "41.9%",
+            "value": 0.419
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "39.7%",
+            "value": 0.397
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "22.0%",
+            "value": 0.22
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "SA": {
+            "raw": "56.6%",
+            "value": 0.5660000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "PHI": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "SA": {
+            "raw": "35.1%",
+            "value": 0.35100000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "35.7%",
+            "value": 0.35700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "SA": {
+            "raw": "78.1%",
+            "value": 0.7809999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "81.5%",
+            "value": 0.815
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "SA": {
+            "raw": "58.8",
+            "value": 58.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "57.2",
+            "value": 57.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "SA": {
+            "raw": "39.4",
+            "value": 39.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "38.4",
+            "value": 38.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SA": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "26.5%",
+            "value": 0.265
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SA": {
+            "raw": "75.9%",
+            "value": 0.759
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "PHI": {
+            "raw": "72.4%",
+            "value": 0.7240000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SA": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "6.7%",
+            "value": 0.067
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "PHI": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "11.8%",
+            "value": 0.11800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "PHI": {
+            "raw": "17.7%",
+            "value": 0.177
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "SA": {
+            "raw": "0.635",
+            "value": 0.635
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "0.595",
+            "value": 0.595
+          }
+        }
+      ]
+    },
+    "San Antonio vs Philadelphia Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SA",
+        "adv",
+        "PHI"
+      ],
+      "team_headers": [
+        "SA",
+        "PHI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SA": {
+            "raw": "103.6",
+            "value": 103.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "104.1",
+            "value": 104.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SA": {
+            "raw": "1.081",
+            "value": 1.081
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "1.113",
+            "value": 1.113
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SA": {
+            "raw": "52.4%",
+            "value": 0.524
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "SA": {
+            "raw": "60.1%",
+            "value": 0.601
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "58.6%",
+            "value": 0.586
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "SA": {
+            "raw": "39.9%",
+            "value": 0.39899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "41.4%",
+            "value": 0.414
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "18.1%",
+            "value": 0.18100000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "PHI": {
+            "raw": "21.2%",
+            "value": 0.212
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "SA": {
+            "raw": "51.6%",
+            "value": 0.516
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "55.0%",
+            "value": 0.55
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "SA": {
+            "raw": "35.7%",
+            "value": 0.35700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "SA": {
+            "raw": "78.5%",
+            "value": 0.785
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "78.1%",
+            "value": 0.7809999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "SA": {
+            "raw": "56.7",
+            "value": 56.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "57.4",
+            "value": 57.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "SA": {
+            "raw": "39.0",
+            "value": 39.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "39.4",
+            "value": 39.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "SA": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "PHI": {
+            "raw": "27.6%",
+            "value": 0.276
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "SA": {
+            "raw": "74.1%",
+            "value": 0.741
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "73.5%",
+            "value": 0.735
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "SA": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "6.8%",
+            "value": 0.068
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "PHI": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "SA": {
+            "raw": "17.9%",
+            "value": 0.179
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PHI": {
+            "raw": "17.5%",
+            "value": 0.175
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "SA": {
+            "raw": "0.638",
+            "value": 0.638
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PHI": {
+            "raw": "0.657",
+            "value": 0.657
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_sa_phi.off_efficiency.sa": 1.138,
+    "matchup_menu_sa_phi.off_efficiency.phi": 1.118,
+    "matchup_menu_sa_phi.effective_fg.sa": 0.5489999999999999,
+    "matchup_menu_sa_phi.effective_fg.phi": 0.531,
+    "matchup_menu_sa_phi.turnovers_play.sa": 0.11900000000000001,
+    "matchup_menu_sa_phi.turnovers_play.phi": 0.11800000000000001,
+    "matchup_menu_sa_phi.off_rebound.sa": 0.259,
+    "matchup_menu_sa_phi.off_rebound.phi": 0.265,
+    "matchup_menu_sa_phi.fta_fga.sa": 0.282,
+    "matchup_menu_sa_phi.fta_fga.phi": 0.283,
+    "matchup_menu_sa_phi.points_game.sa": 117.9,
+    "matchup_menu_sa_phi.points_game.phi": 116.4,
+    "matchup_menu_sa_phi.avg_score_margin.sa": 5.9,
+    "matchup_menu_sa_phi.avg_score_margin.phi": 0.5,
+    "key_offensive_stats.off_efficiency.sa": 1.138,
+    "key_offensive_stats.off_efficiency.phi": 1.118,
+    "key_offensive_stats.effective_fg.sa": 0.5489999999999999,
+    "key_offensive_stats.effective_fg.phi": 0.531,
+    "key_offensive_stats.turnovers_play.sa": 0.11900000000000001,
+    "key_offensive_stats.turnovers_play.phi": 0.11800000000000001,
+    "key_offensive_stats.off_rebound.sa": 0.259,
+    "key_offensive_stats.off_rebound.phi": 0.265,
+    "key_offensive_stats.fta_fga.sa": 0.282,
+    "key_offensive_stats.fta_fga.phi": 0.283,
+    "key_offensive_stats.points_game.sa": 117.9,
+    "key_offensive_stats.points_game.phi": 116.4,
+    "key_offensive_stats.avg_score_margin.sa": 5.9,
+    "key_offensive_stats.avg_score_margin.phi": 0.5,
+    "key_defensive_stats.def_efficiency.sa": 1.081,
+    "key_defensive_stats.def_efficiency.phi": 1.113,
+    "key_defensive_stats.opp_effective_fg.sa": 0.524,
+    "key_defensive_stats.opp_effective_fg.phi": 0.5429999999999999,
+    "key_defensive_stats.opp_turnovers_play.sa": 0.11699999999999999,
+    "key_defensive_stats.opp_turnovers_play.phi": 0.135,
+    "key_defensive_stats.def_rebound.sa": 0.759,
+    "key_defensive_stats.def_rebound.phi": 0.7240000000000001,
+    "key_defensive_stats.opp_fta_fga.sa": 0.228,
+    "key_defensive_stats.opp_fta_fga.phi": 0.276,
+    "key_defensive_stats.opp_points_game.sa": 112.0,
+    "key_defensive_stats.opp_points_game.phi": 115.9,
+    "key_defensive_stats.block.sa": 0.057999999999999996,
+    "key_defensive_stats.block.phi": 0.063,
+    "key_defensive_stats.personal_fouls_play.sa": 0.165,
+    "key_defensive_stats.personal_fouls_play.phi": 0.177,
+    "san_antonio_vs_philadelphia_offensive_efficiency.possessions_gm.sa": 103.6,
+    "san_antonio_vs_philadelphia_offensive_efficiency.possessions_gm.phi": 104.1,
+    "san_antonio_vs_philadelphia_offensive_efficiency.off_efficiency.sa": 1.138,
+    "san_antonio_vs_philadelphia_offensive_efficiency.off_efficiency.phi": 1.118,
+    "san_antonio_vs_philadelphia_offensive_efficiency.effective_fg.sa": 0.5489999999999999,
+    "san_antonio_vs_philadelphia_offensive_efficiency.effective_fg.phi": 0.531,
+    "san_antonio_vs_philadelphia_offensive_efficiency.two_point_rate.sa": 0.581,
+    "san_antonio_vs_philadelphia_offensive_efficiency.two_point_rate.phi": 0.603,
+    "san_antonio_vs_philadelphia_offensive_efficiency.three_point_rate.sa": 0.419,
+    "san_antonio_vs_philadelphia_offensive_efficiency.three_point_rate.phi": 0.397,
+    "san_antonio_vs_philadelphia_offensive_efficiency.fta_play.sa": 0.21899999999999997,
+    "san_antonio_vs_philadelphia_offensive_efficiency.fta_play.phi": 0.22,
+    "san_antonio_vs_philadelphia_offensive_efficiency.two_point.sa": 0.5660000000000001,
+    "san_antonio_vs_philadelphia_offensive_efficiency.two_point.phi": 0.527,
+    "san_antonio_vs_philadelphia_offensive_efficiency.three_point.sa": 0.35100000000000003,
+    "san_antonio_vs_philadelphia_offensive_efficiency.three_point.phi": 0.35700000000000004,
+    "san_antonio_vs_philadelphia_offensive_efficiency.free_throw.sa": 0.7809999999999999,
+    "san_antonio_vs_philadelphia_offensive_efficiency.free_throw.phi": 0.815,
+    "san_antonio_vs_philadelphia_offensive_efficiency.points_2_pters.sa": 58.8,
+    "san_antonio_vs_philadelphia_offensive_efficiency.points_2_pters.phi": 57.2,
+    "san_antonio_vs_philadelphia_offensive_efficiency.points_3_pters.sa": 39.4,
+    "san_antonio_vs_philadelphia_offensive_efficiency.points_3_pters.phi": 38.4,
+    "san_antonio_vs_philadelphia_offensive_efficiency.off_rebound.sa": 0.259,
+    "san_antonio_vs_philadelphia_offensive_efficiency.off_rebound.phi": 0.265,
+    "san_antonio_vs_philadelphia_offensive_efficiency.def_rebound.sa": 0.759,
+    "san_antonio_vs_philadelphia_offensive_efficiency.def_rebound.phi": 0.7240000000000001,
+    "san_antonio_vs_philadelphia_offensive_efficiency.block.sa": 0.057999999999999996,
+    "san_antonio_vs_philadelphia_offensive_efficiency.block.phi": 0.063,
+    "san_antonio_vs_philadelphia_offensive_efficiency.steals_play.sa": 0.067,
+    "san_antonio_vs_philadelphia_offensive_efficiency.steals_play.phi": 0.08,
+    "san_antonio_vs_philadelphia_offensive_efficiency.turnovers_play.sa": 0.11900000000000001,
+    "san_antonio_vs_philadelphia_offensive_efficiency.turnovers_play.phi": 0.11800000000000001,
+    "san_antonio_vs_philadelphia_offensive_efficiency.personal_fouls_play.sa": 0.165,
+    "san_antonio_vs_philadelphia_offensive_efficiency.personal_fouls_play.phi": 0.177,
+    "san_antonio_vs_philadelphia_offensive_efficiency.assists_fgm.sa": 0.635,
+    "san_antonio_vs_philadelphia_offensive_efficiency.assists_fgm.phi": 0.595,
+    "san_antonio_vs_philadelphia_defensive_efficiency.possessions_gm.sa": 103.6,
+    "san_antonio_vs_philadelphia_defensive_efficiency.possessions_gm.phi": 104.1,
+    "san_antonio_vs_philadelphia_defensive_efficiency.def_efficiency.sa": 1.081,
+    "san_antonio_vs_philadelphia_defensive_efficiency.def_efficiency.phi": 1.113,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_effective_fg.sa": 0.524,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_effective_fg.phi": 0.5429999999999999,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_two_point_rate.sa": 0.601,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_two_point_rate.phi": 0.586,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_three_point_rate.sa": 0.39899999999999997,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_three_point_rate.phi": 0.414,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_fta_play.sa": 0.18100000000000002,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_fta_play.phi": 0.212,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_two_point.sa": 0.516,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_two_point.phi": 0.55,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_three_point.sa": 0.35700000000000004,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_three_point.phi": 0.35600000000000004,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_free_throw.sa": 0.785,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_free_throw.phi": 0.7809999999999999,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_points_2_pters.sa": 56.7,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_points_2_pters.phi": 57.4,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_points_3_pters.sa": 39.0,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_points_3_pters.phi": 39.4,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_off_rebound.sa": 0.24100000000000002,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_off_rebound.phi": 0.276,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_def_rebound.sa": 0.741,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_def_rebound.phi": 0.735,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_block.sa": 0.051,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_block.phi": 0.057,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_steals_play.sa": 0.068,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_steals_play.phi": 0.063,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_turnovers_play.sa": 0.11699999999999999,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_turnovers_play.phi": 0.135,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_personal_fouls_play.sa": 0.179,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_personal_fouls_play.phi": 0.175,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_assists_fgm.sa": 0.638,
+    "san_antonio_vs_philadelphia_defensive_efficiency.opp_assists_fgm.phi": 0.657
+  },
+  "sport": "nba",
+  "date": "2026-03-03",
+  "slug": "spurs-76ers-2026-03-03",
+  "matchup_title": "#4 San Antonio at #18 Philadelphia",
+  "teams": {
+    "away": "#4 San Antonio",
+    "home": "#18 Philadelphia",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Xfinity Mobile Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/spurs-76ers-2026-03-03",
+    "detail": "https://www.teamrankings.com/nba/matchup/spurs-76ers-2026-03-03/efficiency"
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/dragons-pride-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:43.568051+00:00",
+  "tables": {
+    "Matchup Menu: DREX @ HOF": {
+      "headers": [
+        "Stat",
+        "DREX",
+        "adv",
+        "HOF"
+      ],
+      "team_headers": [
+        "DREX",
+        "HOF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DREX": {
+            "raw": "1.008",
+            "value": 1.008
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "1.092",
+            "value": 1.092
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "16.2%",
+            "value": 0.162
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOF": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "29.5%",
+            "value": 0.295
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DREX": {
+            "raw": "0.309",
+            "value": 0.309
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "0.321",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DREX": {
+            "raw": "67.7",
+            "value": 67.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DREX": {
+            "raw": "+0.1",
+            "value": 0.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "+6.1",
+            "value": 6.1
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "DREX",
+        "adv",
+        "HOF"
+      ],
+      "team_headers": [
+        "DREX",
+        "HOF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DREX": {
+            "raw": "1.008",
+            "value": 1.008
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "1.092",
+            "value": 1.092
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "16.2%",
+            "value": 0.162
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOF": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "29.5%",
+            "value": 0.295
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DREX": {
+            "raw": "0.309",
+            "value": 0.309
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "0.321",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DREX": {
+            "raw": "67.7",
+            "value": 67.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DREX": {
+            "raw": "+0.1",
+            "value": 0.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "+6.1",
+            "value": 6.1
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "DREX",
+        "adv",
+        "HOF"
+      ],
+      "team_headers": [
+        "DREX",
+        "HOF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DREX": {
+            "raw": "1.006",
+            "value": 1.006
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "1.003",
+            "value": 1.003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "46.9%",
+            "value": 0.469
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "46.2%",
+            "value": 0.462
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "14.0%",
+            "value": 0.14
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "72.5%",
+            "value": 0.725
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "71.7%",
+            "value": 0.7170000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "DREX": {
+            "raw": "0.358",
+            "value": 0.358
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "0.349",
+            "value": 0.349
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "DREX": {
+            "raw": "67.5",
+            "value": 67.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "68.4",
+            "value": 68.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "6.2%",
+            "value": 0.062
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "6.7%",
+            "value": 0.067
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "22.3%",
+            "value": 0.223
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "22.6%",
+            "value": 0.226
+          }
+        }
+      ]
+    },
+    "Drexel vs Hofstra Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DREX",
+        "adv",
+        "HOF"
+      ],
+      "team_headers": [
+        "DREX",
+        "HOF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DREX": {
+            "raw": "67.1",
+            "value": 67.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "68.2",
+            "value": 68.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DREX": {
+            "raw": "1.008",
+            "value": 1.008
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "1.092",
+            "value": 1.092
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "DREX": {
+            "raw": "60.2%",
+            "value": 0.602
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "57.2%",
+            "value": 0.5720000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "DREX": {
+            "raw": "39.8%",
+            "value": 0.39799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "42.8%",
+            "value": 0.428
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "22.5%",
+            "value": 0.225
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "24.0%",
+            "value": 0.24
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "48.6%",
+            "value": 0.486
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "34.9%",
+            "value": 0.349
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "37.4%",
+            "value": 0.374
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "65.9%",
+            "value": 0.659
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "HOF": {
+            "raw": "76.0%",
+            "value": 0.76
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "DREX": {
+            "raw": "33.3",
+            "value": 33.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "32.4",
+            "value": 32.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "DREX": {
+            "raw": "23.1",
+            "value": 23.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "28.0",
+            "value": 28.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "29.5%",
+            "value": 0.295
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "72.5%",
+            "value": 0.725
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "71.7%",
+            "value": 0.7170000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "6.2%",
+            "value": 0.062
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "6.7%",
+            "value": 0.067
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "7.7%",
+            "value": 0.077
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "16.2%",
+            "value": 0.162
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOF": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "22.3%",
+            "value": 0.223
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "22.6%",
+            "value": 0.226
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "DREX": {
+            "raw": "0.534",
+            "value": 0.534
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "0.497",
+            "value": 0.497
+          }
+        }
+      ]
+    },
+    "Drexel vs Hofstra Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DREX",
+        "adv",
+        "HOF"
+      ],
+      "team_headers": [
+        "DREX",
+        "HOF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DREX": {
+            "raw": "67.1",
+            "value": 67.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "68.2",
+            "value": 68.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DREX": {
+            "raw": "1.006",
+            "value": 1.006
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "1.003",
+            "value": 1.003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "46.9%",
+            "value": 0.469
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "46.2%",
+            "value": 0.462
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "DREX": {
+            "raw": "66.0%",
+            "value": 0.66
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOF": {
+            "raw": "59.5%",
+            "value": 0.595
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "DREX": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "HOF": {
+            "raw": "40.5%",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "26.4%",
+            "value": 0.264
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "26.3%",
+            "value": 0.263
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "47.2%",
+            "value": 0.47200000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "44.4%",
+            "value": 0.444
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "30.9%",
+            "value": 0.309
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "32.5%",
+            "value": 0.325
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "75.5%",
+            "value": 0.755
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOF": {
+            "raw": "71.3%",
+            "value": 0.713
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "DREX": {
+            "raw": "34.8",
+            "value": 34.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "30.9",
+            "value": 30.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "DREX": {
+            "raw": "17.6",
+            "value": 17.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "23.0",
+            "value": 23.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "27.5%",
+            "value": 0.275
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "70.5%",
+            "value": 0.705
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "67.9%",
+            "value": 0.679
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "DREX": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "HOF": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "9.4%",
+            "value": 0.094
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "HOF": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "14.0%",
+            "value": 0.14
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "DREX": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOF": {
+            "raw": "21.7%",
+            "value": 0.217
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "DREX": {
+            "raw": "0.474",
+            "value": 0.474
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "HOF": {
+            "raw": "0.564",
+            "value": 0.564
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_drex_hof.off_efficiency.drex": 1.008,
+    "matchup_menu_drex_hof.off_efficiency.hof": 1.092,
+    "matchup_menu_drex_hof.effective_fg.drex": 0.509,
+    "matchup_menu_drex_hof.effective_fg.hof": 0.518,
+    "matchup_menu_drex_hof.turnovers_play.drex": 0.162,
+    "matchup_menu_drex_hof.turnovers_play.hof": 0.13699999999999998,
+    "matchup_menu_drex_hof.off_rebound.drex": 0.295,
+    "matchup_menu_drex_hof.off_rebound.hof": 0.321,
+    "matchup_menu_drex_hof.fta_fga.drex": 0.309,
+    "matchup_menu_drex_hof.fta_fga.hof": 0.321,
+    "matchup_menu_drex_hof.points_game.drex": 67.7,
+    "matchup_menu_drex_hof.points_game.hof": 74.5,
+    "matchup_menu_drex_hof.avg_score_margin.drex": 0.1,
+    "matchup_menu_drex_hof.avg_score_margin.hof": 6.1,
+    "key_offensive_stats.off_efficiency.drex": 1.008,
+    "key_offensive_stats.off_efficiency.hof": 1.092,
+    "key_offensive_stats.effective_fg.drex": 0.509,
+    "key_offensive_stats.effective_fg.hof": 0.518,
+    "key_offensive_stats.turnovers_play.drex": 0.162,
+    "key_offensive_stats.turnovers_play.hof": 0.13699999999999998,
+    "key_offensive_stats.off_rebound.drex": 0.295,
+    "key_offensive_stats.off_rebound.hof": 0.321,
+    "key_offensive_stats.fta_fga.drex": 0.309,
+    "key_offensive_stats.fta_fga.hof": 0.321,
+    "key_offensive_stats.points_game.drex": 67.7,
+    "key_offensive_stats.points_game.hof": 74.5,
+    "key_offensive_stats.avg_score_margin.drex": 0.1,
+    "key_offensive_stats.avg_score_margin.hof": 6.1,
+    "key_defensive_stats.def_efficiency.drex": 1.006,
+    "key_defensive_stats.def_efficiency.hof": 1.003,
+    "key_defensive_stats.opp_effective_fg.drex": 0.469,
+    "key_defensive_stats.opp_effective_fg.hof": 0.462,
+    "key_defensive_stats.opp_turnovers_play.drex": 0.14,
+    "key_defensive_stats.opp_turnovers_play.hof": 0.128,
+    "key_defensive_stats.def_rebound.drex": 0.725,
+    "key_defensive_stats.def_rebound.hof": 0.7170000000000001,
+    "key_defensive_stats.opp_fta_fga.drex": 0.358,
+    "key_defensive_stats.opp_fta_fga.hof": 0.349,
+    "key_defensive_stats.opp_points_game.drex": 67.5,
+    "key_defensive_stats.opp_points_game.hof": 68.4,
+    "key_defensive_stats.block.drex": 0.062,
+    "key_defensive_stats.block.hof": 0.067,
+    "key_defensive_stats.personal_fouls_play.drex": 0.223,
+    "key_defensive_stats.personal_fouls_play.hof": 0.226,
+    "drexel_vs_hofstra_offensive_efficiency.possessions_gm.drex": 67.1,
+    "drexel_vs_hofstra_offensive_efficiency.possessions_gm.hof": 68.2,
+    "drexel_vs_hofstra_offensive_efficiency.off_efficiency.drex": 1.008,
+    "drexel_vs_hofstra_offensive_efficiency.off_efficiency.hof": 1.092,
+    "drexel_vs_hofstra_offensive_efficiency.effective_fg.drex": 0.509,
+    "drexel_vs_hofstra_offensive_efficiency.effective_fg.hof": 0.518,
+    "drexel_vs_hofstra_offensive_efficiency.two_point_rate.drex": 0.602,
+    "drexel_vs_hofstra_offensive_efficiency.two_point_rate.hof": 0.5720000000000001,
+    "drexel_vs_hofstra_offensive_efficiency.three_point_rate.drex": 0.39799999999999996,
+    "drexel_vs_hofstra_offensive_efficiency.three_point_rate.hof": 0.428,
+    "drexel_vs_hofstra_offensive_efficiency.fta_play.drex": 0.225,
+    "drexel_vs_hofstra_offensive_efficiency.fta_play.hof": 0.24,
+    "drexel_vs_hofstra_offensive_efficiency.two_point.drex": 0.5,
+    "drexel_vs_hofstra_offensive_efficiency.two_point.hof": 0.486,
+    "drexel_vs_hofstra_offensive_efficiency.three_point.drex": 0.349,
+    "drexel_vs_hofstra_offensive_efficiency.three_point.hof": 0.374,
+    "drexel_vs_hofstra_offensive_efficiency.free_throw.drex": 0.659,
+    "drexel_vs_hofstra_offensive_efficiency.free_throw.hof": 0.76,
+    "drexel_vs_hofstra_offensive_efficiency.points_2_pters.drex": 33.3,
+    "drexel_vs_hofstra_offensive_efficiency.points_2_pters.hof": 32.4,
+    "drexel_vs_hofstra_offensive_efficiency.points_3_pters.drex": 23.1,
+    "drexel_vs_hofstra_offensive_efficiency.points_3_pters.hof": 28.0,
+    "drexel_vs_hofstra_offensive_efficiency.off_rebound.drex": 0.295,
+    "drexel_vs_hofstra_offensive_efficiency.off_rebound.hof": 0.321,
+    "drexel_vs_hofstra_offensive_efficiency.def_rebound.drex": 0.725,
+    "drexel_vs_hofstra_offensive_efficiency.def_rebound.hof": 0.7170000000000001,
+    "drexel_vs_hofstra_offensive_efficiency.block.drex": 0.062,
+    "drexel_vs_hofstra_offensive_efficiency.block.hof": 0.067,
+    "drexel_vs_hofstra_offensive_efficiency.steals_play.drex": 0.077,
+    "drexel_vs_hofstra_offensive_efficiency.steals_play.hof": 0.06,
+    "drexel_vs_hofstra_offensive_efficiency.turnovers_play.drex": 0.162,
+    "drexel_vs_hofstra_offensive_efficiency.turnovers_play.hof": 0.13699999999999998,
+    "drexel_vs_hofstra_offensive_efficiency.personal_fouls_play.drex": 0.223,
+    "drexel_vs_hofstra_offensive_efficiency.personal_fouls_play.hof": 0.226,
+    "drexel_vs_hofstra_offensive_efficiency.assists_fgm.drex": 0.534,
+    "drexel_vs_hofstra_offensive_efficiency.assists_fgm.hof": 0.497,
+    "drexel_vs_hofstra_defensive_efficiency.possessions_gm.drex": 67.1,
+    "drexel_vs_hofstra_defensive_efficiency.possessions_gm.hof": 68.2,
+    "drexel_vs_hofstra_defensive_efficiency.def_efficiency.drex": 1.006,
+    "drexel_vs_hofstra_defensive_efficiency.def_efficiency.hof": 1.003,
+    "drexel_vs_hofstra_defensive_efficiency.opp_effective_fg.drex": 0.469,
+    "drexel_vs_hofstra_defensive_efficiency.opp_effective_fg.hof": 0.462,
+    "drexel_vs_hofstra_defensive_efficiency.opp_two_point_rate.drex": 0.66,
+    "drexel_vs_hofstra_defensive_efficiency.opp_two_point_rate.hof": 0.595,
+    "drexel_vs_hofstra_defensive_efficiency.opp_three_point_rate.drex": 0.34,
+    "drexel_vs_hofstra_defensive_efficiency.opp_three_point_rate.hof": 0.405,
+    "drexel_vs_hofstra_defensive_efficiency.opp_fta_play.drex": 0.264,
+    "drexel_vs_hofstra_defensive_efficiency.opp_fta_play.hof": 0.263,
+    "drexel_vs_hofstra_defensive_efficiency.opp_two_point.drex": 0.47200000000000003,
+    "drexel_vs_hofstra_defensive_efficiency.opp_two_point.hof": 0.444,
+    "drexel_vs_hofstra_defensive_efficiency.opp_three_point.drex": 0.309,
+    "drexel_vs_hofstra_defensive_efficiency.opp_three_point.hof": 0.325,
+    "drexel_vs_hofstra_defensive_efficiency.opp_free_throw.drex": 0.755,
+    "drexel_vs_hofstra_defensive_efficiency.opp_free_throw.hof": 0.713,
+    "drexel_vs_hofstra_defensive_efficiency.opp_points_2_pters.drex": 34.8,
+    "drexel_vs_hofstra_defensive_efficiency.opp_points_2_pters.hof": 30.9,
+    "drexel_vs_hofstra_defensive_efficiency.opp_points_3_pters.drex": 17.6,
+    "drexel_vs_hofstra_defensive_efficiency.opp_points_3_pters.hof": 23.0,
+    "drexel_vs_hofstra_defensive_efficiency.opp_off_rebound.drex": 0.275,
+    "drexel_vs_hofstra_defensive_efficiency.opp_off_rebound.hof": 0.28300000000000003,
+    "drexel_vs_hofstra_defensive_efficiency.opp_def_rebound.drex": 0.705,
+    "drexel_vs_hofstra_defensive_efficiency.opp_def_rebound.hof": 0.679,
+    "drexel_vs_hofstra_defensive_efficiency.opp_block.drex": 0.052000000000000005,
+    "drexel_vs_hofstra_defensive_efficiency.opp_block.hof": 0.06,
+    "drexel_vs_hofstra_defensive_efficiency.opp_steals_play.drex": 0.094,
+    "drexel_vs_hofstra_defensive_efficiency.opp_steals_play.hof": 0.066,
+    "drexel_vs_hofstra_defensive_efficiency.opp_turnovers_play.drex": 0.14,
+    "drexel_vs_hofstra_defensive_efficiency.opp_turnovers_play.hof": 0.128,
+    "drexel_vs_hofstra_defensive_efficiency.opp_personal_fouls_play.drex": 0.218,
+    "drexel_vs_hofstra_defensive_efficiency.opp_personal_fouls_play.hof": 0.217,
+    "drexel_vs_hofstra_defensive_efficiency.opp_assists_fgm.drex": 0.474,
+    "drexel_vs_hofstra_defensive_efficiency.opp_assists_fgm.hof": 0.564
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "dragons-pride-2026-03-03",
+  "matchup_title": "#216 Drexel at #102 Hofstra",
+  "teams": {
+    "away": "#216 Drexel",
+    "home": "#102 Hofstra",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "David S. Mack Sports Complex",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/dragons-pride-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/dragons-pride-2026-03-03/efficiency"
+  }
+}

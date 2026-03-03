@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-tigers-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:29.211606+00:00",
+  "tables": {
+    "Matchup Menu: LSU @ AUB": {
+      "headers": [
+        "Stat",
+        "LSU",
+        "adv",
+        "AUB"
+      ],
+      "team_headers": [
+        "LSU",
+        "AUB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LSU": {
+            "raw": "1.140",
+            "value": 1.14
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "1.158",
+            "value": 1.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "52.6%",
+            "value": 0.526
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "52.2%",
+            "value": 0.522
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "32.5%",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LSU": {
+            "raw": "0.407",
+            "value": 0.407
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "0.461",
+            "value": 0.461
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LSU": {
+            "raw": "81.3",
+            "value": 81.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "83.3",
+            "value": 83.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LSU": {
+            "raw": "+4.0",
+            "value": 4.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "+3.4",
+            "value": 3.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "LSU",
+        "adv",
+        "AUB"
+      ],
+      "team_headers": [
+        "LSU",
+        "AUB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LSU": {
+            "raw": "1.140",
+            "value": 1.14
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "1.158",
+            "value": 1.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "52.6%",
+            "value": 0.526
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "52.2%",
+            "value": 0.522
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "32.5%",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LSU": {
+            "raw": "0.407",
+            "value": 0.407
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "0.461",
+            "value": 0.461
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LSU": {
+            "raw": "81.3",
+            "value": 81.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "83.3",
+            "value": 83.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LSU": {
+            "raw": "+4.0",
+            "value": 4.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "+3.4",
+            "value": 3.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "LSU",
+        "adv",
+        "AUB"
+      ],
+      "team_headers": [
+        "LSU",
+        "AUB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LSU": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "50.7%",
+            "value": 0.507
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "70.6%",
+            "value": 0.706
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "LSU": {
+            "raw": "0.378",
+            "value": 0.378
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "0.344",
+            "value": 0.344
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "LSU": {
+            "raw": "77.3",
+            "value": 77.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "79.9",
+            "value": 79.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "7.0%",
+            "value": 0.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "21.5%",
+            "value": 0.215
+          }
+        }
+      ]
+    },
+    "LSU vs Auburn Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LSU",
+        "adv",
+        "AUB"
+      ],
+      "team_headers": [
+        "LSU",
+        "AUB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LSU": {
+            "raw": "71.4",
+            "value": 71.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LSU": {
+            "raw": "1.140",
+            "value": 1.14
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "1.158",
+            "value": 1.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "52.6%",
+            "value": 0.526
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "52.2%",
+            "value": 0.522
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "LSU": {
+            "raw": "65.6%",
+            "value": 0.6559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "61.3%",
+            "value": 0.613
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "LSU": {
+            "raw": "34.4%",
+            "value": 0.344
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "38.7%",
+            "value": 0.387
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "29.7%",
+            "value": 0.297
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "54.1%",
+            "value": 0.541
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "53.4%",
+            "value": 0.534
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "33.6%",
+            "value": 0.336
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "77.1%",
+            "value": 0.7709999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "74.7%",
+            "value": 0.747
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "LSU": {
+            "raw": "42.3",
+            "value": 42.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "39.3",
+            "value": 39.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "LSU": {
+            "raw": "20.4",
+            "value": 20.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "23.4",
+            "value": 23.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "32.5%",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "70.6%",
+            "value": 0.706
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "7.0%",
+            "value": 0.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "9.2%",
+            "value": 0.092
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "21.5%",
+            "value": 0.215
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "LSU": {
+            "raw": "0.528",
+            "value": 0.528
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "0.464",
+            "value": 0.464
+          }
+        }
+      ]
+    },
+    "LSU vs Auburn Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LSU",
+        "adv",
+        "AUB"
+      ],
+      "team_headers": [
+        "LSU",
+        "AUB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LSU": {
+            "raw": "71.4",
+            "value": 71.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LSU": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "50.7%",
+            "value": 0.507
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "LSU": {
+            "raw": "62.2%",
+            "value": 0.622
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "59.5%",
+            "value": 0.595
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "LSU": {
+            "raw": "37.8%",
+            "value": 0.37799999999999995
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "40.5%",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "28.2%",
+            "value": 0.282
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "25.4%",
+            "value": 0.254
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "52.4%",
+            "value": 0.524
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "35.7%",
+            "value": 0.35700000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "37.2%",
+            "value": 0.37200000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "AUB": {
+            "raw": "76.2%",
+            "value": 0.762
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "LSU": {
+            "raw": "36.9",
+            "value": 36.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "37.2",
+            "value": 37.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "LSU": {
+            "raw": "24.5",
+            "value": 24.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "27.0",
+            "value": 27.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "29.0%",
+            "value": 0.29
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "67.5%",
+            "value": 0.675
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "63.8%",
+            "value": 0.638
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "LSU": {
+            "raw": "5.3%",
+            "value": 0.053
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "AUB": {
+            "raw": "7.5%",
+            "value": 0.075
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "LSU": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "AUB": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "LSU": {
+            "raw": "0.468",
+            "value": 0.468
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "AUB": {
+            "raw": "0.514",
+            "value": 0.514
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_lsu_aub.off_efficiency.lsu": 1.14,
+    "matchup_menu_lsu_aub.off_efficiency.aub": 1.158,
+    "matchup_menu_lsu_aub.effective_fg.lsu": 0.526,
+    "matchup_menu_lsu_aub.effective_fg.aub": 0.522,
+    "matchup_menu_lsu_aub.turnovers_play.lsu": 0.129,
+    "matchup_menu_lsu_aub.turnovers_play.aub": 0.12300000000000001,
+    "matchup_menu_lsu_aub.off_rebound.lsu": 0.325,
+    "matchup_menu_lsu_aub.off_rebound.aub": 0.36200000000000004,
+    "matchup_menu_lsu_aub.fta_fga.lsu": 0.407,
+    "matchup_menu_lsu_aub.fta_fga.aub": 0.461,
+    "matchup_menu_lsu_aub.points_game.lsu": 81.3,
+    "matchup_menu_lsu_aub.points_game.aub": 83.3,
+    "matchup_menu_lsu_aub.avg_score_margin.lsu": 4.0,
+    "matchup_menu_lsu_aub.avg_score_margin.aub": 3.4,
+    "key_offensive_stats.off_efficiency.lsu": 1.14,
+    "key_offensive_stats.off_efficiency.aub": 1.158,
+    "key_offensive_stats.effective_fg.lsu": 0.526,
+    "key_offensive_stats.effective_fg.aub": 0.522,
+    "key_offensive_stats.turnovers_play.lsu": 0.129,
+    "key_offensive_stats.turnovers_play.aub": 0.12300000000000001,
+    "key_offensive_stats.off_rebound.lsu": 0.325,
+    "key_offensive_stats.off_rebound.aub": 0.36200000000000004,
+    "key_offensive_stats.fta_fga.lsu": 0.407,
+    "key_offensive_stats.fta_fga.aub": 0.461,
+    "key_offensive_stats.points_game.lsu": 81.3,
+    "key_offensive_stats.points_game.aub": 83.3,
+    "key_offensive_stats.avg_score_margin.lsu": 4.0,
+    "key_offensive_stats.avg_score_margin.aub": 3.4,
+    "key_defensive_stats.def_efficiency.lsu": 1.084,
+    "key_defensive_stats.def_efficiency.aub": 1.11,
+    "key_defensive_stats.opp_effective_fg.lsu": 0.507,
+    "key_defensive_stats.opp_effective_fg.aub": 0.5379999999999999,
+    "key_defensive_stats.opp_turnovers_play.lsu": 0.12300000000000001,
+    "key_defensive_stats.opp_turnovers_play.aub": 0.142,
+    "key_defensive_stats.def_rebound.lsu": 0.706,
+    "key_defensive_stats.def_rebound.aub": 0.71,
+    "key_defensive_stats.opp_fta_fga.lsu": 0.378,
+    "key_defensive_stats.opp_fta_fga.aub": 0.344,
+    "key_defensive_stats.opp_points_game.lsu": 77.3,
+    "key_defensive_stats.opp_points_game.aub": 79.9,
+    "key_defensive_stats.block.lsu": 0.065,
+    "key_defensive_stats.block.aub": 0.07,
+    "key_defensive_stats.personal_fouls_play.lsu": 0.22899999999999998,
+    "key_defensive_stats.personal_fouls_play.aub": 0.215,
+    "lsu_vs_auburn_offensive_efficiency.possessions_gm.lsu": 71.4,
+    "lsu_vs_auburn_offensive_efficiency.possessions_gm.aub": 72.0,
+    "lsu_vs_auburn_offensive_efficiency.off_efficiency.lsu": 1.14,
+    "lsu_vs_auburn_offensive_efficiency.off_efficiency.aub": 1.158,
+    "lsu_vs_auburn_offensive_efficiency.effective_fg.lsu": 0.526,
+    "lsu_vs_auburn_offensive_efficiency.effective_fg.aub": 0.522,
+    "lsu_vs_auburn_offensive_efficiency.two_point_rate.lsu": 0.6559999999999999,
+    "lsu_vs_auburn_offensive_efficiency.two_point_rate.aub": 0.613,
+    "lsu_vs_auburn_offensive_efficiency.three_point_rate.lsu": 0.344,
+    "lsu_vs_auburn_offensive_efficiency.three_point_rate.aub": 0.387,
+    "lsu_vs_auburn_offensive_efficiency.fta_play.lsu": 0.297,
+    "lsu_vs_auburn_offensive_efficiency.fta_play.aub": 0.331,
+    "lsu_vs_auburn_offensive_efficiency.two_point.lsu": 0.541,
+    "lsu_vs_auburn_offensive_efficiency.two_point.aub": 0.534,
+    "lsu_vs_auburn_offensive_efficiency.three_point.lsu": 0.332,
+    "lsu_vs_auburn_offensive_efficiency.three_point.aub": 0.336,
+    "lsu_vs_auburn_offensive_efficiency.free_throw.lsu": 0.7709999999999999,
+    "lsu_vs_auburn_offensive_efficiency.free_throw.aub": 0.747,
+    "lsu_vs_auburn_offensive_efficiency.points_2_pters.lsu": 42.3,
+    "lsu_vs_auburn_offensive_efficiency.points_2_pters.aub": 39.3,
+    "lsu_vs_auburn_offensive_efficiency.points_3_pters.lsu": 20.4,
+    "lsu_vs_auburn_offensive_efficiency.points_3_pters.aub": 23.4,
+    "lsu_vs_auburn_offensive_efficiency.off_rebound.lsu": 0.325,
+    "lsu_vs_auburn_offensive_efficiency.off_rebound.aub": 0.36200000000000004,
+    "lsu_vs_auburn_offensive_efficiency.def_rebound.lsu": 0.706,
+    "lsu_vs_auburn_offensive_efficiency.def_rebound.aub": 0.71,
+    "lsu_vs_auburn_offensive_efficiency.block.lsu": 0.065,
+    "lsu_vs_auburn_offensive_efficiency.block.aub": 0.07,
+    "lsu_vs_auburn_offensive_efficiency.steals_play.lsu": 0.07400000000000001,
+    "lsu_vs_auburn_offensive_efficiency.steals_play.aub": 0.092,
+    "lsu_vs_auburn_offensive_efficiency.turnovers_play.lsu": 0.129,
+    "lsu_vs_auburn_offensive_efficiency.turnovers_play.aub": 0.12300000000000001,
+    "lsu_vs_auburn_offensive_efficiency.personal_fouls_play.lsu": 0.22899999999999998,
+    "lsu_vs_auburn_offensive_efficiency.personal_fouls_play.aub": 0.215,
+    "lsu_vs_auburn_offensive_efficiency.assists_fgm.lsu": 0.528,
+    "lsu_vs_auburn_offensive_efficiency.assists_fgm.aub": 0.464,
+    "lsu_vs_auburn_defensive_efficiency.possessions_gm.lsu": 71.4,
+    "lsu_vs_auburn_defensive_efficiency.possessions_gm.aub": 72.0,
+    "lsu_vs_auburn_defensive_efficiency.def_efficiency.lsu": 1.084,
+    "lsu_vs_auburn_defensive_efficiency.def_efficiency.aub": 1.11,
+    "lsu_vs_auburn_defensive_efficiency.opp_effective_fg.lsu": 0.507,
+    "lsu_vs_auburn_defensive_efficiency.opp_effective_fg.aub": 0.5379999999999999,
+    "lsu_vs_auburn_defensive_efficiency.opp_two_point_rate.lsu": 0.622,
+    "lsu_vs_auburn_defensive_efficiency.opp_two_point_rate.aub": 0.595,
+    "lsu_vs_auburn_defensive_efficiency.opp_three_point_rate.lsu": 0.37799999999999995,
+    "lsu_vs_auburn_defensive_efficiency.opp_three_point_rate.aub": 0.405,
+    "lsu_vs_auburn_defensive_efficiency.opp_fta_play.lsu": 0.282,
+    "lsu_vs_auburn_defensive_efficiency.opp_fta_play.aub": 0.254,
+    "lsu_vs_auburn_defensive_efficiency.opp_two_point.lsu": 0.49,
+    "lsu_vs_auburn_defensive_efficiency.opp_two_point.aub": 0.524,
+    "lsu_vs_auburn_defensive_efficiency.opp_three_point.lsu": 0.35700000000000004,
+    "lsu_vs_auburn_defensive_efficiency.opp_three_point.aub": 0.37200000000000005,
+    "lsu_vs_auburn_defensive_efficiency.opp_free_throw.lsu": 0.696,
+    "lsu_vs_auburn_defensive_efficiency.opp_free_throw.aub": 0.762,
+    "lsu_vs_auburn_defensive_efficiency.opp_points_2_pters.lsu": 36.9,
+    "lsu_vs_auburn_defensive_efficiency.opp_points_2_pters.aub": 37.2,
+    "lsu_vs_auburn_defensive_efficiency.opp_points_3_pters.lsu": 24.5,
+    "lsu_vs_auburn_defensive_efficiency.opp_points_3_pters.aub": 27.0,
+    "lsu_vs_auburn_defensive_efficiency.opp_off_rebound.lsu": 0.294,
+    "lsu_vs_auburn_defensive_efficiency.opp_off_rebound.aub": 0.29,
+    "lsu_vs_auburn_defensive_efficiency.opp_def_rebound.lsu": 0.675,
+    "lsu_vs_auburn_defensive_efficiency.opp_def_rebound.aub": 0.638,
+    "lsu_vs_auburn_defensive_efficiency.opp_block.lsu": 0.053,
+    "lsu_vs_auburn_defensive_efficiency.opp_block.aub": 0.075,
+    "lsu_vs_auburn_defensive_efficiency.opp_steals_play.lsu": 0.076,
+    "lsu_vs_auburn_defensive_efficiency.opp_steals_play.aub": 0.08,
+    "lsu_vs_auburn_defensive_efficiency.opp_turnovers_play.lsu": 0.12300000000000001,
+    "lsu_vs_auburn_defensive_efficiency.opp_turnovers_play.aub": 0.142,
+    "lsu_vs_auburn_defensive_efficiency.opp_personal_fouls_play.lsu": 0.235,
+    "lsu_vs_auburn_defensive_efficiency.opp_personal_fouls_play.aub": 0.243,
+    "lsu_vs_auburn_defensive_efficiency.opp_assists_fgm.lsu": 0.468,
+    "lsu_vs_auburn_defensive_efficiency.opp_assists_fgm.aub": 0.514
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "tigers-tigers-2026-03-03",
+  "matchup_title": "#53 LSU at #33 Auburn",
+  "teams": {
+    "away": "#53 LSU",
+    "home": "#33 Auburn",
+    "neutral_site": false
+  },
+  "time_local": "10:00 PM",
+  "location": "Neville Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-tigers-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-tigers-2026-03-03/efficiency"
+  }
+}

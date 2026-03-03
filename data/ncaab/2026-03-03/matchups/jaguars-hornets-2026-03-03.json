@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/jaguars-hornets-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:53.802834+00:00",
+  "tables": {
+    "Matchup Menu: SOU @ ALST": {
+      "headers": [
+        "Stat",
+        "SOU",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "SOU",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SOU": {
+            "raw": "1.026",
+            "value": 1.026
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.991",
+            "value": 0.991
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "48.9%",
+            "value": 0.489
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "15.8%",
+            "value": 0.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.2%",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SOU": {
+            "raw": "0.399",
+            "value": 0.399
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "0.355",
+            "value": 0.355
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SOU": {
+            "raw": "76.2",
+            "value": 76.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "72.3",
+            "value": 72.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SOU": {
+            "raw": "-5.2",
+            "value": -5.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "-6.0",
+            "value": -6.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "SOU",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "SOU",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SOU": {
+            "raw": "1.026",
+            "value": 1.026
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.991",
+            "value": 0.991
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "48.9%",
+            "value": 0.489
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "15.8%",
+            "value": 0.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.2%",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SOU": {
+            "raw": "0.399",
+            "value": 0.399
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "0.355",
+            "value": 0.355
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SOU": {
+            "raw": "76.2",
+            "value": 76.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "72.3",
+            "value": 72.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SOU": {
+            "raw": "-5.2",
+            "value": -5.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "-6.0",
+            "value": -6.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "SOU",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "SOU",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SOU": {
+            "raw": "1.096",
+            "value": 1.096
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "53.7%",
+            "value": 0.537
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "53.2%",
+            "value": 0.532
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "16.6%",
+            "value": 0.166
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "69.1%",
+            "value": 0.691
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "70.0%",
+            "value": 0.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "SOU": {
+            "raw": "0.445",
+            "value": 0.445
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.423",
+            "value": 0.423
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "SOU": {
+            "raw": "81.3",
+            "value": 81.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "78.3",
+            "value": 78.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "23.7%",
+            "value": 0.237
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        }
+      ]
+    },
+    "Southern vs Alabama St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SOU",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "SOU",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SOU": {
+            "raw": "74.2",
+            "value": 74.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SOU": {
+            "raw": "1.026",
+            "value": 1.026
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.991",
+            "value": 0.991
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "48.9%",
+            "value": 0.489
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "SOU": {
+            "raw": "67.2%",
+            "value": 0.672
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "62.0%",
+            "value": 0.62
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "SOU": {
+            "raw": "32.8%",
+            "value": 0.32799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "38.0%",
+            "value": 0.38
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "25.6%",
+            "value": 0.256
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "47.8%",
+            "value": 0.478
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "46.6%",
+            "value": 0.466
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "32.9%",
+            "value": 0.32899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "69.1%",
+            "value": 0.691
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "SOU": {
+            "raw": "39.1",
+            "value": 39.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "34.7",
+            "value": 34.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "SOU": {
+            "raw": "20.3",
+            "value": 20.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "22.5",
+            "value": 22.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.2%",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "69.1%",
+            "value": 0.691
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "70.0%",
+            "value": 0.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "10.2%",
+            "value": 0.102
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "9.7%",
+            "value": 0.09699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "15.8%",
+            "value": 0.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "23.7%",
+            "value": 0.237
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "SOU": {
+            "raw": "0.515",
+            "value": 0.515
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.473",
+            "value": 0.473
+          }
+        }
+      ]
+    },
+    "Southern vs Alabama St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SOU",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "SOU",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SOU": {
+            "raw": "74.2",
+            "value": 74.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SOU": {
+            "raw": "1.096",
+            "value": 1.096
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "53.7%",
+            "value": 0.537
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "53.2%",
+            "value": 0.532
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "SOU": {
+            "raw": "61.4%",
+            "value": 0.614
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "59.1%",
+            "value": 0.591
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "SOU": {
+            "raw": "38.6%",
+            "value": 0.386
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "40.9%",
+            "value": 0.409
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "30.6%",
+            "value": 0.306
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "29.3%",
+            "value": 0.293
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "53.4%",
+            "value": 0.534
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "36.7%",
+            "value": 0.36700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "35.2%",
+            "value": 0.35200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "76.1%",
+            "value": 0.7609999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "73.2%",
+            "value": 0.732
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "SOU": {
+            "raw": "37.4",
+            "value": 37.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "36.0",
+            "value": 36.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "SOU": {
+            "raw": "24.5",
+            "value": 24.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "24.6",
+            "value": 24.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "30.9%",
+            "value": 0.309
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.0%",
+            "value": 0.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "69.8%",
+            "value": 0.698
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "SOU": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "6.7%",
+            "value": 0.067
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "8.9%",
+            "value": 0.08900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "16.6%",
+            "value": 0.166
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "SOU": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "21.3%",
+            "value": 0.213
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "SOU": {
+            "raw": "0.530",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.552",
+            "value": 0.552
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_sou_alst.off_efficiency.sou": 1.026,
+    "matchup_menu_sou_alst.off_efficiency.alst": 0.991,
+    "matchup_menu_sou_alst.effective_fg.sou": 0.489,
+    "matchup_menu_sou_alst.effective_fg.alst": 0.47700000000000004,
+    "matchup_menu_sou_alst.turnovers_play.sou": 0.14400000000000002,
+    "matchup_menu_sou_alst.turnovers_play.alst": 0.158,
+    "matchup_menu_sou_alst.off_rebound.sou": 0.293,
+    "matchup_menu_sou_alst.off_rebound.alst": 0.302,
+    "matchup_menu_sou_alst.fta_fga.sou": 0.399,
+    "matchup_menu_sou_alst.fta_fga.alst": 0.355,
+    "matchup_menu_sou_alst.points_game.sou": 76.2,
+    "matchup_menu_sou_alst.points_game.alst": 72.3,
+    "matchup_menu_sou_alst.avg_score_margin.sou": -5.2,
+    "matchup_menu_sou_alst.avg_score_margin.alst": -6.0,
+    "key_offensive_stats.off_efficiency.sou": 1.026,
+    "key_offensive_stats.off_efficiency.alst": 0.991,
+    "key_offensive_stats.effective_fg.sou": 0.489,
+    "key_offensive_stats.effective_fg.alst": 0.47700000000000004,
+    "key_offensive_stats.turnovers_play.sou": 0.14400000000000002,
+    "key_offensive_stats.turnovers_play.alst": 0.158,
+    "key_offensive_stats.off_rebound.sou": 0.293,
+    "key_offensive_stats.off_rebound.alst": 0.302,
+    "key_offensive_stats.fta_fga.sou": 0.399,
+    "key_offensive_stats.fta_fga.alst": 0.355,
+    "key_offensive_stats.points_game.sou": 76.2,
+    "key_offensive_stats.points_game.alst": 72.3,
+    "key_offensive_stats.avg_score_margin.sou": -5.2,
+    "key_offensive_stats.avg_score_margin.alst": -6.0,
+    "key_defensive_stats.def_efficiency.sou": 1.096,
+    "key_defensive_stats.def_efficiency.alst": 1.073,
+    "key_defensive_stats.opp_effective_fg.sou": 0.537,
+    "key_defensive_stats.opp_effective_fg.alst": 0.532,
+    "key_defensive_stats.opp_turnovers_play.sou": 0.165,
+    "key_defensive_stats.opp_turnovers_play.alst": 0.166,
+    "key_defensive_stats.def_rebound.sou": 0.691,
+    "key_defensive_stats.def_rebound.alst": 0.7,
+    "key_defensive_stats.opp_fta_fga.sou": 0.445,
+    "key_defensive_stats.opp_fta_fga.alst": 0.423,
+    "key_defensive_stats.opp_points_game.sou": 81.3,
+    "key_defensive_stats.opp_points_game.alst": 78.3,
+    "key_defensive_stats.block.sou": 0.064,
+    "key_defensive_stats.block.alst": 0.06,
+    "key_defensive_stats.personal_fouls_play.sou": 0.237,
+    "key_defensive_stats.personal_fouls_play.alst": 0.235,
+    "southern_vs_alabama_st_offensive_efficiency.possessions_gm.sou": 74.2,
+    "southern_vs_alabama_st_offensive_efficiency.possessions_gm.alst": 72.9,
+    "southern_vs_alabama_st_offensive_efficiency.off_efficiency.sou": 1.026,
+    "southern_vs_alabama_st_offensive_efficiency.off_efficiency.alst": 0.991,
+    "southern_vs_alabama_st_offensive_efficiency.effective_fg.sou": 0.489,
+    "southern_vs_alabama_st_offensive_efficiency.effective_fg.alst": 0.47700000000000004,
+    "southern_vs_alabama_st_offensive_efficiency.two_point_rate.sou": 0.672,
+    "southern_vs_alabama_st_offensive_efficiency.two_point_rate.alst": 0.62,
+    "southern_vs_alabama_st_offensive_efficiency.three_point_rate.sou": 0.32799999999999996,
+    "southern_vs_alabama_st_offensive_efficiency.three_point_rate.alst": 0.38,
+    "southern_vs_alabama_st_offensive_efficiency.fta_play.sou": 0.28800000000000003,
+    "southern_vs_alabama_st_offensive_efficiency.fta_play.alst": 0.256,
+    "southern_vs_alabama_st_offensive_efficiency.two_point.sou": 0.478,
+    "southern_vs_alabama_st_offensive_efficiency.two_point.alst": 0.466,
+    "southern_vs_alabama_st_offensive_efficiency.three_point.sou": 0.34,
+    "southern_vs_alabama_st_offensive_efficiency.three_point.alst": 0.32899999999999996,
+    "southern_vs_alabama_st_offensive_efficiency.free_throw.sou": 0.691,
+    "southern_vs_alabama_st_offensive_efficiency.free_throw.alst": 0.71,
+    "southern_vs_alabama_st_offensive_efficiency.points_2_pters.sou": 39.1,
+    "southern_vs_alabama_st_offensive_efficiency.points_2_pters.alst": 34.7,
+    "southern_vs_alabama_st_offensive_efficiency.points_3_pters.sou": 20.3,
+    "southern_vs_alabama_st_offensive_efficiency.points_3_pters.alst": 22.5,
+    "southern_vs_alabama_st_offensive_efficiency.off_rebound.sou": 0.293,
+    "southern_vs_alabama_st_offensive_efficiency.off_rebound.alst": 0.302,
+    "southern_vs_alabama_st_offensive_efficiency.def_rebound.sou": 0.691,
+    "southern_vs_alabama_st_offensive_efficiency.def_rebound.alst": 0.7,
+    "southern_vs_alabama_st_offensive_efficiency.block.sou": 0.064,
+    "southern_vs_alabama_st_offensive_efficiency.block.alst": 0.06,
+    "southern_vs_alabama_st_offensive_efficiency.steals_play.sou": 0.102,
+    "southern_vs_alabama_st_offensive_efficiency.steals_play.alst": 0.09699999999999999,
+    "southern_vs_alabama_st_offensive_efficiency.turnovers_play.sou": 0.14400000000000002,
+    "southern_vs_alabama_st_offensive_efficiency.turnovers_play.alst": 0.158,
+    "southern_vs_alabama_st_offensive_efficiency.personal_fouls_play.sou": 0.237,
+    "southern_vs_alabama_st_offensive_efficiency.personal_fouls_play.alst": 0.235,
+    "southern_vs_alabama_st_offensive_efficiency.assists_fgm.sou": 0.515,
+    "southern_vs_alabama_st_offensive_efficiency.assists_fgm.alst": 0.473,
+    "southern_vs_alabama_st_defensive_efficiency.possessions_gm.sou": 74.2,
+    "southern_vs_alabama_st_defensive_efficiency.possessions_gm.alst": 72.9,
+    "southern_vs_alabama_st_defensive_efficiency.def_efficiency.sou": 1.096,
+    "southern_vs_alabama_st_defensive_efficiency.def_efficiency.alst": 1.073,
+    "southern_vs_alabama_st_defensive_efficiency.opp_effective_fg.sou": 0.537,
+    "southern_vs_alabama_st_defensive_efficiency.opp_effective_fg.alst": 0.532,
+    "southern_vs_alabama_st_defensive_efficiency.opp_two_point_rate.sou": 0.614,
+    "southern_vs_alabama_st_defensive_efficiency.opp_two_point_rate.alst": 0.591,
+    "southern_vs_alabama_st_defensive_efficiency.opp_three_point_rate.sou": 0.386,
+    "southern_vs_alabama_st_defensive_efficiency.opp_three_point_rate.alst": 0.409,
+    "southern_vs_alabama_st_defensive_efficiency.opp_fta_play.sou": 0.306,
+    "southern_vs_alabama_st_defensive_efficiency.opp_fta_play.alst": 0.293,
+    "southern_vs_alabama_st_defensive_efficiency.opp_two_point.sou": 0.529,
+    "southern_vs_alabama_st_defensive_efficiency.opp_two_point.alst": 0.534,
+    "southern_vs_alabama_st_defensive_efficiency.opp_three_point.sou": 0.36700000000000005,
+    "southern_vs_alabama_st_defensive_efficiency.opp_three_point.alst": 0.35200000000000004,
+    "southern_vs_alabama_st_defensive_efficiency.opp_free_throw.sou": 0.7609999999999999,
+    "southern_vs_alabama_st_defensive_efficiency.opp_free_throw.alst": 0.732,
+    "southern_vs_alabama_st_defensive_efficiency.opp_points_2_pters.sou": 37.4,
+    "southern_vs_alabama_st_defensive_efficiency.opp_points_2_pters.alst": 36.0,
+    "southern_vs_alabama_st_defensive_efficiency.opp_points_3_pters.sou": 24.5,
+    "southern_vs_alabama_st_defensive_efficiency.opp_points_3_pters.alst": 24.6,
+    "southern_vs_alabama_st_defensive_efficiency.opp_off_rebound.sou": 0.309,
+    "southern_vs_alabama_st_defensive_efficiency.opp_off_rebound.alst": 0.3,
+    "southern_vs_alabama_st_defensive_efficiency.opp_def_rebound.sou": 0.7070000000000001,
+    "southern_vs_alabama_st_defensive_efficiency.opp_def_rebound.alst": 0.698,
+    "southern_vs_alabama_st_defensive_efficiency.opp_block.sou": 0.066,
+    "southern_vs_alabama_st_defensive_efficiency.opp_block.alst": 0.067,
+    "southern_vs_alabama_st_defensive_efficiency.opp_steals_play.sou": 0.076,
+    "southern_vs_alabama_st_defensive_efficiency.opp_steals_play.alst": 0.08900000000000001,
+    "southern_vs_alabama_st_defensive_efficiency.opp_turnovers_play.sou": 0.165,
+    "southern_vs_alabama_st_defensive_efficiency.opp_turnovers_play.alst": 0.166,
+    "southern_vs_alabama_st_defensive_efficiency.opp_personal_fouls_play.sou": 0.22899999999999998,
+    "southern_vs_alabama_st_defensive_efficiency.opp_personal_fouls_play.alst": 0.213,
+    "southern_vs_alabama_st_defensive_efficiency.opp_assists_fgm.sou": 0.53,
+    "southern_vs_alabama_st_defensive_efficiency.opp_assists_fgm.alst": 0.552
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "jaguars-hornets-2026-03-03",
+  "matchup_title": "#268 Southern at #312 Alabama St",
+  "teams": {
+    "away": "#268 Southern",
+    "home": "#312 Alabama St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Dunn-Oliver Acadome",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/jaguars-hornets-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/jaguars-hornets-2026-03-03/efficiency"
+  }
+}

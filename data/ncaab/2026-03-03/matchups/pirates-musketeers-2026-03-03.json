@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/pirates-musketeers-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:37.458358+00:00",
+  "tables": {
+    "Matchup Menu: HALL @ XAV": {
+      "headers": [
+        "Stat",
+        "HALL",
+        "adv",
+        "XAV"
+      ],
+      "team_headers": [
+        "HALL",
+        "XAV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HALL": {
+            "raw": "1.028",
+            "value": 1.028
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "47.9%",
+            "value": 0.479
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "12.2%",
+            "value": 0.122
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "33.7%",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HALL": {
+            "raw": "0.357",
+            "value": 0.357
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "0.276",
+            "value": 0.276
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HALL": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "78.7",
+            "value": 78.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HALL": {
+            "raw": "+5.6",
+            "value": 5.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "-1.0",
+            "value": -1.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "HALL",
+        "adv",
+        "XAV"
+      ],
+      "team_headers": [
+        "HALL",
+        "XAV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HALL": {
+            "raw": "1.028",
+            "value": 1.028
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "47.9%",
+            "value": 0.479
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "12.2%",
+            "value": 0.122
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "33.7%",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HALL": {
+            "raw": "0.357",
+            "value": 0.357
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "0.276",
+            "value": 0.276
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HALL": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "78.7",
+            "value": 78.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HALL": {
+            "raw": "+5.6",
+            "value": 5.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "-1.0",
+            "value": -1.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "HALL",
+        "adv",
+        "XAV"
+      ],
+      "team_headers": [
+        "HALL",
+        "XAV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HALL": {
+            "raw": "0.946",
+            "value": 0.946
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "1.079",
+            "value": 1.079
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "46.8%",
+            "value": 0.46799999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "19.0%",
+            "value": 0.19
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "70.8%",
+            "value": 0.708
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "74.8%",
+            "value": 0.748
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "HALL": {
+            "raw": "0.427",
+            "value": 0.427
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "0.342",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "HALL": {
+            "raw": "64.7",
+            "value": 64.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "79.8",
+            "value": 79.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        }
+      ]
+    },
+    "Seton Hall vs Xavier Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HALL",
+        "adv",
+        "XAV"
+      ],
+      "team_headers": [
+        "HALL",
+        "XAV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HALL": {
+            "raw": "68.4",
+            "value": 68.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "73.9",
+            "value": 73.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HALL": {
+            "raw": "1.028",
+            "value": 1.028
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "47.9%",
+            "value": 0.479
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "HALL": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "59.5%",
+            "value": 0.595
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "HALL": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "40.5%",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "21.3%",
+            "value": 0.213
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "48.3%",
+            "value": 0.483
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "31.1%",
+            "value": 0.311
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "36.5%",
+            "value": 0.365
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "72.3%",
+            "value": 0.723
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "HALL": {
+            "raw": "40.9",
+            "value": 40.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "37.8",
+            "value": 37.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "HALL": {
+            "raw": "14.6",
+            "value": 14.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "28.2",
+            "value": 28.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "33.7%",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "70.8%",
+            "value": 0.708
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "74.8%",
+            "value": 0.748
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "11.2%",
+            "value": 0.11199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "12.2%",
+            "value": 0.122
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "HALL": {
+            "raw": "0.512",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "0.621",
+            "value": 0.621
+          }
+        }
+      ]
+    },
+    "Seton Hall vs Xavier Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HALL",
+        "adv",
+        "XAV"
+      ],
+      "team_headers": [
+        "HALL",
+        "XAV"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HALL": {
+            "raw": "68.4",
+            "value": 68.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "73.9",
+            "value": 73.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HALL": {
+            "raw": "0.946",
+            "value": 0.946
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "1.079",
+            "value": 1.079
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "46.8%",
+            "value": 0.46799999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "HALL": {
+            "raw": "57.3%",
+            "value": 0.573
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "64.7%",
+            "value": 0.647
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "HALL": {
+            "raw": "42.7%",
+            "value": 0.42700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "35.3%",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "45.6%",
+            "value": 0.456
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "54.1%",
+            "value": 0.541
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "32.4%",
+            "value": 0.324
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "34.9%",
+            "value": 0.349
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "69.1%",
+            "value": 0.691
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "HALL": {
+            "raw": "27.2",
+            "value": 27.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "42.8",
+            "value": 42.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "HALL": {
+            "raw": "21.6",
+            "value": 21.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "22.6",
+            "value": 22.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "29.2%",
+            "value": 0.292
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "25.2%",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "66.3%",
+            "value": 0.6629999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "XAV": {
+            "raw": "75.8%",
+            "value": 0.758
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "HALL": {
+            "raw": "6.1%",
+            "value": 0.061
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "6.1%",
+            "value": 0.061
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "8.0%",
+            "value": 0.08
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "XAV": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "19.0%",
+            "value": 0.19
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "HALL": {
+            "raw": "22.2%",
+            "value": 0.222
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "XAV": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "HALL": {
+            "raw": "0.570",
+            "value": 0.57
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "XAV": {
+            "raw": "0.634",
+            "value": 0.634
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_hall_xav.off_efficiency.hall": 1.028,
+    "matchup_menu_hall_xav.off_efficiency.xav": 1.065,
+    "matchup_menu_hall_xav.effective_fg.hall": 0.479,
+    "matchup_menu_hall_xav.effective_fg.xav": 0.519,
+    "matchup_menu_hall_xav.turnovers_play.hall": 0.14400000000000002,
+    "matchup_menu_hall_xav.turnovers_play.xav": 0.122,
+    "matchup_menu_hall_xav.off_rebound.hall": 0.337,
+    "matchup_menu_hall_xav.off_rebound.xav": 0.242,
+    "matchup_menu_hall_xav.fta_fga.hall": 0.357,
+    "matchup_menu_hall_xav.fta_fga.xav": 0.276,
+    "matchup_menu_hall_xav.points_game.hall": 70.3,
+    "matchup_menu_hall_xav.points_game.xav": 78.7,
+    "matchup_menu_hall_xav.avg_score_margin.hall": 5.6,
+    "matchup_menu_hall_xav.avg_score_margin.xav": -1.0,
+    "key_offensive_stats.off_efficiency.hall": 1.028,
+    "key_offensive_stats.off_efficiency.xav": 1.065,
+    "key_offensive_stats.effective_fg.hall": 0.479,
+    "key_offensive_stats.effective_fg.xav": 0.519,
+    "key_offensive_stats.turnovers_play.hall": 0.14400000000000002,
+    "key_offensive_stats.turnovers_play.xav": 0.122,
+    "key_offensive_stats.off_rebound.hall": 0.337,
+    "key_offensive_stats.off_rebound.xav": 0.242,
+    "key_offensive_stats.fta_fga.hall": 0.357,
+    "key_offensive_stats.fta_fga.xav": 0.276,
+    "key_offensive_stats.points_game.hall": 70.3,
+    "key_offensive_stats.points_game.xav": 78.7,
+    "key_offensive_stats.avg_score_margin.hall": 5.6,
+    "key_offensive_stats.avg_score_margin.xav": -1.0,
+    "key_defensive_stats.def_efficiency.hall": 0.946,
+    "key_defensive_stats.def_efficiency.xav": 1.079,
+    "key_defensive_stats.opp_effective_fg.hall": 0.46799999999999997,
+    "key_defensive_stats.opp_effective_fg.xav": 0.535,
+    "key_defensive_stats.opp_turnovers_play.hall": 0.19,
+    "key_defensive_stats.opp_turnovers_play.xav": 0.138,
+    "key_defensive_stats.def_rebound.hall": 0.708,
+    "key_defensive_stats.def_rebound.xav": 0.748,
+    "key_defensive_stats.opp_fta_fga.hall": 0.427,
+    "key_defensive_stats.opp_fta_fga.xav": 0.342,
+    "key_defensive_stats.opp_points_game.hall": 64.7,
+    "key_defensive_stats.opp_points_game.xav": 79.8,
+    "key_defensive_stats.block.hall": 0.11199999999999999,
+    "key_defensive_stats.block.xav": 0.066,
+    "key_defensive_stats.personal_fouls_play.hall": 0.242,
+    "key_defensive_stats.personal_fouls_play.xav": 0.21899999999999997,
+    "seton_hall_vs_xavier_offensive_efficiency.possessions_gm.hall": 68.4,
+    "seton_hall_vs_xavier_offensive_efficiency.possessions_gm.xav": 73.9,
+    "seton_hall_vs_xavier_offensive_efficiency.off_efficiency.hall": 1.028,
+    "seton_hall_vs_xavier_offensive_efficiency.off_efficiency.xav": 1.065,
+    "seton_hall_vs_xavier_offensive_efficiency.effective_fg.hall": 0.479,
+    "seton_hall_vs_xavier_offensive_efficiency.effective_fg.xav": 0.519,
+    "seton_hall_vs_xavier_offensive_efficiency.two_point_rate.hall": 0.73,
+    "seton_hall_vs_xavier_offensive_efficiency.two_point_rate.xav": 0.595,
+    "seton_hall_vs_xavier_offensive_efficiency.three_point_rate.hall": 0.27,
+    "seton_hall_vs_xavier_offensive_efficiency.three_point_rate.xav": 0.405,
+    "seton_hall_vs_xavier_offensive_efficiency.fta_play.hall": 0.261,
+    "seton_hall_vs_xavier_offensive_efficiency.fta_play.xav": 0.213,
+    "seton_hall_vs_xavier_offensive_efficiency.two_point.hall": 0.483,
+    "seton_hall_vs_xavier_offensive_efficiency.two_point.xav": 0.5,
+    "seton_hall_vs_xavier_offensive_efficiency.three_point.hall": 0.311,
+    "seton_hall_vs_xavier_offensive_efficiency.three_point.xav": 0.365,
+    "seton_hall_vs_xavier_offensive_efficiency.free_throw.hall": 0.718,
+    "seton_hall_vs_xavier_offensive_efficiency.free_throw.xav": 0.723,
+    "seton_hall_vs_xavier_offensive_efficiency.points_2_pters.hall": 40.9,
+    "seton_hall_vs_xavier_offensive_efficiency.points_2_pters.xav": 37.8,
+    "seton_hall_vs_xavier_offensive_efficiency.points_3_pters.hall": 14.6,
+    "seton_hall_vs_xavier_offensive_efficiency.points_3_pters.xav": 28.2,
+    "seton_hall_vs_xavier_offensive_efficiency.off_rebound.hall": 0.337,
+    "seton_hall_vs_xavier_offensive_efficiency.off_rebound.xav": 0.242,
+    "seton_hall_vs_xavier_offensive_efficiency.def_rebound.hall": 0.708,
+    "seton_hall_vs_xavier_offensive_efficiency.def_rebound.xav": 0.748,
+    "seton_hall_vs_xavier_offensive_efficiency.block.hall": 0.11199999999999999,
+    "seton_hall_vs_xavier_offensive_efficiency.block.xav": 0.066,
+    "seton_hall_vs_xavier_offensive_efficiency.steals_play.hall": 0.12300000000000001,
+    "seton_hall_vs_xavier_offensive_efficiency.steals_play.xav": 0.08,
+    "seton_hall_vs_xavier_offensive_efficiency.turnovers_play.hall": 0.14400000000000002,
+    "seton_hall_vs_xavier_offensive_efficiency.turnovers_play.xav": 0.122,
+    "seton_hall_vs_xavier_offensive_efficiency.personal_fouls_play.hall": 0.242,
+    "seton_hall_vs_xavier_offensive_efficiency.personal_fouls_play.xav": 0.21899999999999997,
+    "seton_hall_vs_xavier_offensive_efficiency.assists_fgm.hall": 0.512,
+    "seton_hall_vs_xavier_offensive_efficiency.assists_fgm.xav": 0.621,
+    "seton_hall_vs_xavier_defensive_efficiency.possessions_gm.hall": 68.4,
+    "seton_hall_vs_xavier_defensive_efficiency.possessions_gm.xav": 73.9,
+    "seton_hall_vs_xavier_defensive_efficiency.def_efficiency.hall": 0.946,
+    "seton_hall_vs_xavier_defensive_efficiency.def_efficiency.xav": 1.079,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_effective_fg.hall": 0.46799999999999997,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_effective_fg.xav": 0.535,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_two_point_rate.hall": 0.573,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_two_point_rate.xav": 0.647,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_three_point_rate.hall": 0.42700000000000005,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_three_point_rate.xav": 0.353,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_fta_play.hall": 0.287,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_fta_play.xav": 0.255,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_two_point.hall": 0.456,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_two_point.xav": 0.541,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_three_point.hall": 0.324,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_three_point.xav": 0.349,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_free_throw.hall": 0.7120000000000001,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_free_throw.xav": 0.691,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_points_2_pters.hall": 27.2,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_points_2_pters.xav": 42.8,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_points_3_pters.hall": 21.6,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_points_3_pters.xav": 22.6,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_off_rebound.hall": 0.292,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_off_rebound.xav": 0.252,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_def_rebound.hall": 0.6629999999999999,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_def_rebound.xav": 0.758,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_block.hall": 0.061,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_block.xav": 0.061,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_steals_play.hall": 0.08,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_steals_play.xav": 0.07200000000000001,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_turnovers_play.hall": 0.19,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_turnovers_play.xav": 0.138,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_personal_fouls_play.hall": 0.222,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_personal_fouls_play.xav": 0.19,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_assists_fgm.hall": 0.57,
+    "seton_hall_vs_xavier_defensive_efficiency.opp_assists_fgm.xav": 0.634
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "pirates-musketeers-2026-03-03",
+  "matchup_title": "#59 Seton Hall at #85 Xavier",
+  "teams": {
+    "away": "#59 Seton Hall",
+    "home": "#85 Xavier",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Cintas Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/pirates-musketeers-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/pirates-musketeers-2026-03-03/efficiency"
+  }
+}

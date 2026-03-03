@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/pistons-cavaliers-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:17.512846+00:00",
+  "tables": {
+    "Matchup Menu: DET @ CLE": {
+      "headers": [
+        "Stat",
+        "DET",
+        "adv",
+        "CLE"
+      ],
+      "team_headers": [
+        "DET",
+        "CLE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DET": {
+            "raw": "1.124",
+            "value": 1.124
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DET": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "55.6%",
+            "value": 0.556
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DET": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "27.4%",
+            "value": 0.27399999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DET": {
+            "raw": "0.292",
+            "value": 0.292
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "0.258",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DET": {
+            "raw": "117.3",
+            "value": 117.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "119.2",
+            "value": 119.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DET": {
+            "raw": "+7.9",
+            "value": 7.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "+4.2",
+            "value": 4.2
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "DET",
+        "adv",
+        "CLE"
+      ],
+      "team_headers": [
+        "DET",
+        "CLE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DET": {
+            "raw": "1.124",
+            "value": 1.124
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DET": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "55.6%",
+            "value": 0.556
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DET": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "27.4%",
+            "value": 0.27399999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DET": {
+            "raw": "0.292",
+            "value": 0.292
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "0.258",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DET": {
+            "raw": "117.3",
+            "value": 117.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "119.2",
+            "value": 119.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DET": {
+            "raw": "+7.9",
+            "value": 7.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "+4.2",
+            "value": 4.2
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "DET",
+        "adv",
+        "CLE"
+      ],
+      "team_headers": [
+        "DET",
+        "CLE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DET": {
+            "raw": "1.048",
+            "value": 1.048
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "1.101",
+            "value": 1.101
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DET": {
+            "raw": "51.5%",
+            "value": 0.515
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "54.0%",
+            "value": 0.54
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "14.9%",
+            "value": 0.149
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DET": {
+            "raw": "74.3%",
+            "value": 0.743
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "73.5%",
+            "value": 0.735
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "DET": {
+            "raw": "0.324",
+            "value": 0.324
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "0.261",
+            "value": 0.261
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "DET": {
+            "raw": "109.4",
+            "value": 109.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "115.0",
+            "value": 115.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DET": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        }
+      ]
+    },
+    "Detroit vs Cleveland Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DET",
+        "adv",
+        "CLE"
+      ],
+      "team_headers": [
+        "DET",
+        "CLE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DET": {
+            "raw": "104.3",
+            "value": 104.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "104.4",
+            "value": 104.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DET": {
+            "raw": "1.124",
+            "value": 1.124
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "1.142",
+            "value": 1.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DET": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "55.6%",
+            "value": 0.556
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "DET": {
+            "raw": "65.0%",
+            "value": 0.65
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "55.8%",
+            "value": 0.5579999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "DET": {
+            "raw": "35.0%",
+            "value": 0.35
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "44.2%",
+            "value": 0.442
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "20.1%",
+            "value": 0.201
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "DET": {
+            "raw": "55.1%",
+            "value": 0.551
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "56.9%",
+            "value": 0.569
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "DET": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "35.9%",
+            "value": 0.359
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "DET": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "77.8%",
+            "value": 0.778
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "DET": {
+            "raw": "64.8",
+            "value": 64.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "57.7",
+            "value": 57.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "DET": {
+            "raw": "32.5",
+            "value": 32.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "43.3",
+            "value": 43.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DET": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "27.4%",
+            "value": 0.27399999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DET": {
+            "raw": "74.3%",
+            "value": 0.743
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "73.5%",
+            "value": 0.735
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DET": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "9.2%",
+            "value": 0.092
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "7.8%",
+            "value": 0.078
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "DET": {
+            "raw": "0.618",
+            "value": 0.618
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "0.656",
+            "value": 0.656
+          }
+        }
+      ]
+    },
+    "Detroit vs Cleveland Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DET",
+        "adv",
+        "CLE"
+      ],
+      "team_headers": [
+        "DET",
+        "CLE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DET": {
+            "raw": "104.3",
+            "value": 104.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "104.4",
+            "value": 104.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DET": {
+            "raw": "1.048",
+            "value": 1.048
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "1.101",
+            "value": 1.101
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DET": {
+            "raw": "51.5%",
+            "value": 0.515
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "54.0%",
+            "value": 0.54
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "DET": {
+            "raw": "57.0%",
+            "value": 0.57
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "57.7%",
+            "value": 0.5770000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "DET": {
+            "raw": "43.0%",
+            "value": 0.43
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "42.3%",
+            "value": 0.423
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "20.1%",
+            "value": 0.201
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "DET": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "DET": {
+            "raw": "34.8%",
+            "value": 0.348
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CLE": {
+            "raw": "36.9%",
+            "value": 0.369
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "DET": {
+            "raw": "79.3%",
+            "value": 0.7929999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "79.2%",
+            "value": 0.792
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "DET": {
+            "raw": "49.3",
+            "value": 49.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "54.6",
+            "value": 54.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "DET": {
+            "raw": "38.2",
+            "value": 38.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "41.9",
+            "value": 41.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "DET": {
+            "raw": "25.7%",
+            "value": 0.257
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "26.5%",
+            "value": 0.265
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "DET": {
+            "raw": "69.0%",
+            "value": 0.69
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "72.6%",
+            "value": 0.726
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "DET": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "4.8%",
+            "value": 0.048
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "14.9%",
+            "value": 0.149
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CLE": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "DET": {
+            "raw": "18.5%",
+            "value": 0.185
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CLE": {
+            "raw": "17.5%",
+            "value": 0.175
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "DET": {
+            "raw": "0.626",
+            "value": 0.626
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CLE": {
+            "raw": "0.648",
+            "value": 0.648
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_det_cle.off_efficiency.det": 1.124,
+    "matchup_menu_det_cle.off_efficiency.cle": 1.142,
+    "matchup_menu_det_cle.effective_fg.det": 0.539,
+    "matchup_menu_det_cle.effective_fg.cle": 0.556,
+    "matchup_menu_det_cle.turnovers_play.det": 0.129,
+    "matchup_menu_det_cle.turnovers_play.cle": 0.12300000000000001,
+    "matchup_menu_det_cle.off_rebound.det": 0.31,
+    "matchup_menu_det_cle.off_rebound.cle": 0.27399999999999997,
+    "matchup_menu_det_cle.fta_fga.det": 0.292,
+    "matchup_menu_det_cle.fta_fga.cle": 0.258,
+    "matchup_menu_det_cle.points_game.det": 117.3,
+    "matchup_menu_det_cle.points_game.cle": 119.2,
+    "matchup_menu_det_cle.avg_score_margin.det": 7.9,
+    "matchup_menu_det_cle.avg_score_margin.cle": 4.2,
+    "key_offensive_stats.off_efficiency.det": 1.124,
+    "key_offensive_stats.off_efficiency.cle": 1.142,
+    "key_offensive_stats.effective_fg.det": 0.539,
+    "key_offensive_stats.effective_fg.cle": 0.556,
+    "key_offensive_stats.turnovers_play.det": 0.129,
+    "key_offensive_stats.turnovers_play.cle": 0.12300000000000001,
+    "key_offensive_stats.off_rebound.det": 0.31,
+    "key_offensive_stats.off_rebound.cle": 0.27399999999999997,
+    "key_offensive_stats.fta_fga.det": 0.292,
+    "key_offensive_stats.fta_fga.cle": 0.258,
+    "key_offensive_stats.points_game.det": 117.3,
+    "key_offensive_stats.points_game.cle": 119.2,
+    "key_offensive_stats.avg_score_margin.det": 7.9,
+    "key_offensive_stats.avg_score_margin.cle": 4.2,
+    "key_defensive_stats.def_efficiency.det": 1.048,
+    "key_defensive_stats.def_efficiency.cle": 1.101,
+    "key_defensive_stats.opp_effective_fg.det": 0.515,
+    "key_defensive_stats.opp_effective_fg.cle": 0.54,
+    "key_defensive_stats.opp_turnovers_play.det": 0.149,
+    "key_defensive_stats.opp_turnovers_play.cle": 0.135,
+    "key_defensive_stats.def_rebound.det": 0.743,
+    "key_defensive_stats.def_rebound.cle": 0.735,
+    "key_defensive_stats.opp_fta_fga.det": 0.324,
+    "key_defensive_stats.opp_fta_fga.cle": 0.261,
+    "key_defensive_stats.opp_points_game.det": 109.4,
+    "key_defensive_stats.opp_points_game.cle": 115.0,
+    "key_defensive_stats.block.det": 0.076,
+    "key_defensive_stats.block.cle": 0.057999999999999996,
+    "key_defensive_stats.personal_fouls_play.det": 0.193,
+    "key_defensive_stats.personal_fouls_play.cle": 0.171,
+    "detroit_vs_cleveland_offensive_efficiency.possessions_gm.det": 104.3,
+    "detroit_vs_cleveland_offensive_efficiency.possessions_gm.cle": 104.4,
+    "detroit_vs_cleveland_offensive_efficiency.off_efficiency.det": 1.124,
+    "detroit_vs_cleveland_offensive_efficiency.off_efficiency.cle": 1.142,
+    "detroit_vs_cleveland_offensive_efficiency.effective_fg.det": 0.539,
+    "detroit_vs_cleveland_offensive_efficiency.effective_fg.cle": 0.556,
+    "detroit_vs_cleveland_offensive_efficiency.two_point_rate.det": 0.65,
+    "detroit_vs_cleveland_offensive_efficiency.two_point_rate.cle": 0.5579999999999999,
+    "detroit_vs_cleveland_offensive_efficiency.three_point_rate.det": 0.35,
+    "detroit_vs_cleveland_offensive_efficiency.three_point_rate.cle": 0.442,
+    "detroit_vs_cleveland_offensive_efficiency.fta_play.det": 0.22399999999999998,
+    "detroit_vs_cleveland_offensive_efficiency.fta_play.cle": 0.201,
+    "detroit_vs_cleveland_offensive_efficiency.two_point.det": 0.551,
+    "detroit_vs_cleveland_offensive_efficiency.two_point.cle": 0.569,
+    "detroit_vs_cleveland_offensive_efficiency.three_point.det": 0.34299999999999997,
+    "detroit_vs_cleveland_offensive_efficiency.three_point.cle": 0.359,
+    "detroit_vs_cleveland_offensive_efficiency.free_throw.det": 0.7559999999999999,
+    "detroit_vs_cleveland_offensive_efficiency.free_throw.cle": 0.778,
+    "detroit_vs_cleveland_offensive_efficiency.points_2_pters.det": 64.8,
+    "detroit_vs_cleveland_offensive_efficiency.points_2_pters.cle": 57.7,
+    "detroit_vs_cleveland_offensive_efficiency.points_3_pters.det": 32.5,
+    "detroit_vs_cleveland_offensive_efficiency.points_3_pters.cle": 43.3,
+    "detroit_vs_cleveland_offensive_efficiency.off_rebound.det": 0.31,
+    "detroit_vs_cleveland_offensive_efficiency.off_rebound.cle": 0.27399999999999997,
+    "detroit_vs_cleveland_offensive_efficiency.def_rebound.det": 0.743,
+    "detroit_vs_cleveland_offensive_efficiency.def_rebound.cle": 0.735,
+    "detroit_vs_cleveland_offensive_efficiency.block.det": 0.076,
+    "detroit_vs_cleveland_offensive_efficiency.block.cle": 0.057999999999999996,
+    "detroit_vs_cleveland_offensive_efficiency.steals_play.det": 0.092,
+    "detroit_vs_cleveland_offensive_efficiency.steals_play.cle": 0.078,
+    "detroit_vs_cleveland_offensive_efficiency.turnovers_play.det": 0.129,
+    "detroit_vs_cleveland_offensive_efficiency.turnovers_play.cle": 0.12300000000000001,
+    "detroit_vs_cleveland_offensive_efficiency.personal_fouls_play.det": 0.193,
+    "detroit_vs_cleveland_offensive_efficiency.personal_fouls_play.cle": 0.171,
+    "detroit_vs_cleveland_offensive_efficiency.assists_fgm.det": 0.618,
+    "detroit_vs_cleveland_offensive_efficiency.assists_fgm.cle": 0.656,
+    "detroit_vs_cleveland_defensive_efficiency.possessions_gm.det": 104.3,
+    "detroit_vs_cleveland_defensive_efficiency.possessions_gm.cle": 104.4,
+    "detroit_vs_cleveland_defensive_efficiency.def_efficiency.det": 1.048,
+    "detroit_vs_cleveland_defensive_efficiency.def_efficiency.cle": 1.101,
+    "detroit_vs_cleveland_defensive_efficiency.opp_effective_fg.det": 0.515,
+    "detroit_vs_cleveland_defensive_efficiency.opp_effective_fg.cle": 0.54,
+    "detroit_vs_cleveland_defensive_efficiency.opp_two_point_rate.det": 0.57,
+    "detroit_vs_cleveland_defensive_efficiency.opp_two_point_rate.cle": 0.5770000000000001,
+    "detroit_vs_cleveland_defensive_efficiency.opp_three_point_rate.det": 0.43,
+    "detroit_vs_cleveland_defensive_efficiency.opp_three_point_rate.cle": 0.423,
+    "detroit_vs_cleveland_defensive_efficiency.opp_fta_play.det": 0.23800000000000002,
+    "detroit_vs_cleveland_defensive_efficiency.opp_fta_play.cle": 0.201,
+    "detroit_vs_cleveland_defensive_efficiency.opp_two_point.det": 0.509,
+    "detroit_vs_cleveland_defensive_efficiency.opp_two_point.cle": 0.529,
+    "detroit_vs_cleveland_defensive_efficiency.opp_three_point.det": 0.348,
+    "detroit_vs_cleveland_defensive_efficiency.opp_three_point.cle": 0.369,
+    "detroit_vs_cleveland_defensive_efficiency.opp_free_throw.det": 0.7929999999999999,
+    "detroit_vs_cleveland_defensive_efficiency.opp_free_throw.cle": 0.792,
+    "detroit_vs_cleveland_defensive_efficiency.opp_points_2_pters.det": 49.3,
+    "detroit_vs_cleveland_defensive_efficiency.opp_points_2_pters.cle": 54.6,
+    "detroit_vs_cleveland_defensive_efficiency.opp_points_3_pters.det": 38.2,
+    "detroit_vs_cleveland_defensive_efficiency.opp_points_3_pters.cle": 41.9,
+    "detroit_vs_cleveland_defensive_efficiency.opp_off_rebound.det": 0.257,
+    "detroit_vs_cleveland_defensive_efficiency.opp_off_rebound.cle": 0.265,
+    "detroit_vs_cleveland_defensive_efficiency.opp_def_rebound.det": 0.69,
+    "detroit_vs_cleveland_defensive_efficiency.opp_def_rebound.cle": 0.726,
+    "detroit_vs_cleveland_defensive_efficiency.opp_block.det": 0.064,
+    "detroit_vs_cleveland_defensive_efficiency.opp_block.cle": 0.048,
+    "detroit_vs_cleveland_defensive_efficiency.opp_steals_play.det": 0.076,
+    "detroit_vs_cleveland_defensive_efficiency.opp_steals_play.cle": 0.076,
+    "detroit_vs_cleveland_defensive_efficiency.opp_turnovers_play.det": 0.149,
+    "detroit_vs_cleveland_defensive_efficiency.opp_turnovers_play.cle": 0.135,
+    "detroit_vs_cleveland_defensive_efficiency.opp_personal_fouls_play.det": 0.185,
+    "detroit_vs_cleveland_defensive_efficiency.opp_personal_fouls_play.cle": 0.175,
+    "detroit_vs_cleveland_defensive_efficiency.opp_assists_fgm.det": 0.626,
+    "detroit_vs_cleveland_defensive_efficiency.opp_assists_fgm.cle": 0.648
+  },
+  "sport": "nba",
+  "date": "2026-03-03",
+  "slug": "pistons-cavaliers-2026-03-03",
+  "matchup_title": "#2 Detroit at #7 Cleveland",
+  "teams": {
+    "away": "#2 Detroit",
+    "home": "#7 Cleveland",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Rocket Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/pistons-cavaliers-2026-03-03",
+    "detail": "https://www.teamrankings.com/nba/matchup/pistons-cavaliers-2026-03-03/efficiency"
+  }
+}

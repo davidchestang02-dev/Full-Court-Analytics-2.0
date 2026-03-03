@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/hawks-huskies-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:50.373258+00:00",
+  "tables": {
+    "Matchup Menu: MONM @ NE": {
+      "headers": [
+        "Stat",
+        "MONM",
+        "adv",
+        "NE"
+      ],
+      "team_headers": [
+        "MONM",
+        "NE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MONM": {
+            "raw": "1.029",
+            "value": 1.029
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "1.036",
+            "value": 1.036
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "49.3%",
+            "value": 0.493
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "14.6%",
+            "value": 0.146
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MONM": {
+            "raw": "0.328",
+            "value": 0.328
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "0.292",
+            "value": 0.292
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MONM": {
+            "raw": "71.7",
+            "value": 71.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "74.1",
+            "value": 74.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MONM": {
+            "raw": "+0.6",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "-6.8",
+            "value": -6.8
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "MONM",
+        "adv",
+        "NE"
+      ],
+      "team_headers": [
+        "MONM",
+        "NE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MONM": {
+            "raw": "1.029",
+            "value": 1.029
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "1.036",
+            "value": 1.036
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "49.3%",
+            "value": 0.493
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "14.6%",
+            "value": 0.146
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MONM": {
+            "raw": "0.328",
+            "value": 0.328
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "0.292",
+            "value": 0.292
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MONM": {
+            "raw": "71.7",
+            "value": 71.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "74.1",
+            "value": 74.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MONM": {
+            "raw": "+0.6",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "-6.8",
+            "value": -6.8
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "MONM",
+        "adv",
+        "NE"
+      ],
+      "team_headers": [
+        "MONM",
+        "NE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MONM": {
+            "raw": "1.021",
+            "value": 1.021
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "1.131",
+            "value": 1.131
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "49.9%",
+            "value": 0.499
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "72.1%",
+            "value": 0.721
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "MONM": {
+            "raw": "0.323",
+            "value": 0.323
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "0.415",
+            "value": 0.415
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "MONM": {
+            "raw": "71.1",
+            "value": 71.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "80.9",
+            "value": 80.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "5.5%",
+            "value": 0.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "20.3%",
+            "value": 0.203
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        }
+      ]
+    },
+    "Monmouth vs Northeastern Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MONM",
+        "adv",
+        "NE"
+      ],
+      "team_headers": [
+        "MONM",
+        "NE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MONM": {
+            "raw": "69.7",
+            "value": 69.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "71.5",
+            "value": 71.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MONM": {
+            "raw": "1.029",
+            "value": 1.029
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "1.036",
+            "value": 1.036
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "49.3%",
+            "value": 0.493
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "MONM": {
+            "raw": "65.5%",
+            "value": 0.655
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "61.8%",
+            "value": 0.618
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "MONM": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "38.2%",
+            "value": 0.382
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "22.0%",
+            "value": 0.22
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NE": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "34.9%",
+            "value": 0.349
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "33.2%",
+            "value": 0.332
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "74.5%",
+            "value": 0.745
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "68.7%",
+            "value": 0.687
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "MONM": {
+            "raw": "36.4",
+            "value": 36.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "39.4",
+            "value": 39.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "MONM": {
+            "raw": "21.0",
+            "value": 21.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "22.7",
+            "value": 22.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "72.1%",
+            "value": 0.721
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "5.5%",
+            "value": 0.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "9.2%",
+            "value": 0.092
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "8.6%",
+            "value": 0.086
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "14.6%",
+            "value": 0.146
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "20.3%",
+            "value": 0.203
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "MONM": {
+            "raw": "0.551",
+            "value": 0.551
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "0.550",
+            "value": 0.55
+          }
+        }
+      ]
+    },
+    "Monmouth vs Northeastern Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MONM",
+        "adv",
+        "NE"
+      ],
+      "team_headers": [
+        "MONM",
+        "NE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MONM": {
+            "raw": "69.7",
+            "value": 69.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "71.5",
+            "value": 71.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MONM": {
+            "raw": "1.021",
+            "value": 1.021
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "1.131",
+            "value": 1.131
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "49.9%",
+            "value": 0.499
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "MONM": {
+            "raw": "61.4%",
+            "value": 0.614
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "64.1%",
+            "value": 0.6409999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "MONM": {
+            "raw": "38.6%",
+            "value": 0.386
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "35.9%",
+            "value": 0.359
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "29.3%",
+            "value": 0.293
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "49.4%",
+            "value": 0.494
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "58.3%",
+            "value": 0.583
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "33.8%",
+            "value": 0.33799999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "73.8%",
+            "value": 0.738
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "MONM": {
+            "raw": "35.0",
+            "value": 35.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NE": {
+            "raw": "42.1",
+            "value": 42.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "MONM": {
+            "raw": "22.7",
+            "value": 22.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "21.5",
+            "value": 21.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "30.8%",
+            "value": 0.308
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NE": {
+            "raw": "27.9%",
+            "value": 0.27899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "70.0%",
+            "value": 0.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "MONM": {
+            "raw": "6.2%",
+            "value": 0.062
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NE": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "7.8%",
+            "value": 0.078
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NE": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "MONM": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "MONM": {
+            "raw": "0.506",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NE": {
+            "raw": "0.509",
+            "value": 0.509
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_monm_ne.off_efficiency.monm": 1.029,
+    "matchup_menu_monm_ne.off_efficiency.ne": 1.036,
+    "matchup_menu_monm_ne.effective_fg.monm": 0.493,
+    "matchup_menu_monm_ne.effective_fg.ne": 0.519,
+    "matchup_menu_monm_ne.turnovers_play.monm": 0.146,
+    "matchup_menu_monm_ne.turnovers_play.ne": 0.146,
+    "matchup_menu_monm_ne.off_rebound.monm": 0.3,
+    "matchup_menu_monm_ne.off_rebound.ne": 0.244,
+    "matchup_menu_monm_ne.fta_fga.monm": 0.328,
+    "matchup_menu_monm_ne.fta_fga.ne": 0.292,
+    "matchup_menu_monm_ne.points_game.monm": 71.7,
+    "matchup_menu_monm_ne.points_game.ne": 74.1,
+    "matchup_menu_monm_ne.avg_score_margin.monm": 0.6,
+    "matchup_menu_monm_ne.avg_score_margin.ne": -6.8,
+    "key_offensive_stats.off_efficiency.monm": 1.029,
+    "key_offensive_stats.off_efficiency.ne": 1.036,
+    "key_offensive_stats.effective_fg.monm": 0.493,
+    "key_offensive_stats.effective_fg.ne": 0.519,
+    "key_offensive_stats.turnovers_play.monm": 0.146,
+    "key_offensive_stats.turnovers_play.ne": 0.146,
+    "key_offensive_stats.off_rebound.monm": 0.3,
+    "key_offensive_stats.off_rebound.ne": 0.244,
+    "key_offensive_stats.fta_fga.monm": 0.328,
+    "key_offensive_stats.fta_fga.ne": 0.292,
+    "key_offensive_stats.points_game.monm": 71.7,
+    "key_offensive_stats.points_game.ne": 74.1,
+    "key_offensive_stats.avg_score_margin.monm": 0.6,
+    "key_offensive_stats.avg_score_margin.ne": -6.8,
+    "key_defensive_stats.def_efficiency.monm": 1.021,
+    "key_defensive_stats.def_efficiency.ne": 1.131,
+    "key_defensive_stats.opp_effective_fg.monm": 0.499,
+    "key_defensive_stats.opp_effective_fg.ne": 0.565,
+    "key_defensive_stats.opp_turnovers_play.monm": 0.16699999999999998,
+    "key_defensive_stats.opp_turnovers_play.ne": 0.149,
+    "key_defensive_stats.def_rebound.monm": 0.6920000000000001,
+    "key_defensive_stats.def_rebound.ne": 0.721,
+    "key_defensive_stats.opp_fta_fga.monm": 0.323,
+    "key_defensive_stats.opp_fta_fga.ne": 0.415,
+    "key_defensive_stats.opp_points_game.monm": 71.1,
+    "key_defensive_stats.opp_points_game.ne": 80.9,
+    "key_defensive_stats.block.monm": 0.07400000000000001,
+    "key_defensive_stats.block.ne": 0.055,
+    "key_defensive_stats.personal_fouls_play.monm": 0.203,
+    "key_defensive_stats.personal_fouls_play.ne": 0.242,
+    "monmouth_vs_northeastern_offensive_efficiency.possessions_gm.monm": 69.7,
+    "monmouth_vs_northeastern_offensive_efficiency.possessions_gm.ne": 71.5,
+    "monmouth_vs_northeastern_offensive_efficiency.off_efficiency.monm": 1.029,
+    "monmouth_vs_northeastern_offensive_efficiency.off_efficiency.ne": 1.036,
+    "monmouth_vs_northeastern_offensive_efficiency.effective_fg.monm": 0.493,
+    "monmouth_vs_northeastern_offensive_efficiency.effective_fg.ne": 0.519,
+    "monmouth_vs_northeastern_offensive_efficiency.two_point_rate.monm": 0.655,
+    "monmouth_vs_northeastern_offensive_efficiency.two_point_rate.ne": 0.618,
+    "monmouth_vs_northeastern_offensive_efficiency.three_point_rate.monm": 0.345,
+    "monmouth_vs_northeastern_offensive_efficiency.three_point_rate.ne": 0.382,
+    "monmouth_vs_northeastern_offensive_efficiency.fta_play.monm": 0.24100000000000002,
+    "monmouth_vs_northeastern_offensive_efficiency.fta_play.ne": 0.22,
+    "monmouth_vs_northeastern_offensive_efficiency.two_point.monm": 0.47700000000000004,
+    "monmouth_vs_northeastern_offensive_efficiency.two_point.ne": 0.5329999999999999,
+    "monmouth_vs_northeastern_offensive_efficiency.three_point.monm": 0.349,
+    "monmouth_vs_northeastern_offensive_efficiency.three_point.ne": 0.332,
+    "monmouth_vs_northeastern_offensive_efficiency.free_throw.monm": 0.745,
+    "monmouth_vs_northeastern_offensive_efficiency.free_throw.ne": 0.687,
+    "monmouth_vs_northeastern_offensive_efficiency.points_2_pters.monm": 36.4,
+    "monmouth_vs_northeastern_offensive_efficiency.points_2_pters.ne": 39.4,
+    "monmouth_vs_northeastern_offensive_efficiency.points_3_pters.monm": 21.0,
+    "monmouth_vs_northeastern_offensive_efficiency.points_3_pters.ne": 22.7,
+    "monmouth_vs_northeastern_offensive_efficiency.off_rebound.monm": 0.3,
+    "monmouth_vs_northeastern_offensive_efficiency.off_rebound.ne": 0.244,
+    "monmouth_vs_northeastern_offensive_efficiency.def_rebound.monm": 0.6920000000000001,
+    "monmouth_vs_northeastern_offensive_efficiency.def_rebound.ne": 0.721,
+    "monmouth_vs_northeastern_offensive_efficiency.block.monm": 0.07400000000000001,
+    "monmouth_vs_northeastern_offensive_efficiency.block.ne": 0.055,
+    "monmouth_vs_northeastern_offensive_efficiency.steals_play.monm": 0.092,
+    "monmouth_vs_northeastern_offensive_efficiency.steals_play.ne": 0.086,
+    "monmouth_vs_northeastern_offensive_efficiency.turnovers_play.monm": 0.146,
+    "monmouth_vs_northeastern_offensive_efficiency.turnovers_play.ne": 0.146,
+    "monmouth_vs_northeastern_offensive_efficiency.personal_fouls_play.monm": 0.203,
+    "monmouth_vs_northeastern_offensive_efficiency.personal_fouls_play.ne": 0.242,
+    "monmouth_vs_northeastern_offensive_efficiency.assists_fgm.monm": 0.551,
+    "monmouth_vs_northeastern_offensive_efficiency.assists_fgm.ne": 0.55,
+    "monmouth_vs_northeastern_defensive_efficiency.possessions_gm.monm": 69.7,
+    "monmouth_vs_northeastern_defensive_efficiency.possessions_gm.ne": 71.5,
+    "monmouth_vs_northeastern_defensive_efficiency.def_efficiency.monm": 1.021,
+    "monmouth_vs_northeastern_defensive_efficiency.def_efficiency.ne": 1.131,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_effective_fg.monm": 0.499,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_effective_fg.ne": 0.565,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_two_point_rate.monm": 0.614,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_two_point_rate.ne": 0.6409999999999999,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_three_point_rate.monm": 0.386,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_three_point_rate.ne": 0.359,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_fta_play.monm": 0.23399999999999999,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_fta_play.ne": 0.293,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_two_point.monm": 0.494,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_two_point.ne": 0.583,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_three_point.monm": 0.33799999999999997,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_three_point.ne": 0.35600000000000004,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_free_throw.monm": 0.7190000000000001,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_free_throw.ne": 0.738,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_points_2_pters.monm": 35.0,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_points_2_pters.ne": 42.1,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_points_3_pters.monm": 22.7,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_points_3_pters.ne": 21.5,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_off_rebound.monm": 0.308,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_off_rebound.ne": 0.27899999999999997,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_def_rebound.monm": 0.7,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_def_rebound.ne": 0.7559999999999999,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_block.monm": 0.062,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_block.ne": 0.059000000000000004,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_steals_play.monm": 0.078,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_steals_play.ne": 0.08199999999999999,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_turnovers_play.monm": 0.16699999999999998,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_turnovers_play.ne": 0.149,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_personal_fouls_play.monm": 0.213,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_personal_fouls_play.ne": 0.204,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_assists_fgm.monm": 0.506,
+    "monmouth_vs_northeastern_defensive_efficiency.opp_assists_fgm.ne": 0.509
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "hawks-huskies-2026-03-03",
+  "matchup_title": "#187 Monmouth at #287 Northeastern",
+  "teams": {
+    "away": "#187 Monmouth",
+    "home": "#287 Northeastern",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Solomon Court at Cabot Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/hawks-huskies-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/hawks-huskies-2026-03-03/efficiency"
+  }
+}

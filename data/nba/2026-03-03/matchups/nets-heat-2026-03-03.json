@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/nets-heat-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:22.625202+00:00",
+  "tables": {
+    "Matchup Menu: BK @ MIA": {
+      "headers": [
+        "Stat",
+        "BK",
+        "adv",
+        "MIA"
+      ],
+      "team_headers": [
+        "BK",
+        "MIA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BK": {
+            "raw": "1.066",
+            "value": 1.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "1.115",
+            "value": 1.115
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BK": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "11.8%",
+            "value": 0.11800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BK": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "BK": {
+            "raw": "0.271",
+            "value": 0.271
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "0.263",
+            "value": 0.263
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "BK": {
+            "raw": "107.0",
+            "value": 107.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "119.8",
+            "value": 119.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "BK": {
+            "raw": "-8.5",
+            "value": -8.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "+2.9",
+            "value": 2.9
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "BK",
+        "adv",
+        "MIA"
+      ],
+      "team_headers": [
+        "BK",
+        "MIA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BK": {
+            "raw": "1.066",
+            "value": 1.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "1.115",
+            "value": 1.115
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BK": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "11.8%",
+            "value": 0.11800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BK": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "BK": {
+            "raw": "0.271",
+            "value": 0.271
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "0.263",
+            "value": 0.263
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "BK": {
+            "raw": "107.0",
+            "value": 107.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "119.8",
+            "value": 119.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "BK": {
+            "raw": "-8.5",
+            "value": -8.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "+2.9",
+            "value": 2.9
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "BK",
+        "adv",
+        "MIA"
+      ],
+      "team_headers": [
+        "BK",
+        "MIA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "BK": {
+            "raw": "1.151",
+            "value": 1.151
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "BK": {
+            "raw": "57.0%",
+            "value": 0.57
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "12.5%",
+            "value": 0.125
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "12.9%",
+            "value": 0.129
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "BK": {
+            "raw": "74.6%",
+            "value": 0.746
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "74.8%",
+            "value": 0.748
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "BK": {
+            "raw": "0.275",
+            "value": 0.275
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "0.235",
+            "value": 0.235
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "BK": {
+            "raw": "115.4",
+            "value": 115.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "117.0",
+            "value": 117.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "BK": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "4.5%",
+            "value": 0.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "18.4%",
+            "value": 0.184
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        }
+      ]
+    },
+    "Brooklyn vs Miami Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "BK",
+        "adv",
+        "MIA"
+      ],
+      "team_headers": [
+        "BK",
+        "MIA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "BK": {
+            "raw": "100.3",
+            "value": 100.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "107.5",
+            "value": 107.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BK": {
+            "raw": "1.066",
+            "value": 1.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "1.115",
+            "value": 1.115
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BK": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "BK": {
+            "raw": "53.5%",
+            "value": 0.535
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "60.2%",
+            "value": 0.602
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "BK": {
+            "raw": "46.5%",
+            "value": 0.465
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "39.8%",
+            "value": 0.39799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "20.7%",
+            "value": 0.207
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "20.7%",
+            "value": 0.207
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "BK": {
+            "raw": "53.6%",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "BK": {
+            "raw": "34.2%",
+            "value": 0.342
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "36.1%",
+            "value": 0.361
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "BK": {
+            "raw": "77.0%",
+            "value": 0.77
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "78.4%",
+            "value": 0.784
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "BK": {
+            "raw": "48.7",
+            "value": 48.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "60.0",
+            "value": 60.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "BK": {
+            "raw": "40.6",
+            "value": 40.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "40.4",
+            "value": 40.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BK": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "BK": {
+            "raw": "74.6%",
+            "value": 0.746
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "74.8%",
+            "value": 0.748
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "BK": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "4.5%",
+            "value": 0.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "7.7%",
+            "value": 0.077
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "11.8%",
+            "value": 0.11800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "18.4%",
+            "value": 0.184
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "BK": {
+            "raw": "0.674",
+            "value": 0.674
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "0.659",
+            "value": 0.659
+          }
+        }
+      ]
+    },
+    "Brooklyn vs Miami Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "BK",
+        "adv",
+        "MIA"
+      ],
+      "team_headers": [
+        "BK",
+        "MIA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "BK": {
+            "raw": "100.3",
+            "value": 100.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "107.5",
+            "value": 107.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "BK": {
+            "raw": "1.151",
+            "value": 1.151
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "BK": {
+            "raw": "57.0%",
+            "value": 0.57
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "BK": {
+            "raw": "61.2%",
+            "value": 0.612
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "57.6%",
+            "value": 0.5760000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "BK": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "42.4%",
+            "value": 0.424
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "21.2%",
+            "value": 0.212
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "18.4%",
+            "value": 0.184
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "BK": {
+            "raw": "56.9%",
+            "value": 0.569
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "BK": {
+            "raw": "38.1%",
+            "value": 0.381
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MIA": {
+            "raw": "34.9%",
+            "value": 0.349
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "BK": {
+            "raw": "78.3%",
+            "value": 0.7829999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "80.3%",
+            "value": 0.8029999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "BK": {
+            "raw": "59.3",
+            "value": 59.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "57.9",
+            "value": 57.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "BK": {
+            "raw": "37.8",
+            "value": 37.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "41.5",
+            "value": 41.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "BK": {
+            "raw": "25.4%",
+            "value": 0.254
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "25.2%",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "BK": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "74.5%",
+            "value": 0.745
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "BK": {
+            "raw": "6.0%",
+            "value": 0.06
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "5.5%",
+            "value": 0.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MIA": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "12.5%",
+            "value": 0.125
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "12.9%",
+            "value": 0.129
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "BK": {
+            "raw": "17.6%",
+            "value": 0.17600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MIA": {
+            "raw": "16.8%",
+            "value": 0.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "BK": {
+            "raw": "0.651",
+            "value": 0.651
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MIA": {
+            "raw": "0.643",
+            "value": 0.643
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_bk_mia.off_efficiency.bk": 1.066,
+    "matchup_menu_bk_mia.off_efficiency.mia": 1.115,
+    "matchup_menu_bk_mia.effective_fg.bk": 0.525,
+    "matchup_menu_bk_mia.effective_fg.mia": 0.535,
+    "matchup_menu_bk_mia.turnovers_play.bk": 0.139,
+    "matchup_menu_bk_mia.turnovers_play.mia": 0.11800000000000001,
+    "matchup_menu_bk_mia.off_rebound.bk": 0.24600000000000002,
+    "matchup_menu_bk_mia.off_rebound.mia": 0.255,
+    "matchup_menu_bk_mia.fta_fga.bk": 0.271,
+    "matchup_menu_bk_mia.fta_fga.mia": 0.263,
+    "matchup_menu_bk_mia.points_game.bk": 107.0,
+    "matchup_menu_bk_mia.points_game.mia": 119.8,
+    "matchup_menu_bk_mia.avg_score_margin.bk": -8.5,
+    "matchup_menu_bk_mia.avg_score_margin.mia": 2.9,
+    "key_offensive_stats.off_efficiency.bk": 1.066,
+    "key_offensive_stats.off_efficiency.mia": 1.115,
+    "key_offensive_stats.effective_fg.bk": 0.525,
+    "key_offensive_stats.effective_fg.mia": 0.535,
+    "key_offensive_stats.turnovers_play.bk": 0.139,
+    "key_offensive_stats.turnovers_play.mia": 0.11800000000000001,
+    "key_offensive_stats.off_rebound.bk": 0.24600000000000002,
+    "key_offensive_stats.off_rebound.mia": 0.255,
+    "key_offensive_stats.fta_fga.bk": 0.271,
+    "key_offensive_stats.fta_fga.mia": 0.263,
+    "key_offensive_stats.points_game.bk": 107.0,
+    "key_offensive_stats.points_game.mia": 119.8,
+    "key_offensive_stats.avg_score_margin.bk": -8.5,
+    "key_offensive_stats.avg_score_margin.mia": 2.9,
+    "key_defensive_stats.def_efficiency.bk": 1.151,
+    "key_defensive_stats.def_efficiency.mia": 1.088,
+    "key_defensive_stats.opp_effective_fg.bk": 0.57,
+    "key_defensive_stats.opp_effective_fg.mia": 0.531,
+    "key_defensive_stats.opp_turnovers_play.bk": 0.125,
+    "key_defensive_stats.opp_turnovers_play.mia": 0.129,
+    "key_defensive_stats.def_rebound.bk": 0.746,
+    "key_defensive_stats.def_rebound.mia": 0.748,
+    "key_defensive_stats.opp_fta_fga.bk": 0.275,
+    "key_defensive_stats.opp_fta_fga.mia": 0.235,
+    "key_defensive_stats.opp_points_game.bk": 115.4,
+    "key_defensive_stats.opp_points_game.mia": 117.0,
+    "key_defensive_stats.block.bk": 0.049,
+    "key_defensive_stats.block.mia": 0.045,
+    "key_defensive_stats.personal_fouls_play.bk": 0.184,
+    "key_defensive_stats.personal_fouls_play.mia": 0.159,
+    "brooklyn_vs_miami_offensive_efficiency.possessions_gm.bk": 100.3,
+    "brooklyn_vs_miami_offensive_efficiency.possessions_gm.mia": 107.5,
+    "brooklyn_vs_miami_offensive_efficiency.off_efficiency.bk": 1.066,
+    "brooklyn_vs_miami_offensive_efficiency.off_efficiency.mia": 1.115,
+    "brooklyn_vs_miami_offensive_efficiency.effective_fg.bk": 0.525,
+    "brooklyn_vs_miami_offensive_efficiency.effective_fg.mia": 0.535,
+    "brooklyn_vs_miami_offensive_efficiency.two_point_rate.bk": 0.535,
+    "brooklyn_vs_miami_offensive_efficiency.two_point_rate.mia": 0.602,
+    "brooklyn_vs_miami_offensive_efficiency.three_point_rate.bk": 0.465,
+    "brooklyn_vs_miami_offensive_efficiency.three_point_rate.mia": 0.39799999999999996,
+    "brooklyn_vs_miami_offensive_efficiency.fta_play.bk": 0.207,
+    "brooklyn_vs_miami_offensive_efficiency.fta_play.mia": 0.207,
+    "brooklyn_vs_miami_offensive_efficiency.two_point.bk": 0.536,
+    "brooklyn_vs_miami_offensive_efficiency.two_point.mia": 0.531,
+    "brooklyn_vs_miami_offensive_efficiency.three_point.bk": 0.342,
+    "brooklyn_vs_miami_offensive_efficiency.three_point.mia": 0.361,
+    "brooklyn_vs_miami_offensive_efficiency.free_throw.bk": 0.77,
+    "brooklyn_vs_miami_offensive_efficiency.free_throw.mia": 0.784,
+    "brooklyn_vs_miami_offensive_efficiency.points_2_pters.bk": 48.7,
+    "brooklyn_vs_miami_offensive_efficiency.points_2_pters.mia": 60.0,
+    "brooklyn_vs_miami_offensive_efficiency.points_3_pters.bk": 40.6,
+    "brooklyn_vs_miami_offensive_efficiency.points_3_pters.mia": 40.4,
+    "brooklyn_vs_miami_offensive_efficiency.off_rebound.bk": 0.24600000000000002,
+    "brooklyn_vs_miami_offensive_efficiency.off_rebound.mia": 0.255,
+    "brooklyn_vs_miami_offensive_efficiency.def_rebound.bk": 0.746,
+    "brooklyn_vs_miami_offensive_efficiency.def_rebound.mia": 0.748,
+    "brooklyn_vs_miami_offensive_efficiency.block.bk": 0.049,
+    "brooklyn_vs_miami_offensive_efficiency.block.mia": 0.045,
+    "brooklyn_vs_miami_offensive_efficiency.steals_play.bk": 0.07,
+    "brooklyn_vs_miami_offensive_efficiency.steals_play.mia": 0.077,
+    "brooklyn_vs_miami_offensive_efficiency.turnovers_play.bk": 0.139,
+    "brooklyn_vs_miami_offensive_efficiency.turnovers_play.mia": 0.11800000000000001,
+    "brooklyn_vs_miami_offensive_efficiency.personal_fouls_play.bk": 0.184,
+    "brooklyn_vs_miami_offensive_efficiency.personal_fouls_play.mia": 0.159,
+    "brooklyn_vs_miami_offensive_efficiency.assists_fgm.bk": 0.674,
+    "brooklyn_vs_miami_offensive_efficiency.assists_fgm.mia": 0.659,
+    "brooklyn_vs_miami_defensive_efficiency.possessions_gm.bk": 100.3,
+    "brooklyn_vs_miami_defensive_efficiency.possessions_gm.mia": 107.5,
+    "brooklyn_vs_miami_defensive_efficiency.def_efficiency.bk": 1.151,
+    "brooklyn_vs_miami_defensive_efficiency.def_efficiency.mia": 1.088,
+    "brooklyn_vs_miami_defensive_efficiency.opp_effective_fg.bk": 0.57,
+    "brooklyn_vs_miami_defensive_efficiency.opp_effective_fg.mia": 0.531,
+    "brooklyn_vs_miami_defensive_efficiency.opp_two_point_rate.bk": 0.612,
+    "brooklyn_vs_miami_defensive_efficiency.opp_two_point_rate.mia": 0.5760000000000001,
+    "brooklyn_vs_miami_defensive_efficiency.opp_three_point_rate.bk": 0.38799999999999996,
+    "brooklyn_vs_miami_defensive_efficiency.opp_three_point_rate.mia": 0.424,
+    "brooklyn_vs_miami_defensive_efficiency.opp_fta_play.bk": 0.212,
+    "brooklyn_vs_miami_defensive_efficiency.opp_fta_play.mia": 0.184,
+    "brooklyn_vs_miami_defensive_efficiency.opp_two_point.bk": 0.569,
+    "brooklyn_vs_miami_defensive_efficiency.opp_two_point.mia": 0.5379999999999999,
+    "brooklyn_vs_miami_defensive_efficiency.opp_three_point.bk": 0.381,
+    "brooklyn_vs_miami_defensive_efficiency.opp_three_point.mia": 0.349,
+    "brooklyn_vs_miami_defensive_efficiency.opp_free_throw.bk": 0.7829999999999999,
+    "brooklyn_vs_miami_defensive_efficiency.opp_free_throw.mia": 0.8029999999999999,
+    "brooklyn_vs_miami_defensive_efficiency.opp_points_2_pters.bk": 59.3,
+    "brooklyn_vs_miami_defensive_efficiency.opp_points_2_pters.mia": 57.9,
+    "brooklyn_vs_miami_defensive_efficiency.opp_points_3_pters.bk": 37.8,
+    "brooklyn_vs_miami_defensive_efficiency.opp_points_3_pters.mia": 41.5,
+    "brooklyn_vs_miami_defensive_efficiency.opp_off_rebound.bk": 0.254,
+    "brooklyn_vs_miami_defensive_efficiency.opp_off_rebound.mia": 0.252,
+    "brooklyn_vs_miami_defensive_efficiency.opp_def_rebound.bk": 0.754,
+    "brooklyn_vs_miami_defensive_efficiency.opp_def_rebound.mia": 0.745,
+    "brooklyn_vs_miami_defensive_efficiency.opp_block.bk": 0.06,
+    "brooklyn_vs_miami_defensive_efficiency.opp_block.mia": 0.055,
+    "brooklyn_vs_miami_defensive_efficiency.opp_steals_play.bk": 0.081,
+    "brooklyn_vs_miami_defensive_efficiency.opp_steals_play.mia": 0.071,
+    "brooklyn_vs_miami_defensive_efficiency.opp_turnovers_play.bk": 0.125,
+    "brooklyn_vs_miami_defensive_efficiency.opp_turnovers_play.mia": 0.129,
+    "brooklyn_vs_miami_defensive_efficiency.opp_personal_fouls_play.bk": 0.17600000000000002,
+    "brooklyn_vs_miami_defensive_efficiency.opp_personal_fouls_play.mia": 0.168,
+    "brooklyn_vs_miami_defensive_efficiency.opp_assists_fgm.bk": 0.651,
+    "brooklyn_vs_miami_defensive_efficiency.opp_assists_fgm.mia": 0.643
+  },
+  "sport": "nba",
+  "date": "2026-03-03",
+  "slug": "nets-heat-2026-03-03",
+  "matchup_title": "#28 Brooklyn at #10 Miami",
+  "teams": {
+    "away": "#28 Brooklyn",
+    "home": "#10 Miami",
+    "neutral_site": false
+  },
+  "time_local": "7:30 PM",
+  "location": "Kaseya Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/nets-heat-2026-03-03",
+    "detail": "https://www.teamrankings.com/nba/matchup/nets-heat-2026-03-03/efficiency"
+  }
+}

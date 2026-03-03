@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/monarchs-warhawks-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:55.162922+00:00",
+  "tables": {
+    "Matchup Menu: ODU vs. ULM": {
+      "headers": [
+        "Stat",
+        "ODU",
+        "adv",
+        "ULM"
+      ],
+      "team_headers": [
+        "ODU",
+        "ULM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ODU": {
+            "raw": "1.031",
+            "value": 1.031
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "0.978",
+            "value": 0.978
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "50.1%",
+            "value": 0.501
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "47.8%",
+            "value": 0.478
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "15.3%",
+            "value": 0.153
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ODU": {
+            "raw": "0.343",
+            "value": 0.343
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "0.380",
+            "value": 0.38
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ODU": {
+            "raw": "75.0",
+            "value": 75.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "71.4",
+            "value": 71.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ODU": {
+            "raw": "-3.3",
+            "value": -3.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "-13.9",
+            "value": -13.9
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "ODU",
+        "adv",
+        "ULM"
+      ],
+      "team_headers": [
+        "ODU",
+        "ULM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ODU": {
+            "raw": "1.031",
+            "value": 1.031
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "0.978",
+            "value": 0.978
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "50.1%",
+            "value": 0.501
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "47.8%",
+            "value": 0.478
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "15.3%",
+            "value": 0.153
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ODU": {
+            "raw": "0.343",
+            "value": 0.343
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "0.380",
+            "value": 0.38
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ODU": {
+            "raw": "75.0",
+            "value": 75.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "71.4",
+            "value": 71.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ODU": {
+            "raw": "-3.3",
+            "value": -3.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "-13.9",
+            "value": -13.9
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "ODU",
+        "adv",
+        "ULM"
+      ],
+      "team_headers": [
+        "ODU",
+        "ULM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ODU": {
+            "raw": "1.077",
+            "value": 1.077
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "1.168",
+            "value": 1.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "57.0%",
+            "value": 0.57
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "71.1%",
+            "value": 0.711
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "64.8%",
+            "value": 0.648
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "ODU": {
+            "raw": "0.409",
+            "value": 0.409
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ULM": {
+            "raw": "0.274",
+            "value": 0.274
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "ODU": {
+            "raw": "78.3",
+            "value": 78.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "85.3",
+            "value": 85.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "5.4%",
+            "value": 0.054000000000000006
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "17.4%",
+            "value": 0.174
+          }
+        }
+      ]
+    },
+    "Old Dominion vs UL Monroe Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ODU",
+        "adv",
+        "ULM"
+      ],
+      "team_headers": [
+        "ODU",
+        "ULM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ODU": {
+            "raw": "72.7",
+            "value": 72.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ODU": {
+            "raw": "1.031",
+            "value": 1.031
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "0.978",
+            "value": 0.978
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "50.1%",
+            "value": 0.501
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "47.8%",
+            "value": 0.478
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "ODU": {
+            "raw": "64.0%",
+            "value": 0.64
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "58.3%",
+            "value": 0.583
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "ODU": {
+            "raw": "36.0%",
+            "value": 0.36
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "41.7%",
+            "value": 0.41700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "25.6%",
+            "value": 0.256
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "27.4%",
+            "value": 0.27399999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "49.2%",
+            "value": 0.49200000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "47.5%",
+            "value": 0.475
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "32.2%",
+            "value": 0.322
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "73.2%",
+            "value": 0.732
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "72.0%",
+            "value": 0.72
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "ODU": {
+            "raw": "37.7",
+            "value": 37.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "32.1",
+            "value": 32.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "ODU": {
+            "raw": "22.3",
+            "value": 22.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "23.4",
+            "value": 23.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "71.1%",
+            "value": 0.711
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "64.8%",
+            "value": 0.648
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "5.4%",
+            "value": 0.054000000000000006
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "15.3%",
+            "value": 0.153
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "17.4%",
+            "value": 0.174
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "ODU": {
+            "raw": "0.482",
+            "value": 0.482
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "0.506",
+            "value": 0.506
+          }
+        }
+      ]
+    },
+    "Old Dominion vs UL Monroe Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ODU",
+        "adv",
+        "ULM"
+      ],
+      "team_headers": [
+        "ODU",
+        "ULM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ODU": {
+            "raw": "72.7",
+            "value": 72.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ODU": {
+            "raw": "1.077",
+            "value": 1.077
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "1.168",
+            "value": 1.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "57.0%",
+            "value": 0.57
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "ODU": {
+            "raw": "64.2%",
+            "value": 0.642
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "57.4%",
+            "value": 0.574
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "ODU": {
+            "raw": "35.8%",
+            "value": 0.358
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "42.6%",
+            "value": 0.426
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "29.8%",
+            "value": 0.298
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ULM": {
+            "raw": "20.9%",
+            "value": 0.209
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "52.3%",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "59.0%",
+            "value": 0.59
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "31.6%",
+            "value": 0.316
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "73.5%",
+            "value": 0.735
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ULM": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "ODU": {
+            "raw": "40.1",
+            "value": 40.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "43.4",
+            "value": 43.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "ODU": {
+            "raw": "20.2",
+            "value": 20.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ULM": {
+            "raw": "29.6",
+            "value": 29.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "28.9%",
+            "value": 0.289
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "35.2%",
+            "value": 0.35200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "77.3%",
+            "value": 0.773
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "77.6%",
+            "value": 0.7759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "ODU": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "6.9%",
+            "value": 0.069
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "9.2%",
+            "value": 0.092
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ULM": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "ODU": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "ODU": {
+            "raw": "0.522",
+            "value": 0.522
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ULM": {
+            "raw": "0.580",
+            "value": 0.58
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_odu_vs_ulm.off_efficiency.odu": 1.031,
+    "matchup_menu_odu_vs_ulm.off_efficiency.ulm": 0.978,
+    "matchup_menu_odu_vs_ulm.effective_fg.odu": 0.501,
+    "matchup_menu_odu_vs_ulm.effective_fg.ulm": 0.478,
+    "matchup_menu_odu_vs_ulm.turnovers_play.odu": 0.138,
+    "matchup_menu_odu_vs_ulm.turnovers_play.ulm": 0.153,
+    "matchup_menu_odu_vs_ulm.off_rebound.odu": 0.22699999999999998,
+    "matchup_menu_odu_vs_ulm.off_rebound.ulm": 0.22399999999999998,
+    "matchup_menu_odu_vs_ulm.fta_fga.odu": 0.343,
+    "matchup_menu_odu_vs_ulm.fta_fga.ulm": 0.38,
+    "matchup_menu_odu_vs_ulm.points_game.odu": 75.0,
+    "matchup_menu_odu_vs_ulm.points_game.ulm": 71.4,
+    "matchup_menu_odu_vs_ulm.avg_score_margin.odu": -3.3,
+    "matchup_menu_odu_vs_ulm.avg_score_margin.ulm": -13.9,
+    "key_offensive_stats.off_efficiency.odu": 1.031,
+    "key_offensive_stats.off_efficiency.ulm": 0.978,
+    "key_offensive_stats.effective_fg.odu": 0.501,
+    "key_offensive_stats.effective_fg.ulm": 0.478,
+    "key_offensive_stats.turnovers_play.odu": 0.138,
+    "key_offensive_stats.turnovers_play.ulm": 0.153,
+    "key_offensive_stats.off_rebound.odu": 0.22699999999999998,
+    "key_offensive_stats.off_rebound.ulm": 0.22399999999999998,
+    "key_offensive_stats.fta_fga.odu": 0.343,
+    "key_offensive_stats.fta_fga.ulm": 0.38,
+    "key_offensive_stats.points_game.odu": 75.0,
+    "key_offensive_stats.points_game.ulm": 71.4,
+    "key_offensive_stats.avg_score_margin.odu": -3.3,
+    "key_offensive_stats.avg_score_margin.ulm": -13.9,
+    "key_defensive_stats.def_efficiency.odu": 1.077,
+    "key_defensive_stats.def_efficiency.ulm": 1.168,
+    "key_defensive_stats.opp_effective_fg.odu": 0.506,
+    "key_defensive_stats.opp_effective_fg.ulm": 0.57,
+    "key_defensive_stats.opp_turnovers_play.odu": 0.126,
+    "key_defensive_stats.opp_turnovers_play.ulm": 0.135,
+    "key_defensive_stats.def_rebound.odu": 0.711,
+    "key_defensive_stats.def_rebound.ulm": 0.648,
+    "key_defensive_stats.opp_fta_fga.odu": 0.409,
+    "key_defensive_stats.opp_fta_fga.ulm": 0.274,
+    "key_defensive_stats.opp_points_game.odu": 78.3,
+    "key_defensive_stats.opp_points_game.ulm": 85.3,
+    "key_defensive_stats.block.odu": 0.054000000000000006,
+    "key_defensive_stats.block.ulm": 0.05,
+    "key_defensive_stats.personal_fouls_play.odu": 0.23199999999999998,
+    "key_defensive_stats.personal_fouls_play.ulm": 0.174,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.possessions_gm.odu": 72.7,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.possessions_gm.ulm": 73.0,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.off_efficiency.odu": 1.031,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.off_efficiency.ulm": 0.978,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.effective_fg.odu": 0.501,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.effective_fg.ulm": 0.478,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.two_point_rate.odu": 0.64,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.two_point_rate.ulm": 0.583,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.three_point_rate.odu": 0.36,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.three_point_rate.ulm": 0.41700000000000004,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.fta_play.odu": 0.256,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.fta_play.ulm": 0.27399999999999997,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.two_point.odu": 0.49200000000000005,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.two_point.ulm": 0.475,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.three_point.odu": 0.345,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.three_point.ulm": 0.322,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.free_throw.odu": 0.732,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.free_throw.ulm": 0.72,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.points_2_pters.odu": 37.7,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.points_2_pters.ulm": 32.1,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.points_3_pters.odu": 22.3,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.points_3_pters.ulm": 23.4,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.off_rebound.odu": 0.22699999999999998,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.off_rebound.ulm": 0.22399999999999998,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.def_rebound.odu": 0.711,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.def_rebound.ulm": 0.648,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.block.odu": 0.054000000000000006,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.block.ulm": 0.05,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.steals_play.odu": 0.07,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.steals_play.ulm": 0.07200000000000001,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.turnovers_play.odu": 0.138,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.turnovers_play.ulm": 0.153,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.personal_fouls_play.odu": 0.23199999999999998,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.personal_fouls_play.ulm": 0.174,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.assists_fgm.odu": 0.482,
+    "old_dominion_vs_ul_monroe_offensive_efficiency.assists_fgm.ulm": 0.506,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.possessions_gm.odu": 72.7,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.possessions_gm.ulm": 73.0,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.def_efficiency.odu": 1.077,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.def_efficiency.ulm": 1.168,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_effective_fg.odu": 0.506,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_effective_fg.ulm": 0.57,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_two_point_rate.odu": 0.642,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_two_point_rate.ulm": 0.574,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_three_point_rate.odu": 0.358,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_three_point_rate.ulm": 0.426,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_fta_play.odu": 0.298,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_fta_play.ulm": 0.209,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_two_point.odu": 0.523,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_two_point.ulm": 0.59,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_three_point.odu": 0.316,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_three_point.ulm": 0.36200000000000004,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_free_throw.odu": 0.735,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_free_throw.ulm": 0.6990000000000001,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_points_2_pters.odu": 40.1,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_points_2_pters.ulm": 43.4,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_points_3_pters.odu": 20.2,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_points_3_pters.ulm": 29.6,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_off_rebound.odu": 0.289,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_off_rebound.ulm": 0.35200000000000004,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_def_rebound.odu": 0.773,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_def_rebound.ulm": 0.7759999999999999,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_block.odu": 0.07200000000000001,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_block.ulm": 0.069,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_steals_play.odu": 0.08199999999999999,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_steals_play.ulm": 0.092,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_turnovers_play.odu": 0.126,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_turnovers_play.ulm": 0.135,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_personal_fouls_play.odu": 0.213,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_personal_fouls_play.ulm": 0.23199999999999998,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_assists_fgm.odu": 0.522,
+    "old_dominion_vs_ul_monroe_defensive_efficiency.opp_assists_fgm.ulm": 0.58
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "monarchs-warhawks-2026-03-03",
+  "matchup_title": "#231 Old Dominion vs. #355 UL Monroe",
+  "teams": {
+    "away": "#231 Old Dominion",
+    "home": "#355 UL Monroe",
+    "neutral_site": true
+  },
+  "time_local": "8:30 PM",
+  "location": "Pensacola Bay Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/monarchs-warhawks-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/monarchs-warhawks-2026-03-03/efficiency"
+  }
+}

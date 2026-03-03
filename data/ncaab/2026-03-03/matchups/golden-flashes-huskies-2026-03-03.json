@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-flashes-huskies-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:51.061177+00:00",
+  "tables": {
+    "Matchup Menu: KENT @ NIU": {
+      "headers": [
+        "Stat",
+        "KENT",
+        "adv",
+        "NIU"
+      ],
+      "team_headers": [
+        "KENT",
+        "NIU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "KENT": {
+            "raw": "1.092",
+            "value": 1.092
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "0.943",
+            "value": 0.943
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "28.4%",
+            "value": 0.284
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "KENT": {
+            "raw": "0.444",
+            "value": 0.444
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "0.379",
+            "value": 0.379
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "KENT": {
+            "raw": "82.7",
+            "value": 82.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "NIU": {
+            "raw": "66.4",
+            "value": 66.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "KENT": {
+            "raw": "+1.3",
+            "value": 1.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "-11.0",
+            "value": -11.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "KENT",
+        "adv",
+        "NIU"
+      ],
+      "team_headers": [
+        "KENT",
+        "NIU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "KENT": {
+            "raw": "1.092",
+            "value": 1.092
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "0.943",
+            "value": 0.943
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "28.4%",
+            "value": 0.284
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "KENT": {
+            "raw": "0.444",
+            "value": 0.444
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "0.379",
+            "value": 0.379
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "KENT": {
+            "raw": "82.7",
+            "value": 82.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "NIU": {
+            "raw": "66.4",
+            "value": 66.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "KENT": {
+            "raw": "+1.3",
+            "value": 1.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "-11.0",
+            "value": -11.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "KENT",
+        "adv",
+        "NIU"
+      ],
+      "team_headers": [
+        "KENT",
+        "NIU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "KENT": {
+            "raw": "1.074",
+            "value": 1.074
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "1.099",
+            "value": 1.099
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "73.1%",
+            "value": 0.731
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "70.9%",
+            "value": 0.7090000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "KENT": {
+            "raw": "0.381",
+            "value": 0.381
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "0.381",
+            "value": 0.381
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "KENT": {
+            "raw": "81.4",
+            "value": 81.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "77.4",
+            "value": 77.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "3.3%",
+            "value": 0.033
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "23.3%",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "24.0%",
+            "value": 0.24
+          }
+        }
+      ]
+    },
+    "Kent St vs N Illinois Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "KENT",
+        "adv",
+        "NIU"
+      ],
+      "team_headers": [
+        "KENT",
+        "NIU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "KENT": {
+            "raw": "75.7",
+            "value": 75.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "70.4",
+            "value": 70.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "KENT": {
+            "raw": "1.092",
+            "value": 1.092
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "0.943",
+            "value": 0.943
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "KENT": {
+            "raw": "55.1%",
+            "value": 0.551
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "55.1%",
+            "value": 0.551
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "KENT": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "44.9%",
+            "value": 0.449
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "30.9%",
+            "value": 0.309
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "26.4%",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "51.7%",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "48.1%",
+            "value": 0.48100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "34.9%",
+            "value": 0.349
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "31.7%",
+            "value": 0.317
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "74.0%",
+            "value": 0.74
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "65.6%",
+            "value": 0.6559999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "KENT": {
+            "raw": "34.4",
+            "value": 34.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "29.2",
+            "value": 29.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "KENT": {
+            "raw": "28.4",
+            "value": 28.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "23.5",
+            "value": 23.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "28.4%",
+            "value": 0.284
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "73.1%",
+            "value": 0.731
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "70.9%",
+            "value": 0.7090000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "3.3%",
+            "value": 0.033
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "7.7%",
+            "value": 0.077
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "7.0%",
+            "value": 0.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "23.3%",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "24.0%",
+            "value": 0.24
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "KENT": {
+            "raw": "0.571",
+            "value": 0.571
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "0.533",
+            "value": 0.533
+          }
+        }
+      ]
+    },
+    "Kent St vs N Illinois Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "KENT",
+        "adv",
+        "NIU"
+      ],
+      "team_headers": [
+        "KENT",
+        "NIU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "KENT": {
+            "raw": "75.7",
+            "value": 75.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "70.4",
+            "value": 70.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "KENT": {
+            "raw": "1.074",
+            "value": 1.074
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "1.099",
+            "value": 1.099
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "KENT": {
+            "raw": "57.9%",
+            "value": 0.579
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "63.3%",
+            "value": 0.633
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "KENT": {
+            "raw": "42.1%",
+            "value": 0.42100000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "36.7%",
+            "value": 0.36700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "27.6%",
+            "value": 0.276
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "27.3%",
+            "value": 0.273
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "56.6%",
+            "value": 0.5660000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "34.1%",
+            "value": 0.341
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "72.7%",
+            "value": 0.727
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "KENT": {
+            "raw": "36.8",
+            "value": 36.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "40.5",
+            "value": 40.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "KENT": {
+            "raw": "27.6",
+            "value": 27.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "21.2",
+            "value": 21.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "26.9%",
+            "value": 0.26899999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "66.0%",
+            "value": 0.66
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "71.6%",
+            "value": 0.716
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "KENT": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NIU": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "9.0%",
+            "value": 0.09
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "10.1%",
+            "value": 0.10099999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "KENT": {
+            "raw": "24.7%",
+            "value": 0.247
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NIU": {
+            "raw": "22.5%",
+            "value": 0.225
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "KENT": {
+            "raw": "0.550",
+            "value": 0.55
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NIU": {
+            "raw": "0.530",
+            "value": 0.53
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_kent_niu.off_efficiency.kent": 1.092,
+    "matchup_menu_kent_niu.off_efficiency.niu": 0.943,
+    "matchup_menu_kent_niu.effective_fg.kent": 0.52,
+    "matchup_menu_kent_niu.effective_fg.niu": 0.479,
+    "matchup_menu_kent_niu.turnovers_play.kent": 0.16,
+    "matchup_menu_kent_niu.turnovers_play.niu": 0.19,
+    "matchup_menu_kent_niu.off_rebound.kent": 0.34,
+    "matchup_menu_kent_niu.off_rebound.niu": 0.284,
+    "matchup_menu_kent_niu.fta_fga.kent": 0.444,
+    "matchup_menu_kent_niu.fta_fga.niu": 0.379,
+    "matchup_menu_kent_niu.points_game.kent": 82.7,
+    "matchup_menu_kent_niu.points_game.niu": 66.4,
+    "matchup_menu_kent_niu.avg_score_margin.kent": 1.3,
+    "matchup_menu_kent_niu.avg_score_margin.niu": -11.0,
+    "key_offensive_stats.off_efficiency.kent": 1.092,
+    "key_offensive_stats.off_efficiency.niu": 0.943,
+    "key_offensive_stats.effective_fg.kent": 0.52,
+    "key_offensive_stats.effective_fg.niu": 0.479,
+    "key_offensive_stats.turnovers_play.kent": 0.16,
+    "key_offensive_stats.turnovers_play.niu": 0.19,
+    "key_offensive_stats.off_rebound.kent": 0.34,
+    "key_offensive_stats.off_rebound.niu": 0.284,
+    "key_offensive_stats.fta_fga.kent": 0.444,
+    "key_offensive_stats.fta_fga.niu": 0.379,
+    "key_offensive_stats.points_game.kent": 82.7,
+    "key_offensive_stats.points_game.niu": 66.4,
+    "key_offensive_stats.avg_score_margin.kent": 1.3,
+    "key_offensive_stats.avg_score_margin.niu": -11.0,
+    "key_defensive_stats.def_efficiency.kent": 1.074,
+    "key_defensive_stats.def_efficiency.niu": 1.099,
+    "key_defensive_stats.opp_effective_fg.kent": 0.525,
+    "key_defensive_stats.opp_effective_fg.niu": 0.546,
+    "key_defensive_stats.opp_turnovers_play.kent": 0.142,
+    "key_defensive_stats.opp_turnovers_play.niu": 0.14300000000000002,
+    "key_defensive_stats.def_rebound.kent": 0.731,
+    "key_defensive_stats.def_rebound.niu": 0.7090000000000001,
+    "key_defensive_stats.opp_fta_fga.kent": 0.381,
+    "key_defensive_stats.opp_fta_fga.niu": 0.381,
+    "key_defensive_stats.opp_points_game.kent": 81.4,
+    "key_defensive_stats.opp_points_game.niu": 77.4,
+    "key_defensive_stats.block.kent": 0.055999999999999994,
+    "key_defensive_stats.block.niu": 0.033,
+    "key_defensive_stats.personal_fouls_play.kent": 0.233,
+    "key_defensive_stats.personal_fouls_play.niu": 0.24,
+    "kent_st_vs_n_illinois_offensive_efficiency.possessions_gm.kent": 75.7,
+    "kent_st_vs_n_illinois_offensive_efficiency.possessions_gm.niu": 70.4,
+    "kent_st_vs_n_illinois_offensive_efficiency.off_efficiency.kent": 1.092,
+    "kent_st_vs_n_illinois_offensive_efficiency.off_efficiency.niu": 0.943,
+    "kent_st_vs_n_illinois_offensive_efficiency.effective_fg.kent": 0.52,
+    "kent_st_vs_n_illinois_offensive_efficiency.effective_fg.niu": 0.479,
+    "kent_st_vs_n_illinois_offensive_efficiency.two_point_rate.kent": 0.551,
+    "kent_st_vs_n_illinois_offensive_efficiency.two_point_rate.niu": 0.551,
+    "kent_st_vs_n_illinois_offensive_efficiency.three_point_rate.kent": 0.449,
+    "kent_st_vs_n_illinois_offensive_efficiency.three_point_rate.niu": 0.449,
+    "kent_st_vs_n_illinois_offensive_efficiency.fta_play.kent": 0.309,
+    "kent_st_vs_n_illinois_offensive_efficiency.fta_play.niu": 0.264,
+    "kent_st_vs_n_illinois_offensive_efficiency.two_point.kent": 0.517,
+    "kent_st_vs_n_illinois_offensive_efficiency.two_point.niu": 0.48100000000000004,
+    "kent_st_vs_n_illinois_offensive_efficiency.three_point.kent": 0.349,
+    "kent_st_vs_n_illinois_offensive_efficiency.three_point.niu": 0.317,
+    "kent_st_vs_n_illinois_offensive_efficiency.free_throw.kent": 0.74,
+    "kent_st_vs_n_illinois_offensive_efficiency.free_throw.niu": 0.6559999999999999,
+    "kent_st_vs_n_illinois_offensive_efficiency.points_2_pters.kent": 34.4,
+    "kent_st_vs_n_illinois_offensive_efficiency.points_2_pters.niu": 29.2,
+    "kent_st_vs_n_illinois_offensive_efficiency.points_3_pters.kent": 28.4,
+    "kent_st_vs_n_illinois_offensive_efficiency.points_3_pters.niu": 23.5,
+    "kent_st_vs_n_illinois_offensive_efficiency.off_rebound.kent": 0.34,
+    "kent_st_vs_n_illinois_offensive_efficiency.off_rebound.niu": 0.284,
+    "kent_st_vs_n_illinois_offensive_efficiency.def_rebound.kent": 0.731,
+    "kent_st_vs_n_illinois_offensive_efficiency.def_rebound.niu": 0.7090000000000001,
+    "kent_st_vs_n_illinois_offensive_efficiency.block.kent": 0.055999999999999994,
+    "kent_st_vs_n_illinois_offensive_efficiency.block.niu": 0.033,
+    "kent_st_vs_n_illinois_offensive_efficiency.steals_play.kent": 0.077,
+    "kent_st_vs_n_illinois_offensive_efficiency.steals_play.niu": 0.07,
+    "kent_st_vs_n_illinois_offensive_efficiency.turnovers_play.kent": 0.16,
+    "kent_st_vs_n_illinois_offensive_efficiency.turnovers_play.niu": 0.19,
+    "kent_st_vs_n_illinois_offensive_efficiency.personal_fouls_play.kent": 0.233,
+    "kent_st_vs_n_illinois_offensive_efficiency.personal_fouls_play.niu": 0.24,
+    "kent_st_vs_n_illinois_offensive_efficiency.assists_fgm.kent": 0.571,
+    "kent_st_vs_n_illinois_offensive_efficiency.assists_fgm.niu": 0.533,
+    "kent_st_vs_n_illinois_defensive_efficiency.possessions_gm.kent": 75.7,
+    "kent_st_vs_n_illinois_defensive_efficiency.possessions_gm.niu": 70.4,
+    "kent_st_vs_n_illinois_defensive_efficiency.def_efficiency.kent": 1.074,
+    "kent_st_vs_n_illinois_defensive_efficiency.def_efficiency.niu": 1.099,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_effective_fg.kent": 0.525,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_effective_fg.niu": 0.546,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_two_point_rate.kent": 0.579,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_two_point_rate.niu": 0.633,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_three_point_rate.kent": 0.42100000000000004,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_three_point_rate.niu": 0.36700000000000005,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_fta_play.kent": 0.276,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_fta_play.niu": 0.273,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_two_point.kent": 0.519,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_two_point.niu": 0.5660000000000001,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_three_point.kent": 0.35600000000000004,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_three_point.niu": 0.341,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_free_throw.kent": 0.727,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_free_throw.niu": 0.7290000000000001,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_points_2_pters.kent": 36.8,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_points_2_pters.niu": 40.5,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_points_3_pters.kent": 27.6,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_points_3_pters.niu": 21.2,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_off_rebound.kent": 0.26899999999999996,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_off_rebound.niu": 0.29100000000000004,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_def_rebound.kent": 0.66,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_def_rebound.niu": 0.716,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_block.kent": 0.052000000000000005,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_block.niu": 0.08199999999999999,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_steals_play.kent": 0.09,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_steals_play.niu": 0.10099999999999999,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_turnovers_play.kent": 0.142,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_turnovers_play.niu": 0.14300000000000002,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_personal_fouls_play.kent": 0.247,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_personal_fouls_play.niu": 0.225,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_assists_fgm.kent": 0.55,
+    "kent_st_vs_n_illinois_defensive_efficiency.opp_assists_fgm.niu": 0.53
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "golden-flashes-huskies-2026-03-03",
+  "matchup_title": "#153 Kent St at #319 N Illinois",
+  "teams": {
+    "away": "#153 Kent St",
+    "home": "#319 N Illinois",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Convocation Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-flashes-huskies-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-flashes-huskies-2026-03-03/efficiency"
+  }
+}

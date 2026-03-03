@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/great-danes-catamounts-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:52.447372+00:00",
+  "tables": {
+    "Matchup Menu: ALBY @ UVM": {
+      "headers": [
+        "Stat",
+        "ALBY",
+        "adv",
+        "UVM"
+      ],
+      "team_headers": [
+        "ALBY",
+        "UVM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "1.017",
+            "value": 1.017
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "51.4%",
+            "value": 0.514
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "53.2%",
+            "value": 0.532
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "12.7%",
+            "value": 0.127
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "0.261",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "0.307",
+            "value": 0.307
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "68.9",
+            "value": 68.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "-5.6",
+            "value": -5.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "+2.9",
+            "value": 2.9
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "ALBY",
+        "adv",
+        "UVM"
+      ],
+      "team_headers": [
+        "ALBY",
+        "UVM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "1.017",
+            "value": 1.017
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "51.4%",
+            "value": 0.514
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "53.2%",
+            "value": 0.532
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "12.7%",
+            "value": 0.127
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "0.261",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "0.307",
+            "value": 0.307
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "68.9",
+            "value": 68.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "-5.6",
+            "value": -5.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "+2.9",
+            "value": 2.9
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "ALBY",
+        "adv",
+        "UVM"
+      ],
+      "team_headers": [
+        "ALBY",
+        "UVM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "1.099",
+            "value": 1.099
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "1.045",
+            "value": 1.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "50.7%",
+            "value": 0.507
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "70.0%",
+            "value": 0.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "79.8%",
+            "value": 0.7979999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "0.355",
+            "value": 0.355
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "0.371",
+            "value": 0.371
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "74.5",
+            "value": 74.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "70.0",
+            "value": 70.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "6.7%",
+            "value": 0.067
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "22.1%",
+            "value": 0.221
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        }
+      ]
+    },
+    "Albany vs Vermont Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ALBY",
+        "adv",
+        "UVM"
+      ],
+      "team_headers": [
+        "ALBY",
+        "UVM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "67.8",
+            "value": 67.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "67.0",
+            "value": 67.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "1.017",
+            "value": 1.017
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "1.088",
+            "value": 1.088
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "51.4%",
+            "value": 0.514
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "53.2%",
+            "value": 0.532
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "62.6%",
+            "value": 0.626
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "55.4%",
+            "value": 0.5539999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "37.4%",
+            "value": 0.374
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "44.6%",
+            "value": 0.446
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "19.6%",
+            "value": 0.196
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "23.3%",
+            "value": 0.233
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "53.0%",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "55.5%",
+            "value": 0.555
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "32.5%",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "33.6%",
+            "value": 0.336
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "66.2%",
+            "value": 0.662
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "73.5%",
+            "value": 0.735
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "38.1",
+            "value": 38.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "34.7",
+            "value": 34.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "20.9",
+            "value": 20.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "25.4",
+            "value": 25.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "70.0%",
+            "value": 0.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "79.8%",
+            "value": 0.7979999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "6.7%",
+            "value": 0.067
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "8.9%",
+            "value": 0.08900000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "12.7%",
+            "value": 0.127
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "22.1%",
+            "value": 0.221
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "0.496",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "0.490",
+            "value": 0.49
+          }
+        }
+      ]
+    },
+    "Albany vs Vermont Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ALBY",
+        "adv",
+        "UVM"
+      ],
+      "team_headers": [
+        "ALBY",
+        "UVM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "67.8",
+            "value": 67.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "67.0",
+            "value": 67.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "1.099",
+            "value": 1.099
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "1.045",
+            "value": 1.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "50.7%",
+            "value": 0.507
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "59.4%",
+            "value": 0.594
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "59.1%",
+            "value": 0.591
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "40.6%",
+            "value": 0.406
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "40.9%",
+            "value": 0.409
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "27.6%",
+            "value": 0.276
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "35.7%",
+            "value": 0.35700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "73.4%",
+            "value": 0.7340000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "72.8%",
+            "value": 0.728
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "35.4",
+            "value": 35.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "31.6",
+            "value": 31.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "24.4",
+            "value": 24.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "23.7",
+            "value": 23.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "20.2%",
+            "value": 0.20199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "70.6%",
+            "value": 0.706
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "6.0%",
+            "value": 0.06
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "4.7%",
+            "value": 0.047
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "9.0%",
+            "value": 0.09
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UVM": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "18.1%",
+            "value": 0.18100000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UVM": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "ALBY": {
+            "raw": "0.559",
+            "value": 0.559
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UVM": {
+            "raw": "0.493",
+            "value": 0.493
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_alby_uvm.off_efficiency.alby": 1.017,
+    "matchup_menu_alby_uvm.off_efficiency.uvm": 1.088,
+    "matchup_menu_alby_uvm.effective_fg.alby": 0.514,
+    "matchup_menu_alby_uvm.effective_fg.uvm": 0.532,
+    "matchup_menu_alby_uvm.turnovers_play.alby": 0.16,
+    "matchup_menu_alby_uvm.turnovers_play.uvm": 0.127,
+    "matchup_menu_alby_uvm.off_rebound.alby": 0.294,
+    "matchup_menu_alby_uvm.off_rebound.uvm": 0.244,
+    "matchup_menu_alby_uvm.fta_fga.alby": 0.261,
+    "matchup_menu_alby_uvm.fta_fga.uvm": 0.307,
+    "matchup_menu_alby_uvm.points_game.alby": 68.9,
+    "matchup_menu_alby_uvm.points_game.uvm": 72.9,
+    "matchup_menu_alby_uvm.avg_score_margin.alby": -5.6,
+    "matchup_menu_alby_uvm.avg_score_margin.uvm": 2.9,
+    "key_offensive_stats.off_efficiency.alby": 1.017,
+    "key_offensive_stats.off_efficiency.uvm": 1.088,
+    "key_offensive_stats.effective_fg.alby": 0.514,
+    "key_offensive_stats.effective_fg.uvm": 0.532,
+    "key_offensive_stats.turnovers_play.alby": 0.16,
+    "key_offensive_stats.turnovers_play.uvm": 0.127,
+    "key_offensive_stats.off_rebound.alby": 0.294,
+    "key_offensive_stats.off_rebound.uvm": 0.244,
+    "key_offensive_stats.fta_fga.alby": 0.261,
+    "key_offensive_stats.fta_fga.uvm": 0.307,
+    "key_offensive_stats.points_game.alby": 68.9,
+    "key_offensive_stats.points_game.uvm": 72.9,
+    "key_offensive_stats.avg_score_margin.alby": -5.6,
+    "key_offensive_stats.avg_score_margin.uvm": 2.9,
+    "key_defensive_stats.def_efficiency.alby": 1.099,
+    "key_defensive_stats.def_efficiency.uvm": 1.045,
+    "key_defensive_stats.opp_effective_fg.alby": 0.5329999999999999,
+    "key_defensive_stats.opp_effective_fg.uvm": 0.507,
+    "key_defensive_stats.opp_turnovers_play.alby": 0.13699999999999998,
+    "key_defensive_stats.opp_turnovers_play.uvm": 0.128,
+    "key_defensive_stats.def_rebound.alby": 0.7,
+    "key_defensive_stats.def_rebound.uvm": 0.7979999999999999,
+    "key_defensive_stats.opp_fta_fga.alby": 0.355,
+    "key_defensive_stats.opp_fta_fga.uvm": 0.371,
+    "key_defensive_stats.opp_points_game.alby": 74.5,
+    "key_defensive_stats.opp_points_game.uvm": 70.0,
+    "key_defensive_stats.block.alby": 0.067,
+    "key_defensive_stats.block.uvm": 0.05,
+    "key_defensive_stats.personal_fouls_play.alby": 0.221,
+    "key_defensive_stats.personal_fouls_play.uvm": 0.235,
+    "albany_vs_vermont_offensive_efficiency.possessions_gm.alby": 67.8,
+    "albany_vs_vermont_offensive_efficiency.possessions_gm.uvm": 67.0,
+    "albany_vs_vermont_offensive_efficiency.off_efficiency.alby": 1.017,
+    "albany_vs_vermont_offensive_efficiency.off_efficiency.uvm": 1.088,
+    "albany_vs_vermont_offensive_efficiency.effective_fg.alby": 0.514,
+    "albany_vs_vermont_offensive_efficiency.effective_fg.uvm": 0.532,
+    "albany_vs_vermont_offensive_efficiency.two_point_rate.alby": 0.626,
+    "albany_vs_vermont_offensive_efficiency.two_point_rate.uvm": 0.5539999999999999,
+    "albany_vs_vermont_offensive_efficiency.three_point_rate.alby": 0.374,
+    "albany_vs_vermont_offensive_efficiency.three_point_rate.uvm": 0.446,
+    "albany_vs_vermont_offensive_efficiency.fta_play.alby": 0.196,
+    "albany_vs_vermont_offensive_efficiency.fta_play.uvm": 0.233,
+    "albany_vs_vermont_offensive_efficiency.two_point.alby": 0.53,
+    "albany_vs_vermont_offensive_efficiency.two_point.uvm": 0.555,
+    "albany_vs_vermont_offensive_efficiency.three_point.alby": 0.325,
+    "albany_vs_vermont_offensive_efficiency.three_point.uvm": 0.336,
+    "albany_vs_vermont_offensive_efficiency.free_throw.alby": 0.662,
+    "albany_vs_vermont_offensive_efficiency.free_throw.uvm": 0.735,
+    "albany_vs_vermont_offensive_efficiency.points_2_pters.alby": 38.1,
+    "albany_vs_vermont_offensive_efficiency.points_2_pters.uvm": 34.7,
+    "albany_vs_vermont_offensive_efficiency.points_3_pters.alby": 20.9,
+    "albany_vs_vermont_offensive_efficiency.points_3_pters.uvm": 25.4,
+    "albany_vs_vermont_offensive_efficiency.off_rebound.alby": 0.294,
+    "albany_vs_vermont_offensive_efficiency.off_rebound.uvm": 0.244,
+    "albany_vs_vermont_offensive_efficiency.def_rebound.alby": 0.7,
+    "albany_vs_vermont_offensive_efficiency.def_rebound.uvm": 0.7979999999999999,
+    "albany_vs_vermont_offensive_efficiency.block.alby": 0.067,
+    "albany_vs_vermont_offensive_efficiency.block.uvm": 0.05,
+    "albany_vs_vermont_offensive_efficiency.steals_play.alby": 0.08900000000000001,
+    "albany_vs_vermont_offensive_efficiency.steals_play.uvm": 0.057999999999999996,
+    "albany_vs_vermont_offensive_efficiency.turnovers_play.alby": 0.16,
+    "albany_vs_vermont_offensive_efficiency.turnovers_play.uvm": 0.127,
+    "albany_vs_vermont_offensive_efficiency.personal_fouls_play.alby": 0.221,
+    "albany_vs_vermont_offensive_efficiency.personal_fouls_play.uvm": 0.235,
+    "albany_vs_vermont_offensive_efficiency.assists_fgm.alby": 0.496,
+    "albany_vs_vermont_offensive_efficiency.assists_fgm.uvm": 0.49,
+    "albany_vs_vermont_defensive_efficiency.possessions_gm.alby": 67.8,
+    "albany_vs_vermont_defensive_efficiency.possessions_gm.uvm": 67.0,
+    "albany_vs_vermont_defensive_efficiency.def_efficiency.alby": 1.099,
+    "albany_vs_vermont_defensive_efficiency.def_efficiency.uvm": 1.045,
+    "albany_vs_vermont_defensive_efficiency.opp_effective_fg.alby": 0.5329999999999999,
+    "albany_vs_vermont_defensive_efficiency.opp_effective_fg.uvm": 0.507,
+    "albany_vs_vermont_defensive_efficiency.opp_two_point_rate.alby": 0.594,
+    "albany_vs_vermont_defensive_efficiency.opp_two_point_rate.uvm": 0.591,
+    "albany_vs_vermont_defensive_efficiency.opp_three_point_rate.alby": 0.406,
+    "albany_vs_vermont_defensive_efficiency.opp_three_point_rate.uvm": 0.409,
+    "albany_vs_vermont_defensive_efficiency.opp_fta_play.alby": 0.261,
+    "albany_vs_vermont_defensive_efficiency.opp_fta_play.uvm": 0.276,
+    "albany_vs_vermont_defensive_efficiency.opp_two_point.alby": 0.531,
+    "albany_vs_vermont_defensive_efficiency.opp_two_point.uvm": 0.49,
+    "albany_vs_vermont_defensive_efficiency.opp_three_point.alby": 0.35700000000000004,
+    "albany_vs_vermont_defensive_efficiency.opp_three_point.uvm": 0.354,
+    "albany_vs_vermont_defensive_efficiency.opp_free_throw.alby": 0.7340000000000001,
+    "albany_vs_vermont_defensive_efficiency.opp_free_throw.uvm": 0.728,
+    "albany_vs_vermont_defensive_efficiency.opp_points_2_pters.alby": 35.4,
+    "albany_vs_vermont_defensive_efficiency.opp_points_2_pters.uvm": 31.6,
+    "albany_vs_vermont_defensive_efficiency.opp_points_3_pters.alby": 24.4,
+    "albany_vs_vermont_defensive_efficiency.opp_points_3_pters.uvm": 23.7,
+    "albany_vs_vermont_defensive_efficiency.opp_off_rebound.alby": 0.3,
+    "albany_vs_vermont_defensive_efficiency.opp_off_rebound.uvm": 0.20199999999999999,
+    "albany_vs_vermont_defensive_efficiency.opp_def_rebound.alby": 0.706,
+    "albany_vs_vermont_defensive_efficiency.opp_def_rebound.uvm": 0.7559999999999999,
+    "albany_vs_vermont_defensive_efficiency.opp_block.alby": 0.06,
+    "albany_vs_vermont_defensive_efficiency.opp_block.uvm": 0.047,
+    "albany_vs_vermont_defensive_efficiency.opp_steals_play.alby": 0.09,
+    "albany_vs_vermont_defensive_efficiency.opp_steals_play.uvm": 0.07400000000000001,
+    "albany_vs_vermont_defensive_efficiency.opp_turnovers_play.alby": 0.13699999999999998,
+    "albany_vs_vermont_defensive_efficiency.opp_turnovers_play.uvm": 0.128,
+    "albany_vs_vermont_defensive_efficiency.opp_personal_fouls_play.alby": 0.18100000000000002,
+    "albany_vs_vermont_defensive_efficiency.opp_personal_fouls_play.uvm": 0.223,
+    "albany_vs_vermont_defensive_efficiency.opp_assists_fgm.alby": 0.559,
+    "albany_vs_vermont_defensive_efficiency.opp_assists_fgm.uvm": 0.493
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "great-danes-catamounts-2026-03-03",
+  "matchup_title": "#310 Albany at #219 Vermont",
+  "teams": {
+    "away": "#310 Albany",
+    "home": "#219 Vermont",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Patrick Gymnasium",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/great-danes-catamounts-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/great-danes-catamounts-2026-03-03/efficiency"
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/wolf-pack-cowboys-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:40.858498+00:00",
+  "tables": {
+    "Matchup Menu: NEV @ WYO": {
+      "headers": [
+        "Stat",
+        "NEV",
+        "adv",
+        "WYO"
+      ],
+      "team_headers": [
+        "NEV",
+        "WYO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NEV": {
+            "raw": "1.100",
+            "value": 1.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "1.097",
+            "value": 1.097
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "14.1%",
+            "value": 0.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "32.5%",
+            "value": 0.325
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NEV": {
+            "raw": "0.455",
+            "value": 0.455
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "0.356",
+            "value": 0.356
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NEV": {
+            "raw": "76.0",
+            "value": 76.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "76.0",
+            "value": 76.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NEV": {
+            "raw": "+4.0",
+            "value": 4.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "+3.3",
+            "value": 3.3
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "NEV",
+        "adv",
+        "WYO"
+      ],
+      "team_headers": [
+        "NEV",
+        "WYO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NEV": {
+            "raw": "1.100",
+            "value": 1.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "1.097",
+            "value": 1.097
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "14.1%",
+            "value": 0.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "32.5%",
+            "value": 0.325
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NEV": {
+            "raw": "0.455",
+            "value": 0.455
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "0.356",
+            "value": 0.356
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NEV": {
+            "raw": "76.0",
+            "value": 76.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "76.0",
+            "value": 76.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NEV": {
+            "raw": "+4.0",
+            "value": 4.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "+3.3",
+            "value": 3.3
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "NEV",
+        "adv",
+        "WYO"
+      ],
+      "team_headers": [
+        "NEV",
+        "WYO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NEV": {
+            "raw": "1.042",
+            "value": 1.042
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "1.050",
+            "value": 1.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "51.1%",
+            "value": 0.511
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "52.2%",
+            "value": 0.522
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "15.2%",
+            "value": 0.152
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "75.3%",
+            "value": 0.753
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "NEV": {
+            "raw": "0.385",
+            "value": 0.385
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "0.482",
+            "value": 0.482
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "NEV": {
+            "raw": "72.0",
+            "value": 72.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "72.7",
+            "value": 72.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "4.7%",
+            "value": 0.047
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "23.1%",
+            "value": 0.231
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "27.8%",
+            "value": 0.278
+          }
+        }
+      ]
+    },
+    "Nevada vs Wyoming Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NEV",
+        "adv",
+        "WYO"
+      ],
+      "team_headers": [
+        "NEV",
+        "WYO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NEV": {
+            "raw": "69.1",
+            "value": 69.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "69.3",
+            "value": 69.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NEV": {
+            "raw": "1.100",
+            "value": 1.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "1.097",
+            "value": 1.097
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "NEV": {
+            "raw": "67.3%",
+            "value": 0.6729999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "56.2%",
+            "value": 0.562
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "NEV": {
+            "raw": "32.7%",
+            "value": 0.327
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "43.8%",
+            "value": 0.43799999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "32.8%",
+            "value": 0.32799999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "26.2%",
+            "value": 0.262
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "46.4%",
+            "value": 0.46399999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "53.4%",
+            "value": 0.534
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "37.7%",
+            "value": 0.377
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "32.7%",
+            "value": 0.327
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "75.1%",
+            "value": 0.7509999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "NEV": {
+            "raw": "35.5",
+            "value": 35.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "35.1",
+            "value": 35.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "NEV": {
+            "raw": "21.0",
+            "value": 21.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "25.2",
+            "value": 25.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "32.5%",
+            "value": 0.325
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "75.3%",
+            "value": 0.753
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "4.7%",
+            "value": 0.047
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "8.5%",
+            "value": 0.085
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "8.9%",
+            "value": 0.08900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "14.1%",
+            "value": 0.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "23.1%",
+            "value": 0.231
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "27.8%",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "NEV": {
+            "raw": "0.579",
+            "value": 0.579
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "0.535",
+            "value": 0.535
+          }
+        }
+      ]
+    },
+    "Nevada vs Wyoming Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NEV",
+        "adv",
+        "WYO"
+      ],
+      "team_headers": [
+        "NEV",
+        "WYO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NEV": {
+            "raw": "69.1",
+            "value": 69.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "69.3",
+            "value": 69.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NEV": {
+            "raw": "1.042",
+            "value": 1.042
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "1.050",
+            "value": 1.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "51.1%",
+            "value": 0.511
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "52.2%",
+            "value": 0.522
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "NEV": {
+            "raw": "56.4%",
+            "value": 0.564
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "62.9%",
+            "value": 0.629
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "NEV": {
+            "raw": "43.6%",
+            "value": 0.436
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "37.1%",
+            "value": 0.371
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "27.6%",
+            "value": 0.276
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "50.1%",
+            "value": 0.501
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "35.0%",
+            "value": 0.35
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "33.2%",
+            "value": 0.332
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "NEV": {
+            "raw": "31.3",
+            "value": 31.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "35.4",
+            "value": 35.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "NEV": {
+            "raw": "25.3",
+            "value": 25.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "19.4",
+            "value": 19.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "24.7%",
+            "value": 0.247
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "69.0%",
+            "value": 0.69
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "67.5%",
+            "value": 0.675
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "NEV": {
+            "raw": "6.9%",
+            "value": 0.069
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WYO": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "15.2%",
+            "value": 0.152
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "NEV": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WYO": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "NEV": {
+            "raw": "0.569",
+            "value": 0.569
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "WYO": {
+            "raw": "0.465",
+            "value": 0.465
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_nev_wyo.off_efficiency.nev": 1.1,
+    "matchup_menu_nev_wyo.off_efficiency.wyo": 1.097,
+    "matchup_menu_nev_wyo.effective_fg.nev": 0.49700000000000005,
+    "matchup_menu_nev_wyo.effective_fg.wyo": 0.515,
+    "matchup_menu_nev_wyo.turnovers_play.nev": 0.126,
+    "matchup_menu_nev_wyo.turnovers_play.wyo": 0.141,
+    "matchup_menu_nev_wyo.off_rebound.nev": 0.31,
+    "matchup_menu_nev_wyo.off_rebound.wyo": 0.325,
+    "matchup_menu_nev_wyo.fta_fga.nev": 0.455,
+    "matchup_menu_nev_wyo.fta_fga.wyo": 0.356,
+    "matchup_menu_nev_wyo.points_game.nev": 76.0,
+    "matchup_menu_nev_wyo.points_game.wyo": 76.0,
+    "matchup_menu_nev_wyo.avg_score_margin.nev": 4.0,
+    "matchup_menu_nev_wyo.avg_score_margin.wyo": 3.3,
+    "key_offensive_stats.off_efficiency.nev": 1.1,
+    "key_offensive_stats.off_efficiency.wyo": 1.097,
+    "key_offensive_stats.effective_fg.nev": 0.49700000000000005,
+    "key_offensive_stats.effective_fg.wyo": 0.515,
+    "key_offensive_stats.turnovers_play.nev": 0.126,
+    "key_offensive_stats.turnovers_play.wyo": 0.141,
+    "key_offensive_stats.off_rebound.nev": 0.31,
+    "key_offensive_stats.off_rebound.wyo": 0.325,
+    "key_offensive_stats.fta_fga.nev": 0.455,
+    "key_offensive_stats.fta_fga.wyo": 0.356,
+    "key_offensive_stats.points_game.nev": 76.0,
+    "key_offensive_stats.points_game.wyo": 76.0,
+    "key_offensive_stats.avg_score_margin.nev": 4.0,
+    "key_offensive_stats.avg_score_margin.wyo": 3.3,
+    "key_defensive_stats.def_efficiency.nev": 1.042,
+    "key_defensive_stats.def_efficiency.wyo": 1.05,
+    "key_defensive_stats.opp_effective_fg.nev": 0.511,
+    "key_defensive_stats.opp_effective_fg.wyo": 0.522,
+    "key_defensive_stats.opp_turnovers_play.nev": 0.152,
+    "key_defensive_stats.opp_turnovers_play.wyo": 0.152,
+    "key_defensive_stats.def_rebound.nev": 0.73,
+    "key_defensive_stats.def_rebound.wyo": 0.753,
+    "key_defensive_stats.opp_fta_fga.nev": 0.385,
+    "key_defensive_stats.opp_fta_fga.wyo": 0.482,
+    "key_defensive_stats.opp_points_game.nev": 72.0,
+    "key_defensive_stats.opp_points_game.wyo": 72.7,
+    "key_defensive_stats.block.nev": 0.07,
+    "key_defensive_stats.block.wyo": 0.047,
+    "key_defensive_stats.personal_fouls_play.nev": 0.231,
+    "key_defensive_stats.personal_fouls_play.wyo": 0.278,
+    "nevada_vs_wyoming_offensive_efficiency.possessions_gm.nev": 69.1,
+    "nevada_vs_wyoming_offensive_efficiency.possessions_gm.wyo": 69.3,
+    "nevada_vs_wyoming_offensive_efficiency.off_efficiency.nev": 1.1,
+    "nevada_vs_wyoming_offensive_efficiency.off_efficiency.wyo": 1.097,
+    "nevada_vs_wyoming_offensive_efficiency.effective_fg.nev": 0.49700000000000005,
+    "nevada_vs_wyoming_offensive_efficiency.effective_fg.wyo": 0.515,
+    "nevada_vs_wyoming_offensive_efficiency.two_point_rate.nev": 0.6729999999999999,
+    "nevada_vs_wyoming_offensive_efficiency.two_point_rate.wyo": 0.562,
+    "nevada_vs_wyoming_offensive_efficiency.three_point_rate.nev": 0.327,
+    "nevada_vs_wyoming_offensive_efficiency.three_point_rate.wyo": 0.43799999999999994,
+    "nevada_vs_wyoming_offensive_efficiency.fta_play.nev": 0.32799999999999996,
+    "nevada_vs_wyoming_offensive_efficiency.fta_play.wyo": 0.262,
+    "nevada_vs_wyoming_offensive_efficiency.two_point.nev": 0.46399999999999997,
+    "nevada_vs_wyoming_offensive_efficiency.two_point.wyo": 0.534,
+    "nevada_vs_wyoming_offensive_efficiency.three_point.nev": 0.377,
+    "nevada_vs_wyoming_offensive_efficiency.three_point.wyo": 0.327,
+    "nevada_vs_wyoming_offensive_efficiency.free_throw.nev": 0.754,
+    "nevada_vs_wyoming_offensive_efficiency.free_throw.wyo": 0.7509999999999999,
+    "nevada_vs_wyoming_offensive_efficiency.points_2_pters.nev": 35.5,
+    "nevada_vs_wyoming_offensive_efficiency.points_2_pters.wyo": 35.1,
+    "nevada_vs_wyoming_offensive_efficiency.points_3_pters.nev": 21.0,
+    "nevada_vs_wyoming_offensive_efficiency.points_3_pters.wyo": 25.2,
+    "nevada_vs_wyoming_offensive_efficiency.off_rebound.nev": 0.31,
+    "nevada_vs_wyoming_offensive_efficiency.off_rebound.wyo": 0.325,
+    "nevada_vs_wyoming_offensive_efficiency.def_rebound.nev": 0.73,
+    "nevada_vs_wyoming_offensive_efficiency.def_rebound.wyo": 0.753,
+    "nevada_vs_wyoming_offensive_efficiency.block.nev": 0.07,
+    "nevada_vs_wyoming_offensive_efficiency.block.wyo": 0.047,
+    "nevada_vs_wyoming_offensive_efficiency.steals_play.nev": 0.085,
+    "nevada_vs_wyoming_offensive_efficiency.steals_play.wyo": 0.08900000000000001,
+    "nevada_vs_wyoming_offensive_efficiency.turnovers_play.nev": 0.126,
+    "nevada_vs_wyoming_offensive_efficiency.turnovers_play.wyo": 0.141,
+    "nevada_vs_wyoming_offensive_efficiency.personal_fouls_play.nev": 0.231,
+    "nevada_vs_wyoming_offensive_efficiency.personal_fouls_play.wyo": 0.278,
+    "nevada_vs_wyoming_offensive_efficiency.assists_fgm.nev": 0.579,
+    "nevada_vs_wyoming_offensive_efficiency.assists_fgm.wyo": 0.535,
+    "nevada_vs_wyoming_defensive_efficiency.possessions_gm.nev": 69.1,
+    "nevada_vs_wyoming_defensive_efficiency.possessions_gm.wyo": 69.3,
+    "nevada_vs_wyoming_defensive_efficiency.def_efficiency.nev": 1.042,
+    "nevada_vs_wyoming_defensive_efficiency.def_efficiency.wyo": 1.05,
+    "nevada_vs_wyoming_defensive_efficiency.opp_effective_fg.nev": 0.511,
+    "nevada_vs_wyoming_defensive_efficiency.opp_effective_fg.wyo": 0.522,
+    "nevada_vs_wyoming_defensive_efficiency.opp_two_point_rate.nev": 0.564,
+    "nevada_vs_wyoming_defensive_efficiency.opp_two_point_rate.wyo": 0.629,
+    "nevada_vs_wyoming_defensive_efficiency.opp_three_point_rate.nev": 0.436,
+    "nevada_vs_wyoming_defensive_efficiency.opp_three_point_rate.wyo": 0.371,
+    "nevada_vs_wyoming_defensive_efficiency.opp_fta_play.nev": 0.276,
+    "nevada_vs_wyoming_defensive_efficiency.opp_fta_play.wyo": 0.331,
+    "nevada_vs_wyoming_defensive_efficiency.opp_two_point.nev": 0.501,
+    "nevada_vs_wyoming_defensive_efficiency.opp_two_point.wyo": 0.536,
+    "nevada_vs_wyoming_defensive_efficiency.opp_three_point.nev": 0.35,
+    "nevada_vs_wyoming_defensive_efficiency.opp_three_point.wyo": 0.332,
+    "nevada_vs_wyoming_defensive_efficiency.opp_free_throw.nev": 0.7190000000000001,
+    "nevada_vs_wyoming_defensive_efficiency.opp_free_throw.wyo": 0.7070000000000001,
+    "nevada_vs_wyoming_defensive_efficiency.opp_points_2_pters.nev": 31.3,
+    "nevada_vs_wyoming_defensive_efficiency.opp_points_2_pters.wyo": 35.4,
+    "nevada_vs_wyoming_defensive_efficiency.opp_points_3_pters.nev": 25.3,
+    "nevada_vs_wyoming_defensive_efficiency.opp_points_3_pters.wyo": 19.4,
+    "nevada_vs_wyoming_defensive_efficiency.opp_off_rebound.nev": 0.27,
+    "nevada_vs_wyoming_defensive_efficiency.opp_off_rebound.wyo": 0.247,
+    "nevada_vs_wyoming_defensive_efficiency.opp_def_rebound.nev": 0.69,
+    "nevada_vs_wyoming_defensive_efficiency.opp_def_rebound.wyo": 0.675,
+    "nevada_vs_wyoming_defensive_efficiency.opp_block.nev": 0.069,
+    "nevada_vs_wyoming_defensive_efficiency.opp_block.wyo": 0.057999999999999996,
+    "nevada_vs_wyoming_defensive_efficiency.opp_steals_play.nev": 0.07200000000000001,
+    "nevada_vs_wyoming_defensive_efficiency.opp_steals_play.wyo": 0.07200000000000001,
+    "nevada_vs_wyoming_defensive_efficiency.opp_turnovers_play.nev": 0.152,
+    "nevada_vs_wyoming_defensive_efficiency.opp_turnovers_play.wyo": 0.152,
+    "nevada_vs_wyoming_defensive_efficiency.opp_personal_fouls_play.nev": 0.261,
+    "nevada_vs_wyoming_defensive_efficiency.opp_personal_fouls_play.wyo": 0.23199999999999998,
+    "nevada_vs_wyoming_defensive_efficiency.opp_assists_fgm.nev": 0.569,
+    "nevada_vs_wyoming_defensive_efficiency.opp_assists_fgm.wyo": 0.465
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "wolf-pack-cowboys-2026-03-03",
+  "matchup_title": "#83 Nevada at #107 Wyoming",
+  "teams": {
+    "away": "#83 Nevada",
+    "home": "#107 Wyoming",
+    "neutral_site": false
+  },
+  "time_local": "10:00 PM",
+  "location": "Arena-Auditorium",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/wolf-pack-cowboys-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/wolf-pack-cowboys-2026-03-03/efficiency"
+  }
+}

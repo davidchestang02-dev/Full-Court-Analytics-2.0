@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/jayhawks-sun-devils-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:31.306100+00:00",
+  "tables": {
+    "Matchup Menu: KU @ ASU": {
+      "headers": [
+        "Stat",
+        "KU",
+        "adv",
+        "ASU"
+      ],
+      "team_headers": [
+        "KU",
+        "ASU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "KU": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "KU": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "KU": {
+            "raw": "26.7%",
+            "value": 0.267
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "27.3%",
+            "value": 0.273
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "KU": {
+            "raw": "0.325",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "0.392",
+            "value": 0.392
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "KU": {
+            "raw": "76.1",
+            "value": 76.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "77.9",
+            "value": 77.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "KU": {
+            "raw": "+7.4",
+            "value": 7.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "-0.3",
+            "value": -0.3
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "KU",
+        "adv",
+        "ASU"
+      ],
+      "team_headers": [
+        "KU",
+        "ASU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "KU": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "KU": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "KU": {
+            "raw": "26.7%",
+            "value": 0.267
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "27.3%",
+            "value": 0.273
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "KU": {
+            "raw": "0.325",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "0.392",
+            "value": 0.392
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "KU": {
+            "raw": "76.1",
+            "value": 76.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "77.9",
+            "value": 77.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "KU": {
+            "raw": "+7.4",
+            "value": 7.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "-0.3",
+            "value": -0.3
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "KU",
+        "adv",
+        "ASU"
+      ],
+      "team_headers": [
+        "KU",
+        "ASU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "KU": {
+            "raw": "0.979",
+            "value": 0.979
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "1.078",
+            "value": 1.078
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "KU": {
+            "raw": "45.0%",
+            "value": 0.45
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "KU": {
+            "raw": "72.4%",
+            "value": 0.7240000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "68.8%",
+            "value": 0.688
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "KU": {
+            "raw": "0.266",
+            "value": 0.266
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "0.351",
+            "value": 0.351
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "KU": {
+            "raw": "68.7",
+            "value": 68.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "78.2",
+            "value": 78.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "KU": {
+            "raw": "9.4%",
+            "value": 0.094
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "7.9%",
+            "value": 0.079
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "20.9%",
+            "value": 0.209
+          }
+        }
+      ]
+    },
+    "Kansas vs Arizona St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "KU",
+        "adv",
+        "ASU"
+      ],
+      "team_headers": [
+        "KU",
+        "ASU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "KU": {
+            "raw": "70.2",
+            "value": 70.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "72.6",
+            "value": 72.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "KU": {
+            "raw": "1.084",
+            "value": 1.084
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "KU": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "KU": {
+            "raw": "64.4%",
+            "value": 0.644
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "62.3%",
+            "value": 0.623
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "KU": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "37.7%",
+            "value": 0.377
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "KU": {
+            "raw": "52.4%",
+            "value": 0.524
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "KU": {
+            "raw": "35.5%",
+            "value": 0.355
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "KU": {
+            "raw": "77.4%",
+            "value": 0.774
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "75.1%",
+            "value": 0.7509999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "KU": {
+            "raw": "39.3",
+            "value": 39.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "37.7",
+            "value": 37.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "KU": {
+            "raw": "22.1",
+            "value": 22.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "22.9",
+            "value": 22.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "KU": {
+            "raw": "26.7%",
+            "value": 0.267
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "27.3%",
+            "value": 0.273
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "KU": {
+            "raw": "72.4%",
+            "value": 0.7240000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "68.8%",
+            "value": 0.688
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "KU": {
+            "raw": "9.4%",
+            "value": 0.094
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "7.9%",
+            "value": 0.079
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "8.6%",
+            "value": 0.086
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "13.8%",
+            "value": 0.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "20.9%",
+            "value": 0.209
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "KU": {
+            "raw": "0.533",
+            "value": 0.533
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "0.534",
+            "value": 0.534
+          }
+        }
+      ]
+    },
+    "Kansas vs Arizona St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "KU",
+        "adv",
+        "ASU"
+      ],
+      "team_headers": [
+        "KU",
+        "ASU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "KU": {
+            "raw": "70.2",
+            "value": 70.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "72.6",
+            "value": 72.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "KU": {
+            "raw": "0.979",
+            "value": 0.979
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "1.078",
+            "value": 1.078
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "KU": {
+            "raw": "45.0%",
+            "value": 0.45
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "KU": {
+            "raw": "57.3%",
+            "value": 0.573
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "60.0%",
+            "value": 0.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "KU": {
+            "raw": "42.7%",
+            "value": 0.42700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "40.0%",
+            "value": 0.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "21.0%",
+            "value": 0.21
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "25.2%",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "KU": {
+            "raw": "45.4%",
+            "value": 0.45399999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "KU": {
+            "raw": "29.7%",
+            "value": 0.297
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "KU": {
+            "raw": "67.6%",
+            "value": 0.6759999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ASU": {
+            "raw": "74.7%",
+            "value": 0.747
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "KU": {
+            "raw": "33.1",
+            "value": 33.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "37.5",
+            "value": 37.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "KU": {
+            "raw": "24.2",
+            "value": 24.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "25.2",
+            "value": 25.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "KU": {
+            "raw": "27.6%",
+            "value": 0.276
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "31.2%",
+            "value": 0.312
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "KU": {
+            "raw": "73.3%",
+            "value": 0.733
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "72.7%",
+            "value": 0.727
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "KU": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "8.5%",
+            "value": 0.085
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ASU": {
+            "raw": "8.4%",
+            "value": 0.084
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ASU": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "KU": {
+            "raw": "20.0%",
+            "value": 0.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ASU": {
+            "raw": "24.9%",
+            "value": 0.249
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "KU": {
+            "raw": "0.485",
+            "value": 0.485
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ASU": {
+            "raw": "0.553",
+            "value": 0.553
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_ku_asu.off_efficiency.ku": 1.084,
+    "matchup_menu_ku_asu.off_efficiency.asu": 1.073,
+    "matchup_menu_ku_asu.effective_fg.ku": 0.527,
+    "matchup_menu_ku_asu.effective_fg.asu": 0.515,
+    "matchup_menu_ku_asu.turnovers_play.ku": 0.134,
+    "matchup_menu_ku_asu.turnovers_play.asu": 0.138,
+    "matchup_menu_ku_asu.off_rebound.ku": 0.267,
+    "matchup_menu_ku_asu.off_rebound.asu": 0.273,
+    "matchup_menu_ku_asu.fta_fga.ku": 0.325,
+    "matchup_menu_ku_asu.fta_fga.asu": 0.392,
+    "matchup_menu_ku_asu.points_game.ku": 76.1,
+    "matchup_menu_ku_asu.points_game.asu": 77.9,
+    "matchup_menu_ku_asu.avg_score_margin.ku": 7.4,
+    "matchup_menu_ku_asu.avg_score_margin.asu": -0.3,
+    "key_offensive_stats.off_efficiency.ku": 1.084,
+    "key_offensive_stats.off_efficiency.asu": 1.073,
+    "key_offensive_stats.effective_fg.ku": 0.527,
+    "key_offensive_stats.effective_fg.asu": 0.515,
+    "key_offensive_stats.turnovers_play.ku": 0.134,
+    "key_offensive_stats.turnovers_play.asu": 0.138,
+    "key_offensive_stats.off_rebound.ku": 0.267,
+    "key_offensive_stats.off_rebound.asu": 0.273,
+    "key_offensive_stats.fta_fga.ku": 0.325,
+    "key_offensive_stats.fta_fga.asu": 0.392,
+    "key_offensive_stats.points_game.ku": 76.1,
+    "key_offensive_stats.points_game.asu": 77.9,
+    "key_offensive_stats.avg_score_margin.ku": 7.4,
+    "key_offensive_stats.avg_score_margin.asu": -0.3,
+    "key_defensive_stats.def_efficiency.ku": 0.979,
+    "key_defensive_stats.def_efficiency.asu": 1.078,
+    "key_defensive_stats.opp_effective_fg.ku": 0.45,
+    "key_defensive_stats.opp_effective_fg.asu": 0.531,
+    "key_defensive_stats.opp_turnovers_play.ku": 0.11699999999999999,
+    "key_defensive_stats.opp_turnovers_play.asu": 0.162,
+    "key_defensive_stats.def_rebound.ku": 0.7240000000000001,
+    "key_defensive_stats.def_rebound.asu": 0.688,
+    "key_defensive_stats.opp_fta_fga.ku": 0.266,
+    "key_defensive_stats.opp_fta_fga.asu": 0.351,
+    "key_defensive_stats.opp_points_game.ku": 68.7,
+    "key_defensive_stats.opp_points_game.asu": 78.2,
+    "key_defensive_stats.block.ku": 0.094,
+    "key_defensive_stats.block.asu": 0.079,
+    "key_defensive_stats.personal_fouls_play.ku": 0.17800000000000002,
+    "key_defensive_stats.personal_fouls_play.asu": 0.209,
+    "kansas_vs_arizona_st_offensive_efficiency.possessions_gm.ku": 70.2,
+    "kansas_vs_arizona_st_offensive_efficiency.possessions_gm.asu": 72.6,
+    "kansas_vs_arizona_st_offensive_efficiency.off_efficiency.ku": 1.084,
+    "kansas_vs_arizona_st_offensive_efficiency.off_efficiency.asu": 1.073,
+    "kansas_vs_arizona_st_offensive_efficiency.effective_fg.ku": 0.527,
+    "kansas_vs_arizona_st_offensive_efficiency.effective_fg.asu": 0.515,
+    "kansas_vs_arizona_st_offensive_efficiency.two_point_rate.ku": 0.644,
+    "kansas_vs_arizona_st_offensive_efficiency.two_point_rate.asu": 0.623,
+    "kansas_vs_arizona_st_offensive_efficiency.three_point_rate.ku": 0.35600000000000004,
+    "kansas_vs_arizona_st_offensive_efficiency.three_point_rate.asu": 0.377,
+    "kansas_vs_arizona_st_offensive_efficiency.fta_play.ku": 0.24100000000000002,
+    "kansas_vs_arizona_st_offensive_efficiency.fta_play.asu": 0.285,
+    "kansas_vs_arizona_st_offensive_efficiency.two_point.ku": 0.524,
+    "kansas_vs_arizona_st_offensive_efficiency.two_point.asu": 0.515,
+    "kansas_vs_arizona_st_offensive_efficiency.three_point.ku": 0.355,
+    "kansas_vs_arizona_st_offensive_efficiency.three_point.asu": 0.34299999999999997,
+    "kansas_vs_arizona_st_offensive_efficiency.free_throw.ku": 0.774,
+    "kansas_vs_arizona_st_offensive_efficiency.free_throw.asu": 0.7509999999999999,
+    "kansas_vs_arizona_st_offensive_efficiency.points_2_pters.ku": 39.3,
+    "kansas_vs_arizona_st_offensive_efficiency.points_2_pters.asu": 37.7,
+    "kansas_vs_arizona_st_offensive_efficiency.points_3_pters.ku": 22.1,
+    "kansas_vs_arizona_st_offensive_efficiency.points_3_pters.asu": 22.9,
+    "kansas_vs_arizona_st_offensive_efficiency.off_rebound.ku": 0.267,
+    "kansas_vs_arizona_st_offensive_efficiency.off_rebound.asu": 0.273,
+    "kansas_vs_arizona_st_offensive_efficiency.def_rebound.ku": 0.7240000000000001,
+    "kansas_vs_arizona_st_offensive_efficiency.def_rebound.asu": 0.688,
+    "kansas_vs_arizona_st_offensive_efficiency.block.ku": 0.094,
+    "kansas_vs_arizona_st_offensive_efficiency.block.asu": 0.079,
+    "kansas_vs_arizona_st_offensive_efficiency.steals_play.ku": 0.066,
+    "kansas_vs_arizona_st_offensive_efficiency.steals_play.asu": 0.086,
+    "kansas_vs_arizona_st_offensive_efficiency.turnovers_play.ku": 0.134,
+    "kansas_vs_arizona_st_offensive_efficiency.turnovers_play.asu": 0.138,
+    "kansas_vs_arizona_st_offensive_efficiency.personal_fouls_play.ku": 0.17800000000000002,
+    "kansas_vs_arizona_st_offensive_efficiency.personal_fouls_play.asu": 0.209,
+    "kansas_vs_arizona_st_offensive_efficiency.assists_fgm.ku": 0.533,
+    "kansas_vs_arizona_st_offensive_efficiency.assists_fgm.asu": 0.534,
+    "kansas_vs_arizona_st_defensive_efficiency.possessions_gm.ku": 70.2,
+    "kansas_vs_arizona_st_defensive_efficiency.possessions_gm.asu": 72.6,
+    "kansas_vs_arizona_st_defensive_efficiency.def_efficiency.ku": 0.979,
+    "kansas_vs_arizona_st_defensive_efficiency.def_efficiency.asu": 1.078,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_effective_fg.ku": 0.45,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_effective_fg.asu": 0.531,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_two_point_rate.ku": 0.573,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_two_point_rate.asu": 0.6,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_three_point_rate.ku": 0.42700000000000005,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_three_point_rate.asu": 0.4,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_fta_play.ku": 0.21,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_fta_play.asu": 0.252,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_two_point.ku": 0.45399999999999996,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_two_point.asu": 0.529,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_three_point.ku": 0.297,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_three_point.asu": 0.35600000000000004,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_free_throw.ku": 0.6759999999999999,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_free_throw.asu": 0.747,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_points_2_pters.ku": 33.1,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_points_2_pters.asu": 37.5,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_points_3_pters.ku": 24.2,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_points_3_pters.asu": 25.2,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_off_rebound.ku": 0.276,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_off_rebound.asu": 0.312,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_def_rebound.ku": 0.733,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_def_rebound.asu": 0.727,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_block.ku": 0.052000000000000005,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_block.asu": 0.062,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_steals_play.ku": 0.085,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_steals_play.asu": 0.084,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_turnovers_play.ku": 0.11699999999999999,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_turnovers_play.asu": 0.162,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_personal_fouls_play.ku": 0.2,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_personal_fouls_play.asu": 0.249,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_assists_fgm.ku": 0.485,
+    "kansas_vs_arizona_st_defensive_efficiency.opp_assists_fgm.asu": 0.553
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "jayhawks-sun-devils-2026-03-03",
+  "matchup_title": "#19 Kansas at #72 Arizona St",
+  "teams": {
+    "away": "#19 Kansas",
+    "home": "#72 Arizona St",
+    "neutral_site": false
+  },
+  "time_local": "9:00 PM",
+  "location": "Desert Financial Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/jayhawks-sun-devils-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/jayhawks-sun-devils-2026-03-03/efficiency"
+  }
+}

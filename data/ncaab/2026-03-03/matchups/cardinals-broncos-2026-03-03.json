@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/cardinals-broncos-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:54.492207+00:00",
+  "tables": {
+    "Matchup Menu: BALL @ WMU": {
+      "headers": [
+        "Stat",
+        "BALL",
+        "adv",
+        "WMU"
+      ],
+      "team_headers": [
+        "BALL",
+        "WMU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.964",
+            "value": 0.964
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "46.2%",
+            "value": 0.462
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "14.7%",
+            "value": 0.147
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "27.8%",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.316",
+            "value": 0.316
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "0.322",
+            "value": 0.322
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "BALL": {
+            "raw": "65.1",
+            "value": 65.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "73.9",
+            "value": 73.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "BALL": {
+            "raw": "-6.4",
+            "value": -6.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "-6.2",
+            "value": -6.2
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "BALL",
+        "adv",
+        "WMU"
+      ],
+      "team_headers": [
+        "BALL",
+        "WMU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.964",
+            "value": 0.964
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "46.2%",
+            "value": 0.462
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "14.7%",
+            "value": 0.147
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "27.8%",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.316",
+            "value": 0.316
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "0.322",
+            "value": 0.322
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "BALL": {
+            "raw": "65.1",
+            "value": 65.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "73.9",
+            "value": 73.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "BALL": {
+            "raw": "-6.4",
+            "value": -6.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "-6.2",
+            "value": -6.2
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "BALL",
+        "adv",
+        "WMU"
+      ],
+      "team_headers": [
+        "BALL",
+        "WMU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "BALL": {
+            "raw": "1.059",
+            "value": 1.059
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "1.125",
+            "value": 1.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "16.3%",
+            "value": 0.163
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "WMU": {
+            "raw": "11.5%",
+            "value": 0.115
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "70.1%",
+            "value": 0.701
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "73.3%",
+            "value": 0.733
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.319",
+            "value": 0.319
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "0.379",
+            "value": 0.379
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "BALL": {
+            "raw": "71.5",
+            "value": 71.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WMU": {
+            "raw": "80.1",
+            "value": 80.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "4.6%",
+            "value": 0.046
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "4.1%",
+            "value": 0.040999999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "20.9%",
+            "value": 0.209
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WMU": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        }
+      ]
+    },
+    "Ball St vs W Michigan Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "BALL",
+        "adv",
+        "WMU"
+      ],
+      "team_headers": [
+        "BALL",
+        "WMU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "BALL": {
+            "raw": "67.5",
+            "value": 67.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "71.2",
+            "value": 71.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.964",
+            "value": 0.964
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "46.2%",
+            "value": 0.462
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "BALL": {
+            "raw": "60.1%",
+            "value": 0.601
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "64.6%",
+            "value": 0.6459999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "BALL": {
+            "raw": "39.9%",
+            "value": 0.39899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "23.7%",
+            "value": 0.237
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "46.0%",
+            "value": 0.46
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "48.4%",
+            "value": 0.484
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "WMU": {
+            "raw": "35.3%",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "74.2%",
+            "value": 0.742
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "BALL": {
+            "raw": "31.3",
+            "value": 31.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "37.3",
+            "value": 37.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "BALL": {
+            "raw": "21.0",
+            "value": 21.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "22.3",
+            "value": 22.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "27.8%",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "70.1%",
+            "value": 0.701
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "73.3%",
+            "value": 0.733
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "4.6%",
+            "value": 0.046
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "4.1%",
+            "value": 0.040999999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "9.8%",
+            "value": 0.098
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "WMU": {
+            "raw": "5.3%",
+            "value": 0.053
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "14.7%",
+            "value": 0.147
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "20.9%",
+            "value": 0.209
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WMU": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.530",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "0.480",
+            "value": 0.48
+          }
+        }
+      ]
+    },
+    "Ball St vs W Michigan Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "BALL",
+        "adv",
+        "WMU"
+      ],
+      "team_headers": [
+        "BALL",
+        "WMU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "BALL": {
+            "raw": "67.5",
+            "value": 67.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "71.2",
+            "value": 71.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "BALL": {
+            "raw": "1.059",
+            "value": 1.059
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "1.125",
+            "value": 1.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "BALL": {
+            "raw": "57.8%",
+            "value": 0.578
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "55.8%",
+            "value": 0.5579999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "BALL": {
+            "raw": "42.2%",
+            "value": 0.42200000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "44.2%",
+            "value": 0.442
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "WMU": {
+            "raw": "28.1%",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "53.0%",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "35.2%",
+            "value": 0.35200000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "35.8%",
+            "value": 0.358
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "77.9%",
+            "value": 0.779
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "WMU": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "BALL": {
+            "raw": "33.6",
+            "value": 33.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "36.2",
+            "value": 36.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "BALL": {
+            "raw": "24.3",
+            "value": 24.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "28.1",
+            "value": 28.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "26.7%",
+            "value": 0.267
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "75.7%",
+            "value": 0.757
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "WMU": {
+            "raw": "72.2%",
+            "value": 0.722
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "BALL": {
+            "raw": "6.7%",
+            "value": 0.067
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "7.8%",
+            "value": 0.078
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "16.3%",
+            "value": 0.163
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "WMU": {
+            "raw": "11.5%",
+            "value": 0.115
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "BALL": {
+            "raw": "20.5%",
+            "value": 0.205
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "21.3%",
+            "value": 0.213
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "BALL": {
+            "raw": "0.546",
+            "value": 0.546
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "WMU": {
+            "raw": "0.543",
+            "value": 0.543
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_ball_wmu.off_efficiency.ball": 0.964,
+    "matchup_menu_ball_wmu.off_efficiency.wmu": 1.038,
+    "matchup_menu_ball_wmu.effective_fg.ball": 0.462,
+    "matchup_menu_ball_wmu.effective_fg.wmu": 0.5,
+    "matchup_menu_ball_wmu.turnovers_play.ball": 0.14300000000000002,
+    "matchup_menu_ball_wmu.turnovers_play.wmu": 0.147,
+    "matchup_menu_ball_wmu.off_rebound.ball": 0.243,
+    "matchup_menu_ball_wmu.off_rebound.wmu": 0.278,
+    "matchup_menu_ball_wmu.fta_fga.ball": 0.316,
+    "matchup_menu_ball_wmu.fta_fga.wmu": 0.322,
+    "matchup_menu_ball_wmu.points_game.ball": 65.1,
+    "matchup_menu_ball_wmu.points_game.wmu": 73.9,
+    "matchup_menu_ball_wmu.avg_score_margin.ball": -6.4,
+    "matchup_menu_ball_wmu.avg_score_margin.wmu": -6.2,
+    "key_offensive_stats.off_efficiency.ball": 0.964,
+    "key_offensive_stats.off_efficiency.wmu": 1.038,
+    "key_offensive_stats.effective_fg.ball": 0.462,
+    "key_offensive_stats.effective_fg.wmu": 0.5,
+    "key_offensive_stats.turnovers_play.ball": 0.14300000000000002,
+    "key_offensive_stats.turnovers_play.wmu": 0.147,
+    "key_offensive_stats.off_rebound.ball": 0.243,
+    "key_offensive_stats.off_rebound.wmu": 0.278,
+    "key_offensive_stats.fta_fga.ball": 0.316,
+    "key_offensive_stats.fta_fga.wmu": 0.322,
+    "key_offensive_stats.points_game.ball": 65.1,
+    "key_offensive_stats.points_game.wmu": 73.9,
+    "key_offensive_stats.avg_score_margin.ball": -6.4,
+    "key_offensive_stats.avg_score_margin.wmu": -6.2,
+    "key_defensive_stats.def_efficiency.ball": 1.059,
+    "key_defensive_stats.def_efficiency.wmu": 1.125,
+    "key_defensive_stats.opp_effective_fg.ball": 0.529,
+    "key_defensive_stats.opp_effective_fg.wmu": 0.5429999999999999,
+    "key_defensive_stats.opp_turnovers_play.ball": 0.163,
+    "key_defensive_stats.opp_turnovers_play.wmu": 0.115,
+    "key_defensive_stats.def_rebound.ball": 0.701,
+    "key_defensive_stats.def_rebound.wmu": 0.733,
+    "key_defensive_stats.opp_fta_fga.ball": 0.319,
+    "key_defensive_stats.opp_fta_fga.wmu": 0.379,
+    "key_defensive_stats.opp_points_game.ball": 71.5,
+    "key_defensive_stats.opp_points_game.wmu": 80.1,
+    "key_defensive_stats.block.ball": 0.046,
+    "key_defensive_stats.block.wmu": 0.040999999999999995,
+    "key_defensive_stats.personal_fouls_play.ball": 0.209,
+    "key_defensive_stats.personal_fouls_play.wmu": 0.23800000000000002,
+    "ball_st_vs_w_michigan_offensive_efficiency.possessions_gm.ball": 67.5,
+    "ball_st_vs_w_michigan_offensive_efficiency.possessions_gm.wmu": 71.2,
+    "ball_st_vs_w_michigan_offensive_efficiency.off_efficiency.ball": 0.964,
+    "ball_st_vs_w_michigan_offensive_efficiency.off_efficiency.wmu": 1.038,
+    "ball_st_vs_w_michigan_offensive_efficiency.effective_fg.ball": 0.462,
+    "ball_st_vs_w_michigan_offensive_efficiency.effective_fg.wmu": 0.5,
+    "ball_st_vs_w_michigan_offensive_efficiency.two_point_rate.ball": 0.601,
+    "ball_st_vs_w_michigan_offensive_efficiency.two_point_rate.wmu": 0.6459999999999999,
+    "ball_st_vs_w_michigan_offensive_efficiency.three_point_rate.ball": 0.39899999999999997,
+    "ball_st_vs_w_michigan_offensive_efficiency.three_point_rate.wmu": 0.354,
+    "ball_st_vs_w_michigan_offensive_efficiency.fta_play.ball": 0.237,
+    "ball_st_vs_w_michigan_offensive_efficiency.fta_play.wmu": 0.24100000000000002,
+    "ball_st_vs_w_michigan_offensive_efficiency.two_point.ball": 0.46,
+    "ball_st_vs_w_michigan_offensive_efficiency.two_point.wmu": 0.484,
+    "ball_st_vs_w_michigan_offensive_efficiency.three_point.ball": 0.31,
+    "ball_st_vs_w_michigan_offensive_efficiency.three_point.wmu": 0.353,
+    "ball_st_vs_w_michigan_offensive_efficiency.free_throw.ball": 0.718,
+    "ball_st_vs_w_michigan_offensive_efficiency.free_throw.wmu": 0.742,
+    "ball_st_vs_w_michigan_offensive_efficiency.points_2_pters.ball": 31.3,
+    "ball_st_vs_w_michigan_offensive_efficiency.points_2_pters.wmu": 37.3,
+    "ball_st_vs_w_michigan_offensive_efficiency.points_3_pters.ball": 21.0,
+    "ball_st_vs_w_michigan_offensive_efficiency.points_3_pters.wmu": 22.3,
+    "ball_st_vs_w_michigan_offensive_efficiency.off_rebound.ball": 0.243,
+    "ball_st_vs_w_michigan_offensive_efficiency.off_rebound.wmu": 0.278,
+    "ball_st_vs_w_michigan_offensive_efficiency.def_rebound.ball": 0.701,
+    "ball_st_vs_w_michigan_offensive_efficiency.def_rebound.wmu": 0.733,
+    "ball_st_vs_w_michigan_offensive_efficiency.block.ball": 0.046,
+    "ball_st_vs_w_michigan_offensive_efficiency.block.wmu": 0.040999999999999995,
+    "ball_st_vs_w_michigan_offensive_efficiency.steals_play.ball": 0.098,
+    "ball_st_vs_w_michigan_offensive_efficiency.steals_play.wmu": 0.053,
+    "ball_st_vs_w_michigan_offensive_efficiency.turnovers_play.ball": 0.14300000000000002,
+    "ball_st_vs_w_michigan_offensive_efficiency.turnovers_play.wmu": 0.147,
+    "ball_st_vs_w_michigan_offensive_efficiency.personal_fouls_play.ball": 0.209,
+    "ball_st_vs_w_michigan_offensive_efficiency.personal_fouls_play.wmu": 0.23800000000000002,
+    "ball_st_vs_w_michigan_offensive_efficiency.assists_fgm.ball": 0.53,
+    "ball_st_vs_w_michigan_offensive_efficiency.assists_fgm.wmu": 0.48,
+    "ball_st_vs_w_michigan_defensive_efficiency.possessions_gm.ball": 67.5,
+    "ball_st_vs_w_michigan_defensive_efficiency.possessions_gm.wmu": 71.2,
+    "ball_st_vs_w_michigan_defensive_efficiency.def_efficiency.ball": 1.059,
+    "ball_st_vs_w_michigan_defensive_efficiency.def_efficiency.wmu": 1.125,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_effective_fg.ball": 0.529,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_effective_fg.wmu": 0.5429999999999999,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_two_point_rate.ball": 0.578,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_two_point_rate.wmu": 0.5579999999999999,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_three_point_rate.ball": 0.42200000000000004,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_three_point_rate.wmu": 0.442,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_fta_play.ball": 0.23,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_fta_play.wmu": 0.281,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_two_point.ball": 0.53,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_two_point.wmu": 0.5479999999999999,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_three_point.ball": 0.35200000000000004,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_three_point.wmu": 0.358,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_free_throw.ball": 0.779,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_free_throw.wmu": 0.7020000000000001,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_points_2_pters.ball": 33.6,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_points_2_pters.wmu": 36.2,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_points_3_pters.ball": 24.3,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_points_3_pters.wmu": 28.1,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_off_rebound.ball": 0.299,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_off_rebound.wmu": 0.267,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_def_rebound.ball": 0.757,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_def_rebound.wmu": 0.722,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_block.ball": 0.067,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_block.wmu": 0.078,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_steals_play.ball": 0.07400000000000001,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_steals_play.wmu": 0.08,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_turnovers_play.ball": 0.163,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_turnovers_play.wmu": 0.115,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_personal_fouls_play.ball": 0.205,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_personal_fouls_play.wmu": 0.213,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_assists_fgm.ball": 0.546,
+    "ball_st_vs_w_michigan_defensive_efficiency.opp_assists_fgm.wmu": 0.543
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "cardinals-broncos-2026-03-03",
+  "matchup_title": "#298 Ball St at #282 W Michigan",
+  "teams": {
+    "away": "#298 Ball St",
+    "home": "#282 W Michigan",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "University Arena in Read Fieldhouse",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/cardinals-broncos-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/cardinals-broncos-2026-03-03/efficiency"
+  }
+}

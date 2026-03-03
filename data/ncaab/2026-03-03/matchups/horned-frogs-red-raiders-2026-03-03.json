@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/horned-frogs-red-raiders-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:28.424974+00:00",
+  "tables": {
+    "Matchup Menu: TCU @ TTU": {
+      "headers": [
+        "Stat",
+        "TCU",
+        "adv",
+        "TTU"
+      ],
+      "team_headers": [
+        "TCU",
+        "TTU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TCU": {
+            "raw": "1.078",
+            "value": 1.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "1.168",
+            "value": 1.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "31.9%",
+            "value": 0.319
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "33.0%",
+            "value": 0.33
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TCU": {
+            "raw": "0.396",
+            "value": 0.396
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "0.282",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TCU": {
+            "raw": "78.3",
+            "value": 78.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "82.0",
+            "value": 82.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TCU": {
+            "raw": "+6.4",
+            "value": 6.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "+9.8",
+            "value": 9.8
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "TCU",
+        "adv",
+        "TTU"
+      ],
+      "team_headers": [
+        "TCU",
+        "TTU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TCU": {
+            "raw": "1.078",
+            "value": 1.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "1.168",
+            "value": 1.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "31.9%",
+            "value": 0.319
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "33.0%",
+            "value": 0.33
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TCU": {
+            "raw": "0.396",
+            "value": 0.396
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "0.282",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TCU": {
+            "raw": "78.3",
+            "value": 78.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "82.0",
+            "value": 82.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TCU": {
+            "raw": "+6.4",
+            "value": 6.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "+9.8",
+            "value": 9.8
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "TCU",
+        "adv",
+        "TTU"
+      ],
+      "team_headers": [
+        "TCU",
+        "TTU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TCU": {
+            "raw": "0.990",
+            "value": 0.99
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "1.029",
+            "value": 1.029
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "51.0%",
+            "value": 0.51
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "TTU": {
+            "raw": "12.9%",
+            "value": 0.129
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "73.3%",
+            "value": 0.733
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "72.7%",
+            "value": 0.727
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "TCU": {
+            "raw": "0.305",
+            "value": 0.305
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "0.322",
+            "value": 0.322
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "TCU": {
+            "raw": "71.9",
+            "value": 71.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "72.2",
+            "value": 72.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "6.4%",
+            "value": 0.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "20.4%",
+            "value": 0.204
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "20.7%",
+            "value": 0.207
+          }
+        }
+      ]
+    },
+    "TCU vs Texas Tech Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TCU",
+        "adv",
+        "TTU"
+      ],
+      "team_headers": [
+        "TCU",
+        "TTU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TCU": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "70.2",
+            "value": 70.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TCU": {
+            "raw": "1.078",
+            "value": 1.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "1.168",
+            "value": 1.168
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "TCU": {
+            "raw": "63.0%",
+            "value": 0.63
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "TCU": {
+            "raw": "37.0%",
+            "value": 0.37
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "47.1%",
+            "value": 0.47100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "28.9%",
+            "value": 0.289
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "TTU": {
+            "raw": "21.5%",
+            "value": 0.215
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "51.6%",
+            "value": 0.516
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "54.0%",
+            "value": 0.54
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "33.1%",
+            "value": 0.331
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "39.5%",
+            "value": 0.395
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "71.6%",
+            "value": 0.716
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "TCU": {
+            "raw": "39.2",
+            "value": 39.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "35.2",
+            "value": 35.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "TCU": {
+            "raw": "22.1",
+            "value": 22.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "34.4",
+            "value": 34.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "31.9%",
+            "value": 0.319
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "33.0%",
+            "value": 0.33
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "73.3%",
+            "value": 0.733
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "72.7%",
+            "value": 0.727
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "6.4%",
+            "value": 0.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "9.8%",
+            "value": 0.098
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "20.4%",
+            "value": 0.204
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "20.7%",
+            "value": 0.207
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "TCU": {
+            "raw": "0.585",
+            "value": 0.585
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "0.546",
+            "value": 0.546
+          }
+        }
+      ]
+    },
+    "TCU vs Texas Tech Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TCU",
+        "adv",
+        "TTU"
+      ],
+      "team_headers": [
+        "TCU",
+        "TTU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TCU": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "70.2",
+            "value": 70.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TCU": {
+            "raw": "0.990",
+            "value": 0.99
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "1.029",
+            "value": 1.029
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "51.0%",
+            "value": 0.51
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "TCU": {
+            "raw": "62.5%",
+            "value": 0.625
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "64.9%",
+            "value": 0.649
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "TCU": {
+            "raw": "37.5%",
+            "value": 0.375
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "35.1%",
+            "value": 0.35100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "22.0%",
+            "value": 0.22
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "51.0%",
+            "value": 0.51
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TTU": {
+            "raw": "31.5%",
+            "value": 0.315
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "70.5%",
+            "value": 0.705
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "69.6%",
+            "value": 0.696
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "TCU": {
+            "raw": "37.1",
+            "value": 37.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "38.9",
+            "value": 38.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "TCU": {
+            "raw": "22.2",
+            "value": 22.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "19.9",
+            "value": 19.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "26.7%",
+            "value": 0.267
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "27.3%",
+            "value": 0.273
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "68.1%",
+            "value": 0.6809999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "67.0%",
+            "value": 0.67
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "TCU": {
+            "raw": "6.2%",
+            "value": 0.062
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "4.0%",
+            "value": 0.04
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TTU": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "TTU": {
+            "raw": "12.9%",
+            "value": 0.129
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "TCU": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TTU": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "TCU": {
+            "raw": "0.620",
+            "value": 0.62
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "TTU": {
+            "raw": "0.419",
+            "value": 0.419
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_tcu_ttu.off_efficiency.tcu": 1.078,
+    "matchup_menu_tcu_ttu.off_efficiency.ttu": 1.168,
+    "matchup_menu_tcu_ttu.effective_fg.tcu": 0.509,
+    "matchup_menu_tcu_ttu.effective_fg.ttu": 0.565,
+    "matchup_menu_tcu_ttu.turnovers_play.tcu": 0.134,
+    "matchup_menu_tcu_ttu.turnovers_play.ttu": 0.133,
+    "matchup_menu_tcu_ttu.off_rebound.tcu": 0.319,
+    "matchup_menu_tcu_ttu.off_rebound.ttu": 0.33,
+    "matchup_menu_tcu_ttu.fta_fga.tcu": 0.396,
+    "matchup_menu_tcu_ttu.fta_fga.ttu": 0.282,
+    "matchup_menu_tcu_ttu.points_game.tcu": 78.3,
+    "matchup_menu_tcu_ttu.points_game.ttu": 82.0,
+    "matchup_menu_tcu_ttu.avg_score_margin.tcu": 6.4,
+    "matchup_menu_tcu_ttu.avg_score_margin.ttu": 9.8,
+    "key_offensive_stats.off_efficiency.tcu": 1.078,
+    "key_offensive_stats.off_efficiency.ttu": 1.168,
+    "key_offensive_stats.effective_fg.tcu": 0.509,
+    "key_offensive_stats.effective_fg.ttu": 0.565,
+    "key_offensive_stats.turnovers_play.tcu": 0.134,
+    "key_offensive_stats.turnovers_play.ttu": 0.133,
+    "key_offensive_stats.off_rebound.tcu": 0.319,
+    "key_offensive_stats.off_rebound.ttu": 0.33,
+    "key_offensive_stats.fta_fga.tcu": 0.396,
+    "key_offensive_stats.fta_fga.ttu": 0.282,
+    "key_offensive_stats.points_game.tcu": 78.3,
+    "key_offensive_stats.points_game.ttu": 82.0,
+    "key_offensive_stats.avg_score_margin.tcu": 6.4,
+    "key_offensive_stats.avg_score_margin.ttu": 9.8,
+    "key_defensive_stats.def_efficiency.tcu": 0.99,
+    "key_defensive_stats.def_efficiency.ttu": 1.029,
+    "key_defensive_stats.opp_effective_fg.tcu": 0.51,
+    "key_defensive_stats.opp_effective_fg.ttu": 0.49,
+    "key_defensive_stats.opp_turnovers_play.tcu": 0.17300000000000001,
+    "key_defensive_stats.opp_turnovers_play.ttu": 0.129,
+    "key_defensive_stats.def_rebound.tcu": 0.733,
+    "key_defensive_stats.def_rebound.ttu": 0.727,
+    "key_defensive_stats.opp_fta_fga.tcu": 0.305,
+    "key_defensive_stats.opp_fta_fga.ttu": 0.322,
+    "key_defensive_stats.opp_points_game.tcu": 71.9,
+    "key_defensive_stats.opp_points_game.ttu": 72.2,
+    "key_defensive_stats.block.tcu": 0.081,
+    "key_defensive_stats.block.ttu": 0.064,
+    "key_defensive_stats.personal_fouls_play.tcu": 0.204,
+    "key_defensive_stats.personal_fouls_play.ttu": 0.207,
+    "tcu_vs_texas_tech_offensive_efficiency.possessions_gm.tcu": 72.6,
+    "tcu_vs_texas_tech_offensive_efficiency.possessions_gm.ttu": 70.2,
+    "tcu_vs_texas_tech_offensive_efficiency.off_efficiency.tcu": 1.078,
+    "tcu_vs_texas_tech_offensive_efficiency.off_efficiency.ttu": 1.168,
+    "tcu_vs_texas_tech_offensive_efficiency.effective_fg.tcu": 0.509,
+    "tcu_vs_texas_tech_offensive_efficiency.effective_fg.ttu": 0.565,
+    "tcu_vs_texas_tech_offensive_efficiency.two_point_rate.tcu": 0.63,
+    "tcu_vs_texas_tech_offensive_efficiency.two_point_rate.ttu": 0.529,
+    "tcu_vs_texas_tech_offensive_efficiency.three_point_rate.tcu": 0.37,
+    "tcu_vs_texas_tech_offensive_efficiency.three_point_rate.ttu": 0.47100000000000003,
+    "tcu_vs_texas_tech_offensive_efficiency.fta_play.tcu": 0.289,
+    "tcu_vs_texas_tech_offensive_efficiency.fta_play.ttu": 0.215,
+    "tcu_vs_texas_tech_offensive_efficiency.two_point.tcu": 0.516,
+    "tcu_vs_texas_tech_offensive_efficiency.two_point.ttu": 0.54,
+    "tcu_vs_texas_tech_offensive_efficiency.three_point.tcu": 0.331,
+    "tcu_vs_texas_tech_offensive_efficiency.three_point.ttu": 0.395,
+    "tcu_vs_texas_tech_offensive_efficiency.free_throw.tcu": 0.7070000000000001,
+    "tcu_vs_texas_tech_offensive_efficiency.free_throw.ttu": 0.716,
+    "tcu_vs_texas_tech_offensive_efficiency.points_2_pters.tcu": 39.2,
+    "tcu_vs_texas_tech_offensive_efficiency.points_2_pters.ttu": 35.2,
+    "tcu_vs_texas_tech_offensive_efficiency.points_3_pters.tcu": 22.1,
+    "tcu_vs_texas_tech_offensive_efficiency.points_3_pters.ttu": 34.4,
+    "tcu_vs_texas_tech_offensive_efficiency.off_rebound.tcu": 0.319,
+    "tcu_vs_texas_tech_offensive_efficiency.off_rebound.ttu": 0.33,
+    "tcu_vs_texas_tech_offensive_efficiency.def_rebound.tcu": 0.733,
+    "tcu_vs_texas_tech_offensive_efficiency.def_rebound.ttu": 0.727,
+    "tcu_vs_texas_tech_offensive_efficiency.block.tcu": 0.081,
+    "tcu_vs_texas_tech_offensive_efficiency.block.ttu": 0.064,
+    "tcu_vs_texas_tech_offensive_efficiency.steals_play.tcu": 0.098,
+    "tcu_vs_texas_tech_offensive_efficiency.steals_play.ttu": 0.07400000000000001,
+    "tcu_vs_texas_tech_offensive_efficiency.turnovers_play.tcu": 0.134,
+    "tcu_vs_texas_tech_offensive_efficiency.turnovers_play.ttu": 0.133,
+    "tcu_vs_texas_tech_offensive_efficiency.personal_fouls_play.tcu": 0.204,
+    "tcu_vs_texas_tech_offensive_efficiency.personal_fouls_play.ttu": 0.207,
+    "tcu_vs_texas_tech_offensive_efficiency.assists_fgm.tcu": 0.585,
+    "tcu_vs_texas_tech_offensive_efficiency.assists_fgm.ttu": 0.546,
+    "tcu_vs_texas_tech_defensive_efficiency.possessions_gm.tcu": 72.6,
+    "tcu_vs_texas_tech_defensive_efficiency.possessions_gm.ttu": 70.2,
+    "tcu_vs_texas_tech_defensive_efficiency.def_efficiency.tcu": 0.99,
+    "tcu_vs_texas_tech_defensive_efficiency.def_efficiency.ttu": 1.029,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_effective_fg.tcu": 0.51,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_effective_fg.ttu": 0.49,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_two_point_rate.tcu": 0.625,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_two_point_rate.ttu": 0.649,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_three_point_rate.tcu": 0.375,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_three_point_rate.ttu": 0.35100000000000003,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_fta_play.tcu": 0.22,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_fta_play.ttu": 0.244,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_two_point.tcu": 0.51,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_two_point.ttu": 0.5,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_three_point.tcu": 0.34,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_three_point.ttu": 0.315,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_free_throw.tcu": 0.705,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_free_throw.ttu": 0.696,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_points_2_pters.tcu": 37.1,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_points_2_pters.ttu": 38.9,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_points_3_pters.tcu": 22.2,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_points_3_pters.ttu": 19.9,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_off_rebound.tcu": 0.267,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_off_rebound.ttu": 0.273,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_def_rebound.tcu": 0.6809999999999999,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_def_rebound.ttu": 0.67,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_block.tcu": 0.062,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_block.ttu": 0.04,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_steals_play.tcu": 0.076,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_steals_play.ttu": 0.07400000000000001,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_turnovers_play.tcu": 0.17300000000000001,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_turnovers_play.ttu": 0.129,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_personal_fouls_play.tcu": 0.23399999999999999,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_personal_fouls_play.ttu": 0.204,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_assists_fgm.tcu": 0.62,
+    "tcu_vs_texas_tech_defensive_efficiency.opp_assists_fgm.ttu": 0.419
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "horned-frogs-red-raiders-2026-03-03",
+  "matchup_title": "#46 TCU at #13 Texas Tech",
+  "teams": {
+    "away": "#46 TCU",
+    "home": "#13 Texas Tech",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "United Supermarkets Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/horned-frogs-red-raiders-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/horned-frogs-red-raiders-2026-03-03/efficiency"
+  }
+}

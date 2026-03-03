@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-sooners-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:29.901744+00:00",
+  "tables": {
+    "Matchup Menu: MIZZ @ OKLA": {
+      "headers": [
+        "Stat",
+        "MIZZ",
+        "adv",
+        "OKLA"
+      ],
+      "team_headers": [
+        "MIZZ",
+        "OKLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "1.136",
+            "value": 1.136
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "1.165",
+            "value": 1.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "55.7%",
+            "value": 0.557
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "54.7%",
+            "value": 0.547
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "OKLA": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "0.431",
+            "value": 0.431
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "0.354",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "80.3",
+            "value": 80.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "82.7",
+            "value": 82.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "+5.7",
+            "value": 5.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "+5.0",
+            "value": 5.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "MIZZ",
+        "adv",
+        "OKLA"
+      ],
+      "team_headers": [
+        "MIZZ",
+        "OKLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "1.136",
+            "value": 1.136
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "1.165",
+            "value": 1.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "55.7%",
+            "value": 0.557
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "54.7%",
+            "value": 0.547
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "OKLA": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "0.431",
+            "value": 0.431
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "0.354",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "80.3",
+            "value": 80.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "82.7",
+            "value": 82.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "+5.7",
+            "value": 5.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "+5.0",
+            "value": 5.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "MIZZ",
+        "adv",
+        "OKLA"
+      ],
+      "team_headers": [
+        "MIZZ",
+        "OKLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "1.056",
+            "value": 1.056
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "1.095",
+            "value": 1.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "12.9%",
+            "value": 0.129
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "71.0%",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "69.1%",
+            "value": 0.691
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "0.347",
+            "value": 0.347
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "0.342",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "74.7",
+            "value": 74.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "77.7",
+            "value": 77.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "6.1%",
+            "value": 0.061
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "21.8%",
+            "value": 0.218
+          }
+        }
+      ]
+    },
+    "Missouri vs Oklahoma Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MIZZ",
+        "adv",
+        "OKLA"
+      ],
+      "team_headers": [
+        "MIZZ",
+        "OKLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "70.7",
+            "value": 70.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "70.9",
+            "value": 70.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "1.136",
+            "value": 1.136
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "1.165",
+            "value": 1.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "55.7%",
+            "value": 0.557
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "54.7%",
+            "value": 0.547
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "63.7%",
+            "value": 0.637
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "55.4%",
+            "value": 0.5539999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "36.3%",
+            "value": 0.363
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "44.6%",
+            "value": 0.446
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "30.5%",
+            "value": 0.305
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "26.6%",
+            "value": 0.266
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "57.4%",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "54.4%",
+            "value": 0.544
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "35.2%",
+            "value": 0.35200000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "36.7%",
+            "value": 0.36700000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "68.9%",
+            "value": 0.6890000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "OKLA": {
+            "raw": "74.7%",
+            "value": 0.747
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "41.6",
+            "value": 41.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "36.7",
+            "value": 36.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "21.8",
+            "value": 21.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "OKLA": {
+            "raw": "29.9",
+            "value": 29.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "71.0%",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "69.1%",
+            "value": 0.691
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "6.1%",
+            "value": 0.061
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "8.4%",
+            "value": 0.084
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "7.7%",
+            "value": 0.077
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "OKLA": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "21.8%",
+            "value": 0.218
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "0.517",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "0.492",
+            "value": 0.492
+          }
+        }
+      ]
+    },
+    "Missouri vs Oklahoma Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MIZZ",
+        "adv",
+        "OKLA"
+      ],
+      "team_headers": [
+        "MIZZ",
+        "OKLA"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "70.7",
+            "value": 70.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "70.9",
+            "value": 70.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "1.056",
+            "value": 1.056
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "1.095",
+            "value": 1.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "56.1%",
+            "value": 0.561
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "61.2%",
+            "value": 0.612
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "43.9%",
+            "value": 0.439
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "25.4%",
+            "value": 0.254
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "25.6%",
+            "value": 0.256
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "48.0%",
+            "value": 0.48
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "51.4%",
+            "value": 0.514
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "35.9%",
+            "value": 0.359
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "34.4%",
+            "value": 0.344
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "74.6%",
+            "value": 0.746
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "31.6",
+            "value": 31.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "OKLA": {
+            "raw": "38.1",
+            "value": 38.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "27.7",
+            "value": 27.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "24.2",
+            "value": 24.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "29.0%",
+            "value": 0.29
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "30.9%",
+            "value": 0.309
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "66.8%",
+            "value": 0.6679999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "67.9%",
+            "value": 0.679
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "12.9%",
+            "value": 0.129
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "23.1%",
+            "value": 0.231
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "OKLA": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "MIZZ": {
+            "raw": "0.514",
+            "value": 0.514
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "OKLA": {
+            "raw": "0.508",
+            "value": 0.508
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_mizz_okla.off_efficiency.mizz": 1.136,
+    "matchup_menu_mizz_okla.off_efficiency.okla": 1.165,
+    "matchup_menu_mizz_okla.effective_fg.mizz": 0.557,
+    "matchup_menu_mizz_okla.effective_fg.okla": 0.547,
+    "matchup_menu_mizz_okla.turnovers_play.mizz": 0.151,
+    "matchup_menu_mizz_okla.turnovers_play.okla": 0.12300000000000001,
+    "matchup_menu_mizz_okla.off_rebound.mizz": 0.332,
+    "matchup_menu_mizz_okla.off_rebound.okla": 0.321,
+    "matchup_menu_mizz_okla.fta_fga.mizz": 0.431,
+    "matchup_menu_mizz_okla.fta_fga.okla": 0.354,
+    "matchup_menu_mizz_okla.points_game.mizz": 80.3,
+    "matchup_menu_mizz_okla.points_game.okla": 82.7,
+    "matchup_menu_mizz_okla.avg_score_margin.mizz": 5.7,
+    "matchup_menu_mizz_okla.avg_score_margin.okla": 5.0,
+    "key_offensive_stats.off_efficiency.mizz": 1.136,
+    "key_offensive_stats.off_efficiency.okla": 1.165,
+    "key_offensive_stats.effective_fg.mizz": 0.557,
+    "key_offensive_stats.effective_fg.okla": 0.547,
+    "key_offensive_stats.turnovers_play.mizz": 0.151,
+    "key_offensive_stats.turnovers_play.okla": 0.12300000000000001,
+    "key_offensive_stats.off_rebound.mizz": 0.332,
+    "key_offensive_stats.off_rebound.okla": 0.321,
+    "key_offensive_stats.fta_fga.mizz": 0.431,
+    "key_offensive_stats.fta_fga.okla": 0.354,
+    "key_offensive_stats.points_game.mizz": 80.3,
+    "key_offensive_stats.points_game.okla": 82.7,
+    "key_offensive_stats.avg_score_margin.mizz": 5.7,
+    "key_offensive_stats.avg_score_margin.okla": 5.0,
+    "key_defensive_stats.def_efficiency.mizz": 1.056,
+    "key_defensive_stats.def_efficiency.okla": 1.095,
+    "key_defensive_stats.opp_effective_fg.mizz": 0.506,
+    "key_defensive_stats.opp_effective_fg.okla": 0.515,
+    "key_defensive_stats.opp_turnovers_play.mizz": 0.142,
+    "key_defensive_stats.opp_turnovers_play.okla": 0.129,
+    "key_defensive_stats.def_rebound.mizz": 0.71,
+    "key_defensive_stats.def_rebound.okla": 0.691,
+    "key_defensive_stats.opp_fta_fga.mizz": 0.347,
+    "key_defensive_stats.opp_fta_fga.okla": 0.342,
+    "key_defensive_stats.opp_points_game.mizz": 74.7,
+    "key_defensive_stats.opp_points_game.okla": 77.7,
+    "key_defensive_stats.block.mizz": 0.061,
+    "key_defensive_stats.block.okla": 0.062,
+    "key_defensive_stats.personal_fouls_play.mizz": 0.218,
+    "key_defensive_stats.personal_fouls_play.okla": 0.218,
+    "missouri_vs_oklahoma_offensive_efficiency.possessions_gm.mizz": 70.7,
+    "missouri_vs_oklahoma_offensive_efficiency.possessions_gm.okla": 70.9,
+    "missouri_vs_oklahoma_offensive_efficiency.off_efficiency.mizz": 1.136,
+    "missouri_vs_oklahoma_offensive_efficiency.off_efficiency.okla": 1.165,
+    "missouri_vs_oklahoma_offensive_efficiency.effective_fg.mizz": 0.557,
+    "missouri_vs_oklahoma_offensive_efficiency.effective_fg.okla": 0.547,
+    "missouri_vs_oklahoma_offensive_efficiency.two_point_rate.mizz": 0.637,
+    "missouri_vs_oklahoma_offensive_efficiency.two_point_rate.okla": 0.5539999999999999,
+    "missouri_vs_oklahoma_offensive_efficiency.three_point_rate.mizz": 0.363,
+    "missouri_vs_oklahoma_offensive_efficiency.three_point_rate.okla": 0.446,
+    "missouri_vs_oklahoma_offensive_efficiency.fta_play.mizz": 0.305,
+    "missouri_vs_oklahoma_offensive_efficiency.fta_play.okla": 0.266,
+    "missouri_vs_oklahoma_offensive_efficiency.two_point.mizz": 0.574,
+    "missouri_vs_oklahoma_offensive_efficiency.two_point.okla": 0.544,
+    "missouri_vs_oklahoma_offensive_efficiency.three_point.mizz": 0.35200000000000004,
+    "missouri_vs_oklahoma_offensive_efficiency.three_point.okla": 0.36700000000000005,
+    "missouri_vs_oklahoma_offensive_efficiency.free_throw.mizz": 0.6890000000000001,
+    "missouri_vs_oklahoma_offensive_efficiency.free_throw.okla": 0.747,
+    "missouri_vs_oklahoma_offensive_efficiency.points_2_pters.mizz": 41.6,
+    "missouri_vs_oklahoma_offensive_efficiency.points_2_pters.okla": 36.7,
+    "missouri_vs_oklahoma_offensive_efficiency.points_3_pters.mizz": 21.8,
+    "missouri_vs_oklahoma_offensive_efficiency.points_3_pters.okla": 29.9,
+    "missouri_vs_oklahoma_offensive_efficiency.off_rebound.mizz": 0.332,
+    "missouri_vs_oklahoma_offensive_efficiency.off_rebound.okla": 0.321,
+    "missouri_vs_oklahoma_offensive_efficiency.def_rebound.mizz": 0.71,
+    "missouri_vs_oklahoma_offensive_efficiency.def_rebound.okla": 0.691,
+    "missouri_vs_oklahoma_offensive_efficiency.block.mizz": 0.061,
+    "missouri_vs_oklahoma_offensive_efficiency.block.okla": 0.062,
+    "missouri_vs_oklahoma_offensive_efficiency.steals_play.mizz": 0.084,
+    "missouri_vs_oklahoma_offensive_efficiency.steals_play.okla": 0.077,
+    "missouri_vs_oklahoma_offensive_efficiency.turnovers_play.mizz": 0.151,
+    "missouri_vs_oklahoma_offensive_efficiency.turnovers_play.okla": 0.12300000000000001,
+    "missouri_vs_oklahoma_offensive_efficiency.personal_fouls_play.mizz": 0.218,
+    "missouri_vs_oklahoma_offensive_efficiency.personal_fouls_play.okla": 0.218,
+    "missouri_vs_oklahoma_offensive_efficiency.assists_fgm.mizz": 0.517,
+    "missouri_vs_oklahoma_offensive_efficiency.assists_fgm.okla": 0.492,
+    "missouri_vs_oklahoma_defensive_efficiency.possessions_gm.mizz": 70.7,
+    "missouri_vs_oklahoma_defensive_efficiency.possessions_gm.okla": 70.9,
+    "missouri_vs_oklahoma_defensive_efficiency.def_efficiency.mizz": 1.056,
+    "missouri_vs_oklahoma_defensive_efficiency.def_efficiency.okla": 1.095,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_effective_fg.mizz": 0.506,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_effective_fg.okla": 0.515,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_two_point_rate.mizz": 0.561,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_two_point_rate.okla": 0.612,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_three_point_rate.mizz": 0.439,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_three_point_rate.okla": 0.38799999999999996,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_fta_play.mizz": 0.254,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_fta_play.okla": 0.256,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_two_point.mizz": 0.48,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_two_point.okla": 0.514,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_three_point.mizz": 0.359,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_three_point.okla": 0.344,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_free_throw.mizz": 0.754,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_free_throw.okla": 0.746,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_points_2_pters.mizz": 31.6,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_points_2_pters.okla": 38.1,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_points_3_pters.mizz": 27.7,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_points_3_pters.okla": 24.2,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_off_rebound.mizz": 0.29,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_off_rebound.okla": 0.309,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_def_rebound.mizz": 0.6679999999999999,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_def_rebound.okla": 0.679,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_block.mizz": 0.057999999999999996,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_block.okla": 0.059000000000000004,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_steals_play.mizz": 0.079,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_steals_play.okla": 0.07200000000000001,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_turnovers_play.mizz": 0.142,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_turnovers_play.okla": 0.129,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_personal_fouls_play.mizz": 0.231,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_personal_fouls_play.okla": 0.21600000000000003,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_assists_fgm.mizz": 0.514,
+    "missouri_vs_oklahoma_defensive_efficiency.opp_assists_fgm.okla": 0.508
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "tigers-sooners-2026-03-03",
+  "matchup_title": "#44 Missouri at #50 Oklahoma",
+  "teams": {
+    "away": "#44 Missouri",
+    "home": "#50 Oklahoma",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Lloyd Noble Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-sooners-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-sooners-2026-03-03/efficiency"
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/rebels-commodores-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:30.564295+00:00",
+  "tables": {
+    "Matchup Menu: VAN @ MISS": {
+      "headers": [
+        "Stat",
+        "MISS",
+        "adv",
+        "VAN"
+      ],
+      "team_headers": [
+        "MISS",
+        "VAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MISS": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "1.181",
+            "value": 1.181
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "VAN": {
+            "raw": "56.0%",
+            "value": 0.56
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "12.0%",
+            "value": 0.12
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "26.5%",
+            "value": 0.265
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MISS": {
+            "raw": "0.334",
+            "value": 0.334
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "0.376",
+            "value": 0.376
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MISS": {
+            "raw": "75.4",
+            "value": 75.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "86.9",
+            "value": 86.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MISS": {
+            "raw": "-0.5",
+            "value": -0.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "+12.4",
+            "value": 12.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "MISS",
+        "adv",
+        "VAN"
+      ],
+      "team_headers": [
+        "MISS",
+        "VAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MISS": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "1.181",
+            "value": 1.181
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "VAN": {
+            "raw": "56.0%",
+            "value": 0.56
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "12.0%",
+            "value": 0.12
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "26.5%",
+            "value": 0.265
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MISS": {
+            "raw": "0.334",
+            "value": 0.334
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "0.376",
+            "value": 0.376
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MISS": {
+            "raw": "75.4",
+            "value": 75.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "86.9",
+            "value": 86.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MISS": {
+            "raw": "-0.5",
+            "value": -0.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "+12.4",
+            "value": 12.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "MISS",
+        "adv",
+        "VAN"
+      ],
+      "team_headers": [
+        "MISS",
+        "VAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MISS": {
+            "raw": "1.071",
+            "value": 1.071
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "1.012",
+            "value": 1.012
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "51.5%",
+            "value": 0.515
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "48.4%",
+            "value": 0.484
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "14.7%",
+            "value": 0.147
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "15.7%",
+            "value": 0.157
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "73.7%",
+            "value": 0.737
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "MISS": {
+            "raw": "0.414",
+            "value": 0.414
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "0.414",
+            "value": 0.414
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "MISS": {
+            "raw": "75.9",
+            "value": 75.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "8.5%",
+            "value": 0.085
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        }
+      ]
+    },
+    "Mississippi vs Vanderbilt Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MISS",
+        "adv",
+        "VAN"
+      ],
+      "team_headers": [
+        "MISS",
+        "VAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MISS": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "73.6",
+            "value": 73.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MISS": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "1.181",
+            "value": 1.181
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "VAN": {
+            "raw": "56.0%",
+            "value": 0.56
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "MISS": {
+            "raw": "63.2%",
+            "value": 0.632
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "55.4%",
+            "value": 0.5539999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "MISS": {
+            "raw": "36.8%",
+            "value": 0.368
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "44.6%",
+            "value": 0.446
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "25.3%",
+            "value": 0.253
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "28.1%",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "VAN": {
+            "raw": "58.3%",
+            "value": 0.583
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "35.5%",
+            "value": 0.355
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "74.7%",
+            "value": 0.747
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "78.2%",
+            "value": 0.782
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "MISS": {
+            "raw": "38.4",
+            "value": 38.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "39.7",
+            "value": 39.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "MISS": {
+            "raw": "22.0",
+            "value": 22.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "29.2",
+            "value": 29.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "26.5%",
+            "value": 0.265
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "73.7%",
+            "value": 0.737
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "8.5%",
+            "value": 0.085
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "8.7%",
+            "value": 0.087
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "10.0%",
+            "value": 0.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "12.0%",
+            "value": 0.12
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "MISS": {
+            "raw": "0.521",
+            "value": 0.521
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "0.562",
+            "value": 0.562
+          }
+        }
+      ]
+    },
+    "Mississippi vs Vanderbilt Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MISS",
+        "adv",
+        "VAN"
+      ],
+      "team_headers": [
+        "MISS",
+        "VAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MISS": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "73.6",
+            "value": 73.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MISS": {
+            "raw": "1.071",
+            "value": 1.071
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "1.012",
+            "value": 1.012
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "51.5%",
+            "value": 0.515
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "48.4%",
+            "value": 0.484
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "MISS": {
+            "raw": "57.7%",
+            "value": 0.5770000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "61.2%",
+            "value": 0.612
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "MISS": {
+            "raw": "42.3%",
+            "value": 0.423
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "29.3%",
+            "value": 0.293
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "49.3%",
+            "value": 0.493
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "VAN": {
+            "raw": "75.9%",
+            "value": 0.759
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "MISS": {
+            "raw": "33.9",
+            "value": 33.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "35.0",
+            "value": 35.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "MISS": {
+            "raw": "25.0",
+            "value": 25.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "21.2",
+            "value": 21.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "29.8%",
+            "value": 0.298
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "VAN": {
+            "raw": "26.3%",
+            "value": 0.263
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "73.5%",
+            "value": 0.735
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "71.5%",
+            "value": 0.715
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "MISS": {
+            "raw": "5.0%",
+            "value": 0.05
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "3.6%",
+            "value": 0.036000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "7.3%",
+            "value": 0.073
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "6.2%",
+            "value": 0.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "14.7%",
+            "value": 0.147
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "15.7%",
+            "value": 0.157
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "MISS": {
+            "raw": "22.5%",
+            "value": 0.225
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "VAN": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "MISS": {
+            "raw": "0.581",
+            "value": 0.581
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "VAN": {
+            "raw": "0.450",
+            "value": 0.45
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_van_miss.off_efficiency.miss": 1.064,
+    "matchup_menu_van_miss.off_efficiency.van": 1.181,
+    "matchup_menu_van_miss.effective_fg.miss": 0.503,
+    "matchup_menu_van_miss.effective_fg.van": 0.56,
+    "matchup_menu_van_miss.turnovers_play.miss": 0.12,
+    "matchup_menu_van_miss.turnovers_play.van": 0.11699999999999999,
+    "matchup_menu_van_miss.off_rebound.miss": 0.265,
+    "matchup_menu_van_miss.off_rebound.van": 0.285,
+    "matchup_menu_van_miss.fta_fga.miss": 0.334,
+    "matchup_menu_van_miss.fta_fga.van": 0.376,
+    "matchup_menu_van_miss.points_game.miss": 75.4,
+    "matchup_menu_van_miss.points_game.van": 86.9,
+    "matchup_menu_van_miss.avg_score_margin.miss": -0.5,
+    "matchup_menu_van_miss.avg_score_margin.van": 12.4,
+    "key_offensive_stats.off_efficiency.miss": 1.064,
+    "key_offensive_stats.off_efficiency.van": 1.181,
+    "key_offensive_stats.effective_fg.miss": 0.503,
+    "key_offensive_stats.effective_fg.van": 0.56,
+    "key_offensive_stats.turnovers_play.miss": 0.12,
+    "key_offensive_stats.turnovers_play.van": 0.11699999999999999,
+    "key_offensive_stats.off_rebound.miss": 0.265,
+    "key_offensive_stats.off_rebound.van": 0.285,
+    "key_offensive_stats.fta_fga.miss": 0.334,
+    "key_offensive_stats.fta_fga.van": 0.376,
+    "key_offensive_stats.points_game.miss": 75.4,
+    "key_offensive_stats.points_game.van": 86.9,
+    "key_offensive_stats.avg_score_margin.miss": -0.5,
+    "key_offensive_stats.avg_score_margin.van": 12.4,
+    "key_defensive_stats.def_efficiency.miss": 1.071,
+    "key_defensive_stats.def_efficiency.van": 1.012,
+    "key_defensive_stats.opp_effective_fg.miss": 0.515,
+    "key_defensive_stats.opp_effective_fg.van": 0.484,
+    "key_defensive_stats.opp_turnovers_play.miss": 0.147,
+    "key_defensive_stats.opp_turnovers_play.van": 0.157,
+    "key_defensive_stats.def_rebound.miss": 0.7020000000000001,
+    "key_defensive_stats.def_rebound.van": 0.737,
+    "key_defensive_stats.opp_fta_fga.miss": 0.414,
+    "key_defensive_stats.opp_fta_fga.van": 0.414,
+    "key_defensive_stats.opp_points_game.miss": 75.9,
+    "key_defensive_stats.opp_points_game.van": 74.5,
+    "key_defensive_stats.block.miss": 0.07400000000000001,
+    "key_defensive_stats.block.van": 0.085,
+    "key_defensive_stats.personal_fouls_play.miss": 0.242,
+    "key_defensive_stats.personal_fouls_play.van": 0.23800000000000002,
+    "mississippi_vs_vanderbilt_offensive_efficiency.possessions_gm.miss": 70.9,
+    "mississippi_vs_vanderbilt_offensive_efficiency.possessions_gm.van": 73.6,
+    "mississippi_vs_vanderbilt_offensive_efficiency.off_efficiency.miss": 1.064,
+    "mississippi_vs_vanderbilt_offensive_efficiency.off_efficiency.van": 1.181,
+    "mississippi_vs_vanderbilt_offensive_efficiency.effective_fg.miss": 0.503,
+    "mississippi_vs_vanderbilt_offensive_efficiency.effective_fg.van": 0.56,
+    "mississippi_vs_vanderbilt_offensive_efficiency.two_point_rate.miss": 0.632,
+    "mississippi_vs_vanderbilt_offensive_efficiency.two_point_rate.van": 0.5539999999999999,
+    "mississippi_vs_vanderbilt_offensive_efficiency.three_point_rate.miss": 0.368,
+    "mississippi_vs_vanderbilt_offensive_efficiency.three_point_rate.van": 0.446,
+    "mississippi_vs_vanderbilt_offensive_efficiency.fta_play.miss": 0.253,
+    "mississippi_vs_vanderbilt_offensive_efficiency.fta_play.van": 0.281,
+    "mississippi_vs_vanderbilt_offensive_efficiency.two_point.miss": 0.506,
+    "mississippi_vs_vanderbilt_offensive_efficiency.two_point.van": 0.583,
+    "mississippi_vs_vanderbilt_offensive_efficiency.three_point.miss": 0.332,
+    "mississippi_vs_vanderbilt_offensive_efficiency.three_point.van": 0.355,
+    "mississippi_vs_vanderbilt_offensive_efficiency.free_throw.miss": 0.747,
+    "mississippi_vs_vanderbilt_offensive_efficiency.free_throw.van": 0.782,
+    "mississippi_vs_vanderbilt_offensive_efficiency.points_2_pters.miss": 38.4,
+    "mississippi_vs_vanderbilt_offensive_efficiency.points_2_pters.van": 39.7,
+    "mississippi_vs_vanderbilt_offensive_efficiency.points_3_pters.miss": 22.0,
+    "mississippi_vs_vanderbilt_offensive_efficiency.points_3_pters.van": 29.2,
+    "mississippi_vs_vanderbilt_offensive_efficiency.off_rebound.miss": 0.265,
+    "mississippi_vs_vanderbilt_offensive_efficiency.off_rebound.van": 0.285,
+    "mississippi_vs_vanderbilt_offensive_efficiency.def_rebound.miss": 0.7020000000000001,
+    "mississippi_vs_vanderbilt_offensive_efficiency.def_rebound.van": 0.737,
+    "mississippi_vs_vanderbilt_offensive_efficiency.block.miss": 0.07400000000000001,
+    "mississippi_vs_vanderbilt_offensive_efficiency.block.van": 0.085,
+    "mississippi_vs_vanderbilt_offensive_efficiency.steals_play.miss": 0.087,
+    "mississippi_vs_vanderbilt_offensive_efficiency.steals_play.van": 0.1,
+    "mississippi_vs_vanderbilt_offensive_efficiency.turnovers_play.miss": 0.12,
+    "mississippi_vs_vanderbilt_offensive_efficiency.turnovers_play.van": 0.11699999999999999,
+    "mississippi_vs_vanderbilt_offensive_efficiency.personal_fouls_play.miss": 0.242,
+    "mississippi_vs_vanderbilt_offensive_efficiency.personal_fouls_play.van": 0.23800000000000002,
+    "mississippi_vs_vanderbilt_offensive_efficiency.assists_fgm.miss": 0.521,
+    "mississippi_vs_vanderbilt_offensive_efficiency.assists_fgm.van": 0.562,
+    "mississippi_vs_vanderbilt_defensive_efficiency.possessions_gm.miss": 70.9,
+    "mississippi_vs_vanderbilt_defensive_efficiency.possessions_gm.van": 73.6,
+    "mississippi_vs_vanderbilt_defensive_efficiency.def_efficiency.miss": 1.071,
+    "mississippi_vs_vanderbilt_defensive_efficiency.def_efficiency.van": 1.012,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_effective_fg.miss": 0.515,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_effective_fg.van": 0.484,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_two_point_rate.miss": 0.5770000000000001,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_two_point_rate.van": 0.612,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_three_point_rate.miss": 0.423,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_three_point_rate.van": 0.38799999999999996,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_fta_play.miss": 0.29600000000000004,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_fta_play.van": 0.293,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_two_point.miss": 0.513,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_two_point.van": 0.493,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_three_point.miss": 0.345,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_three_point.van": 0.313,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_free_throw.miss": 0.718,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_free_throw.van": 0.759,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_points_2_pters.miss": 33.9,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_points_2_pters.van": 35.0,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_points_3_pters.miss": 25.0,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_points_3_pters.van": 21.2,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_off_rebound.miss": 0.298,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_off_rebound.van": 0.263,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_def_rebound.miss": 0.735,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_def_rebound.van": 0.715,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_block.miss": 0.05,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_block.van": 0.036000000000000004,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_steals_play.miss": 0.073,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_steals_play.van": 0.062,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_turnovers_play.miss": 0.147,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_turnovers_play.van": 0.157,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_personal_fouls_play.miss": 0.225,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_personal_fouls_play.van": 0.23199999999999998,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_assists_fgm.miss": 0.581,
+    "mississippi_vs_vanderbilt_defensive_efficiency.opp_assists_fgm.van": 0.45
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "rebels-commodores-2026-03-03",
+  "matchup_title": "#65 Mississippi vs. #17 Vanderbilt",
+  "teams": {
+    "away": "#65 Mississippi",
+    "home": "#17 Vanderbilt",
+    "neutral_site": true
+  },
+  "time_local": "9:00 PM",
+  "location": "The Sandy and John Black Pavilion at Ole Miss",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/rebels-commodores-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/rebels-commodores-2026-03-03/efficiency"
+  }
+}

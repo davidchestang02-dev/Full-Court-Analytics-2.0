@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-bulls-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:48.307085+00:00",
+  "tables": {
+    "Matchup Menu: EMU @ BUFF": {
+      "headers": [
+        "Stat",
+        "EMU",
+        "adv",
+        "BUFF"
+      ],
+      "team_headers": [
+        "EMU",
+        "BUFF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.997",
+            "value": 0.997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "1.117",
+            "value": 1.117
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "55.2%",
+            "value": 0.552
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.293",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "0.405",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "EMU": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "78.0",
+            "value": 78.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "EMU": {
+            "raw": "-4.0",
+            "value": -4.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "+1.2",
+            "value": 1.2
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "EMU",
+        "adv",
+        "BUFF"
+      ],
+      "team_headers": [
+        "EMU",
+        "BUFF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.997",
+            "value": 0.997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "1.117",
+            "value": 1.117
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "55.2%",
+            "value": 0.552
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.293",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "0.405",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "EMU": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "78.0",
+            "value": 78.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "EMU": {
+            "raw": "-4.0",
+            "value": -4.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "+1.2",
+            "value": 1.2
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "EMU",
+        "adv",
+        "BUFF"
+      ],
+      "team_headers": [
+        "EMU",
+        "BUFF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "EMU": {
+            "raw": "1.055",
+            "value": 1.055
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "1.100",
+            "value": 1.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "50.4%",
+            "value": 0.504
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "72.6%",
+            "value": 0.726
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.351",
+            "value": 0.351
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "0.318",
+            "value": 0.318
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "EMU": {
+            "raw": "74.4",
+            "value": 74.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "76.7",
+            "value": 76.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "20.9%",
+            "value": 0.209
+          }
+        }
+      ]
+    },
+    "E Michigan vs Buffalo Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "EMU",
+        "adv",
+        "BUFF"
+      ],
+      "team_headers": [
+        "EMU",
+        "BUFF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "EMU": {
+            "raw": "70.5",
+            "value": 70.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "69.8",
+            "value": 69.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.997",
+            "value": 0.997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "1.117",
+            "value": 1.117
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "55.2%",
+            "value": 0.552
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "EMU": {
+            "raw": "67.7%",
+            "value": 0.677
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "EMU": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "45.4%",
+            "value": 0.45399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "BUFF": {
+            "raw": "29.0%",
+            "value": 0.29
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "53.7%",
+            "value": 0.537
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "37.9%",
+            "value": 0.379
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "74.3%",
+            "value": 0.743
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "EMU": {
+            "raw": "39.1",
+            "value": 39.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "32.6",
+            "value": 32.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "EMU": {
+            "raw": "18.8",
+            "value": 18.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "28.7",
+            "value": 28.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "72.6%",
+            "value": 0.726
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "10.0%",
+            "value": 0.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "20.9%",
+            "value": 0.209
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.485",
+            "value": 0.485
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "0.553",
+            "value": 0.553
+          }
+        }
+      ]
+    },
+    "E Michigan vs Buffalo Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "EMU",
+        "adv",
+        "BUFF"
+      ],
+      "team_headers": [
+        "EMU",
+        "BUFF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "EMU": {
+            "raw": "70.5",
+            "value": 70.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "69.8",
+            "value": 69.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "EMU": {
+            "raw": "1.055",
+            "value": 1.055
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "1.100",
+            "value": 1.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "50.4%",
+            "value": 0.504
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "EMU": {
+            "raw": "64.4%",
+            "value": 0.644
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "57.1%",
+            "value": 0.5710000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "EMU": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "42.9%",
+            "value": 0.429
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "23.3%",
+            "value": 0.233
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "51.2%",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "56.7%",
+            "value": 0.5670000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "32.5%",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "34.9%",
+            "value": 0.349
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "72.2%",
+            "value": 0.722
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "74.7%",
+            "value": 0.747
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "EMU": {
+            "raw": "38.9",
+            "value": 38.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "37.2",
+            "value": 37.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "EMU": {
+            "raw": "20.5",
+            "value": 20.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "25.9",
+            "value": 25.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "27.4%",
+            "value": 0.27399999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "74.1%",
+            "value": 0.741
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "74.0%",
+            "value": 0.74
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "EMU": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "8.5%",
+            "value": 0.085
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BUFF": {
+            "raw": "8.6%",
+            "value": 0.086
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "EMU": {
+            "raw": "20.2%",
+            "value": 0.20199999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BUFF": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "EMU": {
+            "raw": "0.518",
+            "value": 0.518
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BUFF": {
+            "raw": "0.593",
+            "value": 0.593
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_emu_buff.off_efficiency.emu": 0.997,
+    "matchup_menu_emu_buff.off_efficiency.buff": 1.117,
+    "matchup_menu_emu_buff.effective_fg.emu": 0.49700000000000005,
+    "matchup_menu_emu_buff.effective_fg.buff": 0.552,
+    "matchup_menu_emu_buff.turnovers_play.emu": 0.153,
+    "matchup_menu_emu_buff.turnovers_play.buff": 0.142,
+    "matchup_menu_emu_buff.off_rebound.emu": 0.259,
+    "matchup_menu_emu_buff.off_rebound.buff": 0.26,
+    "matchup_menu_emu_buff.fta_fga.emu": 0.293,
+    "matchup_menu_emu_buff.fta_fga.buff": 0.405,
+    "matchup_menu_emu_buff.points_game.emu": 70.3,
+    "matchup_menu_emu_buff.points_game.buff": 78.0,
+    "matchup_menu_emu_buff.avg_score_margin.emu": -4.0,
+    "matchup_menu_emu_buff.avg_score_margin.buff": 1.2,
+    "key_offensive_stats.off_efficiency.emu": 0.997,
+    "key_offensive_stats.off_efficiency.buff": 1.117,
+    "key_offensive_stats.effective_fg.emu": 0.49700000000000005,
+    "key_offensive_stats.effective_fg.buff": 0.552,
+    "key_offensive_stats.turnovers_play.emu": 0.153,
+    "key_offensive_stats.turnovers_play.buff": 0.142,
+    "key_offensive_stats.off_rebound.emu": 0.259,
+    "key_offensive_stats.off_rebound.buff": 0.26,
+    "key_offensive_stats.fta_fga.emu": 0.293,
+    "key_offensive_stats.fta_fga.buff": 0.405,
+    "key_offensive_stats.points_game.emu": 70.3,
+    "key_offensive_stats.points_game.buff": 78.0,
+    "key_offensive_stats.avg_score_margin.emu": -4.0,
+    "key_offensive_stats.avg_score_margin.buff": 1.2,
+    "key_defensive_stats.def_efficiency.emu": 1.055,
+    "key_defensive_stats.def_efficiency.buff": 1.1,
+    "key_defensive_stats.opp_effective_fg.emu": 0.504,
+    "key_defensive_stats.opp_effective_fg.buff": 0.5479999999999999,
+    "key_defensive_stats.opp_turnovers_play.emu": 0.13699999999999998,
+    "key_defensive_stats.opp_turnovers_play.buff": 0.159,
+    "key_defensive_stats.def_rebound.emu": 0.726,
+    "key_defensive_stats.def_rebound.buff": 0.7040000000000001,
+    "key_defensive_stats.opp_fta_fga.emu": 0.351,
+    "key_defensive_stats.opp_fta_fga.buff": 0.318,
+    "key_defensive_stats.opp_points_game.emu": 74.4,
+    "key_defensive_stats.opp_points_game.buff": 76.7,
+    "key_defensive_stats.block.emu": 0.07,
+    "key_defensive_stats.block.buff": 0.05,
+    "key_defensive_stats.personal_fouls_play.emu": 0.22699999999999998,
+    "key_defensive_stats.personal_fouls_play.buff": 0.209,
+    "e_michigan_vs_buffalo_offensive_efficiency.possessions_gm.emu": 70.5,
+    "e_michigan_vs_buffalo_offensive_efficiency.possessions_gm.buff": 69.8,
+    "e_michigan_vs_buffalo_offensive_efficiency.off_efficiency.emu": 0.997,
+    "e_michigan_vs_buffalo_offensive_efficiency.off_efficiency.buff": 1.117,
+    "e_michigan_vs_buffalo_offensive_efficiency.effective_fg.emu": 0.49700000000000005,
+    "e_michigan_vs_buffalo_offensive_efficiency.effective_fg.buff": 0.552,
+    "e_michigan_vs_buffalo_offensive_efficiency.two_point_rate.emu": 0.677,
+    "e_michigan_vs_buffalo_offensive_efficiency.two_point_rate.buff": 0.546,
+    "e_michigan_vs_buffalo_offensive_efficiency.three_point_rate.emu": 0.32299999999999995,
+    "e_michigan_vs_buffalo_offensive_efficiency.three_point_rate.buff": 0.45399999999999996,
+    "e_michigan_vs_buffalo_offensive_efficiency.fta_play.emu": 0.21600000000000003,
+    "e_michigan_vs_buffalo_offensive_efficiency.fta_play.buff": 0.29,
+    "e_michigan_vs_buffalo_offensive_efficiency.two_point.emu": 0.49700000000000005,
+    "e_michigan_vs_buffalo_offensive_efficiency.two_point.buff": 0.537,
+    "e_michigan_vs_buffalo_offensive_efficiency.three_point.emu": 0.332,
+    "e_michigan_vs_buffalo_offensive_efficiency.three_point.buff": 0.379,
+    "e_michigan_vs_buffalo_offensive_efficiency.free_throw.emu": 0.73,
+    "e_michigan_vs_buffalo_offensive_efficiency.free_throw.buff": 0.743,
+    "e_michigan_vs_buffalo_offensive_efficiency.points_2_pters.emu": 39.1,
+    "e_michigan_vs_buffalo_offensive_efficiency.points_2_pters.buff": 32.6,
+    "e_michigan_vs_buffalo_offensive_efficiency.points_3_pters.emu": 18.8,
+    "e_michigan_vs_buffalo_offensive_efficiency.points_3_pters.buff": 28.7,
+    "e_michigan_vs_buffalo_offensive_efficiency.off_rebound.emu": 0.259,
+    "e_michigan_vs_buffalo_offensive_efficiency.off_rebound.buff": 0.26,
+    "e_michigan_vs_buffalo_offensive_efficiency.def_rebound.emu": 0.726,
+    "e_michigan_vs_buffalo_offensive_efficiency.def_rebound.buff": 0.7040000000000001,
+    "e_michigan_vs_buffalo_offensive_efficiency.block.emu": 0.07,
+    "e_michigan_vs_buffalo_offensive_efficiency.block.buff": 0.05,
+    "e_michigan_vs_buffalo_offensive_efficiency.steals_play.emu": 0.07400000000000001,
+    "e_michigan_vs_buffalo_offensive_efficiency.steals_play.buff": 0.1,
+    "e_michigan_vs_buffalo_offensive_efficiency.turnovers_play.emu": 0.153,
+    "e_michigan_vs_buffalo_offensive_efficiency.turnovers_play.buff": 0.142,
+    "e_michigan_vs_buffalo_offensive_efficiency.personal_fouls_play.emu": 0.22699999999999998,
+    "e_michigan_vs_buffalo_offensive_efficiency.personal_fouls_play.buff": 0.209,
+    "e_michigan_vs_buffalo_offensive_efficiency.assists_fgm.emu": 0.485,
+    "e_michigan_vs_buffalo_offensive_efficiency.assists_fgm.buff": 0.553,
+    "e_michigan_vs_buffalo_defensive_efficiency.possessions_gm.emu": 70.5,
+    "e_michigan_vs_buffalo_defensive_efficiency.possessions_gm.buff": 69.8,
+    "e_michigan_vs_buffalo_defensive_efficiency.def_efficiency.emu": 1.055,
+    "e_michigan_vs_buffalo_defensive_efficiency.def_efficiency.buff": 1.1,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_effective_fg.emu": 0.504,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_effective_fg.buff": 0.5479999999999999,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_two_point_rate.emu": 0.644,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_two_point_rate.buff": 0.5710000000000001,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_three_point_rate.emu": 0.35600000000000004,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_three_point_rate.buff": 0.429,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_fta_play.emu": 0.261,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_fta_play.buff": 0.233,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_two_point.emu": 0.512,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_two_point.buff": 0.5670000000000001,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_three_point.emu": 0.325,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_three_point.buff": 0.349,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_free_throw.emu": 0.722,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_free_throw.buff": 0.747,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_points_2_pters.emu": 38.9,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_points_2_pters.buff": 37.2,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_points_3_pters.emu": 20.5,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_points_3_pters.buff": 25.9,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_off_rebound.emu": 0.27399999999999997,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_off_rebound.buff": 0.29600000000000004,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_def_rebound.emu": 0.741,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_def_rebound.buff": 0.74,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_block.emu": 0.066,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_block.buff": 0.044000000000000004,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_steals_play.emu": 0.085,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_steals_play.buff": 0.086,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_turnovers_play.emu": 0.13699999999999998,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_turnovers_play.buff": 0.159,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_personal_fouls_play.emu": 0.20199999999999999,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_personal_fouls_play.buff": 0.228,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_assists_fgm.emu": 0.518,
+    "e_michigan_vs_buffalo_defensive_efficiency.opp_assists_fgm.buff": 0.593
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "eagles-bulls-2026-03-03",
+  "matchup_title": "#241 E Michigan at #214 Buffalo",
+  "teams": {
+    "away": "#241 E Michigan",
+    "home": "#214 Buffalo",
+    "neutral_site": false
+  },
+  "time_local": "6:30 PM",
+  "location": "Alumni Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-bulls-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-bulls-2026-03-03/efficiency"
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/buffaloes-utes-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:40.182427+00:00",
+  "tables": {
+    "Matchup Menu: COLO @ UTAH": {
+      "headers": [
+        "Stat",
+        "COLO",
+        "adv",
+        "UTAH"
+      ],
+      "team_headers": [
+        "COLO",
+        "UTAH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "COLO": {
+            "raw": "1.098",
+            "value": 1.098
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "1.053",
+            "value": 1.053
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "14.5%",
+            "value": 0.145
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "27.5%",
+            "value": 0.275
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "26.7%",
+            "value": 0.267
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "COLO": {
+            "raw": "0.361",
+            "value": 0.361
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "0.317",
+            "value": 0.317
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "COLO": {
+            "raw": "79.5",
+            "value": 79.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "COLO": {
+            "raw": "+0.8",
+            "value": 0.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "-3.6",
+            "value": -3.6
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "COLO",
+        "adv",
+        "UTAH"
+      ],
+      "team_headers": [
+        "COLO",
+        "UTAH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "COLO": {
+            "raw": "1.098",
+            "value": 1.098
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "1.053",
+            "value": 1.053
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "14.5%",
+            "value": 0.145
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "27.5%",
+            "value": 0.275
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "26.7%",
+            "value": 0.267
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "COLO": {
+            "raw": "0.361",
+            "value": 0.361
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "0.317",
+            "value": 0.317
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "COLO": {
+            "raw": "79.5",
+            "value": 79.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "COLO": {
+            "raw": "+0.8",
+            "value": 0.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "-3.6",
+            "value": -3.6
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "COLO",
+        "adv",
+        "UTAH"
+      ],
+      "team_headers": [
+        "COLO",
+        "UTAH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "COLO": {
+            "raw": "1.087",
+            "value": 1.087
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "1.104",
+            "value": 1.104
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "COLO": {
+            "raw": "0.351",
+            "value": 0.351
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "0.297",
+            "value": 0.297
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "COLO": {
+            "raw": "78.7",
+            "value": 78.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "78.1",
+            "value": 78.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "20.3%",
+            "value": 0.203
+          }
+        }
+      ]
+    },
+    "Colorado vs Utah Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "COLO",
+        "adv",
+        "UTAH"
+      ],
+      "team_headers": [
+        "COLO",
+        "UTAH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "COLO": {
+            "raw": "72.4",
+            "value": 72.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "COLO": {
+            "raw": "1.098",
+            "value": 1.098
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "1.053",
+            "value": 1.053
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "COLO": {
+            "raw": "65.1%",
+            "value": 0.6509999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "61.8%",
+            "value": 0.618
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "COLO": {
+            "raw": "34.9%",
+            "value": 0.349
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "38.2%",
+            "value": 0.382
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "26.6%",
+            "value": 0.266
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "35.0%",
+            "value": 0.35
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "35.2%",
+            "value": 0.35200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "74.9%",
+            "value": 0.7490000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "72.6%",
+            "value": 0.726
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "COLO": {
+            "raw": "41.4",
+            "value": 41.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "37.2",
+            "value": 37.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "COLO": {
+            "raw": "21.9",
+            "value": 21.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "23.7",
+            "value": 23.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "27.5%",
+            "value": 0.275
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "26.7%",
+            "value": 0.267
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "7.0%",
+            "value": 0.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "14.5%",
+            "value": 0.145
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "20.3%",
+            "value": 0.203
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "COLO": {
+            "raw": "0.558",
+            "value": 0.558
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "0.518",
+            "value": 0.518
+          }
+        }
+      ]
+    },
+    "Colorado vs Utah Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "COLO",
+        "adv",
+        "UTAH"
+      ],
+      "team_headers": [
+        "COLO",
+        "UTAH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "COLO": {
+            "raw": "72.4",
+            "value": 72.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "COLO": {
+            "raw": "1.087",
+            "value": 1.087
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "1.104",
+            "value": 1.104
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "COLO": {
+            "raw": "63.1%",
+            "value": 0.631
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "66.2%",
+            "value": 0.662
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "COLO": {
+            "raw": "36.9%",
+            "value": 0.369
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "33.8%",
+            "value": 0.33799999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "51.0%",
+            "value": 0.51
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "53.9%",
+            "value": 0.539
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "37.0%",
+            "value": 0.37
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "34.2%",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "70.8%",
+            "value": 0.708
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "COLO": {
+            "raw": "38.7",
+            "value": 38.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "43.9",
+            "value": 43.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "COLO": {
+            "raw": "24.6",
+            "value": 24.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "21.3",
+            "value": 21.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "72.5%",
+            "value": 0.725
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "73.3%",
+            "value": 0.733
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "COLO": {
+            "raw": "5.5%",
+            "value": 0.055
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTAH": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "COLO": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UTAH": {
+            "raw": "20.0%",
+            "value": 0.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "COLO": {
+            "raw": "0.498",
+            "value": 0.498
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTAH": {
+            "raw": "0.471",
+            "value": 0.471
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_colo_utah.off_efficiency.colo": 1.098,
+    "matchup_menu_colo_utah.off_efficiency.utah": 1.053,
+    "matchup_menu_colo_utah.effective_fg.colo": 0.529,
+    "matchup_menu_colo_utah.effective_fg.utah": 0.518,
+    "matchup_menu_colo_utah.turnovers_play.colo": 0.129,
+    "matchup_menu_colo_utah.turnovers_play.utah": 0.145,
+    "matchup_menu_colo_utah.off_rebound.colo": 0.275,
+    "matchup_menu_colo_utah.off_rebound.utah": 0.267,
+    "matchup_menu_colo_utah.fta_fga.colo": 0.361,
+    "matchup_menu_colo_utah.fta_fga.utah": 0.317,
+    "matchup_menu_colo_utah.points_game.colo": 79.5,
+    "matchup_menu_colo_utah.points_game.utah": 74.5,
+    "matchup_menu_colo_utah.avg_score_margin.colo": 0.8,
+    "matchup_menu_colo_utah.avg_score_margin.utah": -3.6,
+    "key_offensive_stats.off_efficiency.colo": 1.098,
+    "key_offensive_stats.off_efficiency.utah": 1.053,
+    "key_offensive_stats.effective_fg.colo": 0.529,
+    "key_offensive_stats.effective_fg.utah": 0.518,
+    "key_offensive_stats.turnovers_play.colo": 0.129,
+    "key_offensive_stats.turnovers_play.utah": 0.145,
+    "key_offensive_stats.off_rebound.colo": 0.275,
+    "key_offensive_stats.off_rebound.utah": 0.267,
+    "key_offensive_stats.fta_fga.colo": 0.361,
+    "key_offensive_stats.fta_fga.utah": 0.317,
+    "key_offensive_stats.points_game.colo": 79.5,
+    "key_offensive_stats.points_game.utah": 74.5,
+    "key_offensive_stats.avg_score_margin.colo": 0.8,
+    "key_offensive_stats.avg_score_margin.utah": -3.6,
+    "key_defensive_stats.def_efficiency.colo": 1.087,
+    "key_defensive_stats.def_efficiency.utah": 1.104,
+    "key_defensive_stats.opp_effective_fg.colo": 0.527,
+    "key_defensive_stats.opp_effective_fg.utah": 0.53,
+    "key_defensive_stats.opp_turnovers_play.colo": 0.138,
+    "key_defensive_stats.opp_turnovers_play.utah": 0.11900000000000001,
+    "key_defensive_stats.def_rebound.colo": 0.73,
+    "key_defensive_stats.def_rebound.utah": 0.7140000000000001,
+    "key_defensive_stats.opp_fta_fga.colo": 0.351,
+    "key_defensive_stats.opp_fta_fga.utah": 0.297,
+    "key_defensive_stats.opp_points_game.colo": 78.7,
+    "key_defensive_stats.opp_points_game.utah": 78.1,
+    "key_defensive_stats.block.colo": 0.055999999999999994,
+    "key_defensive_stats.block.utah": 0.055999999999999994,
+    "key_defensive_stats.personal_fouls_play.colo": 0.215,
+    "key_defensive_stats.personal_fouls_play.utah": 0.203,
+    "colorado_vs_utah_offensive_efficiency.possessions_gm.colo": 72.4,
+    "colorado_vs_utah_offensive_efficiency.possessions_gm.utah": 70.7,
+    "colorado_vs_utah_offensive_efficiency.off_efficiency.colo": 1.098,
+    "colorado_vs_utah_offensive_efficiency.off_efficiency.utah": 1.053,
+    "colorado_vs_utah_offensive_efficiency.effective_fg.colo": 0.529,
+    "colorado_vs_utah_offensive_efficiency.effective_fg.utah": 0.518,
+    "colorado_vs_utah_offensive_efficiency.two_point_rate.colo": 0.6509999999999999,
+    "colorado_vs_utah_offensive_efficiency.two_point_rate.utah": 0.618,
+    "colorado_vs_utah_offensive_efficiency.three_point_rate.colo": 0.349,
+    "colorado_vs_utah_offensive_efficiency.three_point_rate.utah": 0.382,
+    "colorado_vs_utah_offensive_efficiency.fta_play.colo": 0.266,
+    "colorado_vs_utah_offensive_efficiency.fta_play.utah": 0.23600000000000002,
+    "colorado_vs_utah_offensive_efficiency.two_point.colo": 0.531,
+    "colorado_vs_utah_offensive_efficiency.two_point.utah": 0.512,
+    "colorado_vs_utah_offensive_efficiency.three_point.colo": 0.35,
+    "colorado_vs_utah_offensive_efficiency.three_point.utah": 0.35200000000000004,
+    "colorado_vs_utah_offensive_efficiency.free_throw.colo": 0.7490000000000001,
+    "colorado_vs_utah_offensive_efficiency.free_throw.utah": 0.726,
+    "colorado_vs_utah_offensive_efficiency.points_2_pters.colo": 41.4,
+    "colorado_vs_utah_offensive_efficiency.points_2_pters.utah": 37.2,
+    "colorado_vs_utah_offensive_efficiency.points_3_pters.colo": 21.9,
+    "colorado_vs_utah_offensive_efficiency.points_3_pters.utah": 23.7,
+    "colorado_vs_utah_offensive_efficiency.off_rebound.colo": 0.275,
+    "colorado_vs_utah_offensive_efficiency.off_rebound.utah": 0.267,
+    "colorado_vs_utah_offensive_efficiency.def_rebound.colo": 0.73,
+    "colorado_vs_utah_offensive_efficiency.def_rebound.utah": 0.7140000000000001,
+    "colorado_vs_utah_offensive_efficiency.block.colo": 0.055999999999999994,
+    "colorado_vs_utah_offensive_efficiency.block.utah": 0.055999999999999994,
+    "colorado_vs_utah_offensive_efficiency.steals_play.colo": 0.079,
+    "colorado_vs_utah_offensive_efficiency.steals_play.utah": 0.07,
+    "colorado_vs_utah_offensive_efficiency.turnovers_play.colo": 0.129,
+    "colorado_vs_utah_offensive_efficiency.turnovers_play.utah": 0.145,
+    "colorado_vs_utah_offensive_efficiency.personal_fouls_play.colo": 0.215,
+    "colorado_vs_utah_offensive_efficiency.personal_fouls_play.utah": 0.203,
+    "colorado_vs_utah_offensive_efficiency.assists_fgm.colo": 0.558,
+    "colorado_vs_utah_offensive_efficiency.assists_fgm.utah": 0.518,
+    "colorado_vs_utah_defensive_efficiency.possessions_gm.colo": 72.4,
+    "colorado_vs_utah_defensive_efficiency.possessions_gm.utah": 70.7,
+    "colorado_vs_utah_defensive_efficiency.def_efficiency.colo": 1.087,
+    "colorado_vs_utah_defensive_efficiency.def_efficiency.utah": 1.104,
+    "colorado_vs_utah_defensive_efficiency.opp_effective_fg.colo": 0.527,
+    "colorado_vs_utah_defensive_efficiency.opp_effective_fg.utah": 0.53,
+    "colorado_vs_utah_defensive_efficiency.opp_two_point_rate.colo": 0.631,
+    "colorado_vs_utah_defensive_efficiency.opp_two_point_rate.utah": 0.662,
+    "colorado_vs_utah_defensive_efficiency.opp_three_point_rate.colo": 0.369,
+    "colorado_vs_utah_defensive_efficiency.opp_three_point_rate.utah": 0.33799999999999997,
+    "colorado_vs_utah_defensive_efficiency.opp_fta_play.colo": 0.261,
+    "colorado_vs_utah_defensive_efficiency.opp_fta_play.utah": 0.22899999999999998,
+    "colorado_vs_utah_defensive_efficiency.opp_two_point.colo": 0.51,
+    "colorado_vs_utah_defensive_efficiency.opp_two_point.utah": 0.539,
+    "colorado_vs_utah_defensive_efficiency.opp_three_point.colo": 0.37,
+    "colorado_vs_utah_defensive_efficiency.opp_three_point.utah": 0.342,
+    "colorado_vs_utah_defensive_efficiency.opp_free_throw.colo": 0.73,
+    "colorado_vs_utah_defensive_efficiency.opp_free_throw.utah": 0.708,
+    "colorado_vs_utah_defensive_efficiency.opp_points_2_pters.colo": 38.7,
+    "colorado_vs_utah_defensive_efficiency.opp_points_2_pters.utah": 43.9,
+    "colorado_vs_utah_defensive_efficiency.opp_points_3_pters.colo": 24.6,
+    "colorado_vs_utah_defensive_efficiency.opp_points_3_pters.utah": 21.3,
+    "colorado_vs_utah_defensive_efficiency.opp_off_rebound.colo": 0.27,
+    "colorado_vs_utah_defensive_efficiency.opp_off_rebound.utah": 0.28600000000000003,
+    "colorado_vs_utah_defensive_efficiency.opp_def_rebound.colo": 0.725,
+    "colorado_vs_utah_defensive_efficiency.opp_def_rebound.utah": 0.733,
+    "colorado_vs_utah_defensive_efficiency.opp_block.colo": 0.055,
+    "colorado_vs_utah_defensive_efficiency.opp_block.utah": 0.07400000000000001,
+    "colorado_vs_utah_defensive_efficiency.opp_steals_play.colo": 0.07200000000000001,
+    "colorado_vs_utah_defensive_efficiency.opp_steals_play.utah": 0.076,
+    "colorado_vs_utah_defensive_efficiency.opp_turnovers_play.colo": 0.138,
+    "colorado_vs_utah_defensive_efficiency.opp_turnovers_play.utah": 0.11900000000000001,
+    "colorado_vs_utah_defensive_efficiency.opp_personal_fouls_play.colo": 0.22899999999999998,
+    "colorado_vs_utah_defensive_efficiency.opp_personal_fouls_play.utah": 0.2,
+    "colorado_vs_utah_defensive_efficiency.opp_assists_fgm.colo": 0.498,
+    "colorado_vs_utah_defensive_efficiency.opp_assists_fgm.utah": 0.471
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "buffaloes-utes-2026-03-03",
+  "matchup_title": "#79 Colorado at #100 Utah",
+  "teams": {
+    "away": "#79 Colorado",
+    "home": "#100 Utah",
+    "neutral_site": false
+  },
+  "time_local": "9:00 PM",
+  "location": "Jon M. Huntsman Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/buffaloes-utes-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/buffaloes-utes-2026-03-03/efficiency"
+  }
+}

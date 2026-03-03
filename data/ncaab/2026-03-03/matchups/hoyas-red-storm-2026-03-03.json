@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/hoyas-red-storm-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:36.778770+00:00",
+  "tables": {
+    "Matchup Menu: GTWN @ SJU": {
+      "headers": [
+        "Stat",
+        "GTWN",
+        "adv",
+        "SJU"
+      ],
+      "team_headers": [
+        "GTWN",
+        "SJU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "1.071",
+            "value": 1.071
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "1.114",
+            "value": 1.114
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "49.6%",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "51.1%",
+            "value": 0.511
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "13.1%",
+            "value": 0.131
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "12.5%",
+            "value": 0.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "31.4%",
+            "value": 0.314
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "33.7%",
+            "value": 0.337
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "0.388",
+            "value": 0.388
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "0.430",
+            "value": 0.43
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "74.6",
+            "value": 74.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "82.6",
+            "value": 82.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "+0.7",
+            "value": 0.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "+11.8",
+            "value": 11.8
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "GTWN",
+        "adv",
+        "SJU"
+      ],
+      "team_headers": [
+        "GTWN",
+        "SJU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "1.071",
+            "value": 1.071
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "1.114",
+            "value": 1.114
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "49.6%",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "51.1%",
+            "value": 0.511
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "13.1%",
+            "value": 0.131
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "12.5%",
+            "value": 0.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "31.4%",
+            "value": 0.314
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "33.7%",
+            "value": 0.337
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "0.388",
+            "value": 0.388
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "0.430",
+            "value": 0.43
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "74.6",
+            "value": 74.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "82.6",
+            "value": 82.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "+0.7",
+            "value": 0.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "+11.8",
+            "value": 11.8
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "GTWN",
+        "adv",
+        "SJU"
+      ],
+      "team_headers": [
+        "GTWN",
+        "SJU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "1.061",
+            "value": 1.061
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "0.955",
+            "value": 0.955
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SJU": {
+            "raw": "17.0%",
+            "value": 0.17
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "73.4%",
+            "value": 0.7340000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "0.360",
+            "value": 0.36
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "0.317",
+            "value": 0.317
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "73.8",
+            "value": 73.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "70.8",
+            "value": 70.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "23.1%",
+            "value": 0.231
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "21.2%",
+            "value": 0.212
+          }
+        }
+      ]
+    },
+    "Georgetown vs St John's Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GTWN",
+        "adv",
+        "SJU"
+      ],
+      "team_headers": [
+        "GTWN",
+        "SJU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "69.6",
+            "value": 69.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SJU": {
+            "raw": "74.1",
+            "value": 74.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "1.071",
+            "value": 1.071
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "1.114",
+            "value": 1.114
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "49.6%",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "51.1%",
+            "value": 0.511
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "63.8%",
+            "value": 0.638
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "66.6%",
+            "value": 0.6659999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "28.4%",
+            "value": 0.284
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "31.2%",
+            "value": 0.312
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "50.8%",
+            "value": 0.508
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "73.7%",
+            "value": 0.737
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "72.8%",
+            "value": 0.728
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "37.4",
+            "value": 37.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "41.9",
+            "value": 41.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "20.5",
+            "value": 20.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "21.3",
+            "value": 21.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "31.4%",
+            "value": 0.314
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "33.7%",
+            "value": 0.337
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "73.4%",
+            "value": 0.7340000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "8.4%",
+            "value": 0.084
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "9.6%",
+            "value": 0.096
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "13.1%",
+            "value": 0.131
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "12.5%",
+            "value": 0.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "23.1%",
+            "value": 0.231
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "21.2%",
+            "value": 0.212
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "0.580",
+            "value": 0.58
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "0.577",
+            "value": 0.577
+          }
+        }
+      ]
+    },
+    "Georgetown vs St John's Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GTWN",
+        "adv",
+        "SJU"
+      ],
+      "team_headers": [
+        "GTWN",
+        "SJU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "69.6",
+            "value": 69.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SJU": {
+            "raw": "74.1",
+            "value": 74.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "1.061",
+            "value": 1.061
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "0.955",
+            "value": 0.955
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "59.3%",
+            "value": 0.593
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "65.3%",
+            "value": 0.653
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "40.7%",
+            "value": 0.40700000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "26.6%",
+            "value": 0.266
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "50.2%",
+            "value": 0.502
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "47.3%",
+            "value": 0.473
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "72.7%",
+            "value": 0.727
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "72.0%",
+            "value": 0.72
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "34.8",
+            "value": 34.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "37.0",
+            "value": 37.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "23.8",
+            "value": 23.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "20.2",
+            "value": 20.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "26.6%",
+            "value": 0.266
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "66.3%",
+            "value": 0.6629999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "6.4%",
+            "value": 0.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "7.8%",
+            "value": 0.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SJU": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SJU": {
+            "raw": "17.0%",
+            "value": 0.17
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "GTWN": {
+            "raw": "0.530",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SJU": {
+            "raw": "0.477",
+            "value": 0.477
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_gtwn_sju.off_efficiency.gtwn": 1.071,
+    "matchup_menu_gtwn_sju.off_efficiency.sju": 1.114,
+    "matchup_menu_gtwn_sju.effective_fg.gtwn": 0.496,
+    "matchup_menu_gtwn_sju.effective_fg.sju": 0.511,
+    "matchup_menu_gtwn_sju.turnovers_play.gtwn": 0.131,
+    "matchup_menu_gtwn_sju.turnovers_play.sju": 0.125,
+    "matchup_menu_gtwn_sju.off_rebound.gtwn": 0.314,
+    "matchup_menu_gtwn_sju.off_rebound.sju": 0.337,
+    "matchup_menu_gtwn_sju.fta_fga.gtwn": 0.388,
+    "matchup_menu_gtwn_sju.fta_fga.sju": 0.43,
+    "matchup_menu_gtwn_sju.points_game.gtwn": 74.6,
+    "matchup_menu_gtwn_sju.points_game.sju": 82.6,
+    "matchup_menu_gtwn_sju.avg_score_margin.gtwn": 0.7,
+    "matchup_menu_gtwn_sju.avg_score_margin.sju": 11.8,
+    "key_offensive_stats.off_efficiency.gtwn": 1.071,
+    "key_offensive_stats.off_efficiency.sju": 1.114,
+    "key_offensive_stats.effective_fg.gtwn": 0.496,
+    "key_offensive_stats.effective_fg.sju": 0.511,
+    "key_offensive_stats.turnovers_play.gtwn": 0.131,
+    "key_offensive_stats.turnovers_play.sju": 0.125,
+    "key_offensive_stats.off_rebound.gtwn": 0.314,
+    "key_offensive_stats.off_rebound.sju": 0.337,
+    "key_offensive_stats.fta_fga.gtwn": 0.388,
+    "key_offensive_stats.fta_fga.sju": 0.43,
+    "key_offensive_stats.points_game.gtwn": 74.6,
+    "key_offensive_stats.points_game.sju": 82.6,
+    "key_offensive_stats.avg_score_margin.gtwn": 0.7,
+    "key_offensive_stats.avg_score_margin.sju": 11.8,
+    "key_defensive_stats.def_efficiency.gtwn": 1.061,
+    "key_defensive_stats.def_efficiency.sju": 0.955,
+    "key_defensive_stats.opp_effective_fg.gtwn": 0.502,
+    "key_defensive_stats.opp_effective_fg.sju": 0.47700000000000004,
+    "key_defensive_stats.opp_turnovers_play.gtwn": 0.138,
+    "key_defensive_stats.opp_turnovers_play.sju": 0.17,
+    "key_defensive_stats.def_rebound.gtwn": 0.7070000000000001,
+    "key_defensive_stats.def_rebound.sju": 0.7340000000000001,
+    "key_defensive_stats.opp_fta_fga.gtwn": 0.36,
+    "key_defensive_stats.opp_fta_fga.sju": 0.317,
+    "key_defensive_stats.opp_points_game.gtwn": 73.8,
+    "key_defensive_stats.opp_points_game.sju": 70.8,
+    "key_defensive_stats.block.gtwn": 0.065,
+    "key_defensive_stats.block.sju": 0.08,
+    "key_defensive_stats.personal_fouls_play.gtwn": 0.231,
+    "key_defensive_stats.personal_fouls_play.sju": 0.212,
+    "georgetown_vs_st_john_s_offensive_efficiency.possessions_gm.gtwn": 69.6,
+    "georgetown_vs_st_john_s_offensive_efficiency.possessions_gm.sju": 74.1,
+    "georgetown_vs_st_john_s_offensive_efficiency.off_efficiency.gtwn": 1.071,
+    "georgetown_vs_st_john_s_offensive_efficiency.off_efficiency.sju": 1.114,
+    "georgetown_vs_st_john_s_offensive_efficiency.effective_fg.gtwn": 0.496,
+    "georgetown_vs_st_john_s_offensive_efficiency.effective_fg.sju": 0.511,
+    "georgetown_vs_st_john_s_offensive_efficiency.two_point_rate.gtwn": 0.638,
+    "georgetown_vs_st_john_s_offensive_efficiency.two_point_rate.sju": 0.6659999999999999,
+    "georgetown_vs_st_john_s_offensive_efficiency.three_point_rate.gtwn": 0.36200000000000004,
+    "georgetown_vs_st_john_s_offensive_efficiency.three_point_rate.sju": 0.33399999999999996,
+    "georgetown_vs_st_john_s_offensive_efficiency.fta_play.gtwn": 0.284,
+    "georgetown_vs_st_john_s_offensive_efficiency.fta_play.sju": 0.312,
+    "georgetown_vs_st_john_s_offensive_efficiency.two_point.gtwn": 0.502,
+    "georgetown_vs_st_john_s_offensive_efficiency.two_point.sju": 0.508,
+    "georgetown_vs_st_john_s_offensive_efficiency.three_point.gtwn": 0.32299999999999995,
+    "georgetown_vs_st_john_s_offensive_efficiency.three_point.sju": 0.34299999999999997,
+    "georgetown_vs_st_john_s_offensive_efficiency.free_throw.gtwn": 0.737,
+    "georgetown_vs_st_john_s_offensive_efficiency.free_throw.sju": 0.728,
+    "georgetown_vs_st_john_s_offensive_efficiency.points_2_pters.gtwn": 37.4,
+    "georgetown_vs_st_john_s_offensive_efficiency.points_2_pters.sju": 41.9,
+    "georgetown_vs_st_john_s_offensive_efficiency.points_3_pters.gtwn": 20.5,
+    "georgetown_vs_st_john_s_offensive_efficiency.points_3_pters.sju": 21.3,
+    "georgetown_vs_st_john_s_offensive_efficiency.off_rebound.gtwn": 0.314,
+    "georgetown_vs_st_john_s_offensive_efficiency.off_rebound.sju": 0.337,
+    "georgetown_vs_st_john_s_offensive_efficiency.def_rebound.gtwn": 0.7070000000000001,
+    "georgetown_vs_st_john_s_offensive_efficiency.def_rebound.sju": 0.7340000000000001,
+    "georgetown_vs_st_john_s_offensive_efficiency.block.gtwn": 0.065,
+    "georgetown_vs_st_john_s_offensive_efficiency.block.sju": 0.08,
+    "georgetown_vs_st_john_s_offensive_efficiency.steals_play.gtwn": 0.084,
+    "georgetown_vs_st_john_s_offensive_efficiency.steals_play.sju": 0.096,
+    "georgetown_vs_st_john_s_offensive_efficiency.turnovers_play.gtwn": 0.131,
+    "georgetown_vs_st_john_s_offensive_efficiency.turnovers_play.sju": 0.125,
+    "georgetown_vs_st_john_s_offensive_efficiency.personal_fouls_play.gtwn": 0.231,
+    "georgetown_vs_st_john_s_offensive_efficiency.personal_fouls_play.sju": 0.212,
+    "georgetown_vs_st_john_s_offensive_efficiency.assists_fgm.gtwn": 0.58,
+    "georgetown_vs_st_john_s_offensive_efficiency.assists_fgm.sju": 0.577,
+    "georgetown_vs_st_john_s_defensive_efficiency.possessions_gm.gtwn": 69.6,
+    "georgetown_vs_st_john_s_defensive_efficiency.possessions_gm.sju": 74.1,
+    "georgetown_vs_st_john_s_defensive_efficiency.def_efficiency.gtwn": 1.061,
+    "georgetown_vs_st_john_s_defensive_efficiency.def_efficiency.sju": 0.955,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_effective_fg.gtwn": 0.502,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_effective_fg.sju": 0.47700000000000004,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_two_point_rate.gtwn": 0.593,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_two_point_rate.sju": 0.653,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_three_point_rate.gtwn": 0.40700000000000003,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_three_point_rate.sju": 0.34700000000000003,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_fta_play.gtwn": 0.266,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_fta_play.sju": 0.22899999999999998,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_two_point.gtwn": 0.502,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_two_point.sju": 0.473,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_three_point.gtwn": 0.33399999999999996,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_three_point.sju": 0.32299999999999995,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_free_throw.gtwn": 0.727,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_free_throw.sju": 0.72,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_points_2_pters.gtwn": 34.8,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_points_2_pters.sju": 37.0,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_points_3_pters.gtwn": 23.8,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_points_3_pters.sju": 20.2,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_off_rebound.gtwn": 0.293,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_off_rebound.sju": 0.266,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_def_rebound.gtwn": 0.6859999999999999,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_def_rebound.sju": 0.6629999999999999,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_block.gtwn": 0.057999999999999996,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_block.sju": 0.064,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_steals_play.gtwn": 0.078,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_steals_play.sju": 0.07400000000000001,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_turnovers_play.gtwn": 0.138,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_turnovers_play.sju": 0.17,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_personal_fouls_play.gtwn": 0.22699999999999998,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_personal_fouls_play.sju": 0.244,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_assists_fgm.gtwn": 0.53,
+    "georgetown_vs_st_john_s_defensive_efficiency.opp_assists_fgm.sju": 0.477
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "hoyas-red-storm-2026-03-03",
+  "matchup_title": "#93 Georgetown at #15 St John's",
+  "teams": {
+    "away": "#93 Georgetown",
+    "home": "#15 St John's",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Madison Square Garden",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/hoyas-red-storm-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/hoyas-red-storm-2026-03-03/efficiency"
+  }
+}

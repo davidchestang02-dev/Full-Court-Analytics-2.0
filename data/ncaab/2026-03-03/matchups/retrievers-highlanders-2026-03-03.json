@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/retrievers-highlanders-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:53.134207+00:00",
+  "tables": {
+    "Matchup Menu: UMBC @ NJIT": {
+      "headers": [
+        "Stat",
+        "UMBC",
+        "adv",
+        "NJIT"
+      ],
+      "team_headers": [
+        "UMBC",
+        "NJIT"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "1.082",
+            "value": 1.082
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "0.964",
+            "value": 0.964
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "47.1%",
+            "value": 0.47100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "12.7%",
+            "value": 0.127
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "14.6%",
+            "value": 0.146
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "0.334",
+            "value": 0.334
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "0.342",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "74.0",
+            "value": 74.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "67.3",
+            "value": 67.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "+5.1",
+            "value": 5.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "-6.7",
+            "value": -6.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "UMBC",
+        "adv",
+        "NJIT"
+      ],
+      "team_headers": [
+        "UMBC",
+        "NJIT"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "1.082",
+            "value": 1.082
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "0.964",
+            "value": 0.964
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "47.1%",
+            "value": 0.47100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "12.7%",
+            "value": 0.127
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "14.6%",
+            "value": 0.146
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "0.334",
+            "value": 0.334
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "0.342",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "74.0",
+            "value": 74.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "67.3",
+            "value": 67.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "+5.1",
+            "value": 5.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "-6.7",
+            "value": -6.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "UMBC",
+        "adv",
+        "NJIT"
+      ],
+      "team_headers": [
+        "UMBC",
+        "NJIT"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "1.007",
+            "value": 1.007
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "1.060",
+            "value": 1.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "49.8%",
+            "value": 0.498
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "49.8%",
+            "value": 0.498
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "13.1%",
+            "value": 0.131
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "13.6%",
+            "value": 0.136
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "77.1%",
+            "value": 0.7709999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "69.8%",
+            "value": 0.698
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "0.256",
+            "value": 0.256
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "0.385",
+            "value": 0.385
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "68.8",
+            "value": 68.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "74.0",
+            "value": 74.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "4.1%",
+            "value": 0.040999999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "5.5%",
+            "value": 0.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "17.9%",
+            "value": 0.179
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        }
+      ]
+    },
+    "UMBC vs NJIT Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UMBC",
+        "adv",
+        "NJIT"
+      ],
+      "team_headers": [
+        "UMBC",
+        "NJIT"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "68.4",
+            "value": 68.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "69.8",
+            "value": 69.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "1.082",
+            "value": 1.082
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "0.964",
+            "value": 0.964
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "47.1%",
+            "value": 0.47100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "62.0%",
+            "value": 0.62
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "59.9%",
+            "value": 0.599
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "38.0%",
+            "value": 0.38
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "40.1%",
+            "value": 0.401
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "25.1%",
+            "value": 0.251
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "47.5%",
+            "value": 0.475
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "31.1%",
+            "value": 0.311
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "75.5%",
+            "value": 0.755
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "70.6%",
+            "value": 0.706
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "37.6",
+            "value": 37.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "32.3",
+            "value": 32.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "22.2",
+            "value": 22.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "21.2",
+            "value": 21.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "77.1%",
+            "value": 0.7709999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "69.8%",
+            "value": 0.698
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "4.1%",
+            "value": 0.040999999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "5.5%",
+            "value": 0.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "7.7%",
+            "value": 0.077
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "12.7%",
+            "value": 0.127
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "14.6%",
+            "value": 0.146
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "17.9%",
+            "value": 0.179
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "0.455",
+            "value": 0.455
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "0.463",
+            "value": 0.463
+          }
+        }
+      ]
+    },
+    "UMBC vs NJIT Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UMBC",
+        "adv",
+        "NJIT"
+      ],
+      "team_headers": [
+        "UMBC",
+        "NJIT"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "68.4",
+            "value": 68.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "69.8",
+            "value": 69.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "1.007",
+            "value": 1.007
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "1.060",
+            "value": 1.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "49.8%",
+            "value": 0.498
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "49.8%",
+            "value": 0.498
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "63.1%",
+            "value": 0.631
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "59.2%",
+            "value": 0.5920000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "36.9%",
+            "value": 0.369
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "40.8%",
+            "value": 0.408
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "19.8%",
+            "value": 0.198
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "NJIT": {
+            "raw": "28.2%",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "51.0%",
+            "value": 0.51
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "33.3%",
+            "value": 0.33299999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "31.9%",
+            "value": 0.319
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "68.0%",
+            "value": 0.68
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "69.7%",
+            "value": 0.6970000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "36.9",
+            "value": 36.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "35.4",
+            "value": 35.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "21.7",
+            "value": 21.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "22.9",
+            "value": 22.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NJIT": {
+            "raw": "30.2%",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "78.5%",
+            "value": 0.785
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "76.2%",
+            "value": 0.762
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "4.0%",
+            "value": 0.04
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "5.3%",
+            "value": 0.053
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "7.3%",
+            "value": 0.073
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "13.1%",
+            "value": 0.131
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "13.6%",
+            "value": 0.136
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "20.8%",
+            "value": 0.20800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NJIT": {
+            "raw": "21.8%",
+            "value": 0.218
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "UMBC": {
+            "raw": "0.446",
+            "value": 0.446
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NJIT": {
+            "raw": "0.527",
+            "value": 0.527
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_umbc_njit.off_efficiency.umbc": 1.082,
+    "matchup_menu_umbc_njit.off_efficiency.njit": 0.964,
+    "matchup_menu_umbc_njit.effective_fg.umbc": 0.531,
+    "matchup_menu_umbc_njit.effective_fg.njit": 0.47100000000000003,
+    "matchup_menu_umbc_njit.turnovers_play.umbc": 0.127,
+    "matchup_menu_umbc_njit.turnovers_play.njit": 0.146,
+    "matchup_menu_umbc_njit.off_rebound.umbc": 0.215,
+    "matchup_menu_umbc_njit.off_rebound.njit": 0.23800000000000002,
+    "matchup_menu_umbc_njit.fta_fga.umbc": 0.334,
+    "matchup_menu_umbc_njit.fta_fga.njit": 0.342,
+    "matchup_menu_umbc_njit.points_game.umbc": 74.0,
+    "matchup_menu_umbc_njit.points_game.njit": 67.3,
+    "matchup_menu_umbc_njit.avg_score_margin.umbc": 5.1,
+    "matchup_menu_umbc_njit.avg_score_margin.njit": -6.7,
+    "key_offensive_stats.off_efficiency.umbc": 1.082,
+    "key_offensive_stats.off_efficiency.njit": 0.964,
+    "key_offensive_stats.effective_fg.umbc": 0.531,
+    "key_offensive_stats.effective_fg.njit": 0.47100000000000003,
+    "key_offensive_stats.turnovers_play.umbc": 0.127,
+    "key_offensive_stats.turnovers_play.njit": 0.146,
+    "key_offensive_stats.off_rebound.umbc": 0.215,
+    "key_offensive_stats.off_rebound.njit": 0.23800000000000002,
+    "key_offensive_stats.fta_fga.umbc": 0.334,
+    "key_offensive_stats.fta_fga.njit": 0.342,
+    "key_offensive_stats.points_game.umbc": 74.0,
+    "key_offensive_stats.points_game.njit": 67.3,
+    "key_offensive_stats.avg_score_margin.umbc": 5.1,
+    "key_offensive_stats.avg_score_margin.njit": -6.7,
+    "key_defensive_stats.def_efficiency.umbc": 1.007,
+    "key_defensive_stats.def_efficiency.njit": 1.06,
+    "key_defensive_stats.opp_effective_fg.umbc": 0.498,
+    "key_defensive_stats.opp_effective_fg.njit": 0.498,
+    "key_defensive_stats.opp_turnovers_play.umbc": 0.131,
+    "key_defensive_stats.opp_turnovers_play.njit": 0.136,
+    "key_defensive_stats.def_rebound.umbc": 0.7709999999999999,
+    "key_defensive_stats.def_rebound.njit": 0.698,
+    "key_defensive_stats.opp_fta_fga.umbc": 0.256,
+    "key_defensive_stats.opp_fta_fga.njit": 0.385,
+    "key_defensive_stats.opp_points_game.umbc": 68.8,
+    "key_defensive_stats.opp_points_game.njit": 74.0,
+    "key_defensive_stats.block.umbc": 0.040999999999999995,
+    "key_defensive_stats.block.njit": 0.055,
+    "key_defensive_stats.personal_fouls_play.umbc": 0.179,
+    "key_defensive_stats.personal_fouls_play.njit": 0.23,
+    "umbc_vs_njit_offensive_efficiency.possessions_gm.umbc": 68.4,
+    "umbc_vs_njit_offensive_efficiency.possessions_gm.njit": 69.8,
+    "umbc_vs_njit_offensive_efficiency.off_efficiency.umbc": 1.082,
+    "umbc_vs_njit_offensive_efficiency.off_efficiency.njit": 0.964,
+    "umbc_vs_njit_offensive_efficiency.effective_fg.umbc": 0.531,
+    "umbc_vs_njit_offensive_efficiency.effective_fg.njit": 0.47100000000000003,
+    "umbc_vs_njit_offensive_efficiency.two_point_rate.umbc": 0.62,
+    "umbc_vs_njit_offensive_efficiency.two_point_rate.njit": 0.599,
+    "umbc_vs_njit_offensive_efficiency.three_point_rate.umbc": 0.38,
+    "umbc_vs_njit_offensive_efficiency.three_point_rate.njit": 0.401,
+    "umbc_vs_njit_offensive_efficiency.fta_play.umbc": 0.251,
+    "umbc_vs_njit_offensive_efficiency.fta_play.njit": 0.251,
+    "umbc_vs_njit_offensive_efficiency.two_point.umbc": 0.539,
+    "umbc_vs_njit_offensive_efficiency.two_point.njit": 0.475,
+    "umbc_vs_njit_offensive_efficiency.three_point.umbc": 0.345,
+    "umbc_vs_njit_offensive_efficiency.three_point.njit": 0.311,
+    "umbc_vs_njit_offensive_efficiency.free_throw.umbc": 0.755,
+    "umbc_vs_njit_offensive_efficiency.free_throw.njit": 0.706,
+    "umbc_vs_njit_offensive_efficiency.points_2_pters.umbc": 37.6,
+    "umbc_vs_njit_offensive_efficiency.points_2_pters.njit": 32.3,
+    "umbc_vs_njit_offensive_efficiency.points_3_pters.umbc": 22.2,
+    "umbc_vs_njit_offensive_efficiency.points_3_pters.njit": 21.2,
+    "umbc_vs_njit_offensive_efficiency.off_rebound.umbc": 0.215,
+    "umbc_vs_njit_offensive_efficiency.off_rebound.njit": 0.23800000000000002,
+    "umbc_vs_njit_offensive_efficiency.def_rebound.umbc": 0.7709999999999999,
+    "umbc_vs_njit_offensive_efficiency.def_rebound.njit": 0.698,
+    "umbc_vs_njit_offensive_efficiency.block.umbc": 0.040999999999999995,
+    "umbc_vs_njit_offensive_efficiency.block.njit": 0.055,
+    "umbc_vs_njit_offensive_efficiency.steals_play.umbc": 0.057999999999999996,
+    "umbc_vs_njit_offensive_efficiency.steals_play.njit": 0.077,
+    "umbc_vs_njit_offensive_efficiency.turnovers_play.umbc": 0.127,
+    "umbc_vs_njit_offensive_efficiency.turnovers_play.njit": 0.146,
+    "umbc_vs_njit_offensive_efficiency.personal_fouls_play.umbc": 0.179,
+    "umbc_vs_njit_offensive_efficiency.personal_fouls_play.njit": 0.23,
+    "umbc_vs_njit_offensive_efficiency.assists_fgm.umbc": 0.455,
+    "umbc_vs_njit_offensive_efficiency.assists_fgm.njit": 0.463,
+    "umbc_vs_njit_defensive_efficiency.possessions_gm.umbc": 68.4,
+    "umbc_vs_njit_defensive_efficiency.possessions_gm.njit": 69.8,
+    "umbc_vs_njit_defensive_efficiency.def_efficiency.umbc": 1.007,
+    "umbc_vs_njit_defensive_efficiency.def_efficiency.njit": 1.06,
+    "umbc_vs_njit_defensive_efficiency.opp_effective_fg.umbc": 0.498,
+    "umbc_vs_njit_defensive_efficiency.opp_effective_fg.njit": 0.498,
+    "umbc_vs_njit_defensive_efficiency.opp_two_point_rate.umbc": 0.631,
+    "umbc_vs_njit_defensive_efficiency.opp_two_point_rate.njit": 0.5920000000000001,
+    "umbc_vs_njit_defensive_efficiency.opp_three_point_rate.umbc": 0.369,
+    "umbc_vs_njit_defensive_efficiency.opp_three_point_rate.njit": 0.408,
+    "umbc_vs_njit_defensive_efficiency.opp_fta_play.umbc": 0.198,
+    "umbc_vs_njit_defensive_efficiency.opp_fta_play.njit": 0.282,
+    "umbc_vs_njit_defensive_efficiency.opp_two_point.umbc": 0.49700000000000005,
+    "umbc_vs_njit_defensive_efficiency.opp_two_point.njit": 0.51,
+    "umbc_vs_njit_defensive_efficiency.opp_three_point.umbc": 0.33299999999999996,
+    "umbc_vs_njit_defensive_efficiency.opp_three_point.njit": 0.319,
+    "umbc_vs_njit_defensive_efficiency.opp_free_throw.umbc": 0.68,
+    "umbc_vs_njit_defensive_efficiency.opp_free_throw.njit": 0.6970000000000001,
+    "umbc_vs_njit_defensive_efficiency.opp_points_2_pters.umbc": 36.9,
+    "umbc_vs_njit_defensive_efficiency.opp_points_2_pters.njit": 35.4,
+    "umbc_vs_njit_defensive_efficiency.opp_points_3_pters.umbc": 21.7,
+    "umbc_vs_njit_defensive_efficiency.opp_points_3_pters.njit": 22.9,
+    "umbc_vs_njit_defensive_efficiency.opp_off_rebound.umbc": 0.22899999999999998,
+    "umbc_vs_njit_defensive_efficiency.opp_off_rebound.njit": 0.302,
+    "umbc_vs_njit_defensive_efficiency.opp_def_rebound.umbc": 0.785,
+    "umbc_vs_njit_defensive_efficiency.opp_def_rebound.njit": 0.762,
+    "umbc_vs_njit_defensive_efficiency.opp_block.umbc": 0.04,
+    "umbc_vs_njit_defensive_efficiency.opp_block.njit": 0.053,
+    "umbc_vs_njit_defensive_efficiency.opp_steals_play.umbc": 0.073,
+    "umbc_vs_njit_defensive_efficiency.opp_steals_play.njit": 0.08,
+    "umbc_vs_njit_defensive_efficiency.opp_turnovers_play.umbc": 0.131,
+    "umbc_vs_njit_defensive_efficiency.opp_turnovers_play.njit": 0.136,
+    "umbc_vs_njit_defensive_efficiency.opp_personal_fouls_play.umbc": 0.20800000000000002,
+    "umbc_vs_njit_defensive_efficiency.opp_personal_fouls_play.njit": 0.218,
+    "umbc_vs_njit_defensive_efficiency.opp_assists_fgm.umbc": 0.446,
+    "umbc_vs_njit_defensive_efficiency.opp_assists_fgm.njit": 0.527
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "retrievers-highlanders-2026-03-03",
+  "matchup_title": "#221 UMBC at #327 NJIT",
+  "teams": {
+    "away": "#221 UMBC",
+    "home": "#327 NJIT",
+    "neutral_site": false
+  },
+  "time_local": "6:00 PM",
+  "location": "Joel & Diane Bloom Wellness and Events Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/retrievers-highlanders-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/retrievers-highlanders-2026-03-03/efficiency"
+  }
+}

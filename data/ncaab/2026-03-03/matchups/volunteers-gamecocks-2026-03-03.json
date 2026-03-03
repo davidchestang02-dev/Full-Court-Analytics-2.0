@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/volunteers-gamecocks-2026-03-03/efficiency",
+  "scraped_at_utc": "2026-03-03T12:01:36.117995+00:00",
+  "tables": {
+    "Matchup Menu: TENN @ SCAR": {
+      "headers": [
+        "Stat",
+        "TENN",
+        "adv",
+        "SCAR"
+      ],
+      "team_headers": [
+        "TENN",
+        "SCAR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TENN": {
+            "raw": "1.138",
+            "value": 1.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "50.5%",
+            "value": 0.505
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "12.5%",
+            "value": 0.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "44.8%",
+            "value": 0.44799999999999995
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "24.5%",
+            "value": 0.245
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TENN": {
+            "raw": "0.390",
+            "value": 0.39
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "0.370",
+            "value": 0.37
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TENN": {
+            "raw": "80.1",
+            "value": 80.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "75.9",
+            "value": 75.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TENN": {
+            "raw": "+10.9",
+            "value": 10.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "-0.7",
+            "value": -0.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "TENN",
+        "adv",
+        "SCAR"
+      ],
+      "team_headers": [
+        "TENN",
+        "SCAR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TENN": {
+            "raw": "1.138",
+            "value": 1.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "50.5%",
+            "value": 0.505
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "12.5%",
+            "value": 0.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "44.8%",
+            "value": 0.44799999999999995
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "24.5%",
+            "value": 0.245
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TENN": {
+            "raw": "0.390",
+            "value": 0.39
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "0.370",
+            "value": 0.37
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TENN": {
+            "raw": "80.1",
+            "value": 80.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "75.9",
+            "value": 75.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TENN": {
+            "raw": "+10.9",
+            "value": 10.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "-0.7",
+            "value": -0.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "TENN",
+        "adv",
+        "SCAR"
+      ],
+      "team_headers": [
+        "TENN",
+        "SCAR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TENN": {
+            "raw": "0.984",
+            "value": 0.984
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "1.083",
+            "value": 1.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "51.1%",
+            "value": 0.511
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "12.7%",
+            "value": 0.127
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "76.2%",
+            "value": 0.762
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "68.7%",
+            "value": 0.687
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "TENN": {
+            "raw": "0.351",
+            "value": 0.351
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "0.343",
+            "value": 0.343
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "TENN": {
+            "raw": "69.2",
+            "value": 69.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "76.6",
+            "value": 76.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "6.1%",
+            "value": 0.061
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "3.9%",
+            "value": 0.039
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "22.0%",
+            "value": 0.22
+          }
+        }
+      ]
+    },
+    "Tennessee vs South Carolina Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TENN",
+        "adv",
+        "SCAR"
+      ],
+      "team_headers": [
+        "TENN",
+        "SCAR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TENN": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TENN": {
+            "raw": "1.138",
+            "value": 1.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "1.073",
+            "value": 1.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "50.5%",
+            "value": 0.505
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "TENN": {
+            "raw": "67.7%",
+            "value": 0.677
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "56.3%",
+            "value": 0.563
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "TENN": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "43.7%",
+            "value": 0.43700000000000006
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "28.1%",
+            "value": 0.281
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "27.6%",
+            "value": 0.276
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "52.3%",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "53.9%",
+            "value": 0.539
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "30.7%",
+            "value": 0.307
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "78.9%",
+            "value": 0.789
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "TENN": {
+            "raw": "43.2",
+            "value": 43.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "35.4",
+            "value": 35.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "TENN": {
+            "raw": "20.3",
+            "value": 20.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "23.5",
+            "value": 23.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "44.8%",
+            "value": 0.44799999999999995
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "24.5%",
+            "value": 0.245
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "76.2%",
+            "value": 0.762
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "68.7%",
+            "value": 0.687
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "6.1%",
+            "value": 0.061
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "3.9%",
+            "value": 0.039
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "9.7%",
+            "value": 0.09699999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "7.0%",
+            "value": 0.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "12.5%",
+            "value": 0.125
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "22.0%",
+            "value": 0.22
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "TENN": {
+            "raw": "0.600",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "0.526",
+            "value": 0.526
+          }
+        }
+      ]
+    },
+    "Tennessee vs South Carolina Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TENN",
+        "adv",
+        "SCAR"
+      ],
+      "team_headers": [
+        "TENN",
+        "SCAR"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TENN": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TENN": {
+            "raw": "0.984",
+            "value": 0.984
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "1.083",
+            "value": 1.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "51.1%",
+            "value": 0.511
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "TENN": {
+            "raw": "55.2%",
+            "value": 0.552
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "63.8%",
+            "value": 0.638
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "TENN": {
+            "raw": "44.8%",
+            "value": 0.44799999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "36.2%",
+            "value": 0.36200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "25.7%",
+            "value": 0.257
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "49.4%",
+            "value": 0.494
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "30.5%",
+            "value": 0.305
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "32.0%",
+            "value": 0.32
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "69.0%",
+            "value": 0.69
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "71.3%",
+            "value": 0.713
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "TENN": {
+            "raw": "31.5",
+            "value": 31.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "40.8",
+            "value": 40.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "TENN": {
+            "raw": "23.7",
+            "value": 23.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "21.0",
+            "value": 21.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "55.2%",
+            "value": 0.552
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SCAR": {
+            "raw": "75.5%",
+            "value": 0.755
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "TENN": {
+            "raw": "6.5%",
+            "value": 0.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "8.8%",
+            "value": 0.08800000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "7.8%",
+            "value": 0.078
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SCAR": {
+            "raw": "12.7%",
+            "value": 0.127
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "TENN": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SCAR": {
+            "raw": "22.5%",
+            "value": 0.225
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "TENN": {
+            "raw": "0.456",
+            "value": 0.456
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SCAR": {
+            "raw": "0.566",
+            "value": 0.566
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_tenn_scar.off_efficiency.tenn": 1.138,
+    "matchup_menu_tenn_scar.off_efficiency.scar": 1.073,
+    "matchup_menu_tenn_scar.effective_fg.tenn": 0.52,
+    "matchup_menu_tenn_scar.effective_fg.scar": 0.505,
+    "matchup_menu_tenn_scar.turnovers_play.tenn": 0.14400000000000002,
+    "matchup_menu_tenn_scar.turnovers_play.scar": 0.125,
+    "matchup_menu_tenn_scar.off_rebound.tenn": 0.44799999999999995,
+    "matchup_menu_tenn_scar.off_rebound.scar": 0.245,
+    "matchup_menu_tenn_scar.fta_fga.tenn": 0.39,
+    "matchup_menu_tenn_scar.fta_fga.scar": 0.37,
+    "matchup_menu_tenn_scar.points_game.tenn": 80.1,
+    "matchup_menu_tenn_scar.points_game.scar": 75.9,
+    "matchup_menu_tenn_scar.avg_score_margin.tenn": 10.9,
+    "matchup_menu_tenn_scar.avg_score_margin.scar": -0.7,
+    "key_offensive_stats.off_efficiency.tenn": 1.138,
+    "key_offensive_stats.off_efficiency.scar": 1.073,
+    "key_offensive_stats.effective_fg.tenn": 0.52,
+    "key_offensive_stats.effective_fg.scar": 0.505,
+    "key_offensive_stats.turnovers_play.tenn": 0.14400000000000002,
+    "key_offensive_stats.turnovers_play.scar": 0.125,
+    "key_offensive_stats.off_rebound.tenn": 0.44799999999999995,
+    "key_offensive_stats.off_rebound.scar": 0.245,
+    "key_offensive_stats.fta_fga.tenn": 0.39,
+    "key_offensive_stats.fta_fga.scar": 0.37,
+    "key_offensive_stats.points_game.tenn": 80.1,
+    "key_offensive_stats.points_game.scar": 75.9,
+    "key_offensive_stats.avg_score_margin.tenn": 10.9,
+    "key_offensive_stats.avg_score_margin.scar": -0.7,
+    "key_defensive_stats.def_efficiency.tenn": 0.984,
+    "key_defensive_stats.def_efficiency.scar": 1.083,
+    "key_defensive_stats.opp_effective_fg.tenn": 0.47700000000000004,
+    "key_defensive_stats.opp_effective_fg.scar": 0.511,
+    "key_defensive_stats.opp_turnovers_play.tenn": 0.142,
+    "key_defensive_stats.opp_turnovers_play.scar": 0.127,
+    "key_defensive_stats.def_rebound.tenn": 0.762,
+    "key_defensive_stats.def_rebound.scar": 0.687,
+    "key_defensive_stats.opp_fta_fga.tenn": 0.351,
+    "key_defensive_stats.opp_fta_fga.scar": 0.343,
+    "key_defensive_stats.opp_points_game.tenn": 69.2,
+    "key_defensive_stats.opp_points_game.scar": 76.6,
+    "key_defensive_stats.block.tenn": 0.061,
+    "key_defensive_stats.block.scar": 0.039,
+    "key_defensive_stats.personal_fouls_play.tenn": 0.22699999999999998,
+    "key_defensive_stats.personal_fouls_play.scar": 0.22,
+    "tennessee_vs_south_carolina_offensive_efficiency.possessions_gm.tenn": 70.3,
+    "tennessee_vs_south_carolina_offensive_efficiency.possessions_gm.scar": 70.7,
+    "tennessee_vs_south_carolina_offensive_efficiency.off_efficiency.tenn": 1.138,
+    "tennessee_vs_south_carolina_offensive_efficiency.off_efficiency.scar": 1.073,
+    "tennessee_vs_south_carolina_offensive_efficiency.effective_fg.tenn": 0.52,
+    "tennessee_vs_south_carolina_offensive_efficiency.effective_fg.scar": 0.505,
+    "tennessee_vs_south_carolina_offensive_efficiency.two_point_rate.tenn": 0.677,
+    "tennessee_vs_south_carolina_offensive_efficiency.two_point_rate.scar": 0.563,
+    "tennessee_vs_south_carolina_offensive_efficiency.three_point_rate.tenn": 0.32299999999999995,
+    "tennessee_vs_south_carolina_offensive_efficiency.three_point_rate.scar": 0.43700000000000006,
+    "tennessee_vs_south_carolina_offensive_efficiency.fta_play.tenn": 0.281,
+    "tennessee_vs_south_carolina_offensive_efficiency.fta_play.scar": 0.276,
+    "tennessee_vs_south_carolina_offensive_efficiency.two_point.tenn": 0.523,
+    "tennessee_vs_south_carolina_offensive_efficiency.two_point.scar": 0.539,
+    "tennessee_vs_south_carolina_offensive_efficiency.three_point.tenn": 0.34299999999999997,
+    "tennessee_vs_south_carolina_offensive_efficiency.three_point.scar": 0.307,
+    "tennessee_vs_south_carolina_offensive_efficiency.free_throw.tenn": 0.696,
+    "tennessee_vs_south_carolina_offensive_efficiency.free_throw.scar": 0.789,
+    "tennessee_vs_south_carolina_offensive_efficiency.points_2_pters.tenn": 43.2,
+    "tennessee_vs_south_carolina_offensive_efficiency.points_2_pters.scar": 35.4,
+    "tennessee_vs_south_carolina_offensive_efficiency.points_3_pters.tenn": 20.3,
+    "tennessee_vs_south_carolina_offensive_efficiency.points_3_pters.scar": 23.5,
+    "tennessee_vs_south_carolina_offensive_efficiency.off_rebound.tenn": 0.44799999999999995,
+    "tennessee_vs_south_carolina_offensive_efficiency.off_rebound.scar": 0.245,
+    "tennessee_vs_south_carolina_offensive_efficiency.def_rebound.tenn": 0.762,
+    "tennessee_vs_south_carolina_offensive_efficiency.def_rebound.scar": 0.687,
+    "tennessee_vs_south_carolina_offensive_efficiency.block.tenn": 0.061,
+    "tennessee_vs_south_carolina_offensive_efficiency.block.scar": 0.039,
+    "tennessee_vs_south_carolina_offensive_efficiency.steals_play.tenn": 0.09699999999999999,
+    "tennessee_vs_south_carolina_offensive_efficiency.steals_play.scar": 0.07,
+    "tennessee_vs_south_carolina_offensive_efficiency.turnovers_play.tenn": 0.14400000000000002,
+    "tennessee_vs_south_carolina_offensive_efficiency.turnovers_play.scar": 0.125,
+    "tennessee_vs_south_carolina_offensive_efficiency.personal_fouls_play.tenn": 0.22699999999999998,
+    "tennessee_vs_south_carolina_offensive_efficiency.personal_fouls_play.scar": 0.22,
+    "tennessee_vs_south_carolina_offensive_efficiency.assists_fgm.tenn": 0.6,
+    "tennessee_vs_south_carolina_offensive_efficiency.assists_fgm.scar": 0.526,
+    "tennessee_vs_south_carolina_defensive_efficiency.possessions_gm.tenn": 70.3,
+    "tennessee_vs_south_carolina_defensive_efficiency.possessions_gm.scar": 70.7,
+    "tennessee_vs_south_carolina_defensive_efficiency.def_efficiency.tenn": 0.984,
+    "tennessee_vs_south_carolina_defensive_efficiency.def_efficiency.scar": 1.083,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_effective_fg.tenn": 0.47700000000000004,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_effective_fg.scar": 0.511,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_two_point_rate.tenn": 0.552,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_two_point_rate.scar": 0.638,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_three_point_rate.tenn": 0.44799999999999995,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_three_point_rate.scar": 0.36200000000000004,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_fta_play.tenn": 0.259,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_fta_play.scar": 0.257,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_two_point.tenn": 0.494,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_two_point.scar": 0.529,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_three_point.tenn": 0.305,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_three_point.scar": 0.32,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_free_throw.tenn": 0.69,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_free_throw.scar": 0.713,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_points_2_pters.tenn": 31.5,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_points_2_pters.scar": 40.8,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_points_3_pters.tenn": 23.7,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_points_3_pters.scar": 21.0,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_off_rebound.tenn": 0.23800000000000002,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_off_rebound.scar": 0.313,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_def_rebound.tenn": 0.552,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_def_rebound.scar": 0.755,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_block.tenn": 0.065,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_block.scar": 0.063,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_steals_play.tenn": 0.08800000000000001,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_steals_play.scar": 0.078,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_turnovers_play.tenn": 0.142,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_turnovers_play.scar": 0.127,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_personal_fouls_play.tenn": 0.22399999999999998,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_personal_fouls_play.scar": 0.225,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_assists_fgm.tenn": 0.456,
+    "tennessee_vs_south_carolina_defensive_efficiency.opp_assists_fgm.scar": 0.566
+  },
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "slug": "volunteers-gamecocks-2026-03-03",
+  "matchup_title": "#16 Tennessee at #95 South Carolina",
+  "teams": {
+    "away": "#16 Tennessee",
+    "home": "#95 South Carolina",
+    "neutral_site": false
+  },
+  "time_local": "6:00 PM",
+  "location": "Colonial Life Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/volunteers-gamecocks-2026-03-03",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/volunteers-gamecocks-2026-03-03/efficiency"
+  }
+}

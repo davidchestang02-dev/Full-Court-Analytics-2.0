@@ -1,46 +1,125 @@
 # fca/deterministic.py
 from __future__ import annotations
-from typing import Dict, Any, Optional
+
+from typing import Dict, Any, Optional, Tuple, List
+import re
 import math
 
-def _get(feats: Dict[str, Any], key: str) -> Optional[float]:
-    v = feats.get(key)
-    if v is None:
-        return None
+
+def _f(x) -> Optional[float]:
     try:
-        return float(v)
-    except:
+        return float(x)
+    except Exception:
         return None
+
+
+def _get(feats: Dict[str, Any], key: str) -> Optional[float]:
+    if key not in feats:
+        return None
+    return _f(feats.get(key))
+
+
+def _detect_tokens(feats: Dict[str, Any]) -> List[str]:
+    """
+    Find the two team tokens from keys like:
+      key_offensive_stats.off_efficiency.uk
+      key_offensive_stats.off_efficiency.tam
+    """
+    toks = set()
+    prefix = "key_offensive_stats.off_efficiency."
+    for k in feats.keys():
+        if k.startswith(prefix):
+            toks.add(k.split(".")[-1])
+    return sorted(toks)
+
+
+def _map_tokens_home_away(game: Dict[str, Any], tokens: List[str]) -> Tuple[Optional[str], Optional[str]]:
+    """
+    Best source: tables["Matchup Menu: ..."]["team_headers"] which are like ["UK","TAM"].
+    Those headers correspond to away/home in the matchup title "Away @ Home".
+    Your slug example is "UK @ TAM" so headers[0]=away token, headers[1]=home token.
+    """
+    tables = game.get("tables", {}) or {}
+    # find the matchup menu table (starts with "Matchup Menu:")
+    mm = None
+    for name, t in tables.items():
+        if name.lower().startswith("matchup menu"):
+            mm = t
+            break
+
+    if mm and isinstance(mm, dict):
+        hdrs = mm.get("team_headers") or []
+        # team_headers are like ["UK","TAM"] (uppercase)
+        hdrs = [str(x).strip().lower() for x in hdrs if x]
+        # If they match tokens directly:
+        if len(hdrs) >= 2:
+            away_tok, home_tok = hdrs[0], hdrs[1]
+            if away_tok in tokens and home_tok in tokens:
+                return home_tok, away_tok
+
+    # Fallback: assume first token = away, second token = home (usually true but not guaranteed)
+    if len(tokens) == 2:
+        return tokens[1], tokens[0]
+
+    return None, None
+
+
+def _find_possessions_prefix(feats: Dict[str, Any], home_tok: str, away_tok: str) -> Optional[str]:
+    """
+    Finds the dynamic matchup prefix from keys like:
+      kentucky_vs_texas_aandm_offensive_efficiency.possessions_gm.uk
+    We just search for any key that ends with:
+      "offensive_efficiency.possessions_gm.{tok}"
+    and return the prefix up to ".possessions_gm"
+    """
+    suffix_home = f"offensive_efficiency.possessions_gm.{home_tok}"
+    suffix_away = f"offensive_efficiency.possessions_gm.{away_tok}"
+
+    for k in feats.keys():
+        if k.endswith(suffix_home) or k.endswith(suffix_away):
+            # remove ".possessions_gm.{tok}"
+            parts = k.split(".")
+            # last two parts are "possessions_gm" and token
+            # so prefix is everything before that
+            return ".".join(parts[:-2])  # e.g. "kentucky_vs_texas_aandm_offensive_efficiency"
+    return None
+
 
 def project_game(game: Dict[str, Any]) -> Dict[str, Any]:
-    feats = game.get("features", {})
+    feats = game.get("features", {}) or {}
 
-    # pick the matchup-specific keys (you have both key_offensive_stats + matchup tables)
-    # We'll use the long "miss_valley_st_vs_alcorn_st_*" keys when present, fallback to key_*.
-    # We can detect mvsu/alcn tokens from the keys if needed later. For now: use key_*.
-    off_home = _get(feats, "key_offensive_stats.off_efficiency.alcn")  # example
-    off_away = _get(feats, "key_offensive_stats.off_efficiency.mvsu")
-    def_home = _get(feats, "key_defensive_stats.def_efficiency.alcn")
-    def_away = _get(feats, "key_defensive_stats.def_efficiency.mvsu")
+    tokens = _detect_tokens(feats)
+    if len(tokens) != 2:
+        return {"ok": False, "reason": f"token_detect_failed tokens={tokens}"}
 
-    poss_home = _get(feats, "miss_valley_st_vs_alcorn_st_offensive_efficiency.possessions_gm.alcn")
-    poss_away = _get(feats, "miss_valley_st_vs_alcorn_st_offensive_efficiency.possessions_gm.mvsu")
+    home_tok, away_tok = _map_tokens_home_away(game, tokens)
+    if not home_tok or not away_tok:
+        return {"ok": False, "reason": "home_away_token_map_failed"}
 
-    # If these exact keys don't exist for other games, we’ll switch to a dynamic key finder later.
-    # For now, we guard:
+    # Core efficiencies (PPP scored / allowed)
+    off_home = _get(feats, f"key_offensive_stats.off_efficiency.{home_tok}")
+    off_away = _get(feats, f"key_offensive_stats.off_efficiency.{away_tok}")
+    def_home = _get(feats, f"key_defensive_stats.def_efficiency.{home_tok}")
+    def_away = _get(feats, f"key_defensive_stats.def_efficiency.{away_tok}")
+
+    # Possessions from matchup-specific table (preferred)
+    poss_prefix = _find_possessions_prefix(feats, home_tok, away_tok)
+    poss_home = _get(feats, f"{poss_prefix}.possessions_gm.{home_tok}") if poss_prefix else None
+    poss_away = _get(feats, f"{poss_prefix}.possessions_gm.{away_tok}") if poss_prefix else None
+
+    if None in (off_home, off_away, def_home, def_away):
+        return {"ok": False, "reason": "missing_core_efficiency"}
+
     if poss_home is None or poss_away is None:
-        poss_home = _get(feats, "key_offensive_stats.possessions_gm.home")  # placeholder for later
-        poss_away = _get(feats, "key_offensive_stats.possessions_gm.away")
-
-    poss = None
-    if poss_home is not None and poss_away is not None:
+        # If missing, fall back to a neutral default pace
+        # (we’ll improve later by adding a season pace feed)
+        poss = 70.0
+        poss_source = "fallback_default_70"
+    else:
         poss = (poss_home + poss_away) / 2.0
+        poss_source = "matchup_possessions_gm"
 
-    # PPP blend (offense vs opponent defense)
-    # def_eff is PPP allowed; off_eff is PPP scored
-    if None in (off_home, off_away, def_home, def_away, poss):
-        return {"ok": False, "reason": "missing_core_features"}
-
+    # PPP blend
     ppp_home = (off_home + def_away) / 2.0
     ppp_away = (off_away + def_home) / 2.0
 
@@ -52,7 +131,9 @@ def project_game(game: Dict[str, Any]) -> Dict[str, Any]:
 
     return {
         "ok": True,
+        "tokens": {"home": home_tok, "away": away_tok},
         "poss": poss,
+        "poss_source": poss_source,
         "ppp_home": ppp_home,
         "ppp_away": ppp_away,
         "proj_home": score_home,
@@ -61,28 +142,31 @@ def project_game(game: Dict[str, Any]) -> Dict[str, Any]:
         "proj_spread_home": proj_spread_home,
     }
 
+
 def market_edges(proj: Dict[str, Any], odds_game: Optional[Dict[str, Any]]) -> Dict[str, Any]:
     if not proj.get("ok") or not odds_game:
         return {"has_market": False}
 
-    mk = odds_game.get("markets", {})
-    spread = mk.get("spread", {})
-    total = mk.get("total", {})
+    mk = odds_game.get("markets", {}) or {}
+    spread = mk.get("spread", {}) or {}
+    total = mk.get("total", {}) or {}
 
-    # ScoresAndOdds spread lines: away line and home line
-    market_spread_home = spread.get("home", {}).get("line")  # e.g. -9.5
+    market_spread_home = spread.get("home", {}).get("line")  # home line
     market_total = total.get("line")
 
     if market_spread_home is None or market_total is None:
         return {"has_market": False}
 
-    spread_edge = proj["proj_spread_home"] - float(market_spread_home)
-    total_edge = proj["proj_total"] - float(market_total)
+    market_spread_home = float(market_spread_home)
+    market_total = float(market_total)
+
+    spread_edge = proj["proj_spread_home"] - market_spread_home
+    total_edge = proj["proj_total"] - market_total
 
     return {
         "has_market": True,
-        "market_spread_home": float(market_spread_home),
-        "market_total": float(market_total),
+        "market_spread_home": market_spread_home,
+        "market_total": market_total,
         "spread_edge": spread_edge,
         "total_edge": total_edge,
     }

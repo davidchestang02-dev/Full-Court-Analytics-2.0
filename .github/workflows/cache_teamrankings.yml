@@ -28,7 +28,7 @@ jobs:
 
       - name: Run cache
         run: |
-          python scraper/teamrankings_cache.py nba mlb nfl ncaaf ncaab
+          python scraper/teamrankings_cache.py nba ncaab
 
       - name: Commit data updates
         run: |

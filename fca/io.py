@@ -3,7 +3,11 @@ from __future__ import annotations
 import json
 from pathlib import Path
 from typing import Any, Dict, List, Optional
-
+# fca/io.py (inside load_latest_odds_snapshot)
+snap_path = Path(latest["latest_odds_snapshot"])
+if not snap_path.is_absolute():
+    snap_path = (Path(data_dir).parent / snap_path).resolve()
+return read_json(snap_path)
 def read_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 

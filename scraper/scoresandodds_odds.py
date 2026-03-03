@@ -36,6 +36,28 @@ def safe_mkdir(p: Path) -> None:
     p.mkdir(parents=True, exist_ok=True)
 
 
+# ✅ NEW: scrape frequency guard (rate limiter)
+def should_scrape(snapshots_dir: Path, min_interval_minutes: int) -> bool:
+    """
+    Return True if we should scrape now.
+    Uses latest snapshot file modified time in snapshots_dir.
+    """
+    if min_interval_minutes <= 0:
+        return True
+
+    if not snapshots_dir.exists():
+        return True
+
+    snapshots = sorted(snapshots_dir.glob("*.json"))
+    if not snapshots:
+        return True
+
+    latest = snapshots[-1]
+    last_modified = datetime.fromtimestamp(latest.stat().st_mtime, tz=timezone.utc)
+    delta = utc_now() - last_modified
+    return delta.total_seconds() >= (min_interval_minutes * 60)
+
+
 def normalize_team_name(name: str) -> str:
     """
     Normalize for joining across sources (TeamRankings vs ScoresAndOdds).
@@ -153,7 +175,6 @@ def parse_event_cards(html: str) -> List[Dict[str, Any]]:
         home = OddsSide()
 
         # Spread
-        # td[data-field="current-spread"][data-side="away"] etc
         away_spread_td = card.select_one('td[data-field="current-spread"][data-side="away"]')
         home_spread_td = card.select_one('td[data-field="current-spread"][data-side="home"]')
         if away_spread_td:
@@ -170,7 +191,6 @@ def parse_event_cards(html: str) -> List[Dict[str, Any]]:
         # Total
         over_td = card.select_one('td[data-field="current-total"][data-side="over"]')
         under_td = card.select_one('td[data-field="current-total"][data-side="under"]')
-        # Store total on both sides (same number), but keep odds separately
         total_value = None
         if over_td:
             v = over_td.select_one("span.data-value")
@@ -198,7 +218,6 @@ def parse_event_cards(html: str) -> List[Dict[str, Any]]:
             home.moneyline = parse_american_odds(v.get_text(" ", strip=True) if v else "")
 
         # Start time (optional)
-        # there is a <span data-role="localtime" data-value="...Z">
         time_span = card.select_one('span[data-role="localtime"][data-value]')
         start_utc = time_span.get("data-value") if time_span else None
 
@@ -243,19 +262,33 @@ def main() -> int:
     ap.add_argument("--date", default=None, help="YYYY-MM-DD (default: today in UTC)")
     ap.add_argument("--data-dir", default="data", help="Base data dir")
     ap.add_argument("--timeout", type=int, default=25)
+
+    # ✅ NEW: frequency control
+    ap.add_argument(
+        "--min-interval-minutes",
+        type=int,
+        default=15,
+        help="Minimum minutes between snapshots (0 disables rate limiting)."
+    )
+
     args = ap.parse_args()
 
     now = utc_now()
     date_str = args.date or now.strftime("%Y-%m-%d")
 
-    url = build_scoreodds_url(args.sport, date_str)
-    html = fetch_html(url, timeout=args.timeout)
-    games = parse_event_cards(html)
-
     # output dirs
     base = Path(args.data_dir) / args.sport / date_str
     snapshots_dir = base / "odds_snapshots"
     safe_mkdir(snapshots_dir)
+
+    # ✅ NEW: skip scrape if last snapshot too recent
+    if not should_scrape(snapshots_dir, args.min_interval_minutes):
+        print(f"Skipping scrape — last snapshot is newer than {args.min_interval_minutes} minutes.")
+        return 0
+
+    url = build_scoreodds_url(args.sport, date_str)
+    html = fetch_html(url, timeout=args.timeout)
+    games = parse_event_cards(html)
 
     stamp = now.strftime("%H%M%S")
     snapshot_path = snapshots_dir / f"{stamp}.json"

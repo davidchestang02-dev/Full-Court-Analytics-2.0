@@ -27,3 +27,7 @@ tqdm>=4.66
 
 # Optional but recommended
 tenacity>=8.2
+xgboost>=2.0
+lightgbm>=4.0
+duckdb>=0.9
+polars>=0.20

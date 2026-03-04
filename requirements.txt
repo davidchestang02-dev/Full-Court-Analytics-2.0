@@ -1,3 +1,29 @@
-requests
-beautifulsoup4
-lxml
+# Core data
+pandas>=2.0
+numpy>=1.25
+
+# HTTP scraping
+requests>=2.31
+
+# HTML parsing
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# Date / time utilities
+python-dateutil>=2.8
+
+# Machine learning
+scikit-learn>=1.3
+joblib>=1.3
+
+# Data storage / formats
+pyarrow>=14.0
+
+# Visualization / UI
+streamlit>=1.30
+
+# Utility
+tqdm>=4.66
+
+# Optional but recommended
+tenacity>=8.2

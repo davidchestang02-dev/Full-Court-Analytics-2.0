@@ -40,17 +40,17 @@ Supported sports:
 
 ```mermaid
 flowchart TD
-    A[teamrankings_cache.py] --> B[data/{sport}/{date}/combined_daily.json]
-    C[scoresandodds_odds.py] --> D[data/{sport}/{date}/odds_snapshots/*.json]
+    A[teamrankings_cache.py] --> B[data sport date combined_daily.json]
+    C[scoresandodds_odds.py] --> D[data sport date odds_snapshots files]
     E[scoresandodds_board.py] --> D
-    D --> F[data/{sport}/{date}/odds_snapshots/index.json]
+    D --> F[data sport date odds_snapshots index.json]
     B --> G[pipelines/model_pipeline.py]
     F --> G
-    G --> H[data/{sport}/{date}/predictions/baseline_v1.json]
+    G --> H[data sport date predictions baseline_v1.json]
     E --> I[latest board snapshot]
     H --> J[pipelines/results_pipeline.py]
     I --> J
-    J --> K[data/{sport}/{date}/results/final_results.json]
+    J --> K[data sport date results final_results.json]
     H --> L[Streamlit app/pages]
     K --> L
 ```

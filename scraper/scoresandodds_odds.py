@@ -7,15 +7,18 @@ import os
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 
 
 BASE_URL = "https://www.scoresandodds.com"
+
+ET = ZoneInfo("America/New_York")
 
 SPORTS = {
     # Keep MLB/NFL stubs for later if you want to expand
@@ -26,6 +29,14 @@ SPORTS = {
 
 def utc_now() -> datetime:
     return datetime.now(timezone.utc)
+
+
+def et_today_str() -> str:
+    return datetime.now(ET).strftime("%Y-%m-%d")
+
+
+def et_tomorrow_str() -> str:
+    return (datetime.now(ET) + timedelta(days=1)).strftime("%Y-%m-%d")
 
 
 def iso_utc(dt: datetime) -> str:

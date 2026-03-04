@@ -1,0 +1,3646 @@
+{
+  "sport": "ncaab",
+  "scraped_at_utc": "2026-03-04T06:41:18.190937+00:00",
+  "games": [
+    {
+      "event_id": 8514440,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "Tennessee (23)",
+        "home": "South Carolina"
+      },
+      "final": {
+        "away": 78,
+        "home": 59
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -10.5,
+            "odds": -115
+          },
+          "home": {
+            "line": 10.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 141.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -625
+          },
+          "home": {
+            "odds": 455
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582640,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "UMass Lowell",
+        "home": "Maine"
+      },
+      "final": {
+        "away": 67,
+        "home": 56
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": 100
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -120
+          }
+        },
+        "total": {
+          "line": 139.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -115
+          },
+          "home": {
+            "odds": -105
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582600,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "Bryant",
+        "home": "New Hampshire"
+      },
+      "final": {
+        "away": 83,
+        "home": 88
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 2.5,
+            "odds": -115
+          },
+          "home": {
+            "line": -2.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 135.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 110
+          },
+          "home": {
+            "odds": -130
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 11934350,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "Georgia State",
+        "home": "Louisiana"
+      },
+      "final": {
+        "away": 75,
+        "home": 84
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": -102
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -118
+          }
+        },
+        "total": {
+          "line": 134.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -120
+          },
+          "home": {
+            "odds": 100
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582700,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "UMBC",
+        "home": "NJIT"
+      },
+      "final": {
+        "away": 91,
+        "home": 52
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -4.5,
+            "odds": -105
+          },
+          "home": {
+            "line": 4.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -205
+          },
+          "home": {
+            "odds": 170
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8514400,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:30:00Z",
+      "teams": {
+        "away": "Alabama (16)",
+        "home": "Georgia"
+      },
+      "final": {
+        "away": 88,
+        "home": 98
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": -110
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 179.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -125
+          },
+          "home": {
+            "odds": 105
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582710,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:30:00Z",
+      "teams": {
+        "away": "Eastern Michigan",
+        "home": "Buffalo"
+      },
+      "final": {
+        "away": 67,
+        "home": 72
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 5.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -5.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over": {
+            "odds": -112
+          },
+          "under": {
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 205
+          },
+          "home": {
+            "odds": -250
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582790,
+      "state": "FINAL",
+      "start_utc": "2026-03-03T23:31:00Z",
+      "teams": {
+        "away": "Towson",
+        "home": "Stony Brook"
+      },
+      "final": {
+        "away": 69,
+        "home": 57
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": -105
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 137.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -118
+          },
+          "home": {
+            "odds": -102
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582750,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "UNC Wilmington",
+        "home": "Elon"
+      },
+      "final": {
+        "away": 76,
+        "home": 57
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -4.5,
+            "odds": -112
+          },
+          "home": {
+            "line": 4.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 145.5,
+          "over": {
+            "odds": -112
+          },
+          "under": {
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -218
+          },
+          "home": {
+            "odds": 180
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8514360,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Missouri",
+        "home": "Oklahoma"
+      },
+      "final": {
+        "away": 64,
+        "home": 80
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": 102
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -122
+          }
+        },
+        "total": {
+          "line": 153.5,
+          "over": {
+            "odds": -112
+          },
+          "under": {
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -115
+          },
+          "home": {
+            "odds": -105
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582650,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Akron",
+        "home": "Central Michigan"
+      },
+      "final": {
+        "away": 77,
+        "home": 64
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -11.5,
+            "odds": -108
+          },
+          "home": {
+            "line": 11.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 158.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -750
+          },
+          "home": {
+            "odds": 525
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582740,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Monmouth",
+        "home": "Northeastern"
+      },
+      "final": {
+        "away": 89,
+        "home": 83
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -3.5,
+            "odds": -115
+          },
+          "home": {
+            "line": 3.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 148.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -185
+          },
+          "home": {
+            "odds": 154
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582690,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Hampton",
+        "home": "William & Mary"
+      },
+      "final": {
+        "away": 85,
+        "home": 94
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 11.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -11.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 158.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 425
+          },
+          "home": {
+            "odds": -575
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582720,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Toledo",
+        "home": "Miami (OH) (19)"
+      },
+      "final": {
+        "away": 72,
+        "home": 74
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 7.5,
+            "odds": -105
+          },
+          "home": {
+            "line": -7.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 162.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 320
+          },
+          "home": {
+            "odds": -410
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 11939590,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Holy Cross",
+        "home": "Lafayette"
+      },
+      "final": {
+        "away": 82,
+        "home": 77
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 4.5,
+            "odds": -112
+          },
+          "home": {
+            "line": -4.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 141.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 164
+          },
+          "home": {
+            "odds": -198
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582840,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "University at Albany",
+        "home": "Vermont"
+      },
+      "final": {
+        "away": 56,
+        "home": 69
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 9.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -9.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 136.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 350
+          },
+          "home": {
+            "odds": -455
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 9170910,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Georgetown",
+        "home": "St. John's (18)"
+      },
+      "final": {
+        "away": 69,
+        "home": 72
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 15.5,
+            "odds": -112
+          },
+          "home": {
+            "line": -15.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 148.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 1000
+          },
+          "home": {
+            "odds": -1800
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10330810,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "TCU",
+        "home": "Texas Tech (10)"
+      },
+      "final": {
+        "away": 73,
+        "home": 65
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 8.5,
+            "odds": -115
+          },
+          "home": {
+            "line": -8.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 330
+          },
+          "home": {
+            "odds": -425
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 9133560,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Clemson",
+        "home": "North Carolina (17)"
+      },
+      "final": {
+        "away": 63,
+        "home": 67
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 2.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -2.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 141.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 130
+          },
+          "home": {
+            "odds": -155
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8514430,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Kentucky",
+        "home": "Texas A&M"
+      },
+      "final": {
+        "away": 85,
+        "home": 96
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -112
+          },
+          "home": {
+            "line": -1.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 162.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 100
+          },
+          "home": {
+            "odds": -120
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10360540,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "George Mason",
+        "home": "VCU"
+      },
+      "final": {
+        "away": 65,
+        "home": 70
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 9.5,
+            "odds": -105
+          },
+          "home": {
+            "line": -9.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 440
+          },
+          "home": {
+            "odds": -600
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582800,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Ohio",
+        "home": "UMass"
+      },
+      "final": {
+        "away": 82,
+        "home": 94
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -1.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 156.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 110
+          },
+          "home": {
+            "odds": -130
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582880,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Drexel",
+        "home": "Hofstra"
+      },
+      "final": {
+        "away": 51,
+        "home": 62
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 8.5,
+            "odds": -108
+          },
+          "home": {
+            "line": -8.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 133.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 340
+          },
+          "home": {
+            "odds": -440
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10330820,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Oklahoma State",
+        "home": "UCF"
+      },
+      "final": {
+        "away": 111,
+        "home": 104
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 8.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -8.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 167.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 330
+          },
+          "home": {
+            "odds": -425
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10360560,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Dayton",
+        "home": "Richmond"
+      },
+      "final": {
+        "away": 65,
+        "home": 60
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -5.5,
+            "odds": -102
+          },
+          "home": {
+            "line": 5.5,
+            "odds": -118
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -218
+          },
+          "home": {
+            "odds": 180
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582660,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Ball State",
+        "home": "Western Michigan"
+      },
+      "final": {
+        "away": 74,
+        "home": 71
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -115
+          },
+          "home": {
+            "line": -1.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 138.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 102
+          },
+          "home": {
+            "odds": -122
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 9170890,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Seton Hall",
+        "home": "Xavier"
+      },
+      "final": {
+        "away": 77,
+        "home": 68
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": -112
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -125
+          },
+          "home": {
+            "odds": 105
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 9133530,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Wake Forest",
+        "home": "Virginia (13)"
+      },
+      "final": {
+        "away": 70,
+        "home": 75
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 14.5,
+            "odds": -105
+          },
+          "home": {
+            "line": -14.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 150.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 950
+          },
+          "home": {
+            "odds": -1650
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 11939600,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Army",
+        "home": "Bucknell"
+      },
+      "final": {
+        "away": 55,
+        "home": 65
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -120
+          },
+          "home": {
+            "line": -1.5,
+            "odds": 100
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -105
+          },
+          "home": {
+            "odds": -115
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582770,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "North Carolina A&T",
+        "home": "Campbell"
+      },
+      "final": {
+        "away": 72,
+        "home": 90
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 8.5,
+            "odds": -108
+          },
+          "home": {
+            "line": -8.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 154.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 310
+          },
+          "home": {
+            "odds": -395
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10566470,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Arkansas-Pine Bluff",
+        "home": "Jackson State"
+      },
+      "final": {
+        "away": 78,
+        "home": 81
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": -102
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -118
+          }
+        },
+        "total": {
+          "line": 153.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -122
+          },
+          "home": {
+            "odds": 102
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8514310,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Mississippi State",
+        "home": "Florida (5)"
+      },
+      "final": {
+        "away": 74,
+        "home": 108
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 20.5,
+            "odds": -105
+          },
+          "home": {
+            "line": -20.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 161.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 1600
+          },
+          "home": {
+            "odds": -4000
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10566570,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Southern University",
+        "home": "Alabama State"
+      },
+      "final": {
+        "away": 71,
+        "home": 64
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -125
+          },
+          "home": {
+            "line": -1.5,
+            "odds": 105
+          }
+        },
+        "total": {
+          "line": 153.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -105
+          },
+          "home": {
+            "odds": -115
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10330790,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "West Virginia",
+        "home": "Kansas State"
+      },
+      "final": {
+        "away": 63,
+        "home": 65
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -3.5,
+            "odds": -112
+          },
+          "home": {
+            "line": 3.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -192
+          },
+          "home": {
+            "odds": 160
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8582780,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Kent State",
+        "home": "Northern Illinois"
+      },
+      "final": {
+        "away": 102,
+        "home": 76
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -10.5,
+            "odds": -108
+          },
+          "home": {
+            "line": 10.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 148.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -575
+          },
+          "home": {
+            "odds": 425
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10566600,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T01:30:00Z",
+      "teams": {
+        "away": "Grambling State",
+        "home": "Alabama A&M"
+      },
+      "final": {
+        "away": 63,
+        "home": 77
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 2.5,
+            "odds": -112
+          },
+          "home": {
+            "line": -2.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 140.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 124
+          },
+          "home": {
+            "odds": -148
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 11934340,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T01:30:00Z",
+      "teams": {
+        "away": "Louisiana-Monroe",
+        "home": "Old Dominion"
+      },
+      "final": {
+        "away": 80,
+        "home": 87
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 9.5,
+            "odds": -102
+          },
+          "home": {
+            "line": -9.5,
+            "odds": -118
+          }
+        },
+        "total": {
+          "line": 157.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 440
+          },
+          "home": {
+            "odds": -600
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 9133540,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Boston College",
+        "home": "Virginia Tech"
+      },
+      "final": {
+        "away": 63,
+        "home": 72
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 11.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -11.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 142.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 550
+          },
+          "home": {
+            "odds": -800
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 9133550,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Syracuse",
+        "home": "Louisville"
+      },
+      "final": {
+        "away": 62,
+        "home": 77
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 14.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -14.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 159.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 800
+          },
+          "home": {
+            "odds": -1350
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10574860,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "San Jose State",
+        "home": "Fresno State"
+      },
+      "final": {
+        "away": 68,
+        "home": 82
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 7.5,
+            "odds": -108
+          },
+          "home": {
+            "line": -7.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 150.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 275
+          },
+          "home": {
+            "odds": -345
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10574840,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "San Diego State",
+        "home": "Boise State"
+      },
+      "final": {
+        "away": 77,
+        "home": 86
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -130
+          },
+          "home": {
+            "line": -1.5,
+            "odds": 110
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over": {
+            "odds": -112
+          },
+          "under": {
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -105
+          },
+          "home": {
+            "odds": -115
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10330800,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Kansas (14)",
+        "home": "Arizona State"
+      },
+      "final": {
+        "away": 60,
+        "home": 70
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -5.5,
+            "odds": -115
+          },
+          "home": {
+            "line": 5.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 151.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -265
+          },
+          "home": {
+            "odds": 215
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10330780,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Colorado",
+        "home": "Utah"
+      },
+      "final": {
+        "away": 92,
+        "home": 78
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": 105
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -125
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over": {
+            "odds": -112
+          },
+          "under": {
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -112
+          },
+          "home": {
+            "odds": -108
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10566460,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Mississippi Valley State",
+        "home": "Alcorn State"
+      },
+      "final": {
+        "away": 64,
+        "home": 67
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 9.5,
+            "odds": -110
+          },
+          "home": {
+            "line": -9.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 139.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 410
+          },
+          "home": {
+            "odds": -550
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10574830,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Grand Canyon",
+        "home": "Air Force"
+      },
+      "final": {
+        "away": 86,
+        "home": 60
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -19.5,
+            "odds": -105
+          },
+          "home": {
+            "line": 19.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -2800
+          },
+          "home": {
+            "odds": 1300
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 11724970,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Vanderbilt (24)",
+        "home": "Ole Miss"
+      },
+      "final": {
+        "away": 89,
+        "home": 86
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -7.5,
+            "odds": -108
+          },
+          "home": {
+            "line": 7.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 155.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -310
+          },
+          "home": {
+            "odds": 250
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "win"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "loss"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10329140,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Oregon",
+        "home": "Illinois (11)"
+      },
+      "final": {
+        "away": 54,
+        "home": 80
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 17.5,
+            "odds": -115
+          },
+          "home": {
+            "line": -17.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 1200
+          },
+          "home": {
+            "odds": -2400
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10330830,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "BYU",
+        "home": "Cincinnati"
+      },
+      "final": {
+        "away": 68,
+        "home": 90
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -102
+          },
+          "home": {
+            "line": -1.5,
+            "odds": -118
+          }
+        },
+        "total": {
+          "line": 151.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 110
+          },
+          "home": {
+            "odds": -130
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10574820,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T03:00:00Z",
+      "teams": {
+        "away": "Nevada",
+        "home": "Wyoming"
+      },
+      "final": {
+        "away": 73,
+        "home": 83
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -1.5,
+            "odds": -110
+          },
+          "home": {
+            "line": 1.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over": {
+            "odds": -105
+          },
+          "under": {
+            "odds": -115
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -125
+          },
+          "home": {
+            "odds": 105
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 8514520,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T03:00:00Z",
+      "teams": {
+        "away": "LSU",
+        "home": "Auburn"
+      },
+      "final": {
+        "away": 74,
+        "home": 88
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 10.5,
+            "odds": -115
+          },
+          "home": {
+            "line": -10.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 155.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": 400
+          },
+          "home": {
+            "odds": -535
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10574850,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T04:00:00Z",
+      "teams": {
+        "away": "Utah State",
+        "home": "UNLV"
+      },
+      "final": {
+        "away": 65,
+        "home": 92
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -7.5,
+            "odds": -110
+          },
+          "home": {
+            "line": 7.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 156.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -360
+          },
+          "home": {
+            "odds": 285
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "win"
+          ],
+          "home": [
+            "loss"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    },
+    {
+      "event_id": 10329160,
+      "state": "FINAL",
+      "start_utc": "2026-03-04T04:00:00Z",
+      "teams": {
+        "away": "Nebraska (9)",
+        "home": "UCLA"
+      },
+      "final": {
+        "away": 52,
+        "home": 72
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 1.5,
+            "odds": -125
+          },
+          "home": {
+            "line": -1.5,
+            "odds": 105
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": -108
+          },
+          "home": {
+            "odds": -112
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "total": {
+          "away": [
+            "loss"
+          ],
+          "home": [
+            "win"
+          ]
+        },
+        "moneyline": {
+          "away": [
+            "event-card-moneyline",
+            "loss"
+          ],
+          "home": [
+            "event-card-moneyline",
+            "win"
+          ]
+        }
+      }
+    }
+  ]
+}

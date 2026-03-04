@@ -1,0 +1,21 @@
+{
+  "scraped_at_utc": "2026-03-03T12:01:17.082979+00:00",
+  "sports": {
+    "nba": {
+      "schedule_url": "https://www.teamrankings.com/nba/schedules/",
+      "dates": [
+        "2026-03-03"
+      ],
+      "latest_date": "2026-03-03",
+      "out_of_season": false
+    },
+    "ncaab": {
+      "schedule_url": "https://www.teamrankings.com/ncb/schedules/",
+      "dates": [
+        "2026-03-03"
+      ],
+      "latest_date": "2026-03-03",
+      "out_of_season": false
+    }
+  }
+}

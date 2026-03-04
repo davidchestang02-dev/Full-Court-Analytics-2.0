@@ -1,11 +1,14 @@
 from __future__ import annotations
 
-from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
+from zoneinfo import ZoneInfo
 
 from fca.io import read_json
+from fca.join import normalize_team_name
+
+ET = ZoneInfo("America/New_York")
 
 
 def _parse_iso(dt: str) -> Optional[datetime]:
@@ -19,50 +22,93 @@ def _parse_iso(dt: str) -> Optional[datetime]:
 
 
 def load_odds_index(data_dir: str, sport: str, date_str: str) -> Dict[str, Any]:
-    """
-    Loads: data/<sport>/<date>/odds_snapshots/index.json
-    """
     p = Path(data_dir) / sport / date_str / "odds_snapshots" / "index.json"
     return read_json(p)
 
 
-def choose_snapshot_for_game(
-    index: Dict[str, Any],
+def _match_odds_event_by_teams(game: Dict[str, Any], odds_games: List[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
+    gt = game.get("teams") or {}
+    g_away = normalize_team_name(gt.get("away", ""))
+    g_home = normalize_team_name(gt.get("home", ""))
+
+    for og in odds_games:
+        ot = og.get("teams") or {}
+        if normalize_team_name(ot.get("away", "")) == g_away and normalize_team_name(ot.get("home", "")) == g_home:
+            return og
+    return None
+
+
+def _load_snapshot(data_dir: str, sport: str, date_str: str, rel_path: str) -> Dict[str, Any]:
+    p = Path(rel_path)
+    if p.is_absolute() or p.exists():
+        return read_json(p)
+    return read_json(Path(data_dir) / sport / date_str / rel_path)
+
+
+def _derive_start_utc_from_game(date_str: str, game: Dict[str, Any]) -> Optional[str]:
+    raw = (game.get("time_local") or "").strip()
+    if not raw:
+        return None
+
+    raw = raw.replace("ET", "").replace("EST", "").replace("EDT", "").strip()
+    for fmt in ("%I:%M %p", "%I %p"):
+        try:
+            local_dt = datetime.strptime(f"{date_str} {raw}", f"%Y-%m-%d {fmt}").replace(tzinfo=ET)
+            return local_dt.astimezone(timezone.utc).isoformat()
+        except Exception:
+            continue
+    return None
+
+
+def choose_pregame_odds_for_game(
+    game: Dict[str, Any],
+    odds_index: Dict[str, Any],
     data_dir: str,
     sport: str,
     date_str: str,
-    game_start_utc: Optional[str],
-) -> Optional[Dict[str, Any]]:
+) -> Tuple[Optional[Dict[str, Any]], Optional[str], Optional[int]]:
     """
-    Pick the latest snapshot whose scraped_at_utc <= game_start_utc.
-    If game_start_utc missing, fall back to last snapshot in index.
+    Returns:
+      (odds_event_for_game, start_utc, event_id)
+
+    - If game has no start_utc, first match the game in the latest snapshot to get start_utc + event_id.
+    - Then select the last snapshot where scraped_at_utc < start_utc and return that game's odds.
     """
-    snaps: List[Dict[str, str]] = index.get("snapshots") or []
+    snaps: List[Dict[str, str]] = odds_index.get("snapshots") or []
     if not snaps:
-        return None
+        return None, None, None
 
-    start_dt = _parse_iso(game_start_utc) if game_start_utc else None
+    latest = snaps[-1]
+    latest_snap = _load_snapshot(data_dir, sport, date_str, latest["path"])
+    latest_match = _match_odds_event_by_teams(game, latest_snap.get("games", []))
+    if not latest_match:
+        return None, None, None
 
-    # If we don't know start time, take most recent snapshot
+    start_utc = latest_match.get("start_utc")
+    event_id = latest_match.get("event_id")
+    if not start_utc:
+        start_utc = _derive_start_utc_from_game(date_str, game)
+    start_dt = _parse_iso(start_utc)
+
     if not start_dt:
-        last = snaps[-1]
-        snap_path = Path(data_dir) / sport / date_str / last["path"]
-        return read_json(snap_path)
+        return latest_match, start_utc, event_id
 
-    # Find all snapshots scraped before start
-    best = None
+    best_ref: Optional[Dict[str, str]] = None
     best_dt = None
 
     for s in snaps:
         sdt = _parse_iso(s.get("scraped_at_utc", ""))
         if not sdt:
             continue
-        if sdt <= start_dt:
+        if sdt < start_dt:
             if best_dt is None or sdt > best_dt:
-                best = s
                 best_dt = sdt
+                best_ref = s
 
-    # If none are before start (rare), fall back to earliest snapshot
-    chosen = best or snaps[0]
-    snap_path = Path(data_dir) / sport / date_str / chosen["path"]
-    return read_json(snap_path)
+    if best_ref is None:
+        return None, start_utc, event_id
+
+    best_snap = _load_snapshot(data_dir, sport, date_str, best_ref["path"])
+    best_match = _match_odds_event_by_teams(game, best_snap.get("games", []))
+
+    return best_match, start_utc, event_id

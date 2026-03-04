@@ -1,0 +1,1880 @@
+{
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "scraped_at_utc": "2026-03-04T04:38:04.063956+00:00",
+  "source_url": "https://www.scoresandodds.com/ncaab?date=2026-03-03",
+  "games": [
+    {
+      "event_id": 11724970,
+      "source": "scoresandodds",
+      "start_utc": null,
+      "teams": {
+        "away": "Vanderbilt",
+        "home": "Ole Miss",
+        "away_norm": "vanderbilt",
+        "home_norm": "ole miss"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10574820,
+      "source": "scoresandodds",
+      "start_utc": null,
+      "teams": {
+        "away": "Nevada",
+        "home": "Wyoming",
+        "away_norm": "nevada",
+        "home_norm": "wyoming"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8514520,
+      "source": "scoresandodds",
+      "start_utc": null,
+      "teams": {
+        "away": "LSU",
+        "home": "Auburn",
+        "away_norm": "lsu",
+        "home_norm": "auburn"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10329160,
+      "source": "scoresandodds",
+      "start_utc": null,
+      "teams": {
+        "away": "Nebraska",
+        "home": "UCLA",
+        "away_norm": "nebraska",
+        "home_norm": "ucla"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10574850,
+      "source": "scoresandodds",
+      "start_utc": null,
+      "teams": {
+        "away": "Utah State",
+        "home": "UNLV",
+        "away_norm": "utah state",
+        "home_norm": "unlv"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582700,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "UMBC",
+        "home": "NJIT",
+        "away_norm": "umbc",
+        "home_norm": "njit"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582640,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "UMass Lowell",
+        "home": "Maine",
+        "away_norm": "umass lowell",
+        "home_norm": "maine"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582600,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "Bryant",
+        "home": "New Hampshire",
+        "away_norm": "bryant",
+        "home_norm": "new hampshire"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8514440,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "Tennessee",
+        "home": "South Carolina",
+        "away_norm": "tennessee",
+        "home_norm": "south carolina"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 11934350,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:00:00Z",
+      "teams": {
+        "away": "Georgia State",
+        "home": "Louisiana",
+        "away_norm": "georgia state",
+        "home_norm": "louisiana"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582710,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:30:00Z",
+      "teams": {
+        "away": "Eastern Michigan",
+        "home": "Buffalo",
+        "away_norm": "eastern michigan",
+        "home_norm": "buffalo"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8514400,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:30:00Z",
+      "teams": {
+        "away": "Alabama",
+        "home": "Georgia",
+        "away_norm": "alabama",
+        "home_norm": "georgia"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582790,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-03T23:31:00Z",
+      "teams": {
+        "away": "Towson",
+        "home": "Stony Brook",
+        "away_norm": "towson",
+        "home_norm": "stony brook"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582740,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Monmouth",
+        "home": "Northeastern",
+        "away_norm": "monmouth",
+        "home_norm": "northeastern"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582690,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Hampton",
+        "home": "William & Mary",
+        "away_norm": "hampton",
+        "home_norm": "william and mary"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582650,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Akron",
+        "home": "Central Michigan",
+        "away_norm": "akron",
+        "home_norm": "central michigan"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 9170910,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Georgetown",
+        "home": "St. John's",
+        "away_norm": "georgetown",
+        "home_norm": "st johns"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 9133530,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Wake Forest",
+        "home": "Virginia",
+        "away_norm": "wake forest",
+        "home_norm": "virginia"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582720,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Toledo",
+        "home": "Miami (OH)",
+        "away_norm": "toledo",
+        "home_norm": "miami oh"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582660,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Ball State",
+        "home": "Western Michigan",
+        "away_norm": "ball state",
+        "home_norm": "western michigan"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582770,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "North Carolina A&T",
+        "home": "Campbell",
+        "away_norm": "north carolina aandt",
+        "home_norm": "campbell"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582880,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Drexel",
+        "home": "Hofstra",
+        "away_norm": "drexel",
+        "home_norm": "hofstra"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 11939590,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Holy Cross",
+        "home": "Lafayette",
+        "away_norm": "holy cross",
+        "home_norm": "lafayette"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10360560,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Dayton",
+        "home": "Richmond",
+        "away_norm": "dayton",
+        "home_norm": "richmond"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8514430,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Kentucky",
+        "home": "Texas A&M",
+        "away_norm": "kentucky",
+        "home_norm": "texas aandm"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582800,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Ohio",
+        "home": "UMass",
+        "away_norm": "ohio",
+        "home_norm": "umass"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10330820,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Oklahoma State",
+        "home": "UCF",
+        "away_norm": "oklahoma state",
+        "home_norm": "ucf"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 11939600,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Army",
+        "home": "Bucknell",
+        "away_norm": "army",
+        "home_norm": "bucknell"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8514360,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Missouri",
+        "home": "Oklahoma",
+        "away_norm": "missouri",
+        "home_norm": "oklahoma"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582840,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "University at Albany",
+        "home": "Vermont",
+        "away_norm": "university at albany",
+        "home_norm": "vermont"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10330810,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "TCU",
+        "home": "Texas Tech",
+        "away_norm": "tcu",
+        "home_norm": "texas tech"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10360540,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "George Mason",
+        "home": "VCU",
+        "away_norm": "george mason",
+        "home_norm": "vcu"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 9133560,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Clemson",
+        "home": "North Carolina",
+        "away_norm": "clemson",
+        "home_norm": "north carolina"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582750,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "UNC Wilmington",
+        "home": "Elon",
+        "away_norm": "unc wilmington",
+        "home_norm": "elon"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 9170890,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T00:00:00Z",
+      "teams": {
+        "away": "Seton Hall",
+        "home": "Xavier",
+        "away_norm": "seton hall",
+        "home_norm": "xavier"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10566470,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Arkansas-Pine Bluff",
+        "home": "Jackson State",
+        "away_norm": "arkansas-pine bluff",
+        "home_norm": "jackson state"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8582780,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Kent State",
+        "home": "Northern Illinois",
+        "away_norm": "kent state",
+        "home_norm": "northern illinois"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 8514310,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Mississippi State",
+        "home": "Florida",
+        "away_norm": "mississippi state",
+        "home_norm": "florida"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10566570,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "Southern University",
+        "home": "Alabama State",
+        "away_norm": "southern university",
+        "home_norm": "alabama state"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10330790,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T01:00:00Z",
+      "teams": {
+        "away": "West Virginia",
+        "home": "Kansas State",
+        "away_norm": "west virginia",
+        "home_norm": "kansas state"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 11934340,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T01:30:00Z",
+      "teams": {
+        "away": "Louisiana-Monroe",
+        "home": "Old Dominion",
+        "away_norm": "louisiana-monroe",
+        "home_norm": "old dominion"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10566600,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T01:30:00Z",
+      "teams": {
+        "away": "Grambling State",
+        "home": "Alabama A&M",
+        "away_norm": "grambling state",
+        "home_norm": "alabama aandm"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10574830,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Grand Canyon",
+        "home": "Air Force",
+        "away_norm": "grand canyon",
+        "home_norm": "air force"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10574860,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "San Jose State",
+        "home": "Fresno State",
+        "away_norm": "san jose state",
+        "home_norm": "fresno state"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10574840,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "San Diego State",
+        "home": "Boise State",
+        "away_norm": "san diego state",
+        "home_norm": "boise state"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10566460,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Mississippi Valley State",
+        "home": "Alcorn State",
+        "away_norm": "mississippi valley state",
+        "home_norm": "alcorn state"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10329140,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Oregon",
+        "home": "Illinois",
+        "away_norm": "oregon",
+        "home_norm": "illinois"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10330780,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Colorado",
+        "home": "Utah",
+        "away_norm": "colorado",
+        "home_norm": "utah"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 9133550,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Syracuse",
+        "home": "Louisville",
+        "away_norm": "syracuse",
+        "home_norm": "louisville"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10330800,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Kansas",
+        "home": "Arizona State",
+        "away_norm": "kansas",
+        "home_norm": "arizona state"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 10330830,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "BYU",
+        "home": "Cincinnati",
+        "away_norm": "byu",
+        "home_norm": "cincinnati"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    },
+    {
+      "event_id": 9133540,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-04T02:00:00Z",
+      "teams": {
+        "away": "Boston College",
+        "home": "Virginia Tech",
+        "away_norm": "boston college",
+        "home_norm": "virginia tech"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": null,
+          "home": null
+        }
+      }
+    }
+  ]
+}

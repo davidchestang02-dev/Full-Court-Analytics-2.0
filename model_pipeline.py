@@ -5,9 +5,10 @@ import json
 from pathlib import Path
 from datetime import datetime, timezone
 
-from fca.io import load_combined_daily, load_latest_odds_snapshot
-from fca.join import attach_odds
+from fca.io import load_combined_daily, load_latest_odds_snapshot_for_date
 from fca.deterministic import project_game, market_edges
+from fca.odds_select import load_odds_index, choose_pregame_odds_for_game
+from fca.join import attach_odds
 
 def utc_now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
@@ -22,12 +23,27 @@ def main() -> int:
     ap.add_argument("--date", required=True)     # keep explicit for now
     ap.add_argument("--data-dir", default="data")
     args = ap.parse_args()
-
+    
     combined = load_combined_daily(args.data_dir, args.sport, args.date)
-    odds = load_latest_odds_snapshot(args.data_dir, args.sport)
-
     games = combined.get("games") or combined.get("matchups") or []
-    games_joined = attach_odds(games, odds)
+    games_joined = []
+
+    try:
+        odds_index = load_odds_index(args.data_dir, args.sport, args.date)
+        for g in games:
+            odds_for_game, start_utc, event_id = choose_pregame_odds_for_game(
+                g, odds_index, args.data_dir, args.sport, args.date
+            )
+            gg = dict(g)
+            gg["start_utc"] = start_utc
+            gg["odds"] = odds_for_game
+            gg["odds_event_id"] = event_id
+            games_joined.append(gg)
+    except FileNotFoundError:
+        odds = load_latest_odds_snapshot_for_date(args.data_dir, args.sport, args.date)
+        games_joined = attach_odds(games, odds)
+        for g in games_joined:
+            g["odds_event_id"] = (g.get("odds") or {}).get("event_id")
 
     preds = []
     for g in games_joined:
@@ -40,7 +56,7 @@ def main() -> int:
             "time_local": g.get("time_local"),
             "proj": proj,
             "market": edges,
-            "odds_event_id": (g["odds"]["event_id"] if g.get("odds") else None),
+            "odds_event_id": g.get("odds_event_id"),
         })
 
     out = {

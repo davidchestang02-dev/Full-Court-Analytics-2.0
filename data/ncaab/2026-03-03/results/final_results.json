@@ -1,0 +1,3336 @@
+{
+  "sport": "ncaab",
+  "date": "2026-03-03",
+  "built_at_utc": "2026-03-04T06:49:53.765743+00:00",
+  "model_version": "baseline_v1",
+  "inputs": {
+    "predictions_path": "data/ncaab/2026-03-03/predictions/baseline_v1.json",
+    "board_snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+  },
+  "counts": {
+    "predictions": 53,
+    "results": 53
+  },
+  "join_stats": {
+    "joined_by_event_id": 31,
+    "joined_by_teams": 0,
+    "missing_board_game": 22
+  },
+  "graded_stats": {
+    "su_graded": 31,
+    "ats_graded": 31,
+    "ou_graded": 31
+  },
+  "games": [
+    {
+      "slug": "crimson-tide-bulldogs-2026-03-03",
+      "matchup_title": "#12 Alabama at #24 Georgia",
+      "teams": {
+        "away": "#12 Alabama",
+        "home": "#24 Georgia",
+        "neutral_site": false
+      },
+      "time_local": "6:30 PM",
+      "odds_event_id": 8514400,
+      "board": {
+        "event_id": 8514400,
+        "state": "FINAL",
+        "start_utc": "2026-03-03T23:30:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 1.5,
+            "odds": -110
+          },
+          "away": {
+            "line": -1.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 179.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": 105
+          },
+          "away": {
+            "odds": -125
+          }
+        }
+      },
+      "final": {
+        "away": 88,
+        "home": 98
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 88,
+          "final_home": 98,
+          "final_total": 186,
+          "final_margin_home": 10
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 1.5,
+          "ats_winner": "home",
+          "cover_margin": 11.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 179.5,
+          "ou_result": "over",
+          "ou_diff": 6.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "uga",
+          "away": "ala"
+        },
+        "poss": 76.9,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1235,
+        "ppp_away": 1.1075,
+        "proj_home": 86.39715,
+        "proj_away": 85.16675000000001,
+        "proj_total": 171.5639,
+        "proj_spread_home": 1.2303999999999888
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 1.5,
+        "spread_edge": -0.26960000000001116,
+        "market_total": 180.5,
+        "total_edge": -8.93610000000001
+      }
+    },
+    {
+      "slug": "wildcats-aggies-2026-03-03",
+      "matchup_title": "#22 Kentucky at #35 Texas A&M",
+      "teams": {
+        "away": "#22 Kentucky",
+        "home": "#35 Texas A&M",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 8514430,
+      "board": {
+        "event_id": 8514430,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -1.5,
+            "odds": -108
+          },
+          "away": {
+            "line": 1.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 162.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -120
+          },
+          "away": {
+            "odds": 100
+          }
+        }
+      },
+      "final": {
+        "away": 85,
+        "home": 96
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 85,
+          "final_home": 96,
+          "final_total": 181,
+          "final_margin_home": 11
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -1.5,
+          "ats_winner": "home",
+          "cover_margin": 9.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 162.5,
+          "ou_result": "over",
+          "ou_diff": 18.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "tam",
+          "away": "uk"
+        },
+        "poss": 73.35,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.093,
+        "ppp_away": 1.093,
+        "proj_home": 80.17155,
+        "proj_away": 80.17155,
+        "proj_total": 160.3431,
+        "proj_spread_home": 0.0
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -1.5,
+        "spread_edge": 1.5,
+        "market_total": 161.5,
+        "total_edge": -1.1569000000000074
+      }
+    },
+    {
+      "slug": "cornhuskers-bruins-2026-03-03",
+      "matchup_title": "#20 Nebraska at #36 UCLA",
+      "teams": {
+        "away": "#20 Nebraska",
+        "home": "#36 UCLA",
+        "neutral_site": false
+      },
+      "time_local": "11:00 PM",
+      "odds_event_id": 10329160,
+      "board": {
+        "event_id": 10329160,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T04:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -1.5,
+            "odds": 105
+          },
+          "away": {
+            "line": 1.5,
+            "odds": -125
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over_odds": -115,
+          "under_odds": -105
+        },
+        "moneyline": {
+          "home": {
+            "odds": -112
+          },
+          "away": {
+            "odds": -108
+          }
+        }
+      },
+      "final": {
+        "away": 52,
+        "home": 72
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 52,
+          "final_home": 72,
+          "final_total": 124,
+          "final_margin_home": 20
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -1.5,
+          "ats_winner": "home",
+          "cover_margin": 18.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 144.5,
+          "ou_result": "under",
+          "ou_diff": -20.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "ucla",
+          "away": "neb"
+        },
+        "poss": 68.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0405,
+        "ppp_away": 1.0905,
+        "proj_home": 71.638425,
+        "proj_away": 75.080925,
+        "proj_total": 146.71935,
+        "proj_spread_home": -3.4424999999999955
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -1.5,
+        "spread_edge": -1.9424999999999955,
+        "market_total": 144.5,
+        "total_edge": 2.2193499999999915
+      }
+    },
+    {
+      "slug": "cougars-bearcats-2026-03-03",
+      "matchup_title": "#21 BYU at #42 Cincinnati",
+      "teams": {
+        "away": "#21 BYU",
+        "home": "#42 Cincinnati",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "odds_event_id": 10330830,
+      "board": {
+        "event_id": 10330830,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T02:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -1.5,
+            "odds": -118
+          },
+          "away": {
+            "line": 1.5,
+            "odds": -102
+          }
+        },
+        "total": {
+          "line": 151.5,
+          "over_odds": -108,
+          "under_odds": -112
+        },
+        "moneyline": {
+          "home": {
+            "odds": -130
+          },
+          "away": {
+            "odds": 110
+          }
+        }
+      },
+      "final": {
+        "away": 68,
+        "home": 90
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 68,
+          "final_home": 90,
+          "final_total": 158,
+          "final_margin_home": 22
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -1.5,
+          "ats_winner": "home",
+          "cover_margin": 20.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 151.5,
+          "ou_result": "over",
+          "ou_diff": 6.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "cin",
+          "away": "byu"
+        },
+        "poss": 72.1,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0295,
+        "ppp_away": 1.0554999999999999,
+        "proj_home": 74.22695,
+        "proj_away": 76.10154999999999,
+        "proj_total": 150.3285,
+        "proj_spread_home": -1.8745999999999867
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -1.5,
+        "spread_edge": -0.3745999999999867,
+        "market_total": 151.5,
+        "total_edge": -1.1715000000000089
+      }
+    },
+    {
+      "slug": "tigers-tar-heels-2026-03-03",
+      "matchup_title": "#37 Clemson at #26 North Carolina",
+      "teams": {
+        "away": "#37 Clemson",
+        "home": "#26 North Carolina",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 9133560,
+      "board": {
+        "event_id": 9133560,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -2.5,
+            "odds": -110
+          },
+          "away": {
+            "line": 2.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 141.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -155
+          },
+          "away": {
+            "odds": 130
+          }
+        }
+      },
+      "final": {
+        "away": 63,
+        "home": 67
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 63,
+          "final_home": 67,
+          "final_total": 130,
+          "final_margin_home": 4
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -2.5,
+          "ats_winner": "home",
+          "cover_margin": 1.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 141.5,
+          "ou_result": "under",
+          "ou_diff": -11.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "unc",
+          "away": "clem"
+        },
+        "poss": 69.25,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0585,
+        "ppp_away": 1.055,
+        "proj_home": 73.301125,
+        "proj_away": 73.05874999999999,
+        "proj_total": 146.359875,
+        "proj_spread_home": 0.24237500000000978
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -2.5,
+        "spread_edge": 2.7423750000000098,
+        "market_total": 141.5,
+        "total_edge": 4.859874999999988
+      }
+    },
+    {
+      "slug": "horned-frogs-red-raiders-2026-03-03",
+      "matchup_title": "#46 TCU at #13 Texas Tech",
+      "teams": {
+        "away": "#46 TCU",
+        "home": "#13 Texas Tech",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 10330810,
+      "board": {
+        "event_id": 10330810,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -8.5,
+            "odds": -105
+          },
+          "away": {
+            "line": 8.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -425
+          },
+          "away": {
+            "odds": 330
+          }
+        }
+      },
+      "final": {
+        "away": 73,
+        "home": 65
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 73,
+          "final_home": 65,
+          "final_total": 138,
+          "final_margin_home": -8
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -8.5,
+          "ats_winner": "away",
+          "cover_margin": -16.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 147.5,
+          "ou_result": "under",
+          "ou_diff": -9.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "ttu",
+          "away": "tcu"
+        },
+        "poss": 71.4,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.079,
+        "ppp_away": 1.0535,
+        "proj_home": 77.0406,
+        "proj_away": 75.21990000000001,
+        "proj_total": 152.2605,
+        "proj_spread_home": 1.820699999999988
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -8.5,
+        "spread_edge": 10.320699999999988,
+        "market_total": 147.5,
+        "total_edge": 4.7605000000000075
+      }
+    },
+    {
+      "slug": "tigers-tigers-2026-03-03",
+      "matchup_title": "#53 LSU at #33 Auburn",
+      "teams": {
+        "away": "#53 LSU",
+        "home": "#33 Auburn",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "odds_event_id": 8514520,
+      "board": {
+        "event_id": 8514520,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T03:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -10.5,
+            "odds": -105
+          },
+          "away": {
+            "line": 10.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 155.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -535
+          },
+          "away": {
+            "odds": 400
+          }
+        }
+      },
+      "final": {
+        "away": 74,
+        "home": 88
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 74,
+          "final_home": 88,
+          "final_total": 162,
+          "final_margin_home": 14
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -10.5,
+          "ats_winner": "home",
+          "cover_margin": 3.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 155.5,
+          "ou_result": "over",
+          "ou_diff": 6.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "aub",
+          "away": "lsu"
+        },
+        "poss": 71.7,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.121,
+        "ppp_away": 1.125,
+        "proj_home": 80.37570000000001,
+        "proj_away": 80.66250000000001,
+        "proj_total": 161.03820000000002,
+        "proj_spread_home": -0.2867999999999995
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -9.5,
+        "spread_edge": 9.2132,
+        "market_total": 155.5,
+        "total_edge": 5.5382000000000176
+      }
+    },
+    {
+      "slug": "tigers-sooners-2026-03-03",
+      "matchup_title": "#44 Missouri at #50 Oklahoma",
+      "teams": {
+        "away": "#44 Missouri",
+        "home": "#50 Oklahoma",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 8514360,
+      "board": {
+        "event_id": 8514360,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 1.5,
+            "odds": -122
+          },
+          "away": {
+            "line": -1.5,
+            "odds": 102
+          }
+        },
+        "total": {
+          "line": 153.5,
+          "over_odds": -112,
+          "under_odds": -108
+        },
+        "moneyline": {
+          "home": {
+            "odds": -105
+          },
+          "away": {
+            "odds": -115
+          }
+        }
+      },
+      "final": {
+        "away": 64,
+        "home": 80
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 64,
+          "final_home": 80,
+          "final_total": 144,
+          "final_margin_home": 16
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 1.5,
+          "ats_winner": "home",
+          "cover_margin": 17.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 153.5,
+          "ou_result": "under",
+          "ou_diff": -9.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "okla",
+          "away": "mizz"
+        },
+        "poss": 70.80000000000001,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1105,
+        "ppp_away": 1.1155,
+        "proj_home": 78.62340000000002,
+        "proj_away": 78.9774,
+        "proj_total": 157.60080000000002,
+        "proj_spread_home": -0.353999999999985
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -1.5,
+        "spread_edge": 1.146000000000015,
+        "market_total": 154.5,
+        "total_edge": 3.100800000000021
+      }
+    },
+    {
+      "slug": "rebels-commodores-2026-03-03",
+      "matchup_title": "#65 Mississippi vs. #17 Vanderbilt",
+      "teams": {
+        "away": "#65 Mississippi",
+        "home": "#17 Vanderbilt",
+        "neutral_site": true
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "jayhawks-sun-devils-2026-03-03",
+      "matchup_title": "#19 Kansas at #72 Arizona St",
+      "teams": {
+        "away": "#19 Kansas",
+        "home": "#72 Arizona St",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "demon-deacons-cavaliers-2026-03-03",
+      "matchup_title": "#64 Wake Forest at #23 Virginia",
+      "teams": {
+        "away": "#64 Wake Forest",
+        "home": "#23 Virginia",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 9133530,
+      "board": {
+        "event_id": 9133530,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -14.5,
+            "odds": -115
+          },
+          "away": {
+            "line": 14.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 150.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": -1650
+          },
+          "away": {
+            "odds": 950
+          }
+        }
+      },
+      "final": {
+        "away": 70,
+        "home": 75
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 70,
+          "final_home": 75,
+          "final_total": 145,
+          "final_margin_home": 5
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -14.5,
+          "ats_winner": "away",
+          "cover_margin": -9.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 150.5,
+          "ou_result": "under",
+          "ou_diff": -5.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "uva",
+          "away": "wake"
+        },
+        "poss": 70.95,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.116,
+        "ppp_away": 1.0365,
+        "proj_home": 79.18020000000001,
+        "proj_away": 73.539675,
+        "proj_total": 152.719875,
+        "proj_spread_home": 5.640525000000011
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -13.5,
+        "spread_edge": 19.14052500000001,
+        "market_total": 148.5,
+        "total_edge": 4.219875000000002
+      }
+    },
+    {
+      "slug": "aztecs-broncos-2026-03-03",
+      "matchup_title": "#47 San Diego St at #62 Boise St",
+      "teams": {
+        "away": "#47 San Diego St",
+        "home": "#62 Boise St",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "orange-cardinals-2026-03-03",
+      "matchup_title": "#75 Syracuse at #14 Louisville",
+      "teams": {
+        "away": "#75 Syracuse",
+        "home": "#14 Louisville",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "odds_event_id": 9133550,
+      "board": {
+        "event_id": 9133550,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T02:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -14.5,
+            "odds": -110
+          },
+          "away": {
+            "line": 14.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 159.5,
+          "over_odds": -115,
+          "under_odds": -105
+        },
+        "moneyline": {
+          "home": {
+            "odds": -1350
+          },
+          "away": {
+            "odds": 800
+          }
+        }
+      },
+      "final": {
+        "away": 62,
+        "home": 77
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 62,
+          "final_home": 77,
+          "final_total": 139,
+          "final_margin_home": 15
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -14.5,
+          "ats_winner": "home",
+          "cover_margin": 0.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 159.5,
+          "ou_result": "under",
+          "ou_diff": -20.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "lou",
+          "away": "syr"
+        },
+        "poss": 72.19999999999999,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1059999999999999,
+        "ppp_away": 1.026,
+        "proj_home": 79.85319999999997,
+        "proj_away": 74.07719999999999,
+        "proj_total": 153.93039999999996,
+        "proj_spread_home": 5.775999999999982
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -12.5,
+        "spread_edge": 18.275999999999982,
+        "market_total": 158.5,
+        "total_edge": -4.569600000000037
+      }
+    },
+    {
+      "slug": "ducks-fighting-illini-2026-03-03",
+      "matchup_title": "#81 Oregon at #6 Illinois",
+      "teams": {
+        "away": "#81 Oregon",
+        "home": "#6 Illinois",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "odds_event_id": 10329140,
+      "board": {
+        "event_id": 10329140,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T02:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -17.5,
+            "odds": -105
+          },
+          "away": {
+            "line": 17.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": -2400
+          },
+          "away": {
+            "odds": 1200
+          }
+        }
+      },
+      "final": {
+        "away": 54,
+        "home": 80
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 54,
+          "final_home": 80,
+          "final_total": 134,
+          "final_margin_home": 26
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -17.5,
+          "ats_winner": "home",
+          "cover_margin": 8.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 147.5,
+          "ou_result": "under",
+          "ou_diff": -13.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "ill",
+          "away": "ore"
+        },
+        "poss": 68.4,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.158,
+        "ppp_away": 1.0305,
+        "proj_home": 79.2072,
+        "proj_away": 70.48620000000001,
+        "proj_total": 149.6934,
+        "proj_spread_home": 8.72099999999999
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -18.5,
+        "spread_edge": 27.22099999999999,
+        "market_total": 145.5,
+        "total_edge": 4.193399999999997
+      }
+    },
+    {
+      "slug": "bulldogs-gators-2026-03-03",
+      "matchup_title": "#84 Mississippi St at #4 Florida",
+      "teams": {
+        "away": "#84 Mississippi St",
+        "home": "#4 Florida",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "cowboys-knights-2026-03-03",
+      "matchup_title": "#74 Oklahoma St at #52 UCF",
+      "teams": {
+        "away": "#74 Oklahoma St",
+        "home": "#52 UCF",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "volunteers-gamecocks-2026-03-03",
+      "matchup_title": "#16 Tennessee at #95 South Carolina",
+      "teams": {
+        "away": "#16 Tennessee",
+        "home": "#95 South Carolina",
+        "neutral_site": false
+      },
+      "time_local": "6:00 PM",
+      "odds_event_id": 8514440,
+      "board": {
+        "event_id": 8514440,
+        "state": "FINAL",
+        "start_utc": "2026-03-03T23:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 10.5,
+            "odds": -105
+          },
+          "away": {
+            "line": -10.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 141.5,
+          "over_odds": -108,
+          "under_odds": -112
+        },
+        "moneyline": {
+          "home": {
+            "odds": 455
+          },
+          "away": {
+            "odds": -625
+          }
+        }
+      },
+      "final": {
+        "away": 78,
+        "home": 59
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 78,
+          "final_home": 59,
+          "final_total": 137,
+          "final_margin_home": -19
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 10.5,
+          "ats_winner": "away",
+          "cover_margin": -8.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 141.5,
+          "ou_result": "under",
+          "ou_diff": -4.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "scar",
+          "away": "tenn"
+        },
+        "poss": 70.5,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0285,
+        "ppp_away": 1.1105,
+        "proj_home": 72.50925,
+        "proj_away": 78.29025,
+        "proj_total": 150.7995,
+        "proj_spread_home": -5.781000000000006
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 9.5,
+        "spread_edge": -15.281000000000006,
+        "market_total": 141.5,
+        "total_edge": 9.299499999999995
+      }
+    },
+    {
+      "slug": "hoyas-red-storm-2026-03-03",
+      "matchup_title": "#93 Georgetown at #15 St John's",
+      "teams": {
+        "away": "#93 Georgetown",
+        "home": "#15 St John's",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 9170910,
+      "board": {
+        "event_id": 9170910,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -15.5,
+            "odds": -108
+          },
+          "away": {
+            "line": 15.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 148.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -1800
+          },
+          "away": {
+            "odds": 1000
+          }
+        }
+      },
+      "final": {
+        "away": 69,
+        "home": 72
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 69,
+          "final_home": 72,
+          "final_total": 141,
+          "final_margin_home": 3
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -15.5,
+          "ats_winner": "away",
+          "cover_margin": -12.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 148.5,
+          "ou_result": "under",
+          "ou_diff": -7.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "sju",
+          "away": "gtwn"
+        },
+        "poss": 71.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0875,
+        "ppp_away": 1.013,
+        "proj_home": 78.13687499999999,
+        "proj_away": 72.78405,
+        "proj_total": 150.92092499999998,
+        "proj_spread_home": 5.352824999999996
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -15.5,
+        "spread_edge": 20.852824999999996,
+        "market_total": 148.5,
+        "total_edge": 2.4209249999999827
+      }
+    },
+    {
+      "slug": "pirates-musketeers-2026-03-03",
+      "matchup_title": "#59 Seton Hall at #85 Xavier",
+      "teams": {
+        "away": "#59 Seton Hall",
+        "home": "#85 Xavier",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 9170890,
+      "board": {
+        "event_id": 9170890,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 1.5,
+            "odds": -108
+          },
+          "away": {
+            "line": -1.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": 105
+          },
+          "away": {
+            "odds": -125
+          }
+        }
+      },
+      "final": {
+        "away": 77,
+        "home": 68
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 77,
+          "final_home": 68,
+          "final_total": 145,
+          "final_margin_home": -9
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 1.5,
+          "ats_winner": "away",
+          "cover_margin": -7.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 144.5,
+          "ou_result": "over",
+          "ou_diff": 0.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "xav",
+          "away": "hall"
+        },
+        "poss": 71.15,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0055,
+        "ppp_away": 1.0535,
+        "proj_home": 71.54132500000001,
+        "proj_away": 74.95652500000001,
+        "proj_total": 146.49785000000003,
+        "proj_spread_home": -3.4151999999999987
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 1.5,
+        "spread_edge": -4.915199999999999,
+        "market_total": 144.5,
+        "total_edge": 1.997850000000028
+      }
+    },
+    {
+      "slug": "mountaineers-wildcats-2026-03-03",
+      "matchup_title": "#55 West Virginia at #92 Kansas St",
+      "teams": {
+        "away": "#55 West Virginia",
+        "home": "#92 Kansas St",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "patriots-rams-2026-03-03",
+      "matchup_title": "#103 George Mason at #49 VCU",
+      "teams": {
+        "away": "#103 George Mason",
+        "home": "#49 VCU",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 10360540,
+      "board": {
+        "event_id": 10360540,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -9.5,
+            "odds": -115
+          },
+          "away": {
+            "line": 9.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -600
+          },
+          "away": {
+            "odds": 440
+          }
+        }
+      },
+      "final": {
+        "away": 65,
+        "home": 70
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 65,
+          "final_home": 70,
+          "final_total": 135,
+          "final_margin_home": 5
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -9.5,
+          "ats_winner": "away",
+          "cover_margin": -4.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 147.5,
+          "ou_result": "under",
+          "ou_diff": -12.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "vcu",
+          "away": "gmu"
+        },
+        "poss": 69.5,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0875,
+        "ppp_away": 1.0535,
+        "proj_home": 75.58125,
+        "proj_away": 73.21825000000001,
+        "proj_total": 148.79950000000002,
+        "proj_spread_home": 2.3629999999999853
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -10.5,
+        "spread_edge": 12.862999999999985,
+        "market_total": 147.5,
+        "total_edge": 1.2995000000000232
+      }
+    },
+    {
+      "slug": "aggies-rebels-2026-03-03",
+      "matchup_title": "#34 Utah St at #121 UNLV",
+      "teams": {
+        "away": "#34 Utah St",
+        "home": "#121 UNLV",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "buffaloes-utes-2026-03-03",
+      "matchup_title": "#79 Colorado at #100 Utah",
+      "teams": {
+        "away": "#79 Colorado",
+        "home": "#100 Utah",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "odds_event_id": 10330780,
+      "board": {
+        "event_id": 10330780,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T02:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 1.5,
+            "odds": -125
+          },
+          "away": {
+            "line": -1.5,
+            "odds": 105
+          }
+        },
+        "total": {
+          "line": 147.5,
+          "over_odds": -112,
+          "under_odds": -108
+        },
+        "moneyline": {
+          "home": {
+            "odds": -108
+          },
+          "away": {
+            "odds": -112
+          }
+        }
+      },
+      "final": {
+        "away": 92,
+        "home": 78
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 92,
+          "final_home": 78,
+          "final_total": 170,
+          "final_margin_home": -14
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 1.5,
+          "ats_winner": "away",
+          "cover_margin": -12.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 147.5,
+          "ou_result": "over",
+          "ou_diff": 22.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "utah",
+          "away": "colo"
+        },
+        "poss": 71.55000000000001,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0699999999999998,
+        "ppp_away": 1.101,
+        "proj_home": 76.5585,
+        "proj_away": 78.77655000000001,
+        "proj_total": 155.33505000000002,
+        "proj_spread_home": -2.2180500000000194
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 1.5,
+        "spread_edge": -3.7180500000000194,
+        "market_total": 147.5,
+        "total_edge": 7.835050000000024
+      }
+    },
+    {
+      "slug": "wolf-pack-cowboys-2026-03-03",
+      "matchup_title": "#83 Nevada at #107 Wyoming",
+      "teams": {
+        "away": "#83 Nevada",
+        "home": "#107 Wyoming",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "odds_event_id": 10574820,
+      "board": {
+        "event_id": 10574820,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T03:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 1.5,
+            "odds": -110
+          },
+          "away": {
+            "line": -1.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": 105
+          },
+          "away": {
+            "odds": -125
+          }
+        }
+      },
+      "final": {
+        "away": 73,
+        "home": 83
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 73,
+          "final_home": 83,
+          "final_total": 156,
+          "final_margin_home": 10
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 1.5,
+          "ats_winner": "home",
+          "cover_margin": 11.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 143.5,
+          "ou_result": "over",
+          "ou_diff": 12.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "wyo",
+          "away": "nev"
+        },
+        "poss": 69.19999999999999,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0695000000000001,
+        "ppp_away": 1.0750000000000002,
+        "proj_home": 74.0094,
+        "proj_away": 74.39,
+        "proj_total": 148.3994,
+        "proj_spread_home": -0.38060000000000116
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 1.5,
+        "spread_edge": -1.8806000000000012,
+        "market_total": 142.5,
+        "total_edge": 5.899400000000014
+      }
+    },
+    {
+      "slug": "eagles-hokies-2026-03-03",
+      "matchup_title": "#144 Boston College at #54 Virginia Tech",
+      "teams": {
+        "away": "#144 Boston College",
+        "home": "#54 Virginia Tech",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "odds_event_id": 9133540,
+      "board": {
+        "event_id": 9133540,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T02:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -11.5,
+            "odds": -110
+          },
+          "away": {
+            "line": 11.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 142.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": -800
+          },
+          "away": {
+            "odds": 550
+          }
+        }
+      },
+      "final": {
+        "away": 63,
+        "home": 72
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 63,
+          "final_home": 72,
+          "final_total": 135,
+          "final_margin_home": 9
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -11.5,
+          "ats_winner": "away",
+          "cover_margin": -2.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 142.5,
+          "ou_result": "under",
+          "ou_diff": -7.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "vt",
+          "away": "bc"
+        },
+        "poss": 70.2,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.065,
+        "ppp_away": 1.0095,
+        "proj_home": 74.763,
+        "proj_away": 70.8669,
+        "proj_total": 145.62990000000002,
+        "proj_spread_home": 3.896100000000004
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -11.5,
+        "spread_edge": 15.396100000000004,
+        "market_total": 142.5,
+        "total_edge": 3.1299000000000206
+      }
+    },
+    {
+      "slug": "flyers-spiders-2026-03-03",
+      "matchup_title": "#80 Dayton at #136 Richmond",
+      "teams": {
+        "away": "#80 Dayton",
+        "home": "#136 Richmond",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 10360560,
+      "board": {
+        "event_id": 10360560,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 5.5,
+            "odds": -118
+          },
+          "away": {
+            "line": -5.5,
+            "odds": -102
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": 180
+          },
+          "away": {
+            "odds": -218
+          }
+        }
+      },
+      "final": {
+        "away": 65,
+        "home": 60
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 65,
+          "final_home": 60,
+          "final_total": 125,
+          "final_margin_home": -5
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 5.5,
+          "ats_winner": "home",
+          "cover_margin": 0.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 144.5,
+          "ou_result": "under",
+          "ou_diff": -19.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "rich",
+          "away": "day"
+        },
+        "poss": 70.9,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0434999999999999,
+        "ppp_away": 1.0625,
+        "proj_home": 73.98415,
+        "proj_away": 75.33125000000001,
+        "proj_total": 149.3154,
+        "proj_spread_home": -1.3471000000000117
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 5.5,
+        "spread_edge": -6.847100000000012,
+        "market_total": 144.5,
+        "total_edge": 4.815400000000011
+      }
+    },
+    {
+      "slug": "rockets-redhawks-2026-03-03",
+      "matchup_title": "#147 Toledo at #89 Miami OH",
+      "teams": {
+        "away": "#147 Toledo",
+        "home": "#89 Miami OH",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 8582720,
+      "board": {
+        "event_id": 8582720,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -7.5,
+            "odds": -115
+          },
+          "away": {
+            "line": 7.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 162.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -410
+          },
+          "away": {
+            "odds": 320
+          }
+        }
+      },
+      "final": {
+        "away": 72,
+        "home": 74
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 72,
+          "final_home": 74,
+          "final_total": 146,
+          "final_margin_home": 2
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -7.5,
+          "ats_winner": "away",
+          "cover_margin": -5.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 162.5,
+          "ou_result": "under",
+          "ou_diff": -16.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "tol",
+          "away": "m_oh"
+        },
+        "poss": 72.55,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0665,
+        "ppp_away": 1.1360000000000001,
+        "proj_home": 77.374575,
+        "proj_away": 82.41680000000001,
+        "proj_total": 159.79137500000002,
+        "proj_spread_home": -5.042225000000016
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -7.5,
+        "spread_edge": 2.457774999999984,
+        "market_total": 162.5,
+        "total_edge": -2.7086249999999836
+      }
+    },
+    {
+      "slug": "dragons-pride-2026-03-03",
+      "matchup_title": "#216 Drexel at #102 Hofstra",
+      "teams": {
+        "away": "#216 Drexel",
+        "home": "#102 Hofstra",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 8582880,
+      "board": {
+        "event_id": 8582880,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -8.5,
+            "odds": -112
+          },
+          "away": {
+            "line": 8.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 133.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": -440
+          },
+          "away": {
+            "odds": 340
+          }
+        }
+      },
+      "final": {
+        "away": 51,
+        "home": 62
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 51,
+          "final_home": 62,
+          "final_total": 113,
+          "final_margin_home": 11
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -8.5,
+          "ats_winner": "home",
+          "cover_margin": 2.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 133.5,
+          "ou_result": "under",
+          "ou_diff": -20.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "hof",
+          "away": "drex"
+        },
+        "poss": 67.65,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.049,
+        "ppp_away": 1.0055,
+        "proj_home": 70.96485,
+        "proj_away": 68.02207500000002,
+        "proj_total": 138.986925,
+        "proj_spread_home": 2.9427749999999833
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -8.5,
+        "spread_edge": 11.442774999999983,
+        "market_total": 132.5,
+        "total_edge": 6.486925000000014
+      }
+    },
+    {
+      "slug": "seahawks-phoenix-2026-03-03",
+      "matchup_title": "#111 NC Wilmington at #226 Elon",
+      "teams": {
+        "away": "#111 NC Wilmington",
+        "home": "#226 Elon",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "zips-chippewas-2026-03-03",
+      "matchup_title": "#63 Akron at #277 C Michigan",
+      "teams": {
+        "away": "#63 Akron",
+        "home": "#277 C Michigan",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "spartans-bulldogs-2026-03-03",
+      "matchup_title": "#228 San Jose St at #150 Fresno St",
+      "teams": {
+        "away": "#228 San Jose St",
+        "home": "#150 Fresno St",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "bobcats-minutemen-2026-03-03",
+      "matchup_title": "#206 Ohio at #183 UMass",
+      "teams": {
+        "away": "#206 Ohio",
+        "home": "#183 UMass",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 8582800,
+      "board": {
+        "event_id": 8582800,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -1.5,
+            "odds": -110
+          },
+          "away": {
+            "line": 1.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 156.5,
+          "over_odds": -108,
+          "under_odds": -112
+        },
+        "moneyline": {
+          "home": {
+            "odds": -130
+          },
+          "away": {
+            "odds": 110
+          }
+        }
+      },
+      "final": {
+        "away": 82,
+        "home": 94
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 82,
+          "final_home": 94,
+          "final_total": 176,
+          "final_margin_home": 12
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -1.5,
+          "ats_winner": "home",
+          "cover_margin": 10.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 156.5,
+          "ou_result": "over",
+          "ou_diff": 19.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "mass",
+          "away": "ohio"
+        },
+        "poss": 73.35,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0765,
+        "ppp_away": 1.0505,
+        "proj_home": 78.961275,
+        "proj_away": 77.05417499999999,
+        "proj_total": 156.01545,
+        "proj_spread_home": 1.907100000000014
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -2.5,
+        "spread_edge": 4.407100000000014,
+        "market_total": 156.5,
+        "total_edge": -0.4845500000000129
+      }
+    },
+    {
+      "slug": "tigers-seawolves-2026-03-03",
+      "matchup_title": "#166 Towson at #223 Stony Brook",
+      "teams": {
+        "away": "#166 Towson",
+        "home": "#223 Stony Brook",
+        "neutral_site": false
+      },
+      "time_local": "6:30 PM",
+      "odds_event_id": 8582790,
+      "board": {
+        "event_id": 8582790,
+        "state": "FINAL",
+        "start_utc": "2026-03-03T23:31:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 1.5,
+            "odds": -115
+          },
+          "away": {
+            "line": -1.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 137.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": -102
+          },
+          "away": {
+            "odds": -118
+          }
+        }
+      },
+      "final": {
+        "away": 69,
+        "home": 57
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 69,
+          "final_home": 57,
+          "final_total": 126,
+          "final_margin_home": -12
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 1.5,
+          "ats_winner": "away",
+          "cover_margin": -10.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 137.5,
+          "ou_result": "under",
+          "ou_diff": -11.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "ston",
+          "away": "tows"
+        },
+        "poss": 67.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0145,
+        "ppp_away": 1.018,
+        "proj_home": 68.83382499999999,
+        "proj_away": 69.0713,
+        "proj_total": 137.905125,
+        "proj_spread_home": -0.23747500000000343
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 1.5,
+        "spread_edge": -1.7374750000000034,
+        "market_total": 135.5,
+        "total_edge": 2.405124999999998
+      }
+    },
+    {
+      "slug": "pirates-tribe-2026-03-03",
+      "matchup_title": "#267 Hampton at #140 William & Mary",
+      "teams": {
+        "away": "#267 Hampton",
+        "home": "#140 William & Mary",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 8582690,
+      "board": {
+        "event_id": 8582690,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -11.5,
+            "odds": -110
+          },
+          "away": {
+            "line": 11.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 158.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": -575
+          },
+          "away": {
+            "odds": 425
+          }
+        }
+      },
+      "final": {
+        "away": 85,
+        "home": 94
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 85,
+          "final_home": 94,
+          "final_total": 179,
+          "final_margin_home": 9
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -11.5,
+          "ats_winner": "away",
+          "cover_margin": -2.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 158.5,
+          "ou_result": "over",
+          "ou_diff": 20.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "cwm",
+          "away": "hamp"
+        },
+        "poss": 72.05,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0630000000000002,
+        "ppp_away": 1.013,
+        "proj_home": 76.58915,
+        "proj_away": 72.98664999999998,
+        "proj_total": 149.5758,
+        "proj_spread_home": 3.6025000000000205
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -11.5,
+        "spread_edge": 15.10250000000002,
+        "market_total": 154.5,
+        "total_edge": -4.924200000000013
+      }
+    },
+    {
+      "slug": "eagles-bulls-2026-03-03",
+      "matchup_title": "#241 E Michigan at #214 Buffalo",
+      "teams": {
+        "away": "#241 E Michigan",
+        "home": "#214 Buffalo",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "mastodons-phoenix-2026-03-03",
+      "matchup_title": "#243 Purdue FW at #230 Green Bay",
+      "teams": {
+        "away": "#243 Purdue FW",
+        "home": "#230 Green Bay",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "lopes-falcons-2026-03-03",
+      "matchup_title": "#77 Grand Canyon at #350 Air Force",
+      "teams": {
+        "away": "#77 Grand Canyon",
+        "home": "#350 Air Force",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "odds_event_id": 10574830,
+      "board": {
+        "event_id": 10574830,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T02:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 19.5,
+            "odds": -115
+          },
+          "away": {
+            "line": -19.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over_odds": -105,
+          "under_odds": -115
+        },
+        "moneyline": {
+          "home": {
+            "odds": 1300
+          },
+          "away": {
+            "odds": -2800
+          }
+        }
+      },
+      "final": {
+        "away": 86,
+        "home": 60
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 86,
+          "final_home": 60,
+          "final_total": 146,
+          "final_margin_home": -26
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 19.5,
+          "ats_winner": "away",
+          "cover_margin": -6.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 143.5,
+          "ou_result": "over",
+          "ou_diff": 2.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "afa",
+          "away": "gcu"
+        },
+        "poss": 69.3,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 0.9450000000000001,
+        "ppp_away": 1.117,
+        "proj_home": 65.4885,
+        "proj_away": 77.40809999999999,
+        "proj_total": 142.89659999999998,
+        "proj_spread_home": -11.919599999999988
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 19.5,
+        "spread_edge": -31.41959999999999,
+        "market_total": 141.5,
+        "total_edge": 1.396599999999978
+      }
+    },
+    {
+      "slug": "hawks-huskies-2026-03-03",
+      "matchup_title": "#187 Monmouth at #287 Northeastern",
+      "teams": {
+        "away": "#187 Monmouth",
+        "home": "#287 Northeastern",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 8582740,
+      "board": {
+        "event_id": 8582740,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 3.5,
+            "odds": -105
+          },
+          "away": {
+            "line": -3.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 148.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": 154
+          },
+          "away": {
+            "odds": -185
+          }
+        }
+      },
+      "final": {
+        "away": 89,
+        "home": 83
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 89,
+          "final_home": 83,
+          "final_total": 172,
+          "final_margin_home": -6
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 3.5,
+          "ats_winner": "away",
+          "cover_margin": -2.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 148.5,
+          "ou_result": "over",
+          "ou_diff": 23.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "ne",
+          "away": "monm"
+        },
+        "poss": 70.6,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0285,
+        "ppp_away": 1.08,
+        "proj_home": 72.6121,
+        "proj_away": 76.248,
+        "proj_total": 148.8601,
+        "proj_spread_home": -3.6359000000000066
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 3.5,
+        "spread_edge": -7.135900000000007,
+        "market_total": 150.5,
+        "total_edge": -1.6399000000000115
+      }
+    },
+    {
+      "slug": "golden-flashes-huskies-2026-03-03",
+      "matchup_title": "#153 Kent St at #319 N Illinois",
+      "teams": {
+        "away": "#153 Kent St",
+        "home": "#319 N Illinois",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "aggies-fighting-camels-2026-03-03",
+      "matchup_title": "#293 NC A&T at #193 Campbell",
+      "teams": {
+        "away": "#293 NC A&T",
+        "home": "#193 Campbell",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "great-danes-catamounts-2026-03-03",
+      "matchup_title": "#310 Albany at #219 Vermont",
+      "teams": {
+        "away": "#310 Albany",
+        "home": "#219 Vermont",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "retrievers-highlanders-2026-03-03",
+      "matchup_title": "#221 UMBC at #327 NJIT",
+      "teams": {
+        "away": "#221 UMBC",
+        "home": "#327 NJIT",
+        "neutral_site": false
+      },
+      "time_local": "6:00 PM",
+      "odds_event_id": 8582700,
+      "board": {
+        "event_id": 8582700,
+        "state": "FINAL",
+        "start_utc": "2026-03-03T23:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 4.5,
+            "odds": -115
+          },
+          "away": {
+            "line": -4.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 143.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": 170
+          },
+          "away": {
+            "odds": -205
+          }
+        }
+      },
+      "final": {
+        "away": 91,
+        "home": 52
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 91,
+          "final_home": 52,
+          "final_total": 143,
+          "final_margin_home": -39
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 4.5,
+          "ats_winner": "away",
+          "cover_margin": -34.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 143.5,
+          "ou_result": "under",
+          "ou_diff": -0.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "njit",
+          "away": "umbc"
+        },
+        "poss": 69.1,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 0.9854999999999999,
+        "ppp_away": 1.0710000000000002,
+        "proj_home": 68.09804999999999,
+        "proj_away": 74.0061,
+        "proj_total": 142.10415,
+        "proj_spread_home": -5.908050000000017
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 4.5,
+        "spread_edge": -10.408050000000017,
+        "market_total": 143.5,
+        "total_edge": -1.3958499999999958
+      }
+    },
+    {
+      "slug": "jaguars-hornets-2026-03-03",
+      "matchup_title": "#268 Southern at #312 Alabama St",
+      "teams": {
+        "away": "#268 Southern",
+        "home": "#312 Alabama St",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "cardinals-broncos-2026-03-03",
+      "matchup_title": "#298 Ball St at #282 W Michigan",
+      "teams": {
+        "away": "#298 Ball St",
+        "home": "#282 W Michigan",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "monarchs-warhawks-2026-03-03",
+      "matchup_title": "#231 Old Dominion vs. #355 UL Monroe",
+      "teams": {
+        "away": "#231 Old Dominion",
+        "home": "#355 UL Monroe",
+        "neutral_site": true
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "ragin-cajuns-panthers-2026-03-03",
+      "matchup_title": "#309 Louisiana vs. #300 Georgia St",
+      "teams": {
+        "away": "#309 Louisiana",
+        "home": "#300 Georgia St",
+        "neutral_site": true
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "tigers-bulldogs-2026-03-03",
+      "matchup_title": "#299 Grambling at #321 Alabama A&M",
+      "teams": {
+        "away": "#299 Grambling",
+        "home": "#321 Alabama A&M",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "river-hawks-black-bears-2026-03-03",
+      "matchup_title": "#307 UMass Lowell at #332 Maine",
+      "teams": {
+        "away": "#307 UMass Lowell",
+        "home": "#332 Maine",
+        "neutral_site": false
+      },
+      "time_local": "6:00 PM",
+      "odds_event_id": 8582640,
+      "board": {
+        "event_id": 8582640,
+        "state": "FINAL",
+        "start_utc": "2026-03-03T23:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": 1.5,
+            "odds": -120
+          },
+          "away": {
+            "line": -1.5,
+            "odds": 100
+          }
+        },
+        "total": {
+          "line": 139.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -105
+          },
+          "away": {
+            "odds": -115
+          }
+        }
+      },
+      "final": {
+        "away": 67,
+        "home": 56
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 67,
+          "final_home": 56,
+          "final_total": 123,
+          "final_margin_home": -11
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": 1.5,
+          "ats_winner": "away",
+          "cover_margin": -9.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 139.5,
+          "ou_result": "under",
+          "ou_diff": -16.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "me",
+          "away": "umass"
+        },
+        "poss": 68.75,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0105,
+        "ppp_away": 1.023,
+        "proj_home": 69.471875,
+        "proj_away": 70.33125,
+        "proj_total": 139.803125,
+        "proj_spread_home": -0.859375
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": 1.5,
+        "spread_edge": -2.359375,
+        "market_total": 139.5,
+        "total_edge": 0.3031249999999943
+      }
+    },
+    {
+      "slug": "crusaders-leopards-2026-03-03",
+      "matchup_title": "#334 Holy Cross at #320 Lafayette",
+      "teams": {
+        "away": "#334 Holy Cross",
+        "home": "#320 Lafayette",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 11939590,
+      "board": {
+        "event_id": 11939590,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -4.5,
+            "odds": -108
+          },
+          "away": {
+            "line": 4.5,
+            "odds": -112
+          }
+        },
+        "total": {
+          "line": 141.5,
+          "over_odds": -110,
+          "under_odds": -110
+        },
+        "moneyline": {
+          "home": {
+            "odds": -198
+          },
+          "away": {
+            "odds": 164
+          }
+        }
+      },
+      "final": {
+        "away": 82,
+        "home": 77
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "away",
+          "final_away": 82,
+          "final_home": 77,
+          "final_total": 159,
+          "final_margin_home": -5
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -4.5,
+          "ats_winner": "away",
+          "cover_margin": -9.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 141.5,
+          "ou_result": "over",
+          "ou_diff": 17.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "laf",
+          "away": "hc"
+        },
+        "poss": 67.75,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.062,
+        "ppp_away": 1.053,
+        "proj_home": 71.9505,
+        "proj_away": 71.34075,
+        "proj_total": 143.29125,
+        "proj_spread_home": 0.6097500000000053
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -4.5,
+        "spread_edge": 5.109750000000005,
+        "market_total": 141.5,
+        "total_edge": 1.791249999999991
+      }
+    },
+    {
+      "slug": "black-knights-bison-2026-03-03",
+      "matchup_title": "#339 Army at #336 Bucknell",
+      "teams": {
+        "away": "#339 Army",
+        "home": "#336 Bucknell",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "odds_event_id": 11939600,
+      "board": {
+        "event_id": 11939600,
+        "state": "FINAL",
+        "start_utc": "2026-03-04T00:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -1.5,
+            "odds": 100
+          },
+          "away": {
+            "line": 1.5,
+            "odds": -120
+          }
+        },
+        "total": {
+          "line": 144.5,
+          "over_odds": -115,
+          "under_odds": -105
+        },
+        "moneyline": {
+          "home": {
+            "odds": -115
+          },
+          "away": {
+            "odds": -105
+          }
+        }
+      },
+      "final": {
+        "away": 55,
+        "home": 65
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 55,
+          "final_home": 65,
+          "final_total": 120,
+          "final_margin_home": 10
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -1.5,
+          "ats_winner": "home",
+          "cover_margin": 8.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 144.5,
+          "ou_result": "under",
+          "ou_diff": -24.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "buck",
+          "away": "army"
+        },
+        "poss": 69.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.051,
+        "ppp_away": 1.0630000000000002,
+        "proj_home": 73.41234999999999,
+        "proj_away": 74.25055,
+        "proj_total": 147.66289999999998,
+        "proj_spread_home": -0.8382000000000147
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -1.5,
+        "spread_edge": 0.6617999999999853,
+        "market_total": 143.5,
+        "total_edge": 4.162899999999979
+      }
+    },
+    {
+      "slug": "bulldogs-wildcats-2026-03-03",
+      "matchup_title": "#345 Bryant at #343 New Hampshire",
+      "teams": {
+        "away": "#345 Bryant",
+        "home": "#343 New Hampshire",
+        "neutral_site": false
+      },
+      "time_local": "6:00 PM",
+      "odds_event_id": 8582600,
+      "board": {
+        "event_id": 8582600,
+        "state": "FINAL",
+        "start_utc": "2026-03-03T23:00:00Z",
+        "snapshot_path": "C:/Users/d_che/OneDrive/Documents/GitHub/Full-Court-Analytics-2.0/data/ncaab/2026-03-03/odds_snapshots/064313.json"
+      },
+      "join": {
+        "ok": true,
+        "method": "event_id"
+      },
+      "closing": {
+        "spread": {
+          "home": {
+            "line": -2.5,
+            "odds": -105
+          },
+          "away": {
+            "line": 2.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 135.5,
+          "over_odds": -115,
+          "under_odds": -105
+        },
+        "moneyline": {
+          "home": {
+            "odds": -130
+          },
+          "away": {
+            "odds": 110
+          }
+        }
+      },
+      "final": {
+        "away": 83,
+        "home": 88
+      },
+      "grading": {
+        "su": {
+          "graded": true,
+          "winner": "home",
+          "final_away": 83,
+          "final_home": 88,
+          "final_total": 171,
+          "final_margin_home": 5
+        },
+        "ats": {
+          "graded": true,
+          "close_spread_home": -2.5,
+          "ats_winner": "home",
+          "cover_margin": 2.5
+        },
+        "ou": {
+          "graded": true,
+          "close_total": 135.5,
+          "ou_result": "over",
+          "ou_diff": 35.5
+        }
+      },
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "unh",
+          "away": "bry"
+        },
+        "poss": 68.65,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.01,
+        "ppp_away": 1.006,
+        "proj_home": 69.3365,
+        "proj_away": 69.06190000000001,
+        "proj_total": 138.3984,
+        "proj_spread_home": 0.2745999999999924
+      },
+      "market_edges": {
+        "has_market": true,
+        "market_spread_home": -1.5,
+        "spread_edge": 1.7745999999999924,
+        "market_total": 135.5,
+        "total_edge": 2.8984000000000094
+      }
+    },
+    {
+      "slug": "golden-lions-tigers-2026-03-03",
+      "matchup_title": "#342 AR-Pine Bluff at #353 Jackson St",
+      "teams": {
+        "away": "#342 AR-Pine Bluff",
+        "home": "#353 Jackson St",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    },
+    {
+      "slug": "delta-devils-braves-2026-03-03",
+      "matchup_title": "#365 Miss Valley St at #352 Alcorn St",
+      "teams": {
+        "away": "#365 Miss Valley St",
+        "home": "#352 Alcorn St",
+        "neutral_site": false
+      },
+      "odds_event_id": null,
+      "join": {
+        "ok": false,
+        "method": null
+      },
+      "result": {
+        "ok": false,
+        "reason": "board_game_not_found"
+      }
+    }
+  ]
+}

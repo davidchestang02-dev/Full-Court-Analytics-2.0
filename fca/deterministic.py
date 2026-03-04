@@ -148,25 +148,43 @@ def market_edges(proj: Dict[str, Any], odds_game: Optional[Dict[str, Any]]) -> D
         return {"has_market": False}
 
     mk = odds_game.get("markets", {}) or {}
-    spread = mk.get("spread", {}) or {}
-    total = mk.get("total", {}) or {}
 
-    market_spread_home = spread.get("home", {}).get("line")  # home line
-    market_total = total.get("line")
+    # --- spread parsing (robust) ---
+    market_spread_home = None
+    spread = mk.get("spread") or mk.get("spreads") or {}
+    if isinstance(spread, dict):
+        # common: spread["home"]["line"]
+        if isinstance(spread.get("home"), dict) and spread["home"].get("line") is not None:
+            market_spread_home = spread["home"]["line"]
+        # fallback shapes (just in case)
+        elif spread.get("line_home") is not None:
+            market_spread_home = spread.get("line_home")
+        elif spread.get("home_line") is not None:
+            market_spread_home = spread.get("home_line")
 
-    if market_spread_home is None or market_total is None:
+    # --- total parsing (robust) ---
+    market_total = None
+    total = mk.get("total") or mk.get("totals") or {}
+    if isinstance(total, dict):
+        if total.get("line") is not None:
+            market_total = total.get("line")
+        elif total.get("total") is not None:
+            market_total = total.get("total")
+
+    # If neither market exists, we can't compute edges
+    if market_spread_home is None and market_total is None:
         return {"has_market": False}
 
-    market_spread_home = float(market_spread_home)
-    market_total = float(market_total)
+    out: Dict[str, Any] = {"has_market": True}
 
-    spread_edge = proj["proj_spread_home"] - market_spread_home
-    total_edge = proj["proj_total"] - market_total
+    if market_spread_home is not None:
+        market_spread_home = float(market_spread_home)
+        out["market_spread_home"] = market_spread_home
+        out["spread_edge"] = float(proj["proj_spread_home"]) - market_spread_home
 
-    return {
-        "has_market": True,
-        "market_spread_home": market_spread_home,
-        "market_total": market_total,
-        "spread_edge": spread_edge,
-        "total_edge": total_edge,
-    }
+    if market_total is not None:
+        market_total = float(market_total)
+        out["market_total"] = market_total
+        out["total_edge"] = float(proj["proj_total"]) - market_total
+
+    return out

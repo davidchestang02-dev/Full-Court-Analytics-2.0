@@ -1,78 +1,92 @@
-# fca/io.py
+## fca/io.py
 from __future__ import annotations
-
 import json
 from pathlib import Path
 from typing import Any, Dict, Optional
 
-
 def read_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 
-
 def load_combined_daily(data_dir: str, sport: str, date_str: str) -> Dict[str, Any]:
-    p = Path(data_dir) / sport / date_str / "combined_daily.json"
-    if not p.exists():
-        raise FileNotFoundError(f"Missing combined_daily.json: {p}")
-    return read_json(p)
+    p1 = Path(data_dir) / sport / date_str / "combined_daily.json"
+    if p1.exists():
+        return read_json(p1)
 
+    # fallback: data/{sport}/latest/combined_daily.json
+    p2 = Path(data_dir) / sport / "latest" / "combined_daily.json"
+    if p2.exists():
+        return read_json(p2)
 
-def _resolve_snapshot_path(data_dir: str, snapshot_value: str) -> Path:
-    """
-    Resolve latest_odds_snapshot path stored in latest.json.
-
-    Handles:
-    1) Absolute paths (C:\\... or /...)
-    2) Relative paths like 'ncaab/2026-03-03/odds_snapshots/....json'
-    3) Relative paths that already include data_dir prefix like
-       'data/ncaab/2026-03-03/odds_snapshots/....json' (your current writer)
-    """
-    data_root = Path(data_dir).resolve()
-    raw = Path(snapshot_value)
-
-    # If it's already absolute, trust it.
-    if raw.is_absolute():
-        return raw
-
-    # Normalize slashes (important if stored as posix on Windows)
-    raw_parts = Path(snapshot_value.replace("\\", "/")).parts
-
-    # Case: stored as "data/..." and data_dir is also "data"
-    # Avoid data/data/...
-    if raw_parts and raw_parts[0].lower() == data_root.name.lower():
-        raw = Path(*raw_parts[1:])  # drop leading "data"
-
-    # Anchor to data_dir
-    return (data_root / raw).resolve()
-
+    raise FileNotFoundError(
+        f"Missing combined_daily.json. Tried:\n  {p1}\n  {p2}"
+    )
 
 def load_latest_odds_snapshot(data_dir: str, sport: str) -> Dict[str, Any]:
-    latest_path = Path(data_dir) / sport / "latest.json"
-    if not latest_path.exists():
-        raise FileNotFoundError(
-            f"Missing latest.json for sport '{sport}': {latest_path}\n"
-            f"Run the odds scraper first, e.g.\n"
-            f"  python scraper/scoresandodds_odds.py --sport {sport} --data-dir {data_dir}"
-        )
+    latest_json = Path(data_dir) / sport / "latest.json"
+    if not latest_json.exists():
+        raise FileNotFoundError(f"Missing latest.json: {latest_json}")
 
-    latest = read_json(latest_path)
+    latest = read_json(latest_json)
 
-    if "latest_odds_snapshot" not in latest:
-        raise KeyError(f"'latest_odds_snapshot' missing in {latest_path}")
+    # IMPORTANT: your writer stores "data/..." already, so don't prefix data_dir again
+    snap_path = Path(latest["latest_odds_snapshot"])
 
-    snap_path = _resolve_snapshot_path(data_dir, latest["latest_odds_snapshot"])
-
+    # If it's relative, resolve from project root (CWD) first, then from data_dir
     if not snap_path.exists():
-        raise FileNotFoundError(
-            f"latest_odds_snapshot points to missing file:\n"
-            f"  {snap_path}\n"
-            f"Value in latest.json:\n"
-            f"  {latest['latest_odds_snapshot']}\n"
-        )
-
+        snap_path2 = (Path.cwd() / snap_path).resolve()
+        if snap_path2.exists():
+            snap_path = snap_path2
+        else:
+            snap_path3 = (Path(data_dir) / snap_path).resolve()
+            if snap_path3.exists():
+                snap_path = snap_path3
+            else:
+                raise FileNotFoundError(
+                    f"Odds snapshot path in latest.json not found.\n"
+                    f"latest_odds_snapshot={latest['latest_odds_snapshot']}\n"
+                    f"Tried:\n  {snap_path}\n  {snap_path2}\n  {snap_path3}"
+                )
     return read_json(snap_path)
 
 
-def load_results(data_dir: str, sport: str, date_str: str) -> Optional[Dict[str, Any]]:
-    p = Path(data_dir) / sport / date_str / "results" / "final_results.json"
-    return read_json(p) if p.exists() else None
+def load_latest_odds_snapshot_for_date(data_dir: str, sport: str, date_str: str) -> Dict[str, Any]:
+    """
+    Load the latest odds snapshot for a specific date folder:
+      data/{sport}/{date}/latest_odds_snapshot.json -> points to odds_snapshots/*.json
+    """
+    latest_path = Path(data_dir) / sport / date_str / "latest_odds_snapshot.json"
+    if not latest_path.exists():
+        raise FileNotFoundError(f"Missing latest_odds_snapshot.json: {latest_path}")
+
+    latest = read_json(latest_path)
+
+    snap_ref = latest.get("latest_odds_snapshot") or latest.get("latest_snapshot")
+    if not snap_ref:
+        raise KeyError(f"latest_odds_snapshot.json missing snapshot pointer: {latest_path}")
+
+    snap_path = Path(snap_ref)
+    if not snap_path.is_absolute():
+        snap_path = (Path.cwd() / Path(snap_path.as_posix())).resolve()
+    return read_json(snap_path)
+
+
+def load_odds_snapshot_for_date(data_dir: str, sport: str, date_str: str) -> Dict[str, Any]:
+    # Prefer the "latest_odds_snapshot.json" pointer inside the date folder
+    p = Path(data_dir) / sport / date_str / "latest_odds_snapshot.json"
+    if p.exists():
+        meta = read_json(p)
+        snap_path = Path(meta["latest_snapshot"])
+        # latest_snapshot is stored like "data/nba/2026-03-03/odds_snapshots/xxxx.json"
+        if not snap_path.exists():
+            snap_path = (Path.cwd() / snap_path).resolve()
+        return read_json(snap_path)
+
+    # Fallback: if no pointer, try most recent file in odds_snapshots/
+    d = Path(data_dir) / sport / date_str / "odds_snapshots"
+    if d.exists():
+        snaps = sorted(d.glob("*.json"))
+        if snaps:
+            return read_json(snaps[-1])
+
+    raise FileNotFoundError(f"No odds snapshot found for {sport} {date_str}")
+    return read_json(snap_path)

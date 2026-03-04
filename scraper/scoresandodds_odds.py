@@ -266,6 +266,87 @@ def write_json(path: Path, data: Any) -> None:
     safe_mkdir(path.parent)
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
+def read_json(path: Path) -> Any:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+def upsert_snapshot_index(index_path: Path, snapshot_path: Path, scraped_at_utc: str) -> None:
+    """
+    data/<sport>/<date>/odds_snapshots/index.json
+    {
+      "sport": "ncaab",
+      "date": "YYYY-MM-DD",
+      "snapshots": [
+        {"snap_id":"HHMMSS", "path":"data/<sport>/<date>/odds_snapshots/HHMMSS.json", "scraped_at_utc":"..."},
+        ...
+      ]
+    }
+    """
+    safe_mkdir(index_path.parent)
+
+    sport = index_path.parent.parent.parent.name
+    date_str = index_path.parent.parent.name
+    snap_id = snapshot_path.stem
+    snap_path_ref = snapshot_path.as_posix()
+
+    payload = {"sport": sport, "date": date_str, "snapshots": []}
+
+    if index_path.exists():
+        try:
+            payload = read_json(index_path)
+        except Exception:
+            payload = {"sport": sport, "date": date_str, "snapshots": []}
+
+    payload["sport"] = sport
+    payload["date"] = date_str
+    raw_snaps = payload.get("snapshots", [])
+    snaps: List[Dict[str, Any]] = []
+    for s in raw_snaps:
+        if not isinstance(s, dict):
+            continue
+        old_path = str(s.get("path", "")).strip()
+        snap_id_existing = str(s.get("snap_id", "")).strip()
+        scraped_existing = s.get("scraped_at_utc")
+
+        if not snap_id_existing and old_path:
+            snap_id_existing = Path(old_path).stem
+
+        if old_path.startswith("odds_snapshots/"):
+            old_path = f"data/{sport}/{date_str}/{old_path}"
+
+        if not old_path and snap_id_existing:
+            old_path = f"data/{sport}/{date_str}/odds_snapshots/{snap_id_existing}.json"
+
+        if old_path:
+            snaps.append({
+                "snap_id": snap_id_existing or Path(old_path).stem,
+                "path": old_path,
+                "scraped_at_utc": scraped_existing,
+            })
+
+    if not any(s.get("snap_id") == snap_id or s.get("path") == snap_path_ref for s in snaps):
+        snaps.append({"snap_id": snap_id, "path": snap_path_ref, "scraped_at_utc": scraped_at_utc})
+
+    # Backfill any historical snapshots in this folder so older files are indexable.
+    for snap_file in sorted(snapshot_path.parent.glob("*.json")):
+        if snap_file.name.lower() == "index.json":
+            continue
+        sf_id = snap_file.stem
+        sf_path = snap_file.as_posix()
+        if not any(s.get("snap_id") == sf_id or s.get("path") == sf_path for s in snaps):
+            sf_scraped = None
+            try:
+                sf_payload = read_json(snap_file)
+                sf_scraped = sf_payload.get("scraped_at_utc")
+            except Exception:
+                sf_scraped = None
+            if not sf_scraped:
+                sf_scraped = datetime.fromtimestamp(snap_file.stat().st_mtime, tz=timezone.utc).isoformat()
+            snaps.append({"snap_id": sf_id, "path": sf_path, "scraped_at_utc": sf_scraped})
+
+    snaps.sort(key=lambda s: s.get("scraped_at_utc", ""))
+    payload["snapshots"] = snaps
+    write_json(index_path, payload)
+
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="ScoresAndOdds odds scraper (snapshot-ready).")
@@ -313,6 +394,8 @@ def main() -> int:
     }
 
     write_json(snapshot_path, payload)
+    index_path = snapshots_dir / "index.json"
+    upsert_snapshot_index(index_path, snapshot_path, iso_utc(now))
 
     # convenience pointers
     write_json(base / "latest_odds_snapshot.json", {

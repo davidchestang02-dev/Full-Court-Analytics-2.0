@@ -260,6 +260,7 @@ def render_today(
     top.sort(key=lambda x: x[0], reverse=True)
 
     if top:
+        st.markdown("<div class='section-divider'></div>", unsafe_allow_html=True)
         st.markdown("<div class='fca-hr'></div>", unsafe_allow_html=True)
         st.markdown("<div class='fca-title'>Top Plays</div>", unsafe_allow_html=True)
         grid = st.columns(3, gap="small")
@@ -307,67 +308,56 @@ def _render_game_card(game: Dict[str, Any], pred: Dict[str, Any] | None, res: Di
 
     slug = game.get("slug") or f"{away}@{home}"
 
-    # Full-card clickable: we use a button with custom HTML block inside
-    with st.container():
-        st.markdown('<div class="fca-card-btn">', unsafe_allow_html=True)
-        if st.button(" ", key=f"open_{variant}_{slug}", use_container_width=True):
-            on_open_game(slug)
-        st.markdown('</div>', unsafe_allow_html=True)
+    # Card height by variant (keeps layout consistent)
+    card_min_h = 210 if variant == "top" else 220 if variant == "focus" else 200
 
-        # Overlay content on top of button space (Streamlit limitation workaround)
-        st.markdown('<div class="fca-card" style="margin-top:-58px;">', unsafe_allow_html=True)
+    # Wrapper: metric-card + absolute invisible button on top (no overlap hacks)
+    st.markdown(f'<div class="fca-card-wrap" style="min-height:{card_min_h}px;">', unsafe_allow_html=True)
 
-        # Header row: logos + matchup
-        left, mid, right = st.columns([1.4, 2.6, 1.2], gap="small")
-        with left:
-            st.markdown(_logo_row_html(away, home, away_logo, home_logo), unsafe_allow_html=True)
-        with mid:
-            st.markdown(f"<div class='fca-title'>{away} @ {home}</div>", unsafe_allow_html=True)
-            st.markdown(f"<div class='fca-muted'>{time_local} • {location}</div>", unsafe_allow_html=True)
-        with right:
-            # If results exist, show FINAL badge
-            if res and (res.get("final") or res.get("grading")):
-                st.markdown("<div style='text-align:right; font-weight:800;'>FINAL</div>", unsafe_allow_html=True)
+    # Invisible click layer
+    st.markdown('<div class="fca-card-hitbox">', unsafe_allow_html=True)
+    if st.button("open", key=f"open_{variant}_{slug}", use_container_width=True):
+        on_open_game(slug)
+    st.markdown('</div>', unsafe_allow_html=True)
 
-        st.markdown("<div class='fca-hr'></div>", unsafe_allow_html=True)
+    # Visible metric card
+    st.markdown(f'<div class="metric-card" style="min-height:{card_min_h}px;">', unsafe_allow_html=True)
 
-        # Data rows
-        r1, r2, r3 = st.columns(3, gap="small")
+    # Logos row (kept minimal — if no logos yet it falls back to initials)
+    st.markdown(_logo_row_html(away, home, away_logo, home_logo), unsafe_allow_html=True)
 
-        with r1:
-            st.markdown("<div class='fca-muted'>Model</div>", unsafe_allow_html=True)
-            if proj_total is None:
-                st.markdown("<div style='font-weight:700;'>Projections pending</div>", unsafe_allow_html=True)
-                st.caption("No predictions file yet for this date.")
-            else:
-                st.markdown(f"<div style='font-size:1.1rem; font-weight:800;'>Proj Total: {proj_total:.1f}</div>", unsafe_allow_html=True)
-                st.markdown(f"<div class='fca-muted'>Proj Spread (Home): {proj_spread_home:+.1f}</div>", unsafe_allow_html=True)
+    # Keep existing matchup text
+    st.markdown(f'<div class="metric-label">{away} @ {home}</div>', unsafe_allow_html=True)
 
-        with r2:
-            st.markdown("<div class='fca-muted'>Market Edges</div>", unsafe_allow_html=True)
-            if spread_edge is None and total_edge is None:
-                st.markdown("<div style='font-weight:700;'>Odds not available yet</div>", unsafe_allow_html=True)
-                st.caption("Slate still shows — edges populate once odds are scraped.")
-            else:
-                if spread_edge is not None:
-                    st.markdown(_edge_badge("Spread Edge", spread_edge), unsafe_allow_html=True)
-                if total_edge is not None:
-                    st.markdown(_edge_badge("Total Edge", total_edge), unsafe_allow_html=True)
+    # Keep existing time/location text
+    if location:
+        st.markdown(f'<div class="metric-sub">{time_local} • {location}</div>', unsafe_allow_html=True)
+    else:
+        st.markdown(f'<div class="metric-sub">{time_local}</div>', unsafe_allow_html=True)
 
-        with r3:
-            st.markdown("<div class='fca-muted'>Quick Status</div>", unsafe_allow_html=True)
-            src = "combined_daily" if game.get("features") else "schedule"
-            st.markdown(f"<div style='font-weight:700;'>Source: {src}</div>", unsafe_allow_html=True)
-            if pred:
-                st.caption("Predictions: ✅")
-            else:
-                st.caption("Predictions: ⏳")
-            if res:
-                st.caption("Results: ✅")
-            else:
-                st.caption("Results: ⏳")
+    # Projections
+    if proj_total is not None:
+        st.markdown(f'<div class="metric-value">Proj Total: {proj_total:.1f}</div>', unsafe_allow_html=True)
+    else:
+        st.markdown('<div class="metric-value">Proj Total: —</div>', unsafe_allow_html=True)
 
-        st.markdown("</div>", unsafe_allow_html=True)
+    if proj_spread_home is not None:
+        st.markdown(f'<div class="metric-sub">Proj Spread (Home): {proj_spread_home:+.1f}</div>', unsafe_allow_html=True)
+    else:
+        st.markdown('<div class="metric-sub">Proj Spread (Home): —</div>', unsafe_allow_html=True)
+
+    # Market edges (blank/dash if no odds yet)
+    if spread_edge is None:
+        st.markdown('<div class="metric-sub">Spread Edge: —</div>', unsafe_allow_html=True)
+    else:
+        st.markdown(f'<div class="metric-sub">Spread Edge: {spread_edge:+.2f}</div>', unsafe_allow_html=True)
+
+    if total_edge is None:
+        st.markdown('<div class="metric-sub">Total Edge: —</div>', unsafe_allow_html=True)
+    else:
+        st.markdown(f'<div class="metric-sub">Total Edge: {total_edge:+.2f}</div>', unsafe_allow_html=True)
+
+    st.markdown('</div></div>', unsafe_allow_html=True)
 
 
 def _edge_badge(label: str, val: float) -> str:

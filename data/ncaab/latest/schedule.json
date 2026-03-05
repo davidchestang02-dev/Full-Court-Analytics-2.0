@@ -1,7 +1,7 @@
 {
   "sport": "ncaab",
   "date": "2026-03-05",
-  "scraped_at_utc": "2026-03-05T07:51:45.765332+00:00",
+  "scraped_at_utc": "2026-03-05T22:13:17.146493+00:00",
   "games": [
     {
       "title": "#1 Michigan at #25 Iowa",
@@ -160,13 +160,13 @@
       }
     },
     {
-      "title": "#256 Cal Poly at #115 UC Irvine",
+      "title": "#258 Cal Poly at #115 UC Irvine",
       "slug": "mustangs-anteaters-2026-03-05",
       "url": "https://www.teamrankings.com/ncaa-basketball/matchup/mustangs-anteaters-2026-03-05",
       "time_local": "10:00 PM",
       "location": "Bren Events Center",
       "teams": {
-        "away": "#256 Cal Poly",
+        "away": "#258 Cal Poly",
         "home": "#115 UC Irvine",
         "neutral_site": false
       }
@@ -256,6 +256,30 @@
       }
     },
     {
+      "title": "#263 Georgia So vs. #148 Arkansas St",
+      "slug": "eagles-red-wolves-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-red-wolves-2026-03-05",
+      "time_local": "8:30 PM",
+      "location": "Pensacola Bay Center",
+      "teams": {
+        "away": "#263 Georgia So",
+        "home": "#148 Arkansas St",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#197 J Madison vs. #236 Southern Miss",
+      "slug": "dukes-golden-eagles-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/dukes-golden-eagles-2026-03-05",
+      "time_local": "6:00 PM",
+      "location": "Pensacola Bay Center",
+      "teams": {
+        "away": "#197 J Madison",
+        "home": "#236 Southern Miss",
+        "neutral_site": true
+      }
+    },
+    {
       "title": "#93 N Iowa vs. #307 Evansville",
       "slug": "panthers-purple-aces-2026-03-05",
       "url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-purple-aces-2026-03-05",
@@ -264,6 +288,18 @@
       "teams": {
         "away": "#93 N Iowa",
         "home": "#307 Evansville",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#311 Oral Roberts vs. #127 N Dakota St",
+      "slug": "golden-eagles-bison-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-eagles-bison-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Denny Sanford Premier Center",
+      "teams": {
+        "away": "#311 Oral Roberts",
+        "home": "#127 N Dakota St",
         "neutral_site": true
       }
     },
@@ -277,6 +313,18 @@
         "away": "#190 UC Davis",
         "home": "#273 Long Beach St",
         "neutral_site": false
+      }
+    },
+    {
+      "title": "#262 Lindenwood vs. #221 SE Missouri St",
+      "slug": "lions-redhawks-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-redhawks-2026-03-05",
+      "time_local": "9:30 PM",
+      "location": "Ford Center",
+      "teams": {
+        "away": "#262 Lindenwood",
+        "home": "#221 SE Missouri St",
+        "neutral_site": true
       }
     },
     {
@@ -307,7 +355,7 @@
       "title": "#206 Howard at #297 Norfolk St",
       "slug": "bison-spartans-2026-03-05",
       "url": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-spartans-2026-03-05",
-      "time_local": "7:00 PM",
+      "time_local": "8:00 PM",
       "location": "Joseph G. Echols Memorial Hall",
       "teams": {
         "away": "#206 Howard",
@@ -348,6 +396,18 @@
       "teams": {
         "away": "#245 Portland",
         "home": "#282 Pepperdine",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#319 E Illinois vs. #218 UT Martin",
+      "slug": "panthers-skyhawks-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-skyhawks-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Ford Center",
+      "teams": {
+        "away": "#319 E Illinois",
+        "home": "#218 UT Martin",
         "neutral_site": true
       }
     },

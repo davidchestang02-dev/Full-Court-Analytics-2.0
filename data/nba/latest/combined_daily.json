@@ -1,7 +1,7 @@
 {
   "sport": "nba",
   "date": "2026-03-05",
-  "scraped_at_utc": "2026-03-05T19:54:33.195913+00:00",
+  "scraped_at_utc": "2026-03-05T22:13:05.974145+00:00",
   "source": {
     "schedule_url": "https://www.teamrankings.com/nba/schedules/",
     "matchup_suffix": "/efficiency"
@@ -21,7 +21,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/pistons-spurs-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/pistons-spurs-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:33.872424+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:06.685891+00:00",
       "error": null,
       "features": {
         "matchup_menu_det_sa.off_efficiency.det": 1.124,
@@ -1272,7 +1272,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/warriors-rockets-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/warriors-rockets-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:35.258909+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:07.796713+00:00",
       "error": null,
       "features": {
         "matchup_menu_gs_hou.off_efficiency.gs": 1.116,
@@ -2523,7 +2523,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/raptors-timberwolves-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/raptors-timberwolves-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:36.598317+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:08.995310+00:00",
       "error": null,
       "features": {
         "matchup_menu_tor_min.off_efficiency.tor": 1.108,
@@ -3774,7 +3774,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/lakers-nuggets-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/lakers-nuggets-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:37.737871+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:10.215886+00:00",
       "error": null,
       "features": {
         "matchup_menu_lal_den.off_efficiency.lal": 1.139,
@@ -5025,7 +5025,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/mavericks-magic-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/mavericks-magic-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:38.890722+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:11.358871+00:00",
       "error": null,
       "features": {
         "matchup_menu_dal_orl.off_efficiency.dal": 1.073,
@@ -6276,7 +6276,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/bulls-suns-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/bulls-suns-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:40.114231+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:12.518308+00:00",
       "error": null,
       "features": {
         "matchup_menu_chi_pho.off_efficiency.chi": 1.099,
@@ -7527,7 +7527,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/nets-heat-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/nets-heat-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:41.210472+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:13.687261+00:00",
       "error": null,
       "features": {
         "matchup_menu_bk_mia.off_efficiency.bk": 1.064,
@@ -8778,7 +8778,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/pelicans-kings-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/pelicans-kings-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:42.370563+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:14.807118+00:00",
       "error": null,
       "features": {
         "matchup_menu_no_sac.off_efficiency.no": 1.097,
@@ -10029,7 +10029,7 @@
         "matchup": "https://www.teamrankings.com/nba/matchup/jazz-wizards-2026-03-05",
         "detail": "https://www.teamrankings.com/nba/matchup/jazz-wizards-2026-03-05/efficiency"
       },
-      "scraped_at_utc": "2026-03-05T19:54:43.503630+00:00",
+      "scraped_at_utc": "2026-03-05T22:13:16.018810+00:00",
       "error": null,
       "features": {
         "matchup_menu_uta_was.off_efficiency.uta": 1.106,

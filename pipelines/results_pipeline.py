@@ -44,6 +44,16 @@ def _safe_int(x) -> Optional[int]:
         return None
 
 
+def _to_rel_posix(path: Path) -> str:
+    p = path
+    if p.is_absolute():
+        try:
+            p = p.relative_to(Path.cwd())
+        except Exception:
+            pass
+    return str(p).replace("\\", "/")
+
+
 def _pick_latest_board_snapshot(data_dir: str, sport: str, date_str: str) -> Path:
     """
     We prefer the board snapshot "latest_odds_snapshot.json" if it exists,
@@ -120,17 +130,35 @@ def grade_su(final_away: Optional[int], final_home: Optional[int]) -> Dict[str, 
     }
 
 
-def grade_ats(final_away: Optional[int], final_home: Optional[int], close_spread_home: Optional[float]) -> Dict[str, Any]:
+def canonical_close_spread_home(closing: Dict[str, Any]) -> Optional[float]:
+    sp = (closing or {}).get("spread") or {}
+    h = (sp.get("home") or {}).get("line")
+    a = (sp.get("away") or {}).get("line")
+
+    if h is None and a is None:
+        return None
+
+    # If both exist, enforce symmetry: home = -away
+    if h is not None and a is not None:
+        if abs(float(h) + float(a)) < 1e-9:
+            return float(h)
+        return -float(a)
+
+    if h is not None:
+        return float(h)
+    return -float(a)
+
+
+def grade_ats(final_home: Optional[int], final_away: Optional[int], close_spread_home: Optional[float]) -> Dict[str, Any]:
     if final_away is None or final_home is None or close_spread_home is None:
         return {"graded": False}
 
-    margin_home = (final_home - final_away)
-    # Home covers if margin_home + home_line > 0
-    v = margin_home + close_spread_home
+    home_margin = final_home - final_away
+    cover_margin = home_margin - close_spread_home
 
-    if v > 0:
+    if cover_margin > 0:
         winner = "home"
-    elif v < 0:
+    elif cover_margin < 0:
         winner = "away"
     else:
         winner = "push"
@@ -139,7 +167,7 @@ def grade_ats(final_away: Optional[int], final_home: Optional[int], close_spread
         "graded": True,
         "close_spread_home": close_spread_home,
         "ats_winner": winner,
-        "cover_margin": v,  # >0 home cover, <0 away cover, 0 push
+        "cover_margin": cover_margin,
     }
 
 
@@ -252,11 +280,11 @@ def main() -> int:
         final_home = _safe_int(final.get("home"))
 
         markets = extract_closing_markets(board_game)
-        close_spread_home = markets["spread"]["home"]["line"]
+        close_spread_home = canonical_close_spread_home(markets)
         close_total = markets["total"]["line"]
 
         su = grade_su(final_away, final_home)
-        ats = grade_ats(final_away, final_home, close_spread_home)
+        ats = grade_ats(final_home, final_away, close_spread_home)
         ou = grade_ou((su.get("final_total") if su.get("graded") else None), close_total)
 
         if su.get("graded"):
@@ -276,7 +304,7 @@ def main() -> int:
                 "event_id": _safe_int(board_game.get("event_id")),
                 "state": board_game.get("state"),
                 "start_utc": board_game.get("start_utc"),
-                "snapshot_path": str(board_path).replace("\\", "/"),
+                "snapshot_path": _to_rel_posix(board_path),
             },
             "join": {"ok": True, "method": join_method},
             "closing": markets,
@@ -297,8 +325,8 @@ def main() -> int:
         "built_at_utc": utc_now_iso(),
         "model_version": args.model_version,
         "inputs": {
-            "predictions_path": str(pred_path).replace("\\", "/"),
-            "board_snapshot_path": str(board_path).replace("\\", "/"),
+            "predictions_path": _to_rel_posix(pred_path),
+            "board_snapshot_path": _to_rel_posix(board_path),
         },
         "counts": {
             "predictions": len(preds),

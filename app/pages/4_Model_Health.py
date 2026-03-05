@@ -1,33 +1,33 @@
-from __future__ import annotations
-import sys
-from pathlib import Path
 import streamlit as st
+from ui.styles import apply_styles
+from ui.data_access import get_latest_date, load_predictions
 
-ROOT = Path(__file__).resolve().parents[2]
-if str(ROOT) not in sys.path:
-    sys.path.insert(0, str(ROOT))
+apply_styles()
+st.set_page_config(page_title="FCA · Model Health", page_icon="🩺", layout="wide")
 
-from app.ui.data_access import list_dates, load_results
-
-st.title("📈 Model Health")
-
-data_dir = st.session_state.get("data_dir", "data")
+DATA_DIR = "data"
 sport = st.session_state.get("sport", "ncaab")
+latest_date = get_latest_date(DATA_DIR, sport)
 
-dates = list_dates(data_dir, sport)
-dates = dates[-30:]  # last 30 available folders
+st.markdown(f"### Model Health · {sport.upper()} · {latest_date or ''}")
 
-if not dates:
-    st.info("No historical dates found yet.")
+if not latest_date:
+    st.error("Missing latest.json for this sport.")
     st.stop()
 
-st.caption("This page becomes powerful once you have multiple days of results.")
+preds = load_predictions(DATA_DIR, sport, latest_date, model_version="baseline_v1")
+if not preds:
+    st.error("Missing predictions for latest date.")
+    st.stop()
 
-# Placeholder: show how many result files exist
-have_results = 0
-for d in dates:
-    if load_results(data_dir, sport, d):
-        have_results += 1
+p = preds.get("predictions", [])
+count = len(p)
+with_odds = sum(1 for x in p if x.get("odds_event_id") is not None)
+has_market = sum(1 for x in p if (x.get("market_edges") or x.get("market") or {}).get("has_market"))
 
-st.metric("Days with results", have_results)
-st.write("Next step: compute rolling ATS/O-U accuracy + calibration curves once results schema is finalized.")
+c1, c2, c3 = st.columns(3)
+c1.metric("Predictions", str(count))
+c2.metric("Joined Odds (event_id)", f"{with_odds}/{count}")
+c3.metric("Markets Present", f"{has_market}/{count}")
+
+st.info("If markets are missing, it’s usually scrape timing. The UI is wired correctly either way.")

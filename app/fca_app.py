@@ -1,14 +1,5 @@
-from __future__ import annotations
-import sys
-from pathlib import Path
 import streamlit as st
-
-ROOT = Path(__file__).resolve().parents[1]
-if str(ROOT) not in sys.path:
-    sys.path.insert(0, str(ROOT))
-
-from app.ui.styles import inject_global_css
-from app.ui.data_access import list_available_sports, get_default_sport, get_default_date
+from ui.styles import apply_styles
 
 st.set_page_config(
     page_title="Full Court Analytics",
@@ -16,20 +7,30 @@ st.set_page_config(
     layout="wide",
 )
 
-inject_global_css()
+apply_styles()
 
-st.title("Full Court Analytics")
-st.caption("Model-Driven Betting Intelligence")
+if "sport" not in st.session_state:
+    st.session_state["sport"] = "ncaab"
+if "view" not in st.session_state:
+    st.session_state["view"] = "today"
+if "selected_slug" not in st.session_state:
+    st.session_state["selected_slug"] = None
 
-# Sidebar: Global controls
-with st.sidebar:
-    st.header("Controls")
-    sports = list_available_sports(data_dir="data")
-    sport = st.selectbox("Sport", options=sports, index=sports.index(get_default_sport(sports)) if sports else 0)
+st.markdown('<div class="app-title">Full Court Analytics</div>', unsafe_allow_html=True)
+st.markdown('<div class="app-subtitle">Model-Driven Betting Intelligence</div>', unsafe_allow_html=True)
 
-    date = st.text_input("Date (YYYY-MM-DD)", value=get_default_date("data", sport))
+c1, c2, c3, c4 = st.columns([1, 1, 1, 3])
+with c1:
+    if st.button("Today", use_container_width=True):
+        st.switch_page("pages/1_Today.py")
+with c2:
+    if st.button("Game Detail", use_container_width=True):
+        st.switch_page("pages/2_Game_Detail.py")
+with c3:
+    if st.button("Results", use_container_width=True):
+        st.switch_page("pages/3_Results.py")
+with c4:
+    sport = st.selectbox("Sport", ["ncaab", "nba"], index=0 if st.session_state["sport"] == "ncaab" else 1)
     st.session_state["sport"] = sport
-    st.session_state["date"] = date
-    st.session_state["data_dir"] = "data"
 
-st.info("Use the left sidebar to select a sport/date. Navigate pages using Streamlit's page menu.")
+st.info("Use the pages in /app/pages. Sidebar is intentionally hidden for a cleaner product UI.")

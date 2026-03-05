@@ -1,99 +1,66 @@
-from __future__ import annotations
-import sys
-from pathlib import Path
 import streamlit as st
-import pandas as pd
+from ui.styles import apply_styles
+from ui.data_access import get_latest_date, load_predictions, load_combined_daily
+from ui.components import top_play_card, slate_row, set_selected_game
 
-ROOT = Path(__file__).resolve().parents[2]
-if str(ROOT) not in sys.path:
-    sys.path.insert(0, str(ROOT))
+apply_styles()
+st.set_page_config(page_title="FCA · Today", page_icon="🏀", layout="wide")
 
-from app.ui.data_access import load_predictions
-from app.ui.components import metric_row, edge_badge
-
-st.title("📅 Today / Slate")
-
-data_dir = st.session_state.get("data_dir", "data")
+DATA_DIR = "data"
 sport = st.session_state.get("sport", "ncaab")
-date = st.session_state.get("date", "")
+latest_date = get_latest_date(DATA_DIR, sport)
 
-pred = load_predictions(data_dir, sport, date, model_version="baseline_v1")
+st.markdown(f"### Today · {sport.upper()} · {latest_date or 'No latest.json found'}")
 
-if not pred:
-    st.error(f"No predictions found for {sport} on {date}. Run the pipeline first.")
+if not latest_date:
+    st.error(f"Missing {DATA_DIR}/{sport}/latest.json. Run the scrapers first.")
     st.stop()
 
-rows = pred.get("predictions", [])
-count = len(rows)
+preds = load_predictions(DATA_DIR, sport, latest_date, model_version="baseline_v1")
+combined = load_combined_daily(DATA_DIR, sport, latest_date)
 
-with_odds = sum(1 for r in rows if r.get("odds_event_id") is not None)
-has_market = sum(1 for r in rows if (r.get("market") or {}).get("has_market"))
+if not preds or "predictions" not in preds:
+    st.error("Missing predictions file. Run: python model_pipeline.py --sport ... --date ...")
+    st.stop()
 
-metric_row([
-    ("Games", f"{count}", "Total games in slate"),
-    ("Matched Odds", f"{with_odds}", "Games matched to an odds event_id"),
-    ("Has Market Lines", f"{has_market}", "Spread/Total lines present in odds snapshot"),
-])
+games = preds["predictions"]
 
-# Build a dataframe for sorting/filtering
-table = []
-for r in rows:
-    mk = r.get("market") or {}
-    pj = r.get("proj") or {}
-    table.append({
-        "matchup": r.get("matchup_title"),
-        "time_local": r.get("time_local"),
-        "proj_total": pj.get("proj_total"),
-        "proj_spread_home": pj.get("proj_spread_home"),
-        "market_total": mk.get("market_total"),
-        "market_spread_home": mk.get("market_spread_home"),
-        "total_edge": mk.get("total_edge"),
-        "spread_edge": mk.get("spread_edge"),
-        "odds_event_id": r.get("odds_event_id"),
-        "slug": r.get("slug"),
-    })
+# Build a clean display label list
+labels = []
+slug_to_game = {}
+for g in games:
+    slug = g.get("slug")
+    label = f"{g.get('time_local', '')} · {g.get('matchup_title', slug)}"
+    labels.append(label)
+    slug_to_game[label] = g
 
-df = pd.DataFrame(table)
+# Dropdown selector (your request: NO sliders)
+sel = st.selectbox("Matchup", labels, index=0)
+if st.button("Open selected matchup", use_container_width=True):
+    set_selected_game(slug_to_game[sel].get("slug"))
 
-# Filters
-c1, c2, c3 = st.columns([1, 1, 2])
-with c1:
-    show_only_lines = st.checkbox("Only show games with lines", value=False)
-with c2:
-    min_edge = st.number_input("Min abs edge", value=0.0, step=0.5)
-with c3:
-    q = st.text_input("Search matchup", value="")
+# Rank “Top Plays” using abs edges (simple + stable)
+def score_top(g):
+    e = g.get("market_edges") or g.get("market") or {}
+    if not e.get("has_market"):
+        return -1e9
+    se = e.get("spread_edge") or 0.0
+    te = e.get("total_edge") or 0.0
+    return abs(se) * 1.0 + abs(te) * 0.8
 
-if show_only_lines:
-    df = df[df["market_total"].notna() | df["market_spread_home"].notna()]
+ranked = sorted(games, key=score_top, reverse=True)
 
-if min_edge > 0:
-    df = df[
-        (df["spread_edge"].abs().fillna(0) >= min_edge) |
-        (df["total_edge"].abs().fillna(0) >= min_edge)
-    ]
+st.markdown("### Top Plays")
+top = [g for g in ranked if (g.get("market_edges") or g.get("market") or {}).get("has_market")][:6]
+if not top:
+    st.warning("No market edges found (likely market lines were missing at scrape time).")
+else:
+    cols = st.columns(3)
+    for i, g in enumerate(top, start=1):
+        with cols[(i - 1) % 3]:
+            top_play_card(g, i)
 
-if q.strip():
-    df = df[df["matchup"].str.contains(q.strip(), case=False, na=False)]
-
-# Display: quick badge columns
-df_display = df.copy()
-df_display["spread_edge_badge"] = df_display["spread_edge"].apply(edge_badge)
-df_display["total_edge_badge"] = df_display["total_edge"].apply(edge_badge)
-
-st.subheader("Edges (sortable)")
-st.dataframe(
-    df_display[[
-        "time_local",
-        "matchup",
-        "market_spread_home",
-        "proj_spread_home",
-        "spread_edge_badge",
-        "market_total",
-        "proj_total",
-        "total_edge_badge",
-        "odds_event_id",
-    ]].sort_values(by=["spread_edge"], key=lambda s: s.abs(), ascending=False),
-    use_container_width=True,
-    hide_index=True,
-)
+st.markdown("### Full Slate")
+# Show the rest (including non-top plays)
+for g in ranked[:40]:
+    slate_row(g)

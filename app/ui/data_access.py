@@ -1,40 +1,126 @@
 from __future__ import annotations
+
 import json
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-def read_json(path: Path) -> Any:
-    return json.loads(path.read_text(encoding="utf-8"))
 
-def get_latest_date(data_dir: str, sport: str) -> Optional[str]:
-    p = Path(data_dir) / sport / "latest.json"
+DATA_DIR_DEFAULT = "data"
+
+
+def _read_json(p: Path) -> Optional[Dict[str, Any]]:
     if not p.exists():
         return None
-    d = read_json(p)
-    return d.get("latest_date")
+    return json.loads(p.read_text(encoding="utf-8"))
 
-def load_predictions(data_dir: str, sport: str, date_str: str, model_version: str = "baseline_v1") -> Optional[Dict[str, Any]]:
-    p = Path(data_dir) / sport / date_str / "predictions" / f"{model_version}.json"
-    return read_json(p) if p.exists() else None
 
-def load_combined_daily(data_dir: str, sport: str, date_str: str) -> Optional[Dict[str, Any]]:
-    # supports either by-date or "latest" cache pattern
-    p1 = Path(data_dir) / sport / date_str / "combined_daily.json"
-    if p1.exists():
-        return read_json(p1)
-    p2 = Path(data_dir) / sport / "latest" / "combined_daily.json"
-    return read_json(p2) if p2.exists() else None
+def _sport_dir(data_dir: str, sport: str) -> Path:
+    return Path(data_dir) / sport
 
-def load_results(data_dir: str, sport: str, date_str: str) -> Optional[Dict[str, Any]]:
-    p = Path(data_dir) / sport / date_str / "results" / "final_results.json"
-    return read_json(p) if p.exists() else None
 
-def list_available_dates(data_dir: str, sport: str) -> List[str]:
-    sport_dir = Path(data_dir) / sport
-    if not sport_dir.exists():
+def _day_dir(data_dir: str, sport: str, date_str: str) -> Path:
+    return Path(data_dir) / sport / date_str
+
+
+def get_available_dates(sport: Optional[str], data_dir: str = DATA_DIR_DEFAULT) -> List[str]:
+    if not sport:
         return []
-    dates = []
-    for d in sport_dir.iterdir():
-        if d.is_dir() and len(d.name) == 10 and d.name[4] == "-" and d.name[7] == "-":
-            dates.append(d.name)
-    return sorted(dates, reverse=True)
+    sd = _sport_dir(data_dir, sport)
+    if not sd.exists():
+        return []
+    out = []
+    for child in sd.iterdir():
+        if child.is_dir():
+            # date folders only
+            name = child.name
+            if len(name) == 10 and name[4] == "-" and name[7] == "-":
+                out.append(name)
+    return sorted(out)
+
+
+@dataclass
+class GamesBundle:
+    sport: str
+    date: str
+    source: str  # combined_daily | schedule_only | empty
+    games: List[Dict[str, Any]]
+    predictions: Optional[Dict[str, Any]] = None
+    results: Optional[Dict[str, Any]] = None
+
+
+def load_games_for_date(sport: str, date_str: str, data_dir: str = DATA_DIR_DEFAULT) -> GamesBundle:
+    """
+    Priority:
+      1) combined_daily.json (has matchups + TR features)
+      2) schedule.json (fallback so UI still shows slate)
+      3) empty
+    Plus:
+      - predictions/baseline_v1.json if exists
+      - results/final_results.json if exists
+    """
+    dd = _day_dir(data_dir, sport, date_str)
+
+    combined = _read_json(dd / "combined_daily.json")
+    schedule = _read_json(dd / "schedule.json")
+
+    preds = _read_json(dd / "predictions" / "baseline_v1.json")
+    results = _read_json(dd / "results" / "final_results.json")
+
+    if combined and (combined.get("games") or combined.get("matchups")):
+        games = combined.get("games") or combined.get("matchups") or []
+        return GamesBundle(sport=sport, date=date_str, source="combined_daily", games=games, predictions=preds, results=results)
+
+    if schedule and (schedule.get("games") or schedule.get("matchups")):
+        games = schedule.get("games") or schedule.get("matchups") or []
+        return GamesBundle(sport=sport, date=date_str, source="schedule_only", games=games, predictions=preds, results=results)
+
+    return GamesBundle(sport=sport, date=date_str, source="empty", games=[], predictions=preds, results=results)
+
+
+def _index_predictions(preds: Dict[str, Any] | None) -> Dict[str, Dict[str, Any]]:
+    if not preds:
+        return {}
+    arr = preds.get("predictions") or []
+    idx = {}
+    for p in arr:
+        slug = p.get("slug")
+        if slug:
+            idx[slug] = p
+    return idx
+
+
+def _index_results(res: Dict[str, Any] | None) -> Dict[str, Dict[str, Any]]:
+    if not res:
+        return {}
+    arr = res.get("games") or res.get("results") or res.get("finals") or []
+    idx = {}
+    for g in arr:
+        slug = g.get("slug")
+        if slug:
+            idx[slug] = g
+    return idx
+
+
+def load_game_detail_bundle(sport: str, date_str: str, slug: str, data_dir: str = DATA_DIR_DEFAULT) -> Dict[str, Any]:
+    """
+    Returns a unified object:
+      - base matchup (from combined_daily or schedule)
+      - prediction row (if exists)
+      - result row (if exists)
+    """
+    bundle = load_games_for_date(sport, date_str, data_dir=data_dir)
+    pred_idx = _index_predictions(bundle.predictions)
+    res_idx = _index_results(bundle.results)
+
+    base = next((g for g in bundle.games if g.get("slug") == slug), None)
+
+    return {
+        "sport": sport,
+        "date": date_str,
+        "slug": slug,
+        "bundle_source": bundle.source,
+        "base": base,
+        "prediction": pred_idx.get(slug),
+        "result": res_idx.get(slug),
+    }

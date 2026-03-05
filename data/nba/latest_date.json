@@ -1,9 +1,9 @@
 {
   "sport": "nba",
-  "latest_date": "2026-03-03",
+  "latest_date": "2026-03-05",
   "out_of_season": false,
-  "schedule_path": "nba/2026-03-03/schedule.json",
-  "combined_daily_path": "nba/2026-03-03/combined_daily.json",
-  "matchups_dir": "nba/2026-03-03/matchups",
-  "updated_at_utc": "2026-03-03T12:01:24.427258+00:00"
+  "schedule_path": "nba/2026-03-05/schedule.json",
+  "combined_daily_path": "nba/2026-03-05/combined_daily.json",
+  "matchups_dir": "nba/2026-03-05/matchups",
+  "updated_at_utc": "2026-03-05T07:51:45.073941+00:00"
 }

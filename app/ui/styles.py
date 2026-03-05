@@ -1,132 +1,139 @@
+from __future__ import annotations
+
+import base64
+from pathlib import Path
+from typing import Optional
 import streamlit as st
 
-APP_CSS = """
-<style>
-/* --- Global --- */
-html, body, [class*="css"]  {
-  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
-}
 
-/* remove default padding */
-.block-container { padding-top: 1.25rem; }
+def _b64(path: str) -> str:
+    p = Path(path)
+    if not p.exists():
+        return ""
+    return base64.b64encode(p.read_bytes()).decode("utf-8")
 
-/* Hide Streamlit sidebar + hamburger */
-[data-testid="stSidebar"] { display: none !important; }
-button[kind="header"] { display: none !important; }
 
-/* Header polish */
-.app-title {
-  font-size: 28px;
-  font-weight: 800;
-  letter-spacing: 0.2px;
-  margin: 0 0 2px 0;
-}
-.app-subtitle {
-  opacity: 0.75;
-  margin: 0 0 12px 0;
-}
+def set_app_background(image_path: Optional[str]):
+    """
+    If image_path is None, we switch to a clean dark gradient.
+    If provided, we set a premium hero background.
+    """
+    if image_path:
+        data = _b64(image_path)
+        if not data:
+            return
+        st.markdown(
+            f"""
+            <style>
+            .stApp {{
+              background:
+                radial-gradient(1200px 600px at 20% 10%, rgba(0,170,255,0.20), transparent 60%),
+                radial-gradient(900px 500px at 85% 30%, rgba(255,170,0,0.12), transparent 55%),
+                linear-gradient(180deg, rgba(8,12,20,0.90), rgba(8,12,20,0.96)),
+                url("data:image/png;base64,{data}");
+              background-size: cover;
+              background-position: center;
+              background-attachment: fixed;
+            }}
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
+    else:
+        st.markdown(
+            """
+            <style>
+            .stApp {
+              background:
+                radial-gradient(1200px 650px at 20% 10%, rgba(0,170,255,0.18), transparent 55%),
+                radial-gradient(900px 500px at 85% 30%, rgba(255,170,0,0.10), transparent 55%),
+                linear-gradient(180deg, #070b12, #0a0f18);
+              background-attachment: fixed;
+            }
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
 
-/* Top nav */
-.navbar {
-  display: flex;
-  gap: 10px;
-  margin: 10px 0 18px 0;
-}
-.navpill {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 8px 12px;
-  border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.12);
-  background: rgba(255,255,255,0.04);
-  cursor: pointer;
-  user-select: none;
-  font-weight: 600;
-  font-size: 13px;
-}
-.navpill.active {
-  border: 1px solid rgba(255,255,255,0.22);
-  background: rgba(255,255,255,0.08);
-}
 
-/* Cards */
-.card {
-  border-radius: 16px;
-  border: 1px solid rgba(255,255,255,0.10);
-  background: rgba(255,255,255,0.03);
-  padding: 14px 14px;
-}
-.card:hover {
-  border-color: rgba(255,255,255,0.18);
-  background: rgba(255,255,255,0.05);
-}
+def inject_global_styles():
+    # Remove Streamlit chrome, sidebar, padding issues, make cards feel native
+    st.markdown(
+        """
+        <style>
+        /* Hide sidebar completely */
+        section[data-testid="stSidebar"] { display: none !important; }
+        div[data-testid="collapsedControl"] { display: none !important; }
 
-/* Top plays grid cards */
-.topplay-title {
-  font-size: 14px;
-  font-weight: 800;
-  margin-bottom: 6px;
-}
-.muted { opacity: 0.75; font-size: 12px; }
-.metric-row { display:flex; gap:12px; flex-wrap: wrap; margin-top: 10px; }
-.metric-chip {
-  padding: 6px 10px;
-  border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.10);
-  background: rgba(255,255,255,0.04);
-  font-size: 12px;
-  font-weight: 700;
-}
+        /* Hide Streamlit header/footer */
+        header[data-testid="stHeader"] { display: none; }
+        footer { visibility: hidden; }
 
-/* Table-like rows */
-.row {
-  display:flex;
-  justify-content: space-between;
-  align-items:center;
-  gap: 10px;
-  padding: 10px 12px;
-  border-radius: 12px;
-  border: 1px solid rgba(255,255,255,0.08);
-  background: rgba(255,255,255,0.02);
-  margin-bottom: 8px;
-}
-.row:hover {
-  border-color: rgba(255,255,255,0.16);
-  background: rgba(255,255,255,0.05);
-}
-.row-left { display:flex; flex-direction: column; gap: 2px; }
-.row-title { font-weight: 800; font-size: 14px; }
-.row-sub { opacity: 0.75; font-size: 12px; }
-.badge {
-  font-size: 11px;
-  font-weight: 800;
-  padding: 5px 8px;
-  border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.10);
-  background: rgba(255,255,255,0.04);
-}
+        /* Global typography */
+        html, body, [class*="css"]  {
+            font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+        }
 
-/* Stat compare bars */
-.statgrid {
-  display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-  gap: 12px;
-  align-items: center;
-}
-.statname { opacity: 0.80; font-weight: 700; font-size: 12px; }
-.statval { font-weight: 800; font-size: 12px; text-align: right; opacity: 0.90; }
-.barwrap {
-  height: 10px;
-  border-radius: 999px;
-  background: rgba(255,255,255,0.08);
-  overflow: hidden;
-  display:flex;
-}
-.bar { height: 10px; }
-.smallnote { opacity:0.7; font-size: 12px; margin-top: 6px; }
-</style>
-"""
+        /* Reduce default top padding */
+        .block-container { padding-top: 1.0rem !important; }
 
-def apply_styles():
-    st.markdown(APP_CSS, unsafe_allow_html=True)
+        /* Make buttons look premium */
+        .stButton>button {
+            border-radius: 14px !important;
+            border: 1px solid rgba(255,255,255,0.10) !important;
+            background: rgba(255,255,255,0.06) !important;
+            color: rgba(255,255,255,0.92) !important;
+            padding: 0.6rem 0.9rem !important;
+            transition: all 120ms ease-in-out;
+        }
+        .stButton>button:hover {
+            transform: translateY(-1px);
+            border-color: rgba(0,170,255,0.35) !important;
+            background: rgba(0,170,255,0.10) !important;
+        }
+
+        /* Inputs */
+        .stSelectbox, .stDateInput, .stTextInput {
+            border-radius: 14px !important;
+        }
+
+        /* Card wrapper */
+        .fca-card {
+            border: 1px solid rgba(255,255,255,0.10);
+            background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.03));
+            border-radius: 18px;
+            padding: 14px 14px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+        }
+
+        .fca-glass {
+            border: 1px solid rgba(255,255,255,0.12);
+            background: rgba(10,14,22,0.58);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 18px;
+        }
+
+        .fca-muted { color: rgba(255,255,255,0.65); }
+        .fca-title { font-size: 1.15rem; font-weight: 700; letter-spacing: 0.2px; }
+        .fca-subtitle { font-size: 0.95rem; color: rgba(255,255,255,0.70); }
+
+        /* Clickable card button */
+        div[data-testid="stVerticalBlock"] .fca-card-btn button {
+            width: 100% !important;
+            text-align: left !important;
+            background: transparent !important;
+            border: 0 !important;
+            padding: 0 !important;
+        }
+
+        /* Horizontal separator */
+        .fca-hr {
+            height: 1px;
+            background: rgba(255,255,255,0.10);
+            margin: 10px 0;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )

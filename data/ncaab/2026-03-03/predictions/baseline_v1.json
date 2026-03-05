@@ -1,7 +1,7 @@
 {
   "sport": "ncaab",
   "date": "2026-03-03",
-  "built_at_utc": "2026-03-04T05:27:27.097881+00:00",
+  "built_at_utc": "2026-03-05T07:50:26.507712+00:00",
   "model_version": "baseline_v1",
   "count": 53,
   "predictions": [
@@ -30,13 +30,9 @@
         "proj_spread_home": 1.2303999999999888
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": 1.5,
-        "spread_edge": -0.26960000000001116,
-        "market_total": 180.5,
-        "total_edge": -8.93610000000001
+        "has_market": false
       },
-      "odds_event_id": 8514400
+      "odds_event_id": null
     },
     {
       "slug": "wildcats-aggies-2026-03-03",
@@ -96,13 +92,9 @@
         "proj_spread_home": -3.4424999999999955
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": -1.5,
-        "spread_edge": -1.9424999999999955,
-        "market_total": 144.5,
-        "total_edge": 2.2193499999999915
+        "has_market": false
       },
-      "odds_event_id": 10329160
+      "odds_event_id": null
     },
     {
       "slug": "cougars-bearcats-2026-03-03",
@@ -162,13 +154,9 @@
         "proj_spread_home": 0.24237500000000978
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": -2.5,
-        "spread_edge": 2.7423750000000098,
-        "market_total": 141.5,
-        "total_edge": 4.859874999999988
+        "has_market": false
       },
-      "odds_event_id": 9133560
+      "odds_event_id": null
     },
     {
       "slug": "horned-frogs-red-raiders-2026-03-03",
@@ -195,13 +183,9 @@
         "proj_spread_home": 1.820699999999988
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": -8.5,
-        "spread_edge": 10.320699999999988,
-        "market_total": 147.5,
-        "total_edge": 4.7605000000000075
+        "has_market": false
       },
-      "odds_event_id": 10330810
+      "odds_event_id": null
     },
     {
       "slug": "tigers-tigers-2026-03-03",
@@ -352,13 +336,9 @@
         "proj_spread_home": 5.640525000000011
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": -13.5,
-        "spread_edge": 19.14052500000001,
-        "market_total": 148.5,
-        "total_edge": 4.219875000000002
+        "has_market": false
       },
-      "odds_event_id": 9133530
+      "odds_event_id": null
     },
     {
       "slug": "aztecs-broncos-2026-03-03",
@@ -447,13 +427,9 @@
         "proj_spread_home": 8.72099999999999
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": -18.5,
-        "spread_edge": 27.22099999999999,
-        "market_total": 145.5,
-        "total_edge": 4.193399999999997
+        "has_market": false
       },
-      "odds_event_id": 10329140
+      "odds_event_id": null
     },
     {
       "slug": "bulldogs-gators-2026-03-03",
@@ -538,13 +514,9 @@
         "proj_spread_home": -5.781000000000006
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": 9.5,
-        "spread_edge": -15.281000000000006,
-        "market_total": 141.5,
-        "total_edge": 9.299499999999995
+        "has_market": false
       },
-      "odds_event_id": 8514440
+      "odds_event_id": null
     },
     {
       "slug": "hoyas-red-storm-2026-03-03",
@@ -571,13 +543,9 @@
         "proj_spread_home": 5.352824999999996
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": -15.5,
-        "spread_edge": 20.852824999999996,
-        "market_total": 148.5,
-        "total_edge": 2.4209249999999827
+        "has_market": false
       },
-      "odds_event_id": 9170910
+      "odds_event_id": null
     },
     {
       "slug": "pirates-musketeers-2026-03-03",
@@ -860,13 +828,9 @@
         "proj_spread_home": -5.042225000000016
       },
       "market": {
-        "has_market": true,
-        "market_spread_home": -7.5,
-        "spread_edge": 2.457774999999984,
-        "market_total": 162.5,
-        "total_edge": -2.7086249999999836
+        "has_market": false
       },
-      "odds_event_id": 8582720
+      "odds_event_id": null
     },
     {
       "slug": "dragons-pride-2026-03-03",

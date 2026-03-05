@@ -29,7 +29,7 @@ jobs:
       - name: Run cache
         run: |
           python scraper/teamrankings_cache.py nba ncaab
-          python scraper/scoresandodds_odds.py nba ncaab
+          python scraper/scoresandodds_odds.py
 
       - name: Commit data updates
         run: |

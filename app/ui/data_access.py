@@ -36,6 +36,13 @@ def get_available_dates(sport: Optional[str], data_dir: str = DATA_DIR_DEFAULT) 
             name = child.name
             if len(name) == 10 and name[4] == "-" and name[7] == "-":
                 out.append(name)
+
+    # Include latest pointer date even if date folder isn't committed.
+    latest = _read_json(sd / "latest.json") or {}
+    latest_date = latest.get("latest_date") or latest.get("date")
+    if isinstance(latest_date, str) and len(latest_date) == 10 and latest_date not in out:
+        out.append(latest_date)
+
     return sorted(out)
 
 
@@ -43,7 +50,7 @@ def get_available_dates(sport: Optional[str], data_dir: str = DATA_DIR_DEFAULT) 
 class GamesBundle:
     sport: str
     date: str
-    source: str  # combined_daily | schedule_only | empty
+    source: str  # combined_daily | schedule_only | latest_combined | latest_schedule | empty
     games: List[Dict[str, Any]]
     predictions: Optional[Dict[str, Any]] = None
     results: Optional[Dict[str, Any]] = None
@@ -74,6 +81,20 @@ def load_games_for_date(sport: str, date_str: str, data_dir: str = DATA_DIR_DEFA
     if schedule and (schedule.get("games") or schedule.get("matchups")):
         games = schedule.get("games") or schedule.get("matchups") or []
         return GamesBundle(sport=sport, date=date_str, source="schedule_only", games=games, predictions=preds, results=results)
+
+    # Fallback to latest cache files so Streamlit Cloud can still show today's slate
+    # when dated folders are not fully present in the repo.
+    latest_dir = _sport_dir(data_dir, sport) / "latest"
+    latest_combined = _read_json(latest_dir / "combined_daily.json")
+    latest_schedule = _read_json(latest_dir / "schedule.json")
+
+    if latest_combined and (latest_combined.get("games") or latest_combined.get("matchups")):
+        games = latest_combined.get("games") or latest_combined.get("matchups") or []
+        return GamesBundle(sport=sport, date=date_str, source="latest_combined", games=games, predictions=preds, results=results)
+
+    if latest_schedule and (latest_schedule.get("games") or latest_schedule.get("matchups")):
+        games = latest_schedule.get("games") or latest_schedule.get("matchups") or []
+        return GamesBundle(sport=sport, date=date_str, source="latest_schedule", games=games, predictions=preds, results=results)
 
     return GamesBundle(sport=sport, date=date_str, source="empty", games=[], predictions=preds, results=results)
 

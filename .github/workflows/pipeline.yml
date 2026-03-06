@@ -1,0 +1,46 @@
+name: FCA Pipeline
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 7 AM ET daily
+    - cron: "0 * * * *"    # every hour
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run ingestion
+        run: |
+          python scripts/ingest/run_ingest.py --sport all --date today
+
+      - name: Run deterministic model
+        run: |
+          python scripts/model/run_model.py --sport all --date today
+
+      - name: Run AI slate generator
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          python scripts/ai/run_ai_slate.py --sport all --date today
+
+      - name: Upload JSON to Cloudflare R2
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_R2_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
+          CLOUDFLARE_R2_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
+        run: |
+          python scripts/upload_to_r2.py

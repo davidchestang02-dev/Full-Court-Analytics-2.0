@@ -660,6 +660,7 @@ def qp_set(**kwargs: str) -> None:
 
 def top_nav(logo_url: str) -> None:
     qp = qp_get()
+    page = qp.get("page", "home")
     sport = qp.get("sport", "ncaab")
     date = qp.get("date", "")
 
@@ -672,7 +673,8 @@ def top_nav(logo_url: str) -> None:
         if extra:
             base.update(extra)
         href = "?" + "&".join([f"{k}={_url_escape(v)}" for k, v in base.items() if v is not None])
-        return f'<a class="fca-pill" href="{href}">{label}</a>'
+        active_cls = " active" if page == page_to else ""
+        return f'<a class="fca-pill{active_cls}" href="{href}">{label}</a>'
 
     st.markdown(
         f"""
@@ -686,6 +688,7 @@ def top_nav(logo_url: str) -> None:
     {link("Today", "today")}
     {link("Results", "results")}
     {link("Model Health", "health")}
+    {link("About", "about")}
   </div>
 </div>
         """,
@@ -855,6 +858,98 @@ def teamrankings_bar_table(
         )
 
     st.markdown("</div>", unsafe_allow_html=True)
+
+
+def render_about_page() -> None:
+    st.markdown(
+        """
+<div class="about-shell">
+  <h1 class="page-title">About <span class="accent">Edge Factor Elite</span></h1>
+  <p class="page-subtitle">How our AI models work, where the data comes from, and what it all means.</p>
+
+  <div class="about-section">
+    <h2>Model Methodology</h2>
+    <p>Edge Factor Elite uses two independent prediction systems that run daily before games tip off:</p>
+
+    <div class="about-card">
+      <h3 class="props-accent">Player Props Model</h3>
+      <p>
+        A self-learning ensemble model (Random Forest + Gradient Boosting + Extra Trees) trained on historical NBA
+        player game logs. It analyzes recent performance, matchup difficulty, pace factors, rest days, and injury
+        context to project player stat lines. The model compares its projections against Vegas lines to identify edges,
+        and continuously adjusts its calibration based on past prediction accuracy.
+      </p>
+    </div>
+
+    <div class="about-card">
+      <h3 class="game-accent">Game Predictions Model</h3>
+      <p>
+        A team-level model that uses current season stats, advanced metrics, home/away splits, and recent form to
+        project game scores. It runs Monte Carlo simulations to estimate win probabilities and compares projected
+        spreads/totals against Vegas lines to find value. Picks are only recommended when the model has 55%+ confidence
+        in an edge.
+      </p>
+    </div>
+  </div>
+
+  <div class="about-section">
+    <h2>Data Sources</h2>
+    <ul>
+      <li>NBA API (nba.com) - player game logs, team stats, advanced metrics, daily schedules</li>
+      <li>The Odds API - real-time Vegas lines (spreads, totals, moneylines) from major sportsbooks</li>
+      <li>RotoWire - injury reports and player status updates</li>
+    </ul>
+  </div>
+
+  <div class="about-section">
+    <h2>How to Read the Projections</h2>
+    <ul>
+      <li><strong>Confidence %</strong> - How confident the model is in the pick. Higher is better.</li>
+      <li><strong>EV% (Expected Value)</strong> - Estimated edge over the sportsbook. Positive EV means an advantage.</li>
+      <li><strong>Edge Rating</strong> - STRONG (5%+), GOOD (3-5%), LEAN (1-3%) based on projected edge size.</li>
+      <li><strong>NO PLAY</strong> - The model does not see enough edge to recommend a pick.</li>
+    </ul>
+  </div>
+
+  <div class="about-section">
+    <h2>FAQ</h2>
+
+    <div class="faq-item">
+      <div class="faq-q">When are projections updated?</div>
+      <div class="faq-a">
+        Projections are generated each morning. Game projections update after lines are published (usually by noon ET).
+        Player props update when sportsbook prop lines are available. Results can be graded automatically throughout
+        the slate.
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q">How is ROI calculated?</div>
+      <div class="faq-a">
+        ROI assumes standard -110 odds. Each win pays $90.91 on a $100 stake, each loss costs $100.
+        ROI = total profit / total wagered * 100.
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q">Why do some days have no prop results?</div>
+      <div class="faq-a">
+        Player prop projections require available prop lines. If lines were missing when the model ran, no prop picks
+        are generated for that day.
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q">Should I bet real money on these picks?</div>
+      <div class="faq-a">
+        This project is for education and entertainment only. No model guarantees profitability. Bet responsibly.
+      </div>
+    </div>
+  </div>
+</div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 def _safe_float(x: Any) -> Optional[float]:

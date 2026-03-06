@@ -19,6 +19,7 @@ from ui.components import (
     landing_league_cards,
     game_card,
     teamrankings_bar_table,
+    render_about_page,
 )
 
 LOGO_URL = "https://raw.githubusercontent.com/davidchestang02-dev/full-court-analytics/main/images/fca_logo.png"
@@ -34,7 +35,8 @@ def main() -> None:
     date_param = qp.get("date", "")
 
     top_nav(LOGO_URL)
-    hero("Full Court Analytics", "Model-Driven Betting Intelligence")
+    if page != "about":
+        hero("Full Court Analytics", "Model-Driven Betting Intelligence")
 
     if page == "home":
         render_home()
@@ -46,6 +48,8 @@ def main() -> None:
         render_results(sport=sport, date_str=date_param)
     elif page == "health":
         render_health(sport=sport)
+    elif page == "about":
+        render_about()
     else:
         render_home()
 
@@ -53,6 +57,10 @@ def main() -> None:
 def render_home() -> None:
     st.markdown("### Select a league")
     landing_league_cards()
+
+
+def render_about() -> None:
+    render_about_page()
 
 
 def render_today(sport: str, date_str: str) -> None:

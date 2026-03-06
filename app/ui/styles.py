@@ -119,6 +119,11 @@ html, body, [data-testid="stAppViewContainer"] {{
   border: 1px solid rgba(140, 190, 255, 0.45);
   box-shadow: 0 0 26px rgba(0, 170, 255, 0.18);
 }}
+.fca-pill.active {{
+  color: #ffffff !important;
+  border: 1px solid rgba(0, 212, 255, 0.45);
+  box-shadow: 0 0 18px rgba(0, 212, 255, 0.22);
+}}
 
 /* ---------- HEADERS ---------- */
 .fca-hero {{
@@ -304,6 +309,103 @@ html, body, [data-testid="stAppViewContainer"] {{
 .bar {{
   height: 100%;
   border-radius: 999px;
+}}
+
+/* ---------- ABOUT PAGE ---------- */
+.about-shell {{
+  max-width: 860px;
+  margin: 0 auto;
+}}
+.page-title {{
+  font-size: clamp(28px, 4vw, 40px);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  margin-bottom: 8px;
+}}
+.page-title .accent {{
+  color: #00d4ff;
+}}
+.page-subtitle {{
+  font-size: 15px;
+  color: #a1a1aa;
+  margin-bottom: 36px;
+}}
+.about-section {{
+  margin-bottom: 34px;
+}}
+.about-section h2 {{
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}}
+.about-section p {{
+  font-size: 14px;
+  color: #a1a1aa;
+  line-height: 1.8;
+  margin-bottom: 12px;
+}}
+.about-section ul {{
+  list-style: none;
+  padding: 0;
+}}
+.about-section li {{
+  font-size: 14px;
+  color: #a1a1aa;
+  line-height: 1.8;
+  padding-left: 20px;
+  position: relative;
+}}
+.about-section li::before {{
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #00d4ff;
+}}
+.about-card {{
+  background: rgba(12, 18, 32, 0.90);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 22px;
+  margin-bottom: 14px;
+}}
+.about-card h3 {{
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}}
+.about-card h3.props-accent {{
+  color: #00d4ff;
+}}
+.about-card h3.game-accent {{
+  color: #34d399;
+}}
+.about-card p {{
+  font-size: 13px;
+  color: #a1a1aa;
+  line-height: 1.7;
+  margin-bottom: 0;
+}}
+.faq-item {{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 18px 0;
+}}
+.faq-item:last-child {{
+  border-bottom: none;
+}}
+.faq-q {{
+  font-size: 14px;
+  font-weight: 600;
+  color: #fafafa;
+  margin-bottom: 8px;
+}}
+.faq-a {{
+  font-size: 13px;
+  color: #a1a1aa;
+  line-height: 1.7;
 }}
 </style>
         """,

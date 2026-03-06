@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/dukes-golden-eagles-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:45.586113+00:00",
+  "tables": {
+    "Matchup Menu: JMU vs. USM": {
+      "headers": [
+        "Stat",
+        "JMU",
+        "adv",
+        "USM"
+      ],
+      "team_headers": [
+        "JMU",
+        "USM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "JMU": {
+            "raw": "1.076",
+            "value": 1.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USM": {
+            "raw": "1.020",
+            "value": 1.02
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USM": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "15.0%",
+            "value": 0.15
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "16.4%",
+            "value": 0.16399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "JMU": {
+            "raw": "0.358",
+            "value": 0.358
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "0.424",
+            "value": 0.424
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "JMU": {
+            "raw": "74.5",
+            "value": 74.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "JMU": {
+            "raw": "+0.5",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "-1.5",
+            "value": -1.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "JMU",
+        "adv",
+        "USM"
+      ],
+      "team_headers": [
+        "JMU",
+        "USM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "JMU": {
+            "raw": "1.076",
+            "value": 1.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USM": {
+            "raw": "1.020",
+            "value": 1.02
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USM": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "15.0%",
+            "value": 0.15
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "16.4%",
+            "value": 0.16399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "JMU": {
+            "raw": "0.358",
+            "value": 0.358
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "0.424",
+            "value": 0.424
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "JMU": {
+            "raw": "74.5",
+            "value": 74.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "JMU": {
+            "raw": "+0.5",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "-1.5",
+            "value": -1.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "JMU",
+        "adv",
+        "USM"
+      ],
+      "team_headers": [
+        "JMU",
+        "USM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "JMU": {
+            "raw": "1.069",
+            "value": 1.069
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "1.041",
+            "value": 1.041
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USM": {
+            "raw": "51.6%",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "11.1%",
+            "value": 0.111
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "USM": {
+            "raw": "15.7%",
+            "value": 0.157
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "73.2%",
+            "value": 0.732
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "73.5%",
+            "value": 0.735
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "JMU": {
+            "raw": "0.403",
+            "value": 0.403
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "0.429",
+            "value": 0.429
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "JMU": {
+            "raw": "74.0",
+            "value": 74.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "6.9%",
+            "value": 0.069
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "6.5%",
+            "value": 0.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        }
+      ]
+    },
+    "J Madison vs Southern Miss Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "JMU",
+        "adv",
+        "USM"
+      ],
+      "team_headers": [
+        "JMU",
+        "USM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "JMU": {
+            "raw": "69.3",
+            "value": 69.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "71.6",
+            "value": 71.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "JMU": {
+            "raw": "1.076",
+            "value": 1.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USM": {
+            "raw": "1.020",
+            "value": 1.02
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USM": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "JMU": {
+            "raw": "57.0%",
+            "value": 0.57
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "USM": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "JMU": {
+            "raw": "43.0%",
+            "value": 0.43
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USM": {
+            "raw": "29.8%",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "26.0%",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "29.5%",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "52.8%",
+            "value": 0.528
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "51.3%",
+            "value": 0.513
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USM": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "70.3%",
+            "value": 0.703
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "73.5%",
+            "value": 0.735
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "JMU": {
+            "raw": "34.2",
+            "value": 34.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "USM": {
+            "raw": "40.7",
+            "value": 40.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "JMU": {
+            "raw": "26.0",
+            "value": 26.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USM": {
+            "raw": "14.7",
+            "value": 14.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "73.2%",
+            "value": 0.732
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "73.5%",
+            "value": 0.735
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "6.9%",
+            "value": 0.069
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "6.5%",
+            "value": 0.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "USM": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "15.0%",
+            "value": 0.15
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "16.4%",
+            "value": 0.16399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "JMU": {
+            "raw": "0.489",
+            "value": 0.489
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "0.449",
+            "value": 0.449
+          }
+        }
+      ]
+    },
+    "J Madison vs Southern Miss Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "JMU",
+        "adv",
+        "USM"
+      ],
+      "team_headers": [
+        "JMU",
+        "USM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "JMU": {
+            "raw": "69.3",
+            "value": 69.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "71.6",
+            "value": 71.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "JMU": {
+            "raw": "1.069",
+            "value": 1.069
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "1.041",
+            "value": 1.041
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USM": {
+            "raw": "51.6%",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "JMU": {
+            "raw": "61.2%",
+            "value": 0.612
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "58.9%",
+            "value": 0.589
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "JMU": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "41.1%",
+            "value": 0.41100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "30.0%",
+            "value": 0.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "50.4%",
+            "value": 0.504
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "32.6%",
+            "value": 0.326
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USM": {
+            "raw": "35.5%",
+            "value": 0.355
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "72.0%",
+            "value": 0.72
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "69.8%",
+            "value": 0.698
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "JMU": {
+            "raw": "35.0",
+            "value": 35.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "33.2",
+            "value": 33.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "JMU": {
+            "raw": "22.2",
+            "value": 22.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USM": {
+            "raw": "24.5",
+            "value": 24.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "26.8%",
+            "value": 0.268
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "26.5%",
+            "value": 0.265
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USM": {
+            "raw": "69.5%",
+            "value": 0.695
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "JMU": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "8.9%",
+            "value": 0.08900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "11.1%",
+            "value": 0.111
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "USM": {
+            "raw": "15.7%",
+            "value": 0.157
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "JMU": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USM": {
+            "raw": "23.1%",
+            "value": 0.231
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "JMU": {
+            "raw": "0.458",
+            "value": 0.458
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USM": {
+            "raw": "0.484",
+            "value": 0.484
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_jmu_vs_usm.off_efficiency.jmu": 1.076,
+    "matchup_menu_jmu_vs_usm.off_efficiency.usm": 1.02,
+    "matchup_menu_jmu_vs_usm.effective_fg.jmu": 0.531,
+    "matchup_menu_jmu_vs_usm.effective_fg.usm": 0.49,
+    "matchup_menu_jmu_vs_usm.turnovers_play.jmu": 0.15,
+    "matchup_menu_jmu_vs_usm.turnovers_play.usm": 0.16399999999999998,
+    "matchup_menu_jmu_vs_usm.off_rebound.jmu": 0.28800000000000003,
+    "matchup_menu_jmu_vs_usm.off_rebound.usm": 0.305,
+    "matchup_menu_jmu_vs_usm.fta_fga.jmu": 0.358,
+    "matchup_menu_jmu_vs_usm.fta_fga.usm": 0.424,
+    "matchup_menu_jmu_vs_usm.points_game.jmu": 74.5,
+    "matchup_menu_jmu_vs_usm.points_game.usm": 73.0,
+    "matchup_menu_jmu_vs_usm.avg_score_margin.jmu": 0.5,
+    "matchup_menu_jmu_vs_usm.avg_score_margin.usm": -1.5,
+    "key_offensive_stats.off_efficiency.jmu": 1.076,
+    "key_offensive_stats.off_efficiency.usm": 1.02,
+    "key_offensive_stats.effective_fg.jmu": 0.531,
+    "key_offensive_stats.effective_fg.usm": 0.49,
+    "key_offensive_stats.turnovers_play.jmu": 0.15,
+    "key_offensive_stats.turnovers_play.usm": 0.16399999999999998,
+    "key_offensive_stats.off_rebound.jmu": 0.28800000000000003,
+    "key_offensive_stats.off_rebound.usm": 0.305,
+    "key_offensive_stats.fta_fga.jmu": 0.358,
+    "key_offensive_stats.fta_fga.usm": 0.424,
+    "key_offensive_stats.points_game.jmu": 74.5,
+    "key_offensive_stats.points_game.usm": 73.0,
+    "key_offensive_stats.avg_score_margin.jmu": 0.5,
+    "key_offensive_stats.avg_score_margin.usm": -1.5,
+    "key_defensive_stats.def_efficiency.jmu": 1.069,
+    "key_defensive_stats.def_efficiency.usm": 1.041,
+    "key_defensive_stats.opp_effective_fg.jmu": 0.49,
+    "key_defensive_stats.opp_effective_fg.usm": 0.516,
+    "key_defensive_stats.opp_turnovers_play.jmu": 0.111,
+    "key_defensive_stats.opp_turnovers_play.usm": 0.157,
+    "key_defensive_stats.def_rebound.jmu": 0.732,
+    "key_defensive_stats.def_rebound.usm": 0.735,
+    "key_defensive_stats.opp_fta_fga.jmu": 0.403,
+    "key_defensive_stats.opp_fta_fga.usm": 0.429,
+    "key_defensive_stats.opp_points_game.jmu": 74.0,
+    "key_defensive_stats.opp_points_game.usm": 74.5,
+    "key_defensive_stats.block.jmu": 0.069,
+    "key_defensive_stats.block.usm": 0.065,
+    "key_defensive_stats.personal_fouls_play.jmu": 0.24100000000000002,
+    "key_defensive_stats.personal_fouls_play.usm": 0.243,
+    "j_madison_vs_southern_miss_offensive_efficiency.possessions_gm.jmu": 69.3,
+    "j_madison_vs_southern_miss_offensive_efficiency.possessions_gm.usm": 71.6,
+    "j_madison_vs_southern_miss_offensive_efficiency.off_efficiency.jmu": 1.076,
+    "j_madison_vs_southern_miss_offensive_efficiency.off_efficiency.usm": 1.02,
+    "j_madison_vs_southern_miss_offensive_efficiency.effective_fg.jmu": 0.531,
+    "j_madison_vs_southern_miss_offensive_efficiency.effective_fg.usm": 0.49,
+    "j_madison_vs_southern_miss_offensive_efficiency.two_point_rate.jmu": 0.57,
+    "j_madison_vs_southern_miss_offensive_efficiency.two_point_rate.usm": 0.7020000000000001,
+    "j_madison_vs_southern_miss_offensive_efficiency.three_point_rate.jmu": 0.43,
+    "j_madison_vs_southern_miss_offensive_efficiency.three_point_rate.usm": 0.298,
+    "j_madison_vs_southern_miss_offensive_efficiency.fta_play.jmu": 0.26,
+    "j_madison_vs_southern_miss_offensive_efficiency.fta_play.usm": 0.295,
+    "j_madison_vs_southern_miss_offensive_efficiency.two_point.jmu": 0.528,
+    "j_madison_vs_southern_miss_offensive_efficiency.two_point.usm": 0.513,
+    "j_madison_vs_southern_miss_offensive_efficiency.three_point.jmu": 0.35600000000000004,
+    "j_madison_vs_southern_miss_offensive_efficiency.three_point.usm": 0.29100000000000004,
+    "j_madison_vs_southern_miss_offensive_efficiency.free_throw.jmu": 0.703,
+    "j_madison_vs_southern_miss_offensive_efficiency.free_throw.usm": 0.735,
+    "j_madison_vs_southern_miss_offensive_efficiency.points_2_pters.jmu": 34.2,
+    "j_madison_vs_southern_miss_offensive_efficiency.points_2_pters.usm": 40.7,
+    "j_madison_vs_southern_miss_offensive_efficiency.points_3_pters.jmu": 26.0,
+    "j_madison_vs_southern_miss_offensive_efficiency.points_3_pters.usm": 14.7,
+    "j_madison_vs_southern_miss_offensive_efficiency.off_rebound.jmu": 0.28800000000000003,
+    "j_madison_vs_southern_miss_offensive_efficiency.off_rebound.usm": 0.305,
+    "j_madison_vs_southern_miss_offensive_efficiency.def_rebound.jmu": 0.732,
+    "j_madison_vs_southern_miss_offensive_efficiency.def_rebound.usm": 0.735,
+    "j_madison_vs_southern_miss_offensive_efficiency.block.jmu": 0.069,
+    "j_madison_vs_southern_miss_offensive_efficiency.block.usm": 0.065,
+    "j_madison_vs_southern_miss_offensive_efficiency.steals_play.jmu": 0.066,
+    "j_madison_vs_southern_miss_offensive_efficiency.steals_play.usm": 0.095,
+    "j_madison_vs_southern_miss_offensive_efficiency.turnovers_play.jmu": 0.15,
+    "j_madison_vs_southern_miss_offensive_efficiency.turnovers_play.usm": 0.16399999999999998,
+    "j_madison_vs_southern_miss_offensive_efficiency.personal_fouls_play.jmu": 0.24100000000000002,
+    "j_madison_vs_southern_miss_offensive_efficiency.personal_fouls_play.usm": 0.243,
+    "j_madison_vs_southern_miss_offensive_efficiency.assists_fgm.jmu": 0.489,
+    "j_madison_vs_southern_miss_offensive_efficiency.assists_fgm.usm": 0.449,
+    "j_madison_vs_southern_miss_defensive_efficiency.possessions_gm.jmu": 69.3,
+    "j_madison_vs_southern_miss_defensive_efficiency.possessions_gm.usm": 71.6,
+    "j_madison_vs_southern_miss_defensive_efficiency.def_efficiency.jmu": 1.069,
+    "j_madison_vs_southern_miss_defensive_efficiency.def_efficiency.usm": 1.041,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_effective_fg.jmu": 0.49,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_effective_fg.usm": 0.516,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_two_point_rate.jmu": 0.612,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_two_point_rate.usm": 0.589,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_three_point_rate.jmu": 0.38799999999999996,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_three_point_rate.usm": 0.41100000000000003,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_fta_play.jmu": 0.3,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_fta_play.usm": 0.3,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_two_point.jmu": 0.49,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_two_point.usm": 0.504,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_three_point.jmu": 0.326,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_three_point.usm": 0.355,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_free_throw.jmu": 0.72,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_free_throw.usm": 0.698,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_points_2_pters.jmu": 35.0,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_points_2_pters.usm": 33.2,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_points_3_pters.jmu": 22.2,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_points_3_pters.usm": 24.5,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_off_rebound.jmu": 0.268,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_off_rebound.usm": 0.265,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_def_rebound.jmu": 0.7120000000000001,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_def_rebound.usm": 0.695,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_block.jmu": 0.064,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_block.usm": 0.076,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_steals_play.jmu": 0.08199999999999999,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_steals_play.usm": 0.08900000000000001,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_turnovers_play.jmu": 0.111,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_turnovers_play.usm": 0.157,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_personal_fouls_play.jmu": 0.214,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_personal_fouls_play.usm": 0.231,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_assists_fgm.jmu": 0.458,
+    "j_madison_vs_southern_miss_defensive_efficiency.opp_assists_fgm.usm": 0.484
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "dukes-golden-eagles-2026-03-05",
+  "matchup_title": "#197 J Madison vs. #236 Southern Miss",
+  "teams": {
+    "away": "#197 J Madison",
+    "home": "#236 Southern Miss",
+    "neutral_site": true
+  },
+  "time_local": "6:00 PM",
+  "location": "Pensacola Bay Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/dukes-golden-eagles-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/dukes-golden-eagles-2026-03-05/efficiency"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "snapshots": [
+    {
+      "snap_id": "074630",
+      "path": "data/ncaab/2026-03-05/odds_snapshots/074630.json",
+      "scraped_at_utc": "2026-03-05T07:46:30.358208+00:00"
+    },
+    {
+      "snap_id": "074738",
+      "path": "data/ncaab/2026-03-05/odds_snapshots/074738.json",
+      "scraped_at_utc": "2026-03-05T07:47:38.066230+00:00"
+    },
+    {
+      "snap_id": "075246",
+      "path": "data/ncaab/2026-03-05/odds_snapshots/075246.json",
+      "scraped_at_utc": "2026-03-05T07:52:46.715591+00:00"
+    },
+    {
+      "snap_id": "221302",
+      "path": "data/ncaab/2026-03-05/odds_snapshots/221302.json",
+      "scraped_at_utc": "2026-03-05T22:13:02.714314+00:00"
+    },
+    {
+      "snap_id": "221304",
+      "path": "data/ncaab/2026-03-05/odds_snapshots/221304.json",
+      "scraped_at_utc": "2026-03-05T22:13:04.096396+00:00"
+    }
+  ],
+  "sport": "ncaab",
+  "date": "2026-03-05"
+}

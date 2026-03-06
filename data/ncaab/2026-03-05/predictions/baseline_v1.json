@@ -1,0 +1,1367 @@
+{
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "built_at_utc": "2026-03-05T22:31:43.582849+00:00",
+  "model_version": "baseline_v1",
+  "count": 46,
+  "predictions": [
+    {
+      "slug": "wolverines-hawkeyes-2026-03-05",
+      "matchup_title": "#1 Michigan at #25 Iowa",
+      "teams": {
+        "away": "#1 Michigan",
+        "home": "#25 Iowa",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "iowa",
+          "away": "mich"
+        },
+        "poss": 69.5,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.048,
+        "ppp_away": 1.1015,
+        "proj_home": 72.836,
+        "proj_away": 76.55425,
+        "proj_total": 149.39024999999998,
+        "proj_spread_home": -3.7182499999999976
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "bulls-tigers-2026-03-05",
+      "matchup_title": "#57 S Florida at #105 Memphis",
+      "teams": {
+        "away": "#57 S Florida",
+        "home": "#105 Memphis",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "mem",
+          "away": "usf"
+        },
+        "poss": 75.75,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0025,
+        "ppp_away": 1.0725,
+        "proj_home": 75.939375,
+        "proj_away": 81.24187500000001,
+        "proj_total": 157.18125,
+        "proj_spread_home": -5.302500000000009
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "scarlet-knights-spartans-2026-03-05",
+      "matchup_title": "#123 Rutgers at #11 Michigan St",
+      "teams": {
+        "away": "#123 Rutgers",
+        "home": "#11 Michigan St",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "msu",
+          "away": "rutg"
+        },
+        "poss": 68.65,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.119,
+        "ppp_away": 0.994,
+        "proj_home": 76.81935,
+        "proj_away": 68.2381,
+        "proj_total": 145.05745000000002,
+        "proj_spread_home": 8.581249999999997
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "salukis-bulldogs-2026-03-05",
+      "matchup_title": "#122 S Illinois vs. #193 Drake",
+      "teams": {
+        "away": "#122 S Illinois",
+        "home": "#193 Drake",
+        "neutral_site": true
+      },
+      "time_local": "4:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "drke",
+          "away": "siu"
+        },
+        "poss": 71.3,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0145,
+        "ppp_away": 1.051,
+        "proj_home": 72.33385,
+        "proj_away": 74.93629999999999,
+        "proj_total": 147.27015,
+        "proj_spread_home": -2.6024499999999904
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "jackrabbits-tommies-2026-03-05",
+      "matchup_title": "#200 S Dakota St vs. #117 St Thomas",
+      "teams": {
+        "away": "#200 S Dakota St",
+        "home": "#117 St Thomas",
+        "neutral_site": true
+      },
+      "time_local": "9:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "stt",
+          "away": "sdst"
+        },
+        "poss": 70.6,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1099999999999999,
+        "ppp_away": 1.0505,
+        "proj_home": 78.36599999999999,
+        "proj_away": 74.16529999999999,
+        "proj_total": 152.5313,
+        "proj_spread_home": 4.200699999999998
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "bulldogs-flames-2026-03-05",
+      "matchup_title": "#212 Louisiana Tech at #106 Liberty",
+      "teams": {
+        "away": "#212 Louisiana Tech",
+        "home": "#106 Liberty",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "lib",
+          "away": "lt"
+        },
+        "poss": 67.65,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0745,
+        "ppp_away": 1.0255,
+        "proj_home": 72.689925,
+        "proj_away": 69.37507500000001,
+        "proj_total": 142.065,
+        "proj_spread_home": 3.3148499999999927
+      },
+      "market": {
+        "has_market": true,
+        "market_spread_home": -9.5,
+        "spread_edge": 12.814849999999993,
+        "market_total": 138.5,
+        "total_edge": 3.5649999999999977
+      },
+      "odds_event_id": 8514730
+    },
+    {
+      "slug": "hilltoppers-bears-2026-03-05",
+      "matchup_title": "#133 W Kentucky at #207 Missouri St",
+      "teams": {
+        "away": "#133 W Kentucky",
+        "home": "#207 Missouri St",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "mosu",
+          "away": "wku"
+        },
+        "poss": 72.0,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0305,
+        "ppp_away": 1.062,
+        "proj_home": 74.196,
+        "proj_away": 76.464,
+        "proj_total": 150.66,
+        "proj_spread_home": -2.2680000000000007
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "gamecocks-aggies-2026-03-05",
+      "matchup_title": "#183 Jacksonville St at #170 New Mexico St",
+      "teams": {
+        "away": "#183 Jacksonville St",
+        "home": "#170 New Mexico St",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "nmsu",
+          "away": "jvst"
+        },
+        "poss": 68.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0535,
+        "ppp_away": 1.0495,
+        "proj_home": 72.533475,
+        "proj_away": 72.258075,
+        "proj_total": 144.79155,
+        "proj_spread_home": 0.27539999999999054
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "green-wave-owls-2026-03-05",
+      "matchup_title": "#196 Tulane at #160 Temple",
+      "teams": {
+        "away": "#196 Tulane",
+        "home": "#160 Temple",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "tem",
+          "away": "tuln"
+        },
+        "poss": 69.05000000000001,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0685,
+        "ppp_away": 1.0385,
+        "proj_home": 73.779925,
+        "proj_away": 71.708425,
+        "proj_total": 145.48835000000003,
+        "proj_spread_home": 2.0715000000000003
+      },
+      "market": {
+        "has_market": true,
+        "market_spread_home": -4.5,
+        "spread_edge": 6.5715,
+        "market_total": 144.5,
+        "total_edge": 0.9883500000000254
+      },
+      "odds_event_id": 10359130
+    },
+    {
+      "slug": "golden-hurricane-pirates-2026-03-05",
+      "matchup_title": "#66 Tulsa at #259 E Carolina",
+      "teams": {
+        "away": "#66 Tulsa",
+        "home": "#259 E Carolina",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "ecu",
+          "away": "tlsa"
+        },
+        "poss": 71.45,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0135,
+        "ppp_away": 1.129,
+        "proj_home": 72.41457500000001,
+        "proj_away": 80.66705,
+        "proj_total": 153.08162500000003,
+        "proj_spread_home": -8.25247499999999
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "blue-raiders-panthers-2026-03-05",
+      "matchup_title": "#161 Middle Tenn at #198 Florida Intl",
+      "teams": {
+        "away": "#161 Middle Tenn",
+        "home": "#198 Florida Intl",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "fiu",
+          "away": "mtu"
+        },
+        "poss": 72.45,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.056,
+        "ppp_away": 1.0590000000000002,
+        "proj_home": 76.50720000000001,
+        "proj_away": 76.72455000000001,
+        "proj_total": 153.23175000000003,
+        "proj_spread_home": -0.21734999999999616
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "tritons-titans-2026-03-05",
+      "matchup_title": "#131 UCSD at #226 CS Fullerton",
+      "teams": {
+        "away": "#131 UCSD",
+        "home": "#226 CS Fullerton",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "csf",
+          "away": "ucsd"
+        },
+        "poss": 74.25,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.016,
+        "ppp_away": 1.068,
+        "proj_home": 75.438,
+        "proj_away": 79.299,
+        "proj_total": 154.73700000000002,
+        "proj_spread_home": -3.861000000000004
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "beacons-sycamores-2026-03-05",
+      "matchup_title": "#171 Valparaiso vs. #202 Indiana St",
+      "teams": {
+        "away": "#171 Valparaiso",
+        "home": "#202 Indiana St",
+        "neutral_site": true
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "inst",
+          "away": "valp"
+        },
+        "poss": 70.5,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0185,
+        "ppp_away": 1.039,
+        "proj_home": 71.80425,
+        "proj_away": 73.2495,
+        "proj_total": 145.05374999999998,
+        "proj_spread_home": -1.4452500000000015
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "mustangs-anteaters-2026-03-05",
+      "matchup_title": "#258 Cal Poly at #115 UC Irvine",
+      "teams": {
+        "away": "#258 Cal Poly",
+        "home": "#115 UC Irvine",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "uci",
+          "away": "cp"
+        },
+        "poss": 75.55,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.044,
+        "ppp_away": 0.984,
+        "proj_home": 78.8742,
+        "proj_away": 74.3412,
+        "proj_total": 153.2154,
+        "proj_spread_home": 4.533000000000001
+      },
+      "market": {
+        "has_market": true,
+        "market_spread_home": -9.5,
+        "spread_edge": 14.033000000000001,
+        "market_total": 155.5,
+        "total_edge": -2.2846000000000117
+      },
+      "odds_event_id": 8514670
+    },
+    {
+      "slug": "wildcats-lancers-2026-03-05",
+      "matchup_title": "#244 Abl Christian at #138 Cal Baptist",
+      "teams": {
+        "away": "#244 Abl Christian",
+        "home": "#138 Cal Baptist",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "calba",
+          "away": "acu"
+        },
+        "poss": 70.35,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0345,
+        "ppp_away": 0.9695,
+        "proj_home": 72.777075,
+        "proj_away": 68.204325,
+        "proj_total": 140.9814,
+        "proj_spread_home": 4.572749999999999
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "wolverines-thunderbirds-2026-03-05",
+      "matchup_title": "#99 Utah Valley at #275 S Utah",
+      "teams": {
+        "away": "#99 Utah Valley",
+        "home": "#275 S Utah",
+        "neutral_site": false
+      },
+      "time_local": "8:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "suu",
+          "away": "uvu"
+        },
+        "poss": 72.35,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 0.9755,
+        "ppp_away": 1.0945,
+        "proj_home": 70.57742499999999,
+        "proj_away": 79.187075,
+        "proj_total": 149.7645,
+        "proj_spread_home": -8.609650000000002
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "mavericks-texans-2026-03-05",
+      "matchup_title": "#178 UT Arlington at #228 Tarleton St",
+      "teams": {
+        "away": "#178 UT Arlington",
+        "home": "#228 Tarleton St",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "tst",
+          "away": "uta"
+        },
+        "poss": 71.3,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 0.9915,
+        "ppp_away": 1.008,
+        "proj_home": 70.69395,
+        "proj_away": 71.8704,
+        "proj_total": 142.56435,
+        "proj_spread_home": -1.1764500000000027
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "highlanders-rainbow-warriors-2026-03-05",
+      "matchup_title": "#274 UC Riverside at #116 Hawai'i",
+      "teams": {
+        "away": "#274 UC Riverside",
+        "home": "#116 Hawai'i",
+        "neutral_site": false
+      },
+      "time_local": "11:59 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "haw",
+          "away": "ucrv"
+        },
+        "poss": 73.55,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0695000000000001,
+        "ppp_away": 0.964,
+        "proj_home": 78.661725,
+        "proj_away": 70.9022,
+        "proj_total": 149.56392499999998,
+        "proj_spread_home": 7.759525000000011
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "bearkats-blue-hens-2026-03-05",
+      "matchup_title": "#109 Sam Houston at #280 Delaware",
+      "teams": {
+        "away": "#109 Sam Houston",
+        "home": "#280 Delaware",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "del",
+          "away": "shsu"
+        },
+        "poss": 69.7,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.036,
+        "ppp_away": 1.1085,
+        "proj_home": 72.20920000000001,
+        "proj_away": 77.26245,
+        "proj_total": 149.47165,
+        "proj_spread_home": -5.053249999999991
+      },
+      "market": {
+        "has_market": true,
+        "market_spread_home": 6.5,
+        "spread_edge": -11.553249999999991,
+        "market_total": 147.5,
+        "total_edge": 1.971650000000011
+      },
+      "odds_event_id": 8514680
+    },
+    {
+      "slug": "lions-toreros-2026-03-05",
+      "matchup_title": "#154 Loyola Mymt vs. #251 San Diego",
+      "teams": {
+        "away": "#154 Loyola Mymt",
+        "home": "#251 San Diego",
+        "neutral_site": true
+      },
+      "time_local": "11:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "usd",
+          "away": "lmu"
+        },
+        "poss": 71.15,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0295,
+        "ppp_away": 1.073,
+        "proj_home": 73.24892500000001,
+        "proj_away": 76.34395,
+        "proj_total": 149.59287500000002,
+        "proj_spread_home": -3.0950249999999926
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "owls-miners-2026-03-05",
+      "matchup_title": "#146 Kennesaw St at #264 UTEP",
+      "teams": {
+        "away": "#146 Kennesaw St",
+        "home": "#264 UTEP",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "utep",
+          "away": "kenn"
+        },
+        "poss": 71.5,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0135,
+        "ppp_away": 1.0775000000000001,
+        "proj_home": 72.46525000000001,
+        "proj_away": 77.04125,
+        "proj_total": 149.50650000000002,
+        "proj_spread_home": -4.575999999999993
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "eagles-red-wolves-2026-03-05",
+      "matchup_title": "#263 Georgia So vs. #148 Arkansas St",
+      "teams": {
+        "away": "#263 Georgia So",
+        "home": "#148 Arkansas St",
+        "neutral_site": true
+      },
+      "time_local": "8:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "arst",
+          "away": "gaso"
+        },
+        "poss": 74.9,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0859999999999999,
+        "ppp_away": 1.0505,
+        "proj_home": 81.3414,
+        "proj_away": 78.68245,
+        "proj_total": 160.02384999999998,
+        "proj_spread_home": 2.65894999999999
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "dukes-golden-eagles-2026-03-05",
+      "matchup_title": "#197 J Madison vs. #236 Southern Miss",
+      "teams": {
+        "away": "#197 J Madison",
+        "home": "#236 Southern Miss",
+        "neutral_site": true
+      },
+      "time_local": "6:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "usm",
+          "away": "jmu"
+        },
+        "poss": 70.44999999999999,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0445,
+        "ppp_away": 1.0585,
+        "proj_home": 73.58502499999999,
+        "proj_away": 74.57132499999999,
+        "proj_total": 148.15634999999997,
+        "proj_spread_home": -0.9863
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "panthers-purple-aces-2026-03-05",
+      "matchup_title": "#93 N Iowa vs. #307 Evansville",
+      "teams": {
+        "away": "#93 N Iowa",
+        "home": "#307 Evansville",
+        "neutral_site": true
+      },
+      "time_local": "9:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "evan",
+          "away": "uni"
+        },
+        "poss": 67.55,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 0.9484999999999999,
+        "ppp_away": 1.0875,
+        "proj_home": 64.071175,
+        "proj_away": 73.460625,
+        "proj_total": 137.53179999999998,
+        "proj_spread_home": -9.389449999999997
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "golden-eagles-bison-2026-03-05",
+      "matchup_title": "#311 Oral Roberts vs. #127 N Dakota St",
+      "teams": {
+        "away": "#311 Oral Roberts",
+        "home": "#127 N Dakota St",
+        "neutral_site": true
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "ndsu",
+          "away": "oru"
+        },
+        "poss": 71.2,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1205,
+        "ppp_away": 1.012,
+        "proj_home": 79.7796,
+        "proj_away": 72.0544,
+        "proj_total": 151.834,
+        "proj_spread_home": 7.725200000000001
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "aggies-beach-2026-03-05",
+      "matchup_title": "#190 UC Davis at #273 Long Beach St",
+      "teams": {
+        "away": "#190 UC Davis",
+        "home": "#273 Long Beach St",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "lbsu",
+          "away": "ucd"
+        },
+        "poss": 72.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0225,
+        "ppp_away": 1.068,
+        "proj_home": 74.48912499999999,
+        "proj_away": 77.8038,
+        "proj_total": 152.29292499999997,
+        "proj_spread_home": -3.3146750000000083
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "lions-redhawks-2026-03-05",
+      "matchup_title": "#262 Lindenwood vs. #221 SE Missouri St",
+      "teams": {
+        "away": "#262 Lindenwood",
+        "home": "#221 SE Missouri St",
+        "neutral_site": true
+      },
+      "time_local": "9:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "semo",
+          "away": "lndnwd"
+        },
+        "poss": 73.35,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0175,
+        "ppp_away": 1.005,
+        "proj_home": 74.633625,
+        "proj_away": 73.71674999999999,
+        "proj_total": 148.35037499999999,
+        "proj_spread_home": 0.9168750000000045
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "bison-midshipmen-2026-03-05",
+      "matchup_title": "#333 Bucknell at #144 Navy",
+      "teams": {
+        "away": "#333 Bucknell",
+        "home": "#144 Navy",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "navy",
+          "away": "buck"
+        },
+        "poss": 68.4,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.101,
+        "ppp_away": 0.965,
+        "proj_home": 75.3084,
+        "proj_away": 66.006,
+        "proj_total": 141.3144,
+        "proj_spread_home": 9.302400000000006
+      },
+      "market": {
+        "has_market": true,
+        "market_spread_home": -16.5,
+        "spread_edge": 25.802400000000006,
+        "market_total": 133.5,
+        "total_edge": 7.814400000000006
+      },
+      "odds_event_id": 11967170
+    },
+    {
+      "slug": "gaels-pioneers-2026-03-05",
+      "matchup_title": "#220 Iona vs. #285 Sacred Heart",
+      "teams": {
+        "away": "#220 Iona",
+        "home": "#285 Sacred Heart",
+        "neutral_site": true
+      },
+      "time_local": "6:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "sh",
+          "away": "iona"
+        },
+        "poss": 70.94999999999999,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0375,
+        "ppp_away": 1.0670000000000002,
+        "proj_home": 73.610625,
+        "proj_away": 75.70365,
+        "proj_total": 149.314275,
+        "proj_spread_home": -2.0930249999999972
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "bison-spartans-2026-03-05",
+      "matchup_title": "#206 Howard at #297 Norfolk St",
+      "teams": {
+        "away": "#206 Howard",
+        "home": "#297 Norfolk St",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "norf",
+          "away": "how"
+        },
+        "poss": 71.30000000000001,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 0.9755,
+        "ppp_away": 1.042,
+        "proj_home": 69.55315000000002,
+        "proj_away": 74.29460000000002,
+        "proj_total": 143.84775000000002,
+        "proj_spread_home": -4.74145
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "eagles-terriers-2026-03-05",
+      "matchup_title": "#250 American at #261 Boston U",
+      "teams": {
+        "away": "#250 American",
+        "home": "#261 Boston U",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "bu",
+          "away": "amer"
+        },
+        "poss": 67.65,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.092,
+        "ppp_away": 1.0830000000000002,
+        "proj_home": 73.87380000000002,
+        "proj_away": 73.26495000000001,
+        "proj_total": 147.13875000000002,
+        "proj_spread_home": 0.6088500000000039
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "matadors-roadrunners-2026-03-05",
+      "matchup_title": "#180 CS Northridge at #331 CS Bakersfield",
+      "teams": {
+        "away": "#180 CS Northridge",
+        "home": "#331 CS Bakersfield",
+        "neutral_site": false
+      },
+      "time_local": "9:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "csb",
+          "away": "csn"
+        },
+        "poss": 76.05,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0005,
+        "ppp_away": 1.0735000000000001,
+        "proj_home": 76.08802499999999,
+        "proj_away": 81.63967500000001,
+        "proj_total": 157.7277,
+        "proj_spread_home": -5.5516500000000235
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "pilots-waves-2026-03-05",
+      "matchup_title": "#245 Portland vs. #282 Pepperdine",
+      "teams": {
+        "away": "#245 Portland",
+        "home": "#282 Pepperdine",
+        "neutral_site": true
+      },
+      "time_local": "9:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "pepp",
+          "away": "port"
+        },
+        "poss": 71.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0375,
+        "ppp_away": 1.0565,
+        "proj_home": 74.544375,
+        "proj_away": 75.90952499999999,
+        "proj_total": 150.45389999999998,
+        "proj_spread_home": -1.3651499999999857
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "panthers-skyhawks-2026-03-05",
+      "matchup_title": "#319 E Illinois vs. #218 UT Martin",
+      "teams": {
+        "away": "#319 E Illinois",
+        "home": "#218 UT Martin",
+        "neutral_site": true
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "utm",
+          "away": "eiu"
+        },
+        "poss": 68.55000000000001,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0265,
+        "ppp_away": 0.943,
+        "proj_home": 70.36657500000001,
+        "proj_away": 64.64265,
+        "proj_total": 135.00922500000001,
+        "proj_spread_home": 5.723925000000008
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "greyhounds-raiders-2026-03-05",
+      "matchup_title": "#316 Loyola MD at #223 Colgate",
+      "teams": {
+        "away": "#316 Loyola MD",
+        "home": "#223 Colgate",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "l_md",
+          "away": "colg"
+        },
+        "poss": 70.8,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.058,
+        "ppp_away": 1.084,
+        "proj_home": 74.9064,
+        "proj_away": 76.7472,
+        "proj_total": 151.6536,
+        "proj_spread_home": -1.8408000000000015
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "jaguars-bulldogs-2026-03-05",
+      "matchup_title": "#266 Southern at #318 Alabama A&M",
+      "teams": {
+        "away": "#266 Southern",
+        "home": "#318 Alabama A&M",
+        "neutral_site": false
+      },
+      "time_local": "8:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "aamu",
+          "away": "sou"
+        },
+        "poss": 71.4,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0605,
+        "ppp_away": 1.0459999999999998,
+        "proj_home": 75.7197,
+        "proj_away": 74.6844,
+        "proj_total": 150.4041,
+        "proj_spread_home": 1.0353000000000065
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "wildcats-rattlers-2026-03-05",
+      "matchup_title": "#255 Bethune at #329 Florida A&M",
+      "teams": {
+        "away": "#255 Bethune",
+        "home": "#329 Florida A&M",
+        "neutral_site": false
+      },
+      "time_local": "7:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "famu",
+          "away": "cook"
+        },
+        "poss": 72.95,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.008,
+        "ppp_away": 1.0305,
+        "proj_home": 73.5336,
+        "proj_away": 75.174975,
+        "proj_total": 148.708575,
+        "proj_spread_home": -1.6413749999999965
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "stags-jaspers-2026-03-05",
+      "matchup_title": "#265 Fairfield vs. #325 Manhattan",
+      "teams": {
+        "away": "#265 Fairfield",
+        "home": "#325 Manhattan",
+        "neutral_site": true
+      },
+      "time_local": "8:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "man",
+          "away": "fair"
+        },
+        "poss": 69.75,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.043,
+        "ppp_away": 1.0979999999999999,
+        "proj_home": 72.74924999999999,
+        "proj_away": 76.5855,
+        "proj_total": 149.33474999999999,
+        "proj_spread_home": -3.836250000000007
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "tigers-hornets-2026-03-05",
+      "matchup_title": "#301 Grambling at #314 Alabama St",
+      "teams": {
+        "away": "#301 Grambling",
+        "home": "#314 Alabama St",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "alst",
+          "away": "gram"
+        },
+        "poss": 71.9,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.004,
+        "ppp_away": 1.0215,
+        "proj_home": 72.1876,
+        "proj_away": 73.44585000000001,
+        "proj_total": 145.63345,
+        "proj_spread_home": -1.2582500000000039
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "crusaders-mountain-hawks-2026-03-05",
+      "matchup_title": "#330 Holy Cross at #298 Lehigh",
+      "teams": {
+        "away": "#330 Holy Cross",
+        "home": "#298 Lehigh",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "leh",
+          "away": "hc"
+        },
+        "poss": 68.65,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0735000000000001,
+        "ppp_away": 1.0455,
+        "proj_home": 73.69577500000001,
+        "proj_away": 71.77357500000001,
+        "proj_total": 145.46935000000002,
+        "proj_spread_home": 1.9222000000000037
+      },
+      "market": {
+        "has_market": true,
+        "market_spread_home": -6.5,
+        "spread_edge": 8.422200000000004,
+        "market_total": 141.5,
+        "total_edge": 3.96935000000002
+      },
+      "odds_event_id": 11967080
+    },
+    {
+      "slug": "panthers-tigers-2026-03-05",
+      "matchup_title": "#322 Prairie View at #312 Texas So",
+      "teams": {
+        "away": "#322 Prairie View",
+        "home": "#312 Texas So",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "txso",
+          "away": "pv"
+        },
+        "poss": 74.6,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.048,
+        "ppp_away": 1.052,
+        "proj_home": 78.18079999999999,
+        "proj_away": 78.47919999999999,
+        "proj_total": 156.65999999999997,
+        "proj_spread_home": -0.2984000000000009
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "golden-lions-braves-2026-03-05",
+      "matchup_title": "#342 AR-Pine Bluff at #353 Alcorn St",
+      "teams": {
+        "away": "#342 AR-Pine Bluff",
+        "home": "#353 Alcorn St",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "alcn",
+          "away": "arpb"
+        },
+        "poss": 72.1,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0434999999999999,
+        "ppp_away": 1.073,
+        "proj_home": 75.23634999999999,
+        "proj_away": 77.3633,
+        "proj_total": 152.59965,
+        "proj_spread_home": -2.126950000000008
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "bulldogs-eagles-2026-03-05",
+      "matchup_title": "#359 S Carolina St at #344 NC Central",
+      "teams": {
+        "away": "#359 S Carolina St",
+        "home": "#344 NC Central",
+        "neutral_site": false
+      },
+      "time_local": "5:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "nccu",
+          "away": "scst"
+        },
+        "poss": 70.2,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0594999999999999,
+        "ppp_away": 1.035,
+        "proj_home": 74.37689999999999,
+        "proj_away": 72.657,
+        "proj_total": 147.0339,
+        "proj_spread_home": 1.7198999999999955
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "hornets-hawks-2026-03-05",
+      "matchup_title": "#361 Delaware St at #346 Maryland ES",
+      "teams": {
+        "away": "#361 Delaware St",
+        "home": "#346 Maryland ES",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "umes",
+          "away": "dsu"
+        },
+        "poss": 67.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 0.9930000000000001,
+        "ppp_away": 0.9664999999999999,
+        "proj_home": 67.37505,
+        "proj_away": 65.57702499999999,
+        "proj_total": 132.95207499999998,
+        "proj_spread_home": 1.7980250000000098
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "eagles-bears-2026-03-05",
+      "matchup_title": "#364 Coppin St at #351 Morgan St",
+      "teams": {
+        "away": "#364 Coppin St",
+        "home": "#351 Morgan St",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "morg",
+          "away": "copp"
+        },
+        "poss": 72.1,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.064,
+        "ppp_away": 1.004,
+        "proj_home": 76.7144,
+        "proj_away": 72.38839999999999,
+        "proj_total": 149.1028,
+        "proj_spread_home": 4.326000000000008
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "delta-devils-tigers-2026-03-05",
+      "matchup_title": "#365 Miss Valley St at #352 Jackson St",
+      "teams": {
+        "away": "#365 Miss Valley St",
+        "home": "#352 Jackson St",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "jkst",
+          "away": "mvsu"
+        },
+        "poss": 72.85,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0585,
+        "ppp_away": 1.0154999999999998,
+        "proj_home": 77.11172499999999,
+        "proj_away": 73.97917499999998,
+        "proj_total": 151.09089999999998,
+        "proj_spread_home": 3.132550000000009
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    }
+  ]
+}

@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/beacons-sycamores-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:33.634356+00:00",
+  "tables": {
+    "Matchup Menu: VALP vs. INST": {
+      "headers": [
+        "Stat",
+        "VALP",
+        "adv",
+        "INST"
+      ],
+      "team_headers": [
+        "VALP",
+        "INST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "VALP": {
+            "raw": "1.029",
+            "value": 1.029
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "1.000",
+            "value": 1.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "INST": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "13.2%",
+            "value": 0.132
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "VALP": {
+            "raw": "0.390",
+            "value": 0.39
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "0.281",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "VALP": {
+            "raw": "71.0",
+            "value": 71.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "VALP": {
+            "raw": "-0.6",
+            "value": -0.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "-3.5",
+            "value": -3.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "VALP",
+        "adv",
+        "INST"
+      ],
+      "team_headers": [
+        "VALP",
+        "INST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "VALP": {
+            "raw": "1.029",
+            "value": 1.029
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "1.000",
+            "value": 1.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "INST": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "13.2%",
+            "value": 0.132
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "VALP": {
+            "raw": "0.390",
+            "value": 0.39
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "0.281",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "VALP": {
+            "raw": "71.0",
+            "value": 71.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "VALP": {
+            "raw": "-0.6",
+            "value": -0.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "-3.5",
+            "value": -3.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "VALP",
+        "adv",
+        "INST"
+      ],
+      "team_headers": [
+        "VALP",
+        "INST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "VALP": {
+            "raw": "1.037",
+            "value": 1.037
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "1.049",
+            "value": 1.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "50.7%",
+            "value": 0.507
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "50.4%",
+            "value": 0.504
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "72.5%",
+            "value": 0.725
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "70.3%",
+            "value": 0.703
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "VALP": {
+            "raw": "0.355",
+            "value": 0.355
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "INST": {
+            "raw": "0.284",
+            "value": 0.284
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "VALP": {
+            "raw": "71.6",
+            "value": 71.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "75.5",
+            "value": 75.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "INST": {
+            "raw": "19.8%",
+            "value": 0.198
+          }
+        }
+      ]
+    },
+    "Valparaiso vs Indiana St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "VALP",
+        "adv",
+        "INST"
+      ],
+      "team_headers": [
+        "VALP",
+        "INST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "VALP": {
+            "raw": "69.0",
+            "value": 69.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "INST": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "VALP": {
+            "raw": "1.029",
+            "value": 1.029
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "1.000",
+            "value": 1.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "INST": {
+            "raw": "52.9%",
+            "value": 0.529
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "VALP": {
+            "raw": "63.2%",
+            "value": 0.632
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "54.7%",
+            "value": 0.547
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "VALP": {
+            "raw": "36.8%",
+            "value": 0.368
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "INST": {
+            "raw": "45.3%",
+            "value": 0.45299999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "28.5%",
+            "value": 0.285
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "INST": {
+            "raw": "20.6%",
+            "value": 0.20600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "46.0%",
+            "value": 0.46
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "INST": {
+            "raw": "57.4%",
+            "value": 0.574
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "33.8%",
+            "value": 0.33799999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "31.6%",
+            "value": 0.316
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "67.7%",
+            "value": 0.677
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "VALP": {
+            "raw": "33.5",
+            "value": 33.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "INST": {
+            "raw": "36.2",
+            "value": 36.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "VALP": {
+            "raw": "21.5",
+            "value": 21.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "INST": {
+            "raw": "24.8",
+            "value": 24.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "30.0%",
+            "value": 0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "72.5%",
+            "value": 0.725
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "70.3%",
+            "value": 0.703
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "7.5%",
+            "value": 0.075
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "13.2%",
+            "value": 0.132
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "INST": {
+            "raw": "19.8%",
+            "value": 0.198
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "VALP": {
+            "raw": "0.478",
+            "value": 0.478
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "INST": {
+            "raw": "0.646",
+            "value": 0.646
+          }
+        }
+      ]
+    },
+    "Valparaiso vs Indiana St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "VALP",
+        "adv",
+        "INST"
+      ],
+      "team_headers": [
+        "VALP",
+        "INST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "VALP": {
+            "raw": "69.0",
+            "value": 69.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "INST": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "VALP": {
+            "raw": "1.037",
+            "value": 1.037
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "1.049",
+            "value": 1.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "50.7%",
+            "value": 0.507
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "50.4%",
+            "value": 0.504
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "VALP": {
+            "raw": "62.8%",
+            "value": 0.628
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "65.8%",
+            "value": 0.6579999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "VALP": {
+            "raw": "37.2%",
+            "value": 0.37200000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "34.2%",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "25.9%",
+            "value": 0.259
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "INST": {
+            "raw": "21.8%",
+            "value": 0.218
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "51.8%",
+            "value": 0.518
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "INST": {
+            "raw": "52.3%",
+            "value": 0.523
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "32.6%",
+            "value": 0.326
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "31.1%",
+            "value": 0.311
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "70.8%",
+            "value": 0.708
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "70.0%",
+            "value": 0.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "VALP": {
+            "raw": "36.8",
+            "value": 36.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "43.1",
+            "value": 43.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "VALP": {
+            "raw": "20.6",
+            "value": 20.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "20.0",
+            "value": 20.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "27.5%",
+            "value": 0.275
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "29.7%",
+            "value": 0.297
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "70.0%",
+            "value": 0.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "77.7%",
+            "value": 0.777
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "VALP": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "INST": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "6.1%",
+            "value": 0.061
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "INST": {
+            "raw": "10.1%",
+            "value": 0.10099999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "INST": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "VALP": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "INST": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "VALP": {
+            "raw": "0.487",
+            "value": 0.487
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "INST": {
+            "raw": "0.427",
+            "value": 0.427
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_valp_vs_inst.off_efficiency.valp": 1.029,
+    "matchup_menu_valp_vs_inst.off_efficiency.inst": 1.0,
+    "matchup_menu_valp_vs_inst.effective_fg.valp": 0.47700000000000004,
+    "matchup_menu_valp_vs_inst.effective_fg.inst": 0.529,
+    "matchup_menu_valp_vs_inst.turnovers_play.valp": 0.132,
+    "matchup_menu_valp_vs_inst.turnovers_play.inst": 0.17300000000000001,
+    "matchup_menu_valp_vs_inst.off_rebound.valp": 0.3,
+    "matchup_menu_valp_vs_inst.off_rebound.inst": 0.223,
+    "matchup_menu_valp_vs_inst.fta_fga.valp": 0.39,
+    "matchup_menu_valp_vs_inst.fta_fga.inst": 0.281,
+    "matchup_menu_valp_vs_inst.points_game.valp": 71.0,
+    "matchup_menu_valp_vs_inst.points_game.inst": 72.0,
+    "matchup_menu_valp_vs_inst.avg_score_margin.valp": -0.6,
+    "matchup_menu_valp_vs_inst.avg_score_margin.inst": -3.5,
+    "key_offensive_stats.off_efficiency.valp": 1.029,
+    "key_offensive_stats.off_efficiency.inst": 1.0,
+    "key_offensive_stats.effective_fg.valp": 0.47700000000000004,
+    "key_offensive_stats.effective_fg.inst": 0.529,
+    "key_offensive_stats.turnovers_play.valp": 0.132,
+    "key_offensive_stats.turnovers_play.inst": 0.17300000000000001,
+    "key_offensive_stats.off_rebound.valp": 0.3,
+    "key_offensive_stats.off_rebound.inst": 0.223,
+    "key_offensive_stats.fta_fga.valp": 0.39,
+    "key_offensive_stats.fta_fga.inst": 0.281,
+    "key_offensive_stats.points_game.valp": 71.0,
+    "key_offensive_stats.points_game.inst": 72.0,
+    "key_offensive_stats.avg_score_margin.valp": -0.6,
+    "key_offensive_stats.avg_score_margin.inst": -3.5,
+    "key_defensive_stats.def_efficiency.valp": 1.037,
+    "key_defensive_stats.def_efficiency.inst": 1.049,
+    "key_defensive_stats.opp_effective_fg.valp": 0.507,
+    "key_defensive_stats.opp_effective_fg.inst": 0.504,
+    "key_defensive_stats.opp_turnovers_play.valp": 0.146,
+    "key_defensive_stats.opp_turnovers_play.inst": 0.128,
+    "key_defensive_stats.def_rebound.valp": 0.725,
+    "key_defensive_stats.def_rebound.inst": 0.703,
+    "key_defensive_stats.opp_fta_fga.valp": 0.355,
+    "key_defensive_stats.opp_fta_fga.inst": 0.284,
+    "key_defensive_stats.opp_points_game.valp": 71.6,
+    "key_defensive_stats.opp_points_game.inst": 75.5,
+    "key_defensive_stats.block.valp": 0.064,
+    "key_defensive_stats.block.inst": 0.051,
+    "key_defensive_stats.personal_fouls_play.valp": 0.23,
+    "key_defensive_stats.personal_fouls_play.inst": 0.198,
+    "valparaiso_vs_indiana_st_offensive_efficiency.possessions_gm.valp": 69.0,
+    "valparaiso_vs_indiana_st_offensive_efficiency.possessions_gm.inst": 72.0,
+    "valparaiso_vs_indiana_st_offensive_efficiency.off_efficiency.valp": 1.029,
+    "valparaiso_vs_indiana_st_offensive_efficiency.off_efficiency.inst": 1.0,
+    "valparaiso_vs_indiana_st_offensive_efficiency.effective_fg.valp": 0.47700000000000004,
+    "valparaiso_vs_indiana_st_offensive_efficiency.effective_fg.inst": 0.529,
+    "valparaiso_vs_indiana_st_offensive_efficiency.two_point_rate.valp": 0.632,
+    "valparaiso_vs_indiana_st_offensive_efficiency.two_point_rate.inst": 0.547,
+    "valparaiso_vs_indiana_st_offensive_efficiency.three_point_rate.valp": 0.368,
+    "valparaiso_vs_indiana_st_offensive_efficiency.three_point_rate.inst": 0.45299999999999996,
+    "valparaiso_vs_indiana_st_offensive_efficiency.fta_play.valp": 0.285,
+    "valparaiso_vs_indiana_st_offensive_efficiency.fta_play.inst": 0.20600000000000002,
+    "valparaiso_vs_indiana_st_offensive_efficiency.two_point.valp": 0.46,
+    "valparaiso_vs_indiana_st_offensive_efficiency.two_point.inst": 0.574,
+    "valparaiso_vs_indiana_st_offensive_efficiency.three_point.valp": 0.33799999999999997,
+    "valparaiso_vs_indiana_st_offensive_efficiency.three_point.inst": 0.316,
+    "valparaiso_vs_indiana_st_offensive_efficiency.free_throw.valp": 0.7120000000000001,
+    "valparaiso_vs_indiana_st_offensive_efficiency.free_throw.inst": 0.677,
+    "valparaiso_vs_indiana_st_offensive_efficiency.points_2_pters.valp": 33.5,
+    "valparaiso_vs_indiana_st_offensive_efficiency.points_2_pters.inst": 36.2,
+    "valparaiso_vs_indiana_st_offensive_efficiency.points_3_pters.valp": 21.5,
+    "valparaiso_vs_indiana_st_offensive_efficiency.points_3_pters.inst": 24.8,
+    "valparaiso_vs_indiana_st_offensive_efficiency.off_rebound.valp": 0.3,
+    "valparaiso_vs_indiana_st_offensive_efficiency.off_rebound.inst": 0.223,
+    "valparaiso_vs_indiana_st_offensive_efficiency.def_rebound.valp": 0.725,
+    "valparaiso_vs_indiana_st_offensive_efficiency.def_rebound.inst": 0.703,
+    "valparaiso_vs_indiana_st_offensive_efficiency.block.valp": 0.064,
+    "valparaiso_vs_indiana_st_offensive_efficiency.block.inst": 0.051,
+    "valparaiso_vs_indiana_st_offensive_efficiency.steals_play.valp": 0.075,
+    "valparaiso_vs_indiana_st_offensive_efficiency.steals_play.inst": 0.07400000000000001,
+    "valparaiso_vs_indiana_st_offensive_efficiency.turnovers_play.valp": 0.132,
+    "valparaiso_vs_indiana_st_offensive_efficiency.turnovers_play.inst": 0.17300000000000001,
+    "valparaiso_vs_indiana_st_offensive_efficiency.personal_fouls_play.valp": 0.23,
+    "valparaiso_vs_indiana_st_offensive_efficiency.personal_fouls_play.inst": 0.198,
+    "valparaiso_vs_indiana_st_offensive_efficiency.assists_fgm.valp": 0.478,
+    "valparaiso_vs_indiana_st_offensive_efficiency.assists_fgm.inst": 0.646,
+    "valparaiso_vs_indiana_st_defensive_efficiency.possessions_gm.valp": 69.0,
+    "valparaiso_vs_indiana_st_defensive_efficiency.possessions_gm.inst": 72.0,
+    "valparaiso_vs_indiana_st_defensive_efficiency.def_efficiency.valp": 1.037,
+    "valparaiso_vs_indiana_st_defensive_efficiency.def_efficiency.inst": 1.049,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_effective_fg.valp": 0.507,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_effective_fg.inst": 0.504,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_two_point_rate.valp": 0.628,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_two_point_rate.inst": 0.6579999999999999,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_three_point_rate.valp": 0.37200000000000005,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_three_point_rate.inst": 0.342,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_fta_play.valp": 0.259,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_fta_play.inst": 0.218,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_two_point.valp": 0.518,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_two_point.inst": 0.523,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_three_point.valp": 0.326,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_three_point.inst": 0.311,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_free_throw.valp": 0.708,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_free_throw.inst": 0.7,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_points_2_pters.valp": 36.8,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_points_2_pters.inst": 43.1,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_points_3_pters.valp": 20.6,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_points_3_pters.inst": 20.0,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_off_rebound.valp": 0.275,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_off_rebound.inst": 0.297,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_def_rebound.valp": 0.7,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_def_rebound.inst": 0.777,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_block.valp": 0.052000000000000005,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_block.inst": 0.073,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_steals_play.valp": 0.061,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_steals_play.inst": 0.10099999999999999,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_turnovers_play.valp": 0.146,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_turnovers_play.inst": 0.128,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_personal_fouls_play.valp": 0.244,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_personal_fouls_play.inst": 0.19399999999999998,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_assists_fgm.valp": 0.487,
+    "valparaiso_vs_indiana_st_defensive_efficiency.opp_assists_fgm.inst": 0.427
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "beacons-sycamores-2026-03-05",
+  "matchup_title": "#171 Valparaiso vs. #202 Indiana St",
+  "teams": {
+    "away": "#171 Valparaiso",
+    "home": "#202 Indiana St",
+    "neutral_site": true
+  },
+  "time_local": "7:00 PM",
+  "location": "Enterprise Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/beacons-sycamores-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/beacons-sycamores-2026-03-05/efficiency"
+  }
+}

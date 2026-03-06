@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-hurricane-pirates-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:29.885939+00:00",
+  "tables": {
+    "Matchup Menu: TLSA @ ECU": {
+      "headers": [
+        "Stat",
+        "TLSA",
+        "adv",
+        "ECU"
+      ],
+      "team_headers": [
+        "TLSA",
+        "ECU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "1.193",
+            "value": 1.193
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "0.990",
+            "value": 0.99
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "57.3%",
+            "value": 0.573
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "46.6%",
+            "value": 0.466
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "29.5%",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "0.405",
+            "value": 0.405
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "0.393",
+            "value": 0.393
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "84.6",
+            "value": 84.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "71.3",
+            "value": 71.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "+11.1",
+            "value": 11.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "-5.4",
+            "value": -5.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "TLSA",
+        "adv",
+        "ECU"
+      ],
+      "team_headers": [
+        "TLSA",
+        "ECU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "1.193",
+            "value": 1.193
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "0.990",
+            "value": 0.99
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "57.3%",
+            "value": 0.573
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "46.6%",
+            "value": 0.466
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "29.5%",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "0.405",
+            "value": 0.405
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "0.393",
+            "value": 0.393
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "84.6",
+            "value": 84.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "71.3",
+            "value": 71.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "+11.1",
+            "value": 11.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "-5.4",
+            "value": -5.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "TLSA",
+        "adv",
+        "ECU"
+      ],
+      "team_headers": [
+        "TLSA",
+        "ECU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "1.037",
+            "value": 1.037
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "51.6%",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "73.7%",
+            "value": 0.737
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "68.8%",
+            "value": 0.688
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "0.315",
+            "value": 0.315
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "0.321",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "73.5",
+            "value": 73.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "76.7",
+            "value": 76.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "3.9%",
+            "value": 0.039
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "6.8%",
+            "value": 0.068
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "20.6%",
+            "value": 0.20600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "19.8%",
+            "value": 0.198
+          }
+        }
+      ]
+    },
+    "Tulsa vs E Carolina Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TLSA",
+        "adv",
+        "ECU"
+      ],
+      "team_headers": [
+        "TLSA",
+        "ECU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "1.193",
+            "value": 1.193
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "0.990",
+            "value": 0.99
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "57.3%",
+            "value": 0.573
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "46.6%",
+            "value": 0.466
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "69.1%",
+            "value": 0.691
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "46.1%",
+            "value": 0.461
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "30.9%",
+            "value": 0.309
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "29.5%",
+            "value": 0.295
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "55.4%",
+            "value": 0.5539999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "39.8%",
+            "value": 0.39799999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "78.6%",
+            "value": 0.7859999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "69.7%",
+            "value": 0.6970000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "34.4",
+            "value": 34.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ECU": {
+            "raw": "39.1",
+            "value": 39.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "31.8",
+            "value": 31.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ECU": {
+            "raw": "16.0",
+            "value": 16.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "29.5%",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "73.7%",
+            "value": 0.737
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "68.8%",
+            "value": 0.688
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "3.9%",
+            "value": 0.039
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "6.8%",
+            "value": 0.068
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "20.6%",
+            "value": 0.20600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "19.8%",
+            "value": 0.198
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "0.550",
+            "value": 0.55
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "0.471",
+            "value": 0.471
+          }
+        }
+      ]
+    },
+    "Tulsa vs E Carolina Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TLSA",
+        "adv",
+        "ECU"
+      ],
+      "team_headers": [
+        "TLSA",
+        "ECU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "1.037",
+            "value": 1.037
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "51.6%",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "60.2%",
+            "value": 0.602
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "60.6%",
+            "value": 0.606
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "39.8%",
+            "value": 0.39799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "39.4%",
+            "value": 0.39399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "23.7%",
+            "value": 0.237
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "51.3%",
+            "value": 0.513
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "33.9%",
+            "value": 0.33899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "72.3%",
+            "value": 0.723
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "35.9",
+            "value": 35.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "37.8",
+            "value": 37.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "24.1",
+            "value": 24.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "24.9",
+            "value": 24.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "26.3%",
+            "value": 0.263
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ECU": {
+            "raw": "31.2%",
+            "value": 0.312
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "70.6%",
+            "value": 0.706
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "70.5%",
+            "value": 0.705
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "5.3%",
+            "value": 0.053
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "8.3%",
+            "value": 0.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "13.4%",
+            "value": 0.134
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ECU": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "TLSA": {
+            "raw": "0.496",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ECU": {
+            "raw": "0.541",
+            "value": 0.541
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_tlsa_ecu.off_efficiency.tlsa": 1.193,
+    "matchup_menu_tlsa_ecu.off_efficiency.ecu": 0.99,
+    "matchup_menu_tlsa_ecu.effective_fg.tlsa": 0.573,
+    "matchup_menu_tlsa_ecu.effective_fg.ecu": 0.466,
+    "matchup_menu_tlsa_ecu.turnovers_play.tlsa": 0.134,
+    "matchup_menu_tlsa_ecu.turnovers_play.ecu": 0.14400000000000002,
+    "matchup_menu_tlsa_ecu.off_rebound.tlsa": 0.294,
+    "matchup_menu_tlsa_ecu.off_rebound.ecu": 0.295,
+    "matchup_menu_tlsa_ecu.fta_fga.tlsa": 0.405,
+    "matchup_menu_tlsa_ecu.fta_fga.ecu": 0.393,
+    "matchup_menu_tlsa_ecu.points_game.tlsa": 84.6,
+    "matchup_menu_tlsa_ecu.points_game.ecu": 71.3,
+    "matchup_menu_tlsa_ecu.avg_score_margin.tlsa": 11.1,
+    "matchup_menu_tlsa_ecu.avg_score_margin.ecu": -5.4,
+    "key_offensive_stats.off_efficiency.tlsa": 1.193,
+    "key_offensive_stats.off_efficiency.ecu": 0.99,
+    "key_offensive_stats.effective_fg.tlsa": 0.573,
+    "key_offensive_stats.effective_fg.ecu": 0.466,
+    "key_offensive_stats.turnovers_play.tlsa": 0.134,
+    "key_offensive_stats.turnovers_play.ecu": 0.14400000000000002,
+    "key_offensive_stats.off_rebound.tlsa": 0.294,
+    "key_offensive_stats.off_rebound.ecu": 0.295,
+    "key_offensive_stats.fta_fga.tlsa": 0.405,
+    "key_offensive_stats.fta_fga.ecu": 0.393,
+    "key_offensive_stats.points_game.tlsa": 84.6,
+    "key_offensive_stats.points_game.ecu": 71.3,
+    "key_offensive_stats.avg_score_margin.tlsa": 11.1,
+    "key_offensive_stats.avg_score_margin.ecu": -5.4,
+    "key_defensive_stats.def_efficiency.tlsa": 1.037,
+    "key_defensive_stats.def_efficiency.ecu": 1.065,
+    "key_defensive_stats.opp_effective_fg.tlsa": 0.503,
+    "key_defensive_stats.opp_effective_fg.ecu": 0.516,
+    "key_defensive_stats.opp_turnovers_play.tlsa": 0.134,
+    "key_defensive_stats.opp_turnovers_play.ecu": 0.14300000000000002,
+    "key_defensive_stats.def_rebound.tlsa": 0.737,
+    "key_defensive_stats.def_rebound.ecu": 0.688,
+    "key_defensive_stats.opp_fta_fga.tlsa": 0.315,
+    "key_defensive_stats.opp_fta_fga.ecu": 0.321,
+    "key_defensive_stats.opp_points_game.tlsa": 73.5,
+    "key_defensive_stats.opp_points_game.ecu": 76.7,
+    "key_defensive_stats.block.tlsa": 0.039,
+    "key_defensive_stats.block.ecu": 0.068,
+    "key_defensive_stats.personal_fouls_play.tlsa": 0.20600000000000002,
+    "key_defensive_stats.personal_fouls_play.ecu": 0.198,
+    "tulsa_vs_e_carolina_offensive_efficiency.possessions_gm.tlsa": 70.9,
+    "tulsa_vs_e_carolina_offensive_efficiency.possessions_gm.ecu": 72.0,
+    "tulsa_vs_e_carolina_offensive_efficiency.off_efficiency.tlsa": 1.193,
+    "tulsa_vs_e_carolina_offensive_efficiency.off_efficiency.ecu": 0.99,
+    "tulsa_vs_e_carolina_offensive_efficiency.effective_fg.tlsa": 0.573,
+    "tulsa_vs_e_carolina_offensive_efficiency.effective_fg.ecu": 0.466,
+    "tulsa_vs_e_carolina_offensive_efficiency.two_point_rate.tlsa": 0.539,
+    "tulsa_vs_e_carolina_offensive_efficiency.two_point_rate.ecu": 0.691,
+    "tulsa_vs_e_carolina_offensive_efficiency.three_point_rate.tlsa": 0.461,
+    "tulsa_vs_e_carolina_offensive_efficiency.three_point_rate.ecu": 0.309,
+    "tulsa_vs_e_carolina_offensive_efficiency.fta_play.tlsa": 0.295,
+    "tulsa_vs_e_carolina_offensive_efficiency.fta_play.ecu": 0.285,
+    "tulsa_vs_e_carolina_offensive_efficiency.two_point.tlsa": 0.5539999999999999,
+    "tulsa_vs_e_carolina_offensive_efficiency.two_point.ecu": 0.479,
+    "tulsa_vs_e_carolina_offensive_efficiency.three_point.tlsa": 0.39799999999999996,
+    "tulsa_vs_e_carolina_offensive_efficiency.three_point.ecu": 0.29100000000000004,
+    "tulsa_vs_e_carolina_offensive_efficiency.free_throw.tlsa": 0.7859999999999999,
+    "tulsa_vs_e_carolina_offensive_efficiency.free_throw.ecu": 0.6970000000000001,
+    "tulsa_vs_e_carolina_offensive_efficiency.points_2_pters.tlsa": 34.4,
+    "tulsa_vs_e_carolina_offensive_efficiency.points_2_pters.ecu": 39.1,
+    "tulsa_vs_e_carolina_offensive_efficiency.points_3_pters.tlsa": 31.8,
+    "tulsa_vs_e_carolina_offensive_efficiency.points_3_pters.ecu": 16.0,
+    "tulsa_vs_e_carolina_offensive_efficiency.off_rebound.tlsa": 0.294,
+    "tulsa_vs_e_carolina_offensive_efficiency.off_rebound.ecu": 0.295,
+    "tulsa_vs_e_carolina_offensive_efficiency.def_rebound.tlsa": 0.737,
+    "tulsa_vs_e_carolina_offensive_efficiency.def_rebound.ecu": 0.688,
+    "tulsa_vs_e_carolina_offensive_efficiency.block.tlsa": 0.039,
+    "tulsa_vs_e_carolina_offensive_efficiency.block.ecu": 0.068,
+    "tulsa_vs_e_carolina_offensive_efficiency.steals_play.tlsa": 0.083,
+    "tulsa_vs_e_carolina_offensive_efficiency.steals_play.ecu": 0.08,
+    "tulsa_vs_e_carolina_offensive_efficiency.turnovers_play.tlsa": 0.134,
+    "tulsa_vs_e_carolina_offensive_efficiency.turnovers_play.ecu": 0.14400000000000002,
+    "tulsa_vs_e_carolina_offensive_efficiency.personal_fouls_play.tlsa": 0.20600000000000002,
+    "tulsa_vs_e_carolina_offensive_efficiency.personal_fouls_play.ecu": 0.198,
+    "tulsa_vs_e_carolina_offensive_efficiency.assists_fgm.tlsa": 0.55,
+    "tulsa_vs_e_carolina_offensive_efficiency.assists_fgm.ecu": 0.471,
+    "tulsa_vs_e_carolina_defensive_efficiency.possessions_gm.tlsa": 70.9,
+    "tulsa_vs_e_carolina_defensive_efficiency.possessions_gm.ecu": 72.0,
+    "tulsa_vs_e_carolina_defensive_efficiency.def_efficiency.tlsa": 1.037,
+    "tulsa_vs_e_carolina_defensive_efficiency.def_efficiency.ecu": 1.065,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_effective_fg.tlsa": 0.503,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_effective_fg.ecu": 0.516,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_two_point_rate.tlsa": 0.602,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_two_point_rate.ecu": 0.606,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_three_point_rate.tlsa": 0.39799999999999996,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_three_point_rate.ecu": 0.39399999999999996,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_fta_play.tlsa": 0.237,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_fta_play.ecu": 0.23800000000000002,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_two_point.tlsa": 0.5,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_two_point.ecu": 0.513,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_three_point.tlsa": 0.33899999999999997,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_three_point.ecu": 0.34700000000000003,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_free_throw.tlsa": 0.718,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_free_throw.ecu": 0.723,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_points_2_pters.tlsa": 35.9,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_points_2_pters.ecu": 37.8,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_points_3_pters.tlsa": 24.1,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_points_3_pters.ecu": 24.9,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_off_rebound.tlsa": 0.263,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_off_rebound.ecu": 0.312,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_def_rebound.tlsa": 0.706,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_def_rebound.ecu": 0.705,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_block.tlsa": 0.053,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_block.ecu": 0.055999999999999994,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_steals_play.tlsa": 0.079,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_steals_play.ecu": 0.083,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_turnovers_play.tlsa": 0.134,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_turnovers_play.ecu": 0.14300000000000002,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_personal_fouls_play.tlsa": 0.235,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_personal_fouls_play.ecu": 0.23,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_assists_fgm.tlsa": 0.496,
+    "tulsa_vs_e_carolina_defensive_efficiency.opp_assists_fgm.ecu": 0.541
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "golden-hurricane-pirates-2026-03-05",
+  "matchup_title": "#66 Tulsa at #259 E Carolina",
+  "teams": {
+    "away": "#66 Tulsa",
+    "home": "#259 E Carolina",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Williams Arena at Minges Coliseum",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-hurricane-pirates-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-hurricane-pirates-2026-03-05/efficiency"
+  }
+}

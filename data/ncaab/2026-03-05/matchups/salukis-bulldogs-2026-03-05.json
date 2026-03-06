@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/salukis-bulldogs-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:21.766546+00:00",
+  "tables": {
+    "Matchup Menu: SIU vs. DRKE": {
+      "headers": [
+        "Stat",
+        "SIU",
+        "adv",
+        "DRKE"
+      ],
+      "team_headers": [
+        "SIU",
+        "DRKE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SIU": {
+            "raw": "1.005",
+            "value": 1.005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "1.057",
+            "value": 1.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "49.4%",
+            "value": 0.494
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SIU": {
+            "raw": "0.320",
+            "value": 0.32
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "0.334",
+            "value": 0.334
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SIU": {
+            "raw": "73.0",
+            "value": 73.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "74.0",
+            "value": 74.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SIU": {
+            "raw": "+2.4",
+            "value": 2.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "-2.8",
+            "value": -2.8
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "SIU",
+        "adv",
+        "DRKE"
+      ],
+      "team_headers": [
+        "SIU",
+        "DRKE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SIU": {
+            "raw": "1.005",
+            "value": 1.005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "1.057",
+            "value": 1.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "49.4%",
+            "value": 0.494
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "SIU": {
+            "raw": "0.320",
+            "value": 0.32
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "0.334",
+            "value": 0.334
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "SIU": {
+            "raw": "73.0",
+            "value": 73.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "74.0",
+            "value": 74.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "SIU": {
+            "raw": "+2.4",
+            "value": 2.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "-2.8",
+            "value": -2.8
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "SIU",
+        "adv",
+        "DRKE"
+      ],
+      "team_headers": [
+        "SIU",
+        "DRKE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SIU": {
+            "raw": "0.972",
+            "value": 0.972
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "1.097",
+            "value": 1.097
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "16.3%",
+            "value": 0.163
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "12.6%",
+            "value": 0.126
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "75.7%",
+            "value": 0.757
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "SIU": {
+            "raw": "0.315",
+            "value": 0.315
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "0.330",
+            "value": 0.33
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "SIU": {
+            "raw": "70.6",
+            "value": 70.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "76.8",
+            "value": 76.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "4.9%",
+            "value": 0.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "22.1%",
+            "value": 0.221
+          }
+        }
+      ]
+    },
+    "S Illinois vs Drake Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SIU",
+        "adv",
+        "DRKE"
+      ],
+      "team_headers": [
+        "SIU",
+        "DRKE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SIU": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "70.0",
+            "value": 70.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "SIU": {
+            "raw": "1.005",
+            "value": 1.005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "1.057",
+            "value": 1.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "49.4%",
+            "value": 0.494
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "SIU": {
+            "raw": "71.0%",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "DRKE": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "SIU": {
+            "raw": "29.0%",
+            "value": 0.29
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "DRKE": {
+            "raw": "45.2%",
+            "value": 0.452
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "25.1%",
+            "value": 0.251
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "52.2%",
+            "value": 0.522
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "28.4%",
+            "value": 0.284
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "34.2%",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "68.8%",
+            "value": 0.688
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "70.8%",
+            "value": 0.708
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "SIU": {
+            "raw": "44.8",
+            "value": 44.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "DRKE": {
+            "raw": "33.0",
+            "value": 33.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "SIU": {
+            "raw": "14.9",
+            "value": 14.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "DRKE": {
+            "raw": "27.2",
+            "value": 27.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "24.4%",
+            "value": 0.244
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "75.7%",
+            "value": 0.757
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "4.9%",
+            "value": 0.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "10.0%",
+            "value": 0.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "DRKE": {
+            "raw": "6.5%",
+            "value": 0.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "22.1%",
+            "value": 0.221
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "SIU": {
+            "raw": "0.488",
+            "value": 0.488
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "0.506",
+            "value": 0.506
+          }
+        }
+      ]
+    },
+    "S Illinois vs Drake Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "SIU",
+        "adv",
+        "DRKE"
+      ],
+      "team_headers": [
+        "SIU",
+        "DRKE"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "SIU": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "70.0",
+            "value": 70.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "SIU": {
+            "raw": "0.972",
+            "value": 0.972
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "1.097",
+            "value": 1.097
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "SIU": {
+            "raw": "58.9%",
+            "value": 0.589
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "56.7%",
+            "value": 0.5670000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "SIU": {
+            "raw": "41.1%",
+            "value": 0.41100000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "43.3%",
+            "value": 0.433
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "24.8%",
+            "value": 0.248
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "50.7%",
+            "value": 0.507
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "30.4%",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "DRKE": {
+            "raw": "37.4%",
+            "value": 0.374
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "69.7%",
+            "value": 0.6970000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "68.8%",
+            "value": 0.688
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "SIU": {
+            "raw": "35.5",
+            "value": 35.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "34.3",
+            "value": 34.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "SIU": {
+            "raw": "22.1",
+            "value": 22.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "29.0",
+            "value": 29.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "SIU": {
+            "raw": "6.0%",
+            "value": 0.06
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "8.4%",
+            "value": 0.084
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "16.3%",
+            "value": 0.163
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DRKE": {
+            "raw": "12.6%",
+            "value": 0.126
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "SIU": {
+            "raw": "20.7%",
+            "value": 0.207
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DRKE": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "SIU": {
+            "raw": "0.519",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DRKE": {
+            "raw": "0.543",
+            "value": 0.543
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_siu_vs_drke.off_efficiency.siu": 1.005,
+    "matchup_menu_siu_vs_drke.off_efficiency.drke": 1.057,
+    "matchup_menu_siu_vs_drke.effective_fg.siu": 0.494,
+    "matchup_menu_siu_vs_drke.effective_fg.drke": 0.512,
+    "matchup_menu_siu_vs_drke.turnovers_play.siu": 0.14800000000000002,
+    "matchup_menu_siu_vs_drke.turnovers_play.drke": 0.133,
+    "matchup_menu_siu_vs_drke.off_rebound.siu": 0.28800000000000003,
+    "matchup_menu_siu_vs_drke.off_rebound.drke": 0.244,
+    "matchup_menu_siu_vs_drke.fta_fga.siu": 0.32,
+    "matchup_menu_siu_vs_drke.fta_fga.drke": 0.334,
+    "matchup_menu_siu_vs_drke.points_game.siu": 73.0,
+    "matchup_menu_siu_vs_drke.points_game.drke": 74.0,
+    "matchup_menu_siu_vs_drke.avg_score_margin.siu": 2.4,
+    "matchup_menu_siu_vs_drke.avg_score_margin.drke": -2.8,
+    "key_offensive_stats.off_efficiency.siu": 1.005,
+    "key_offensive_stats.off_efficiency.drke": 1.057,
+    "key_offensive_stats.effective_fg.siu": 0.494,
+    "key_offensive_stats.effective_fg.drke": 0.512,
+    "key_offensive_stats.turnovers_play.siu": 0.14800000000000002,
+    "key_offensive_stats.turnovers_play.drke": 0.133,
+    "key_offensive_stats.off_rebound.siu": 0.28800000000000003,
+    "key_offensive_stats.off_rebound.drke": 0.244,
+    "key_offensive_stats.fta_fga.siu": 0.32,
+    "key_offensive_stats.fta_fga.drke": 0.334,
+    "key_offensive_stats.points_game.siu": 73.0,
+    "key_offensive_stats.points_game.drke": 74.0,
+    "key_offensive_stats.avg_score_margin.siu": 2.4,
+    "key_offensive_stats.avg_score_margin.drke": -2.8,
+    "key_defensive_stats.def_efficiency.siu": 0.972,
+    "key_defensive_stats.def_efficiency.drke": 1.097,
+    "key_defensive_stats.opp_effective_fg.siu": 0.49,
+    "key_defensive_stats.opp_effective_fg.drke": 0.53,
+    "key_defensive_stats.opp_turnovers_play.siu": 0.163,
+    "key_defensive_stats.opp_turnovers_play.drke": 0.126,
+    "key_defensive_stats.def_rebound.siu": 0.757,
+    "key_defensive_stats.def_rebound.drke": 0.7120000000000001,
+    "key_defensive_stats.opp_fta_fga.siu": 0.315,
+    "key_defensive_stats.opp_fta_fga.drke": 0.33,
+    "key_defensive_stats.opp_points_game.siu": 70.6,
+    "key_defensive_stats.opp_points_game.drke": 76.8,
+    "key_defensive_stats.block.siu": 0.057999999999999996,
+    "key_defensive_stats.block.drke": 0.049,
+    "key_defensive_stats.personal_fouls_play.siu": 0.213,
+    "key_defensive_stats.personal_fouls_play.drke": 0.221,
+    "s_illinois_vs_drake_offensive_efficiency.possessions_gm.siu": 72.6,
+    "s_illinois_vs_drake_offensive_efficiency.possessions_gm.drke": 70.0,
+    "s_illinois_vs_drake_offensive_efficiency.off_efficiency.siu": 1.005,
+    "s_illinois_vs_drake_offensive_efficiency.off_efficiency.drke": 1.057,
+    "s_illinois_vs_drake_offensive_efficiency.effective_fg.siu": 0.494,
+    "s_illinois_vs_drake_offensive_efficiency.effective_fg.drke": 0.512,
+    "s_illinois_vs_drake_offensive_efficiency.two_point_rate.siu": 0.71,
+    "s_illinois_vs_drake_offensive_efficiency.two_point_rate.drke": 0.5479999999999999,
+    "s_illinois_vs_drake_offensive_efficiency.three_point_rate.siu": 0.29,
+    "s_illinois_vs_drake_offensive_efficiency.three_point_rate.drke": 0.452,
+    "s_illinois_vs_drake_offensive_efficiency.fta_play.siu": 0.23600000000000002,
+    "s_illinois_vs_drake_offensive_efficiency.fta_play.drke": 0.251,
+    "s_illinois_vs_drake_offensive_efficiency.two_point.siu": 0.522,
+    "s_illinois_vs_drake_offensive_efficiency.two_point.drke": 0.512,
+    "s_illinois_vs_drake_offensive_efficiency.three_point.siu": 0.284,
+    "s_illinois_vs_drake_offensive_efficiency.three_point.drke": 0.342,
+    "s_illinois_vs_drake_offensive_efficiency.free_throw.siu": 0.688,
+    "s_illinois_vs_drake_offensive_efficiency.free_throw.drke": 0.708,
+    "s_illinois_vs_drake_offensive_efficiency.points_2_pters.siu": 44.8,
+    "s_illinois_vs_drake_offensive_efficiency.points_2_pters.drke": 33.0,
+    "s_illinois_vs_drake_offensive_efficiency.points_3_pters.siu": 14.9,
+    "s_illinois_vs_drake_offensive_efficiency.points_3_pters.drke": 27.2,
+    "s_illinois_vs_drake_offensive_efficiency.off_rebound.siu": 0.28800000000000003,
+    "s_illinois_vs_drake_offensive_efficiency.off_rebound.drke": 0.244,
+    "s_illinois_vs_drake_offensive_efficiency.def_rebound.siu": 0.757,
+    "s_illinois_vs_drake_offensive_efficiency.def_rebound.drke": 0.7120000000000001,
+    "s_illinois_vs_drake_offensive_efficiency.block.siu": 0.057999999999999996,
+    "s_illinois_vs_drake_offensive_efficiency.block.drke": 0.049,
+    "s_illinois_vs_drake_offensive_efficiency.steals_play.siu": 0.1,
+    "s_illinois_vs_drake_offensive_efficiency.steals_play.drke": 0.065,
+    "s_illinois_vs_drake_offensive_efficiency.turnovers_play.siu": 0.14800000000000002,
+    "s_illinois_vs_drake_offensive_efficiency.turnovers_play.drke": 0.133,
+    "s_illinois_vs_drake_offensive_efficiency.personal_fouls_play.siu": 0.213,
+    "s_illinois_vs_drake_offensive_efficiency.personal_fouls_play.drke": 0.221,
+    "s_illinois_vs_drake_offensive_efficiency.assists_fgm.siu": 0.488,
+    "s_illinois_vs_drake_offensive_efficiency.assists_fgm.drke": 0.506,
+    "s_illinois_vs_drake_defensive_efficiency.possessions_gm.siu": 72.6,
+    "s_illinois_vs_drake_defensive_efficiency.possessions_gm.drke": 70.0,
+    "s_illinois_vs_drake_defensive_efficiency.def_efficiency.siu": 0.972,
+    "s_illinois_vs_drake_defensive_efficiency.def_efficiency.drke": 1.097,
+    "s_illinois_vs_drake_defensive_efficiency.opp_effective_fg.siu": 0.49,
+    "s_illinois_vs_drake_defensive_efficiency.opp_effective_fg.drke": 0.53,
+    "s_illinois_vs_drake_defensive_efficiency.opp_two_point_rate.siu": 0.589,
+    "s_illinois_vs_drake_defensive_efficiency.opp_two_point_rate.drke": 0.5670000000000001,
+    "s_illinois_vs_drake_defensive_efficiency.opp_three_point_rate.siu": 0.41100000000000003,
+    "s_illinois_vs_drake_defensive_efficiency.opp_three_point_rate.drke": 0.433,
+    "s_illinois_vs_drake_defensive_efficiency.opp_fta_play.siu": 0.23,
+    "s_illinois_vs_drake_defensive_efficiency.opp_fta_play.drke": 0.248,
+    "s_illinois_vs_drake_defensive_efficiency.opp_two_point.siu": 0.513,
+    "s_illinois_vs_drake_defensive_efficiency.opp_two_point.drke": 0.507,
+    "s_illinois_vs_drake_defensive_efficiency.opp_three_point.siu": 0.304,
+    "s_illinois_vs_drake_defensive_efficiency.opp_three_point.drke": 0.374,
+    "s_illinois_vs_drake_defensive_efficiency.opp_free_throw.siu": 0.6970000000000001,
+    "s_illinois_vs_drake_defensive_efficiency.opp_free_throw.drke": 0.688,
+    "s_illinois_vs_drake_defensive_efficiency.opp_points_2_pters.siu": 35.5,
+    "s_illinois_vs_drake_defensive_efficiency.opp_points_2_pters.drke": 34.3,
+    "s_illinois_vs_drake_defensive_efficiency.opp_points_3_pters.siu": 22.1,
+    "s_illinois_vs_drake_defensive_efficiency.opp_points_3_pters.drke": 29.0,
+    "s_illinois_vs_drake_defensive_efficiency.opp_off_rebound.siu": 0.243,
+    "s_illinois_vs_drake_defensive_efficiency.opp_off_rebound.drke": 0.28800000000000003,
+    "s_illinois_vs_drake_defensive_efficiency.opp_def_rebound.siu": 0.7120000000000001,
+    "s_illinois_vs_drake_defensive_efficiency.opp_def_rebound.drke": 0.7559999999999999,
+    "s_illinois_vs_drake_defensive_efficiency.opp_block.siu": 0.06,
+    "s_illinois_vs_drake_defensive_efficiency.opp_block.drke": 0.046,
+    "s_illinois_vs_drake_defensive_efficiency.opp_steals_play.siu": 0.084,
+    "s_illinois_vs_drake_defensive_efficiency.opp_steals_play.drke": 0.08,
+    "s_illinois_vs_drake_defensive_efficiency.opp_turnovers_play.siu": 0.163,
+    "s_illinois_vs_drake_defensive_efficiency.opp_turnovers_play.drke": 0.126,
+    "s_illinois_vs_drake_defensive_efficiency.opp_personal_fouls_play.siu": 0.207,
+    "s_illinois_vs_drake_defensive_efficiency.opp_personal_fouls_play.drke": 0.223,
+    "s_illinois_vs_drake_defensive_efficiency.opp_assists_fgm.siu": 0.519,
+    "s_illinois_vs_drake_defensive_efficiency.opp_assists_fgm.drke": 0.543
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "salukis-bulldogs-2026-03-05",
+  "matchup_title": "#122 S Illinois vs. #193 Drake",
+  "teams": {
+    "away": "#122 S Illinois",
+    "home": "#193 Drake",
+    "neutral_site": true
+  },
+  "time_local": "4:30 PM",
+  "location": "Enterprise Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/salukis-bulldogs-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/salukis-bulldogs-2026-03-05/efficiency"
+  }
+}

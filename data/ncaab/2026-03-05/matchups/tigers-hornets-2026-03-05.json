@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-hornets-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:05.994538+00:00",
+  "tables": {
+    "Matchup Menu: GRAM @ ALST": {
+      "headers": [
+        "Stat",
+        "GRAM",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "GRAM",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.973",
+            "value": 0.973
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.988",
+            "value": 0.988
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "49.1%",
+            "value": 0.491
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "47.5%",
+            "value": 0.475
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "18.8%",
+            "value": 0.188
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "15.8%",
+            "value": 0.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.414",
+            "value": 0.414
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "0.351",
+            "value": 0.351
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "69.0",
+            "value": 69.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "-3.3",
+            "value": -3.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "-6.0",
+            "value": -6.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "GRAM",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "GRAM",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.973",
+            "value": 0.973
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.988",
+            "value": 0.988
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "49.1%",
+            "value": 0.491
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "47.5%",
+            "value": 0.475
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "18.8%",
+            "value": 0.188
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "15.8%",
+            "value": 0.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.414",
+            "value": 0.414
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "0.351",
+            "value": 0.351
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "69.0",
+            "value": 69.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "-3.3",
+            "value": -3.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "-6.0",
+            "value": -6.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "GRAM",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "GRAM",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "1.020",
+            "value": 1.02
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "1.070",
+            "value": 1.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "52.8%",
+            "value": 0.528
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "18.0%",
+            "value": 0.18
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "16.5%",
+            "value": 0.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.403",
+            "value": 0.403
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.423",
+            "value": 0.423
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "72.4",
+            "value": 72.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "78.0",
+            "value": 78.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "4.8%",
+            "value": 0.048
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "23.7%",
+            "value": 0.237
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        }
+      ]
+    },
+    "Grambling vs Alabama St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GRAM",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "GRAM",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.973",
+            "value": 0.973
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.988",
+            "value": 0.988
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "49.1%",
+            "value": 0.491
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "47.5%",
+            "value": 0.475
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "62.1%",
+            "value": 0.621
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "62.0%",
+            "value": 0.62
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "37.9%",
+            "value": 0.379
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "38.0%",
+            "value": 0.38
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "28.0%",
+            "value": 0.28
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "25.3%",
+            "value": 0.253
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "49.7%",
+            "value": 0.49700000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "46.7%",
+            "value": 0.467
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "32.0%",
+            "value": 0.32
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "32.6%",
+            "value": 0.326
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "72.8%",
+            "value": 0.728
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "70.9%",
+            "value": 0.7090000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "33.2",
+            "value": 33.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "34.8",
+            "value": 34.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "19.6",
+            "value": 19.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "22.3",
+            "value": 22.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "4.8%",
+            "value": 0.048
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "9.4%",
+            "value": 0.094
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "9.6%",
+            "value": 0.096
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "18.8%",
+            "value": 0.188
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "15.8%",
+            "value": 0.158
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "23.7%",
+            "value": 0.237
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.517",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "0.472",
+            "value": 0.472
+          }
+        }
+      ]
+    },
+    "Grambling vs Alabama St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GRAM",
+        "adv",
+        "ALST"
+      ],
+      "team_headers": [
+        "GRAM",
+        "ALST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "1.020",
+            "value": 1.02
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "1.070",
+            "value": 1.07
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "52.8%",
+            "value": 0.528
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "65.4%",
+            "value": 0.654
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "59.5%",
+            "value": 0.595
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "34.6%",
+            "value": 0.34600000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "40.5%",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "27.8%",
+            "value": 0.278
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "29.5%",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "52.8%",
+            "value": 0.528
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "33.5%",
+            "value": 0.335
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "35.2%",
+            "value": 0.35200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "72.7%",
+            "value": 0.727
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "73.1%",
+            "value": 0.731
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "37.0",
+            "value": 37.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "35.9",
+            "value": 35.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "19.2",
+            "value": 19.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ALST": {
+            "raw": "24.4",
+            "value": 24.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "30.4%",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "71.3%",
+            "value": 0.713
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "8.0%",
+            "value": 0.08
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "6.8%",
+            "value": 0.068
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "10.7%",
+            "value": 0.107
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "8.9%",
+            "value": 0.08900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "18.0%",
+            "value": 0.18
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "16.5%",
+            "value": 0.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALST": {
+            "raw": "21.0%",
+            "value": 0.21
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "GRAM": {
+            "raw": "0.525",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALST": {
+            "raw": "0.552",
+            "value": 0.552
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_gram_alst.off_efficiency.gram": 0.973,
+    "matchup_menu_gram_alst.off_efficiency.alst": 0.988,
+    "matchup_menu_gram_alst.effective_fg.gram": 0.491,
+    "matchup_menu_gram_alst.effective_fg.alst": 0.475,
+    "matchup_menu_gram_alst.turnovers_play.gram": 0.188,
+    "matchup_menu_gram_alst.turnovers_play.alst": 0.158,
+    "matchup_menu_gram_alst.off_rebound.gram": 0.287,
+    "matchup_menu_gram_alst.off_rebound.alst": 0.301,
+    "matchup_menu_gram_alst.fta_fga.gram": 0.414,
+    "matchup_menu_gram_alst.fta_fga.alst": 0.351,
+    "matchup_menu_gram_alst.points_game.gram": 69.0,
+    "matchup_menu_gram_alst.points_game.alst": 72.0,
+    "matchup_menu_gram_alst.avg_score_margin.gram": -3.3,
+    "matchup_menu_gram_alst.avg_score_margin.alst": -6.0,
+    "key_offensive_stats.off_efficiency.gram": 0.973,
+    "key_offensive_stats.off_efficiency.alst": 0.988,
+    "key_offensive_stats.effective_fg.gram": 0.491,
+    "key_offensive_stats.effective_fg.alst": 0.475,
+    "key_offensive_stats.turnovers_play.gram": 0.188,
+    "key_offensive_stats.turnovers_play.alst": 0.158,
+    "key_offensive_stats.off_rebound.gram": 0.287,
+    "key_offensive_stats.off_rebound.alst": 0.301,
+    "key_offensive_stats.fta_fga.gram": 0.414,
+    "key_offensive_stats.fta_fga.alst": 0.351,
+    "key_offensive_stats.points_game.gram": 69.0,
+    "key_offensive_stats.points_game.alst": 72.0,
+    "key_offensive_stats.avg_score_margin.gram": -3.3,
+    "key_offensive_stats.avg_score_margin.alst": -6.0,
+    "key_defensive_stats.def_efficiency.gram": 1.02,
+    "key_defensive_stats.def_efficiency.alst": 1.07,
+    "key_defensive_stats.opp_effective_fg.gram": 0.509,
+    "key_defensive_stats.opp_effective_fg.alst": 0.528,
+    "key_defensive_stats.opp_turnovers_play.gram": 0.18,
+    "key_defensive_stats.opp_turnovers_play.alst": 0.165,
+    "key_defensive_stats.def_rebound.gram": 0.696,
+    "key_defensive_stats.def_rebound.alst": 0.6990000000000001,
+    "key_defensive_stats.opp_fta_fga.gram": 0.403,
+    "key_defensive_stats.opp_fta_fga.alst": 0.423,
+    "key_defensive_stats.opp_points_game.gram": 72.4,
+    "key_defensive_stats.opp_points_game.alst": 78.0,
+    "key_defensive_stats.block.gram": 0.048,
+    "key_defensive_stats.block.alst": 0.063,
+    "key_defensive_stats.personal_fouls_play.gram": 0.237,
+    "key_defensive_stats.personal_fouls_play.alst": 0.235,
+    "grambling_vs_alabama_st_offensive_efficiency.possessions_gm.gram": 70.9,
+    "grambling_vs_alabama_st_offensive_efficiency.possessions_gm.alst": 72.9,
+    "grambling_vs_alabama_st_offensive_efficiency.off_efficiency.gram": 0.973,
+    "grambling_vs_alabama_st_offensive_efficiency.off_efficiency.alst": 0.988,
+    "grambling_vs_alabama_st_offensive_efficiency.effective_fg.gram": 0.491,
+    "grambling_vs_alabama_st_offensive_efficiency.effective_fg.alst": 0.475,
+    "grambling_vs_alabama_st_offensive_efficiency.two_point_rate.gram": 0.621,
+    "grambling_vs_alabama_st_offensive_efficiency.two_point_rate.alst": 0.62,
+    "grambling_vs_alabama_st_offensive_efficiency.three_point_rate.gram": 0.379,
+    "grambling_vs_alabama_st_offensive_efficiency.three_point_rate.alst": 0.38,
+    "grambling_vs_alabama_st_offensive_efficiency.fta_play.gram": 0.28,
+    "grambling_vs_alabama_st_offensive_efficiency.fta_play.alst": 0.253,
+    "grambling_vs_alabama_st_offensive_efficiency.two_point.gram": 0.49700000000000005,
+    "grambling_vs_alabama_st_offensive_efficiency.two_point.alst": 0.467,
+    "grambling_vs_alabama_st_offensive_efficiency.three_point.gram": 0.32,
+    "grambling_vs_alabama_st_offensive_efficiency.three_point.alst": 0.326,
+    "grambling_vs_alabama_st_offensive_efficiency.free_throw.gram": 0.728,
+    "grambling_vs_alabama_st_offensive_efficiency.free_throw.alst": 0.7090000000000001,
+    "grambling_vs_alabama_st_offensive_efficiency.points_2_pters.gram": 33.2,
+    "grambling_vs_alabama_st_offensive_efficiency.points_2_pters.alst": 34.8,
+    "grambling_vs_alabama_st_offensive_efficiency.points_3_pters.gram": 19.6,
+    "grambling_vs_alabama_st_offensive_efficiency.points_3_pters.alst": 22.3,
+    "grambling_vs_alabama_st_offensive_efficiency.off_rebound.gram": 0.287,
+    "grambling_vs_alabama_st_offensive_efficiency.off_rebound.alst": 0.301,
+    "grambling_vs_alabama_st_offensive_efficiency.def_rebound.gram": 0.696,
+    "grambling_vs_alabama_st_offensive_efficiency.def_rebound.alst": 0.6990000000000001,
+    "grambling_vs_alabama_st_offensive_efficiency.block.gram": 0.048,
+    "grambling_vs_alabama_st_offensive_efficiency.block.alst": 0.063,
+    "grambling_vs_alabama_st_offensive_efficiency.steals_play.gram": 0.094,
+    "grambling_vs_alabama_st_offensive_efficiency.steals_play.alst": 0.096,
+    "grambling_vs_alabama_st_offensive_efficiency.turnovers_play.gram": 0.188,
+    "grambling_vs_alabama_st_offensive_efficiency.turnovers_play.alst": 0.158,
+    "grambling_vs_alabama_st_offensive_efficiency.personal_fouls_play.gram": 0.237,
+    "grambling_vs_alabama_st_offensive_efficiency.personal_fouls_play.alst": 0.235,
+    "grambling_vs_alabama_st_offensive_efficiency.assists_fgm.gram": 0.517,
+    "grambling_vs_alabama_st_offensive_efficiency.assists_fgm.alst": 0.472,
+    "grambling_vs_alabama_st_defensive_efficiency.possessions_gm.gram": 70.9,
+    "grambling_vs_alabama_st_defensive_efficiency.possessions_gm.alst": 72.9,
+    "grambling_vs_alabama_st_defensive_efficiency.def_efficiency.gram": 1.02,
+    "grambling_vs_alabama_st_defensive_efficiency.def_efficiency.alst": 1.07,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_effective_fg.gram": 0.509,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_effective_fg.alst": 0.528,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_two_point_rate.gram": 0.654,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_two_point_rate.alst": 0.595,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_three_point_rate.gram": 0.34600000000000003,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_three_point_rate.alst": 0.405,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_fta_play.gram": 0.278,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_fta_play.alst": 0.295,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_two_point.gram": 0.513,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_two_point.alst": 0.528,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_three_point.gram": 0.335,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_three_point.alst": 0.35200000000000004,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_free_throw.gram": 0.727,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_free_throw.alst": 0.731,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_points_2_pters.gram": 37.0,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_points_2_pters.alst": 35.9,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_points_3_pters.gram": 19.2,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_points_3_pters.alst": 24.4,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_off_rebound.gram": 0.304,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_off_rebound.alst": 0.301,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_def_rebound.gram": 0.713,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_def_rebound.alst": 0.6990000000000001,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_block.gram": 0.08,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_block.alst": 0.068,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_steals_play.gram": 0.107,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_steals_play.alst": 0.08900000000000001,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_turnovers_play.gram": 0.18,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_turnovers_play.alst": 0.165,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_personal_fouls_play.gram": 0.22899999999999998,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_personal_fouls_play.alst": 0.21,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_assists_fgm.gram": 0.525,
+    "grambling_vs_alabama_st_defensive_efficiency.opp_assists_fgm.alst": 0.552
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "tigers-hornets-2026-03-05",
+  "matchup_title": "#301 Grambling at #314 Alabama St",
+  "teams": {
+    "away": "#301 Grambling",
+    "home": "#314 Alabama St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Dunn-Oliver Acadome",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-hornets-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-hornets-2026-03-05/efficiency"
+  }
+}

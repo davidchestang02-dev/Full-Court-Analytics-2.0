@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-terriers-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:54.963649+00:00",
+  "tables": {
+    "Matchup Menu: AMER @ BU": {
+      "headers": [
+        "Stat",
+        "AMER",
+        "adv",
+        "BU"
+      ],
+      "team_headers": [
+        "AMER",
+        "BU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "AMER": {
+            "raw": "1.054",
+            "value": 1.054
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "1.120",
+            "value": 1.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "57.4%",
+            "value": 0.574
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "15.6%",
+            "value": 0.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "AMER": {
+            "raw": "0.291",
+            "value": 0.291
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "0.321",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "AMER": {
+            "raw": "71.9",
+            "value": 71.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "75.1",
+            "value": 75.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "AMER": {
+            "raw": "-0.7",
+            "value": -0.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "+0.5",
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "AMER",
+        "adv",
+        "BU"
+      ],
+      "team_headers": [
+        "AMER",
+        "BU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "AMER": {
+            "raw": "1.054",
+            "value": 1.054
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "1.120",
+            "value": 1.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "57.4%",
+            "value": 0.574
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "15.6%",
+            "value": 0.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "AMER": {
+            "raw": "0.291",
+            "value": 0.291
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "0.321",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "AMER": {
+            "raw": "71.9",
+            "value": 71.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "75.1",
+            "value": 75.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "AMER": {
+            "raw": "-0.7",
+            "value": -0.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "+0.5",
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "AMER",
+        "adv",
+        "BU"
+      ],
+      "team_headers": [
+        "AMER",
+        "BU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "AMER": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "1.112",
+            "value": 1.112
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "53.9%",
+            "value": 0.539
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "16.8%",
+            "value": 0.168
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "BU": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "71.6%",
+            "value": 0.716
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "75.8%",
+            "value": 0.758
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "AMER": {
+            "raw": "0.434",
+            "value": 0.434
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BU": {
+            "raw": "0.304",
+            "value": 0.304
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "AMER": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "74.6",
+            "value": 74.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "2.8%",
+            "value": 0.027999999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BU": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "25.0%",
+            "value": 0.25
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        }
+      ]
+    },
+    "American vs Boston U Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "AMER",
+        "adv",
+        "BU"
+      ],
+      "team_headers": [
+        "AMER",
+        "BU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "AMER": {
+            "raw": "68.2",
+            "value": 68.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "67.1",
+            "value": 67.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "AMER": {
+            "raw": "1.054",
+            "value": 1.054
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "1.120",
+            "value": 1.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "57.4%",
+            "value": 0.574
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "AMER": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "55.7%",
+            "value": 0.557
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "AMER": {
+            "raw": "46.9%",
+            "value": 0.469
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "44.3%",
+            "value": 0.44299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "22.2%",
+            "value": 0.222
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "56.6%",
+            "value": 0.5660000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BU": {
+            "raw": "39.0%",
+            "value": 0.39
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "76.0%",
+            "value": 0.76
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "72.8%",
+            "value": 0.728
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "AMER": {
+            "raw": "32.3",
+            "value": 32.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "34.3",
+            "value": 34.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "AMER": {
+            "raw": "26.9",
+            "value": 26.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "28.1",
+            "value": 28.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "71.6%",
+            "value": 0.716
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "75.8%",
+            "value": 0.758
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "2.8%",
+            "value": 0.027999999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BU": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "9.5%",
+            "value": 0.095
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BU": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "15.6%",
+            "value": 0.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "25.0%",
+            "value": 0.25
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "AMER": {
+            "raw": "0.504",
+            "value": 0.504
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "0.551",
+            "value": 0.551
+          }
+        }
+      ]
+    },
+    "American vs Boston U Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "AMER",
+        "adv",
+        "BU"
+      ],
+      "team_headers": [
+        "AMER",
+        "BU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "AMER": {
+            "raw": "68.2",
+            "value": 68.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "67.1",
+            "value": 67.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "AMER": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "1.112",
+            "value": 1.112
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "53.9%",
+            "value": 0.539
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "AMER": {
+            "raw": "62.9%",
+            "value": 0.629
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "58.3%",
+            "value": 0.583
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "AMER": {
+            "raw": "37.1%",
+            "value": 0.371
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "41.7%",
+            "value": 0.41700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "29.8%",
+            "value": 0.298
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "BU": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "54.7%",
+            "value": 0.547
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "34.9%",
+            "value": 0.349
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "37.0%",
+            "value": 0.37
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "72.3%",
+            "value": 0.723
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "73.0%",
+            "value": 0.73
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "AMER": {
+            "raw": "35.9",
+            "value": 35.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "35.3",
+            "value": 35.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "AMER": {
+            "raw": "20.3",
+            "value": 20.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "BU": {
+            "raw": "26.6",
+            "value": 26.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "28.4%",
+            "value": 0.284
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "75.7%",
+            "value": 0.757
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "74.0%",
+            "value": 0.74
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "AMER": {
+            "raw": "5.3%",
+            "value": 0.053
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "BU": {
+            "raw": "4.9%",
+            "value": 0.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "8.0%",
+            "value": 0.08
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "BU": {
+            "raw": "9.4%",
+            "value": 0.094
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "16.8%",
+            "value": 0.168
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "BU": {
+            "raw": "11.7%",
+            "value": 0.11699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "AMER": {
+            "raw": "22.0%",
+            "value": 0.22
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "BU": {
+            "raw": "21.1%",
+            "value": 0.21100000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "AMER": {
+            "raw": "0.541",
+            "value": 0.541
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "BU": {
+            "raw": "0.499",
+            "value": 0.499
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_amer_bu.off_efficiency.amer": 1.054,
+    "matchup_menu_amer_bu.off_efficiency.bu": 1.12,
+    "matchup_menu_amer_bu.effective_fg.amer": 0.513,
+    "matchup_menu_amer_bu.effective_fg.bu": 0.574,
+    "matchup_menu_amer_bu.turnovers_play.amer": 0.139,
+    "matchup_menu_amer_bu.turnovers_play.bu": 0.156,
+    "matchup_menu_amer_bu.off_rebound.amer": 0.243,
+    "matchup_menu_amer_bu.off_rebound.bu": 0.26,
+    "matchup_menu_amer_bu.fta_fga.amer": 0.291,
+    "matchup_menu_amer_bu.fta_fga.bu": 0.321,
+    "matchup_menu_amer_bu.points_game.amer": 71.9,
+    "matchup_menu_amer_bu.points_game.bu": 75.1,
+    "matchup_menu_amer_bu.avg_score_margin.amer": -0.7,
+    "matchup_menu_amer_bu.avg_score_margin.bu": 0.5,
+    "key_offensive_stats.off_efficiency.amer": 1.054,
+    "key_offensive_stats.off_efficiency.bu": 1.12,
+    "key_offensive_stats.effective_fg.amer": 0.513,
+    "key_offensive_stats.effective_fg.bu": 0.574,
+    "key_offensive_stats.turnovers_play.amer": 0.139,
+    "key_offensive_stats.turnovers_play.bu": 0.156,
+    "key_offensive_stats.off_rebound.amer": 0.243,
+    "key_offensive_stats.off_rebound.bu": 0.26,
+    "key_offensive_stats.fta_fga.amer": 0.291,
+    "key_offensive_stats.fta_fga.bu": 0.321,
+    "key_offensive_stats.points_game.amer": 71.9,
+    "key_offensive_stats.points_game.bu": 75.1,
+    "key_offensive_stats.avg_score_margin.amer": -0.7,
+    "key_offensive_stats.avg_score_margin.bu": 0.5,
+    "key_defensive_stats.def_efficiency.amer": 1.064,
+    "key_defensive_stats.def_efficiency.bu": 1.112,
+    "key_defensive_stats.opp_effective_fg.amer": 0.539,
+    "key_defensive_stats.opp_effective_fg.bu": 0.539,
+    "key_defensive_stats.opp_turnovers_play.amer": 0.168,
+    "key_defensive_stats.opp_turnovers_play.bu": 0.11699999999999999,
+    "key_defensive_stats.def_rebound.amer": 0.716,
+    "key_defensive_stats.def_rebound.bu": 0.758,
+    "key_defensive_stats.opp_fta_fga.amer": 0.434,
+    "key_defensive_stats.opp_fta_fga.bu": 0.304,
+    "key_defensive_stats.opp_points_game.amer": 72.6,
+    "key_defensive_stats.opp_points_game.bu": 74.6,
+    "key_defensive_stats.block.amer": 0.027999999999999997,
+    "key_defensive_stats.block.bu": 0.057999999999999996,
+    "key_defensive_stats.personal_fouls_play.amer": 0.25,
+    "key_defensive_stats.personal_fouls_play.bu": 0.21899999999999997,
+    "american_vs_boston_u_offensive_efficiency.possessions_gm.amer": 68.2,
+    "american_vs_boston_u_offensive_efficiency.possessions_gm.bu": 67.1,
+    "american_vs_boston_u_offensive_efficiency.off_efficiency.amer": 1.054,
+    "american_vs_boston_u_offensive_efficiency.off_efficiency.bu": 1.12,
+    "american_vs_boston_u_offensive_efficiency.effective_fg.amer": 0.513,
+    "american_vs_boston_u_offensive_efficiency.effective_fg.bu": 0.574,
+    "american_vs_boston_u_offensive_efficiency.two_point_rate.amer": 0.531,
+    "american_vs_boston_u_offensive_efficiency.two_point_rate.bu": 0.557,
+    "american_vs_boston_u_offensive_efficiency.three_point_rate.amer": 0.469,
+    "american_vs_boston_u_offensive_efficiency.three_point_rate.bu": 0.44299999999999995,
+    "american_vs_boston_u_offensive_efficiency.fta_play.amer": 0.222,
+    "american_vs_boston_u_offensive_efficiency.fta_play.bu": 0.235,
+    "american_vs_boston_u_offensive_efficiency.two_point.amer": 0.527,
+    "american_vs_boston_u_offensive_efficiency.two_point.bu": 0.5660000000000001,
+    "american_vs_boston_u_offensive_efficiency.three_point.amer": 0.332,
+    "american_vs_boston_u_offensive_efficiency.three_point.bu": 0.39,
+    "american_vs_boston_u_offensive_efficiency.free_throw.amer": 0.76,
+    "american_vs_boston_u_offensive_efficiency.free_throw.bu": 0.728,
+    "american_vs_boston_u_offensive_efficiency.points_2_pters.amer": 32.3,
+    "american_vs_boston_u_offensive_efficiency.points_2_pters.bu": 34.3,
+    "american_vs_boston_u_offensive_efficiency.points_3_pters.amer": 26.9,
+    "american_vs_boston_u_offensive_efficiency.points_3_pters.bu": 28.1,
+    "american_vs_boston_u_offensive_efficiency.off_rebound.amer": 0.243,
+    "american_vs_boston_u_offensive_efficiency.off_rebound.bu": 0.26,
+    "american_vs_boston_u_offensive_efficiency.def_rebound.amer": 0.716,
+    "american_vs_boston_u_offensive_efficiency.def_rebound.bu": 0.758,
+    "american_vs_boston_u_offensive_efficiency.block.amer": 0.027999999999999997,
+    "american_vs_boston_u_offensive_efficiency.block.bu": 0.057999999999999996,
+    "american_vs_boston_u_offensive_efficiency.steals_play.amer": 0.095,
+    "american_vs_boston_u_offensive_efficiency.steals_play.bu": 0.066,
+    "american_vs_boston_u_offensive_efficiency.turnovers_play.amer": 0.139,
+    "american_vs_boston_u_offensive_efficiency.turnovers_play.bu": 0.156,
+    "american_vs_boston_u_offensive_efficiency.personal_fouls_play.amer": 0.25,
+    "american_vs_boston_u_offensive_efficiency.personal_fouls_play.bu": 0.21899999999999997,
+    "american_vs_boston_u_offensive_efficiency.assists_fgm.amer": 0.504,
+    "american_vs_boston_u_offensive_efficiency.assists_fgm.bu": 0.551,
+    "american_vs_boston_u_defensive_efficiency.possessions_gm.amer": 68.2,
+    "american_vs_boston_u_defensive_efficiency.possessions_gm.bu": 67.1,
+    "american_vs_boston_u_defensive_efficiency.def_efficiency.amer": 1.064,
+    "american_vs_boston_u_defensive_efficiency.def_efficiency.bu": 1.112,
+    "american_vs_boston_u_defensive_efficiency.opp_effective_fg.amer": 0.539,
+    "american_vs_boston_u_defensive_efficiency.opp_effective_fg.bu": 0.539,
+    "american_vs_boston_u_defensive_efficiency.opp_two_point_rate.amer": 0.629,
+    "american_vs_boston_u_defensive_efficiency.opp_two_point_rate.bu": 0.583,
+    "american_vs_boston_u_defensive_efficiency.opp_three_point_rate.amer": 0.371,
+    "american_vs_boston_u_defensive_efficiency.opp_three_point_rate.bu": 0.41700000000000004,
+    "american_vs_boston_u_defensive_efficiency.opp_fta_play.amer": 0.298,
+    "american_vs_boston_u_defensive_efficiency.opp_fta_play.bu": 0.235,
+    "american_vs_boston_u_defensive_efficiency.opp_two_point.amer": 0.547,
+    "american_vs_boston_u_defensive_efficiency.opp_two_point.bu": 0.527,
+    "american_vs_boston_u_defensive_efficiency.opp_three_point.amer": 0.349,
+    "american_vs_boston_u_defensive_efficiency.opp_three_point.bu": 0.37,
+    "american_vs_boston_u_defensive_efficiency.opp_free_throw.amer": 0.723,
+    "american_vs_boston_u_defensive_efficiency.opp_free_throw.bu": 0.73,
+    "american_vs_boston_u_defensive_efficiency.opp_points_2_pters.amer": 35.9,
+    "american_vs_boston_u_defensive_efficiency.opp_points_2_pters.bu": 35.3,
+    "american_vs_boston_u_defensive_efficiency.opp_points_3_pters.amer": 20.3,
+    "american_vs_boston_u_defensive_efficiency.opp_points_3_pters.bu": 26.6,
+    "american_vs_boston_u_defensive_efficiency.opp_off_rebound.amer": 0.284,
+    "american_vs_boston_u_defensive_efficiency.opp_off_rebound.bu": 0.242,
+    "american_vs_boston_u_defensive_efficiency.opp_def_rebound.amer": 0.757,
+    "american_vs_boston_u_defensive_efficiency.opp_def_rebound.bu": 0.74,
+    "american_vs_boston_u_defensive_efficiency.opp_block.amer": 0.053,
+    "american_vs_boston_u_defensive_efficiency.opp_block.bu": 0.049,
+    "american_vs_boston_u_defensive_efficiency.opp_steals_play.amer": 0.08,
+    "american_vs_boston_u_defensive_efficiency.opp_steals_play.bu": 0.094,
+    "american_vs_boston_u_defensive_efficiency.opp_turnovers_play.amer": 0.168,
+    "american_vs_boston_u_defensive_efficiency.opp_turnovers_play.bu": 0.11699999999999999,
+    "american_vs_boston_u_defensive_efficiency.opp_personal_fouls_play.amer": 0.22,
+    "american_vs_boston_u_defensive_efficiency.opp_personal_fouls_play.bu": 0.21100000000000002,
+    "american_vs_boston_u_defensive_efficiency.opp_assists_fgm.amer": 0.541,
+    "american_vs_boston_u_defensive_efficiency.opp_assists_fgm.bu": 0.499
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "eagles-terriers-2026-03-05",
+  "matchup_title": "#250 American at #261 Boston U",
+  "teams": {
+    "away": "#250 American",
+    "home": "#261 Boston U",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Case Gym",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-terriers-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-terriers-2026-03-05/efficiency"
+  }
+}

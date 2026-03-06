@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/pelicans-kings-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:14.807118+00:00",
+  "tables": {
+    "Matchup Menu: NO @ SAC": {
+      "headers": [
+        "Stat",
+        "NO",
+        "adv",
+        "SAC"
+      ],
+      "team_headers": [
+        "NO",
+        "SAC"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NO": {
+            "raw": "1.097",
+            "value": 1.097
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NO": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "12.2%",
+            "value": 0.122
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "12.6%",
+            "value": 0.126
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NO": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "25.3%",
+            "value": 0.253
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NO": {
+            "raw": "0.277",
+            "value": 0.277
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "0.258",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NO": {
+            "raw": "114.9",
+            "value": 114.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "110.2",
+            "value": 110.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NO": {
+            "raw": "-5.3",
+            "value": -5.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "-10.9",
+            "value": -10.9
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "NO",
+        "adv",
+        "SAC"
+      ],
+      "team_headers": [
+        "NO",
+        "SAC"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NO": {
+            "raw": "1.097",
+            "value": 1.097
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NO": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "12.2%",
+            "value": 0.122
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "12.6%",
+            "value": 0.126
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NO": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "25.3%",
+            "value": 0.253
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "NO": {
+            "raw": "0.277",
+            "value": 0.277
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "0.258",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "NO": {
+            "raw": "114.9",
+            "value": 114.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "110.2",
+            "value": 110.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "NO": {
+            "raw": "-5.3",
+            "value": -5.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "-10.9",
+            "value": -10.9
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "NO",
+        "adv",
+        "SAC"
+      ],
+      "team_headers": [
+        "NO",
+        "SAC"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NO": {
+            "raw": "1.148",
+            "value": 1.148
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "1.171",
+            "value": 1.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NO": {
+            "raw": "55.5%",
+            "value": 0.555
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "57.1%",
+            "value": 0.5710000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "12.5%",
+            "value": 0.125
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "12.4%",
+            "value": 0.124
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NO": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "72.7%",
+            "value": 0.727
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "NO": {
+            "raw": "0.260",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "0.278",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "NO": {
+            "raw": "120.2",
+            "value": 120.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "121.1",
+            "value": 121.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NO": {
+            "raw": "5.4%",
+            "value": 0.054000000000000006
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "17.1%",
+            "value": 0.171
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "17.2%",
+            "value": 0.172
+          }
+        }
+      ]
+    },
+    "New Orleans vs Sacramento Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NO",
+        "adv",
+        "SAC"
+      ],
+      "team_headers": [
+        "NO",
+        "SAC"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NO": {
+            "raw": "104.7",
+            "value": 104.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "103.4",
+            "value": 103.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "NO": {
+            "raw": "1.097",
+            "value": 1.097
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "1.065",
+            "value": 1.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "NO": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "NO": {
+            "raw": "64.1%",
+            "value": 0.6409999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "66.2%",
+            "value": 0.662
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "NO": {
+            "raw": "35.9%",
+            "value": 0.359
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "33.8%",
+            "value": 0.33799999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "20.0%",
+            "value": 0.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "NO": {
+            "raw": "53.0%",
+            "value": 0.53
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "NO": {
+            "raw": "34.4%",
+            "value": 0.344
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "33.5%",
+            "value": 0.335
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "NO": {
+            "raw": "78.6%",
+            "value": 0.7859999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "77.8%",
+            "value": 0.778
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "NO": {
+            "raw": "61.6",
+            "value": 61.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "62.1",
+            "value": 62.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "NO": {
+            "raw": "33.6",
+            "value": 33.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "30.2",
+            "value": 30.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "NO": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "25.3%",
+            "value": 0.253
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "NO": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "72.7%",
+            "value": 0.727
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "NO": {
+            "raw": "5.4%",
+            "value": 0.054000000000000006
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "7.5%",
+            "value": 0.075
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "12.2%",
+            "value": 0.122
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "12.6%",
+            "value": 0.126
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "17.1%",
+            "value": 0.171
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "17.2%",
+            "value": 0.172
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "NO": {
+            "raw": "0.601",
+            "value": 0.601
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "0.613",
+            "value": 0.613
+          }
+        }
+      ]
+    },
+    "New Orleans vs Sacramento Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "NO",
+        "adv",
+        "SAC"
+      ],
+      "team_headers": [
+        "NO",
+        "SAC"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "NO": {
+            "raw": "104.7",
+            "value": 104.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "103.4",
+            "value": 103.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "NO": {
+            "raw": "1.148",
+            "value": 1.148
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "1.171",
+            "value": 1.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "NO": {
+            "raw": "55.5%",
+            "value": 0.555
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "57.1%",
+            "value": 0.5710000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "NO": {
+            "raw": "55.1%",
+            "value": 0.551
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SAC": {
+            "raw": "59.7%",
+            "value": 0.597
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "NO": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SAC": {
+            "raw": "40.3%",
+            "value": 0.40299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "20.3%",
+            "value": 0.203
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "NO": {
+            "raw": "57.9%",
+            "value": 0.579
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "58.3%",
+            "value": 0.583
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "NO": {
+            "raw": "35.0%",
+            "value": 0.35
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SAC": {
+            "raw": "36.8%",
+            "value": 0.368
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "NO": {
+            "raw": "78.2%",
+            "value": 0.782
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "78.3%",
+            "value": 0.7829999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "NO": {
+            "raw": "58.4",
+            "value": 58.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "62.0",
+            "value": 62.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "NO": {
+            "raw": "43.2",
+            "value": 43.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "39.7",
+            "value": 39.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "NO": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "27.3%",
+            "value": 0.273
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "NO": {
+            "raw": "73.0%",
+            "value": 0.73
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "74.7%",
+            "value": 0.747
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "NO": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SAC": {
+            "raw": "5.4%",
+            "value": 0.054000000000000006
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "6.8%",
+            "value": 0.068
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "12.5%",
+            "value": 0.125
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SAC": {
+            "raw": "12.4%",
+            "value": 0.124
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "NO": {
+            "raw": "17.2%",
+            "value": 0.172
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "16.1%",
+            "value": 0.161
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "NO": {
+            "raw": "0.642",
+            "value": 0.642
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SAC": {
+            "raw": "0.628",
+            "value": 0.628
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_no_sac.off_efficiency.no": 1.097,
+    "matchup_menu_no_sac.off_efficiency.sac": 1.065,
+    "matchup_menu_no_sac.effective_fg.no": 0.525,
+    "matchup_menu_no_sac.effective_fg.sac": 0.519,
+    "matchup_menu_no_sac.turnovers_play.no": 0.122,
+    "matchup_menu_no_sac.turnovers_play.sac": 0.126,
+    "matchup_menu_no_sac.off_rebound.no": 0.27,
+    "matchup_menu_no_sac.off_rebound.sac": 0.253,
+    "matchup_menu_no_sac.fta_fga.no": 0.277,
+    "matchup_menu_no_sac.fta_fga.sac": 0.258,
+    "matchup_menu_no_sac.points_game.no": 114.9,
+    "matchup_menu_no_sac.points_game.sac": 110.2,
+    "matchup_menu_no_sac.avg_score_margin.no": -5.3,
+    "matchup_menu_no_sac.avg_score_margin.sac": -10.9,
+    "key_offensive_stats.off_efficiency.no": 1.097,
+    "key_offensive_stats.off_efficiency.sac": 1.065,
+    "key_offensive_stats.effective_fg.no": 0.525,
+    "key_offensive_stats.effective_fg.sac": 0.519,
+    "key_offensive_stats.turnovers_play.no": 0.122,
+    "key_offensive_stats.turnovers_play.sac": 0.126,
+    "key_offensive_stats.off_rebound.no": 0.27,
+    "key_offensive_stats.off_rebound.sac": 0.253,
+    "key_offensive_stats.fta_fga.no": 0.277,
+    "key_offensive_stats.fta_fga.sac": 0.258,
+    "key_offensive_stats.points_game.no": 114.9,
+    "key_offensive_stats.points_game.sac": 110.2,
+    "key_offensive_stats.avg_score_margin.no": -5.3,
+    "key_offensive_stats.avg_score_margin.sac": -10.9,
+    "key_defensive_stats.def_efficiency.no": 1.148,
+    "key_defensive_stats.def_efficiency.sac": 1.171,
+    "key_defensive_stats.opp_effective_fg.no": 0.555,
+    "key_defensive_stats.opp_effective_fg.sac": 0.5710000000000001,
+    "key_defensive_stats.opp_turnovers_play.no": 0.125,
+    "key_defensive_stats.opp_turnovers_play.sac": 0.124,
+    "key_defensive_stats.def_rebound.no": 0.7140000000000001,
+    "key_defensive_stats.def_rebound.sac": 0.727,
+    "key_defensive_stats.opp_fta_fga.no": 0.26,
+    "key_defensive_stats.opp_fta_fga.sac": 0.278,
+    "key_defensive_stats.opp_points_game.no": 120.2,
+    "key_defensive_stats.opp_points_game.sac": 121.1,
+    "key_defensive_stats.block.no": 0.054000000000000006,
+    "key_defensive_stats.block.sac": 0.05,
+    "key_defensive_stats.personal_fouls_play.no": 0.171,
+    "key_defensive_stats.personal_fouls_play.sac": 0.172,
+    "new_orleans_vs_sacramento_offensive_efficiency.possessions_gm.no": 104.7,
+    "new_orleans_vs_sacramento_offensive_efficiency.possessions_gm.sac": 103.4,
+    "new_orleans_vs_sacramento_offensive_efficiency.off_efficiency.no": 1.097,
+    "new_orleans_vs_sacramento_offensive_efficiency.off_efficiency.sac": 1.065,
+    "new_orleans_vs_sacramento_offensive_efficiency.effective_fg.no": 0.525,
+    "new_orleans_vs_sacramento_offensive_efficiency.effective_fg.sac": 0.519,
+    "new_orleans_vs_sacramento_offensive_efficiency.two_point_rate.no": 0.6409999999999999,
+    "new_orleans_vs_sacramento_offensive_efficiency.two_point_rate.sac": 0.662,
+    "new_orleans_vs_sacramento_offensive_efficiency.three_point_rate.no": 0.359,
+    "new_orleans_vs_sacramento_offensive_efficiency.three_point_rate.sac": 0.33799999999999997,
+    "new_orleans_vs_sacramento_offensive_efficiency.fta_play.no": 0.215,
+    "new_orleans_vs_sacramento_offensive_efficiency.fta_play.sac": 0.2,
+    "new_orleans_vs_sacramento_offensive_efficiency.two_point.no": 0.53,
+    "new_orleans_vs_sacramento_offensive_efficiency.two_point.sac": 0.527,
+    "new_orleans_vs_sacramento_offensive_efficiency.three_point.no": 0.344,
+    "new_orleans_vs_sacramento_offensive_efficiency.three_point.sac": 0.335,
+    "new_orleans_vs_sacramento_offensive_efficiency.free_throw.no": 0.7859999999999999,
+    "new_orleans_vs_sacramento_offensive_efficiency.free_throw.sac": 0.778,
+    "new_orleans_vs_sacramento_offensive_efficiency.points_2_pters.no": 61.6,
+    "new_orleans_vs_sacramento_offensive_efficiency.points_2_pters.sac": 62.1,
+    "new_orleans_vs_sacramento_offensive_efficiency.points_3_pters.no": 33.6,
+    "new_orleans_vs_sacramento_offensive_efficiency.points_3_pters.sac": 30.2,
+    "new_orleans_vs_sacramento_offensive_efficiency.off_rebound.no": 0.27,
+    "new_orleans_vs_sacramento_offensive_efficiency.off_rebound.sac": 0.253,
+    "new_orleans_vs_sacramento_offensive_efficiency.def_rebound.no": 0.7140000000000001,
+    "new_orleans_vs_sacramento_offensive_efficiency.def_rebound.sac": 0.727,
+    "new_orleans_vs_sacramento_offensive_efficiency.block.no": 0.054000000000000006,
+    "new_orleans_vs_sacramento_offensive_efficiency.block.sac": 0.05,
+    "new_orleans_vs_sacramento_offensive_efficiency.steals_play.no": 0.075,
+    "new_orleans_vs_sacramento_offensive_efficiency.steals_play.sac": 0.073,
+    "new_orleans_vs_sacramento_offensive_efficiency.turnovers_play.no": 0.122,
+    "new_orleans_vs_sacramento_offensive_efficiency.turnovers_play.sac": 0.126,
+    "new_orleans_vs_sacramento_offensive_efficiency.personal_fouls_play.no": 0.171,
+    "new_orleans_vs_sacramento_offensive_efficiency.personal_fouls_play.sac": 0.172,
+    "new_orleans_vs_sacramento_offensive_efficiency.assists_fgm.no": 0.601,
+    "new_orleans_vs_sacramento_offensive_efficiency.assists_fgm.sac": 0.613,
+    "new_orleans_vs_sacramento_defensive_efficiency.possessions_gm.no": 104.7,
+    "new_orleans_vs_sacramento_defensive_efficiency.possessions_gm.sac": 103.4,
+    "new_orleans_vs_sacramento_defensive_efficiency.def_efficiency.no": 1.148,
+    "new_orleans_vs_sacramento_defensive_efficiency.def_efficiency.sac": 1.171,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_effective_fg.no": 0.555,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_effective_fg.sac": 0.5710000000000001,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_two_point_rate.no": 0.551,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_two_point_rate.sac": 0.597,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_three_point_rate.no": 0.449,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_three_point_rate.sac": 0.40299999999999997,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_fta_play.no": 0.203,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_fta_play.sac": 0.21600000000000003,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_two_point.no": 0.579,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_two_point.sac": 0.583,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_three_point.no": 0.35,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_three_point.sac": 0.368,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_free_throw.no": 0.782,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_free_throw.sac": 0.7829999999999999,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_points_2_pters.no": 58.4,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_points_2_pters.sac": 62.0,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_points_3_pters.no": 43.2,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_points_3_pters.sac": 39.7,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_off_rebound.no": 0.28600000000000003,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_off_rebound.sac": 0.273,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_def_rebound.no": 0.73,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_def_rebound.sac": 0.747,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_block.no": 0.066,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_block.sac": 0.054000000000000006,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_steals_play.no": 0.068,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_steals_play.sac": 0.076,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_turnovers_play.no": 0.125,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_turnovers_play.sac": 0.124,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_personal_fouls_play.no": 0.172,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_personal_fouls_play.sac": 0.161,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_assists_fgm.no": 0.642,
+    "new_orleans_vs_sacramento_defensive_efficiency.opp_assists_fgm.sac": 0.628
+  },
+  "sport": "nba",
+  "date": "2026-03-05",
+  "slug": "pelicans-kings-2026-03-05",
+  "matchup_title": "#25 New Orleans at #28 Sacramento",
+  "teams": {
+    "away": "#25 New Orleans",
+    "home": "#28 Sacramento",
+    "neutral_site": false
+  },
+  "time_local": "10:00 PM",
+  "location": "Golden 1 Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/pelicans-kings-2026-03-05",
+    "detail": "https://www.teamrankings.com/nba/matchup/pelicans-kings-2026-03-05/efficiency"
+  }
+}

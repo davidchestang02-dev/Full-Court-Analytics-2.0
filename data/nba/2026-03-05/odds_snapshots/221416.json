@@ -1,0 +1,332 @@
+{
+  "sport": "nba",
+  "date": "2026-03-05",
+  "scraped_at_utc": "2026-03-05T22:14:16.941493+00:00",
+  "source_url": "https://www.scoresandodds.com/nba?date=2026-03-05",
+  "games": [
+    {
+      "event_id": 10570590,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Jazz",
+        "home": "Wizards",
+        "away_norm": "jazz",
+        "home_norm": "wizards"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 3.5,
+            "odds": -105
+          },
+          "home": {
+            "line": -3.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 243.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": 142,
+          "home": -170
+        }
+      }
+    },
+    {
+      "event_id": 10570580,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Mavericks",
+        "home": "Magic",
+        "away_norm": "mavericks",
+        "home_norm": "magic"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 9.5,
+            "odds": -118
+          },
+          "home": {
+            "line": -9.5,
+            "odds": -102
+          }
+        },
+        "total": {
+          "line": 228.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": 310,
+          "home": -395
+        }
+      }
+    },
+    {
+      "event_id": 10570620,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T00:30:00Z",
+      "teams": {
+        "away": "Warriors",
+        "home": "Rockets",
+        "away_norm": "warriors",
+        "home_norm": "rockets"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 8.5,
+            "odds": -112
+          },
+          "home": {
+            "line": -8.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 213.5,
+          "over": {
+            "odds": -115
+          },
+          "under": {
+            "odds": -105
+          }
+        },
+        "moneyline": {
+          "away": 300,
+          "home": -380
+        }
+      }
+    },
+    {
+      "event_id": 10570570,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T00:30:00Z",
+      "teams": {
+        "away": "Nets",
+        "home": "Heat",
+        "away_norm": "nets",
+        "home_norm": "heat"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 12.5,
+            "odds": null
+          },
+          "home": {
+            "line": -12.5,
+            "odds": -120
+          }
+        },
+        "total": {
+          "line": 226.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": 525,
+          "home": -750
+        }
+      }
+    },
+    {
+      "event_id": 10570560,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Pistons",
+        "home": "Spurs",
+        "away_norm": "pistons",
+        "home_norm": "spurs"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 3.5,
+            "odds": -112
+          },
+          "home": {
+            "line": -3.5,
+            "odds": -108
+          }
+        },
+        "total": {
+          "line": 228.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": 130,
+          "home": -155
+        }
+      }
+    },
+    {
+      "event_id": 10570610,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Raptors",
+        "home": "Timberwolves",
+        "away_norm": "raptors",
+        "home_norm": "timberwolves"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 5.5,
+            "odds": -105
+          },
+          "home": {
+            "line": -5.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 226.5,
+          "over": {
+            "odds": -112
+          },
+          "under": {
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "away": 195,
+          "home": -238
+        }
+      }
+    },
+    {
+      "event_id": 10570600,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T02:00:00Z",
+      "teams": {
+        "away": "Bulls",
+        "home": "Suns",
+        "away_norm": "bulls",
+        "home_norm": "suns"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 10.5,
+            "odds": -105
+          },
+          "home": {
+            "line": -10.5,
+            "odds": -115
+          }
+        },
+        "total": {
+          "line": 224.5,
+          "over": {
+            "odds": -112
+          },
+          "under": {
+            "odds": -108
+          }
+        },
+        "moneyline": {
+          "away": 400,
+          "home": -535
+        }
+      }
+    },
+    {
+      "event_id": 10570640,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T03:00:00Z",
+      "teams": {
+        "away": "Lakers",
+        "home": "Nuggets",
+        "away_norm": "lakers",
+        "home_norm": "nuggets"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": 5.5,
+            "odds": -115
+          },
+          "home": {
+            "line": -5.5,
+            "odds": -105
+          }
+        },
+        "total": {
+          "line": 240.5,
+          "over": {
+            "odds": -110
+          },
+          "under": {
+            "odds": -110
+          }
+        },
+        "moneyline": {
+          "away": 164,
+          "home": -198
+        }
+      }
+    },
+    {
+      "event_id": 10570630,
+      "source": "scoresandodds",
+      "start_utc": "2026-03-06T03:00:00Z",
+      "teams": {
+        "away": "Pelicans",
+        "home": "Kings",
+        "away_norm": "pelicans",
+        "home_norm": "kings"
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": -5.5,
+            "odds": -110
+          },
+          "home": {
+            "line": 5.5,
+            "odds": -110
+          }
+        },
+        "total": {
+          "line": 234.5,
+          "over": {
+            "odds": -108
+          },
+          "under": {
+            "odds": -112
+          }
+        },
+        "moneyline": {
+          "away": -205,
+          "home": 170
+        }
+      }
+    }
+  ]
+}

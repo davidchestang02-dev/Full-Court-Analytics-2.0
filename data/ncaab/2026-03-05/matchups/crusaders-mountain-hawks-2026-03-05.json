@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/crusaders-mountain-hawks-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:07.236127+00:00",
+  "tables": {
+    "Matchup Menu: HC @ LEH": {
+      "headers": [
+        "Stat",
+        "HC",
+        "adv",
+        "LEH"
+      ],
+      "team_headers": [
+        "HC",
+        "LEH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HC": {
+            "raw": "1.015",
+            "value": 1.015
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "1.028",
+            "value": 1.028
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HC": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "16.0%",
+            "value": 0.16
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HC": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "20.8%",
+            "value": 0.20800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HC": {
+            "raw": "0.311",
+            "value": 0.311
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "0.317",
+            "value": 0.317
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HC": {
+            "raw": "68.0",
+            "value": 68.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "72.3",
+            "value": 72.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HC": {
+            "raw": "-7.0",
+            "value": -7.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "-3.3",
+            "value": -3.3
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "HC",
+        "adv",
+        "LEH"
+      ],
+      "team_headers": [
+        "HC",
+        "LEH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HC": {
+            "raw": "1.015",
+            "value": 1.015
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "1.028",
+            "value": 1.028
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HC": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "16.0%",
+            "value": 0.16
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HC": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "20.8%",
+            "value": 0.20800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HC": {
+            "raw": "0.311",
+            "value": 0.311
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "0.317",
+            "value": 0.317
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HC": {
+            "raw": "68.0",
+            "value": 68.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "72.3",
+            "value": 72.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HC": {
+            "raw": "-7.0",
+            "value": -7.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "-3.3",
+            "value": -3.3
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "HC",
+        "adv",
+        "LEH"
+      ],
+      "team_headers": [
+        "HC",
+        "LEH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HC": {
+            "raw": "1.119",
+            "value": 1.119
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "1.076",
+            "value": 1.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HC": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "51.3%",
+            "value": 0.513
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HC": {
+            "raw": "73.7%",
+            "value": 0.737
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "LEH": {
+            "raw": "68.0%",
+            "value": 0.68
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "HC": {
+            "raw": "0.277",
+            "value": 0.277
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "0.325",
+            "value": 0.325
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "HC": {
+            "raw": "75.0",
+            "value": 75.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "75.7",
+            "value": 75.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HC": {
+            "raw": "2.9%",
+            "value": 0.028999999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "20.1%",
+            "value": 0.201
+          }
+        }
+      ]
+    },
+    "Holy Cross vs Lehigh Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HC",
+        "adv",
+        "LEH"
+      ],
+      "team_headers": [
+        "HC",
+        "LEH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HC": {
+            "raw": "67.0",
+            "value": 67.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HC": {
+            "raw": "1.015",
+            "value": 1.015
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "1.028",
+            "value": 1.028
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HC": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "HC": {
+            "raw": "62.5%",
+            "value": 0.625
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "61.0%",
+            "value": 0.61
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "HC": {
+            "raw": "37.5%",
+            "value": 0.375
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "39.0%",
+            "value": 0.39
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "HC": {
+            "raw": "50.5%",
+            "value": 0.505
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "52.7%",
+            "value": 0.527
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "HC": {
+            "raw": "32.7%",
+            "value": 0.327
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "35.8%",
+            "value": 0.358
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "HC": {
+            "raw": "76.6%",
+            "value": 0.7659999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "73.3%",
+            "value": 0.733
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "HC": {
+            "raw": "34.7",
+            "value": 34.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "35.9",
+            "value": 35.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "HC": {
+            "raw": "20.2",
+            "value": 20.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "23.4",
+            "value": 23.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HC": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "20.8%",
+            "value": 0.20800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HC": {
+            "raw": "73.7%",
+            "value": 0.737
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "LEH": {
+            "raw": "68.0%",
+            "value": 0.68
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HC": {
+            "raw": "2.9%",
+            "value": 0.028999999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "8.4%",
+            "value": 0.084
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "16.0%",
+            "value": 0.16
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "20.1%",
+            "value": 0.201
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "HC": {
+            "raw": "0.450",
+            "value": 0.45
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LEH": {
+            "raw": "0.548",
+            "value": 0.548
+          }
+        }
+      ]
+    },
+    "Holy Cross vs Lehigh Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HC",
+        "adv",
+        "LEH"
+      ],
+      "team_headers": [
+        "HC",
+        "LEH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HC": {
+            "raw": "67.0",
+            "value": 67.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HC": {
+            "raw": "1.119",
+            "value": 1.119
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "1.076",
+            "value": 1.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HC": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "51.3%",
+            "value": 0.513
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "HC": {
+            "raw": "60.5%",
+            "value": 0.605
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "67.9%",
+            "value": 0.679
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "HC": {
+            "raw": "39.5%",
+            "value": 0.395
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "HC": {
+            "raw": "57.5%",
+            "value": 0.575
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LEH": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "HC": {
+            "raw": "33.7%",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "34.4%",
+            "value": 0.344
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "HC": {
+            "raw": "74.5%",
+            "value": 0.745
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "74.1%",
+            "value": 0.741
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "HC": {
+            "raw": "40.1",
+            "value": 40.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "41.5",
+            "value": 41.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "HC": {
+            "raw": "23.0",
+            "value": 23.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "19.8",
+            "value": 19.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "HC": {
+            "raw": "26.3%",
+            "value": 0.263
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "LEH": {
+            "raw": "32.0%",
+            "value": 0.32
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "HC": {
+            "raw": "80.6%",
+            "value": 0.8059999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "79.2%",
+            "value": 0.792
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "HC": {
+            "raw": "5.3%",
+            "value": 0.053
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "4.9%",
+            "value": 0.049
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "8.7%",
+            "value": 0.087
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "11.0%",
+            "value": 0.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LEH": {
+            "raw": "14.2%",
+            "value": 0.142
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "HC": {
+            "raw": "21.1%",
+            "value": 0.21100000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "22.1%",
+            "value": 0.221
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "HC": {
+            "raw": "0.507",
+            "value": 0.507
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LEH": {
+            "raw": "0.465",
+            "value": 0.465
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_hc_leh.off_efficiency.hc": 1.015,
+    "matchup_menu_hc_leh.off_efficiency.leh": 1.028,
+    "matchup_menu_hc_leh.effective_fg.hc": 0.5,
+    "matchup_menu_hc_leh.effective_fg.leh": 0.531,
+    "matchup_menu_hc_leh.turnovers_play.hc": 0.138,
+    "matchup_menu_hc_leh.turnovers_play.leh": 0.16,
+    "matchup_menu_hc_leh.off_rebound.hc": 0.19399999999999998,
+    "matchup_menu_hc_leh.off_rebound.leh": 0.20800000000000002,
+    "matchup_menu_hc_leh.fta_fga.hc": 0.311,
+    "matchup_menu_hc_leh.fta_fga.leh": 0.317,
+    "matchup_menu_hc_leh.points_game.hc": 68.0,
+    "matchup_menu_hc_leh.points_game.leh": 72.3,
+    "matchup_menu_hc_leh.avg_score_margin.hc": -7.0,
+    "matchup_menu_hc_leh.avg_score_margin.leh": -3.3,
+    "key_offensive_stats.off_efficiency.hc": 1.015,
+    "key_offensive_stats.off_efficiency.leh": 1.028,
+    "key_offensive_stats.effective_fg.hc": 0.5,
+    "key_offensive_stats.effective_fg.leh": 0.531,
+    "key_offensive_stats.turnovers_play.hc": 0.138,
+    "key_offensive_stats.turnovers_play.leh": 0.16,
+    "key_offensive_stats.off_rebound.hc": 0.19399999999999998,
+    "key_offensive_stats.off_rebound.leh": 0.20800000000000002,
+    "key_offensive_stats.fta_fga.hc": 0.311,
+    "key_offensive_stats.fta_fga.leh": 0.317,
+    "key_offensive_stats.points_game.hc": 68.0,
+    "key_offensive_stats.points_game.leh": 72.3,
+    "key_offensive_stats.avg_score_margin.hc": -7.0,
+    "key_offensive_stats.avg_score_margin.leh": -3.3,
+    "key_defensive_stats.def_efficiency.hc": 1.119,
+    "key_defensive_stats.def_efficiency.leh": 1.076,
+    "key_defensive_stats.opp_effective_fg.hc": 0.5479999999999999,
+    "key_defensive_stats.opp_effective_fg.leh": 0.513,
+    "key_defensive_stats.opp_turnovers_play.hc": 0.12300000000000001,
+    "key_defensive_stats.opp_turnovers_play.leh": 0.142,
+    "key_defensive_stats.def_rebound.hc": 0.737,
+    "key_defensive_stats.def_rebound.leh": 0.68,
+    "key_defensive_stats.opp_fta_fga.hc": 0.277,
+    "key_defensive_stats.opp_fta_fga.leh": 0.325,
+    "key_defensive_stats.opp_points_game.hc": 75.0,
+    "key_defensive_stats.opp_points_game.leh": 75.7,
+    "key_defensive_stats.block.hc": 0.028999999999999998,
+    "key_defensive_stats.block.leh": 0.052000000000000005,
+    "key_defensive_stats.personal_fouls_play.hc": 0.214,
+    "key_defensive_stats.personal_fouls_play.leh": 0.201,
+    "holy_cross_vs_lehigh_offensive_efficiency.possessions_gm.hc": 67.0,
+    "holy_cross_vs_lehigh_offensive_efficiency.possessions_gm.leh": 70.3,
+    "holy_cross_vs_lehigh_offensive_efficiency.off_efficiency.hc": 1.015,
+    "holy_cross_vs_lehigh_offensive_efficiency.off_efficiency.leh": 1.028,
+    "holy_cross_vs_lehigh_offensive_efficiency.effective_fg.hc": 0.5,
+    "holy_cross_vs_lehigh_offensive_efficiency.effective_fg.leh": 0.531,
+    "holy_cross_vs_lehigh_offensive_efficiency.two_point_rate.hc": 0.625,
+    "holy_cross_vs_lehigh_offensive_efficiency.two_point_rate.leh": 0.61,
+    "holy_cross_vs_lehigh_offensive_efficiency.three_point_rate.hc": 0.375,
+    "holy_cross_vs_lehigh_offensive_efficiency.three_point_rate.leh": 0.39,
+    "holy_cross_vs_lehigh_offensive_efficiency.fta_play.hc": 0.235,
+    "holy_cross_vs_lehigh_offensive_efficiency.fta_play.leh": 0.23199999999999998,
+    "holy_cross_vs_lehigh_offensive_efficiency.two_point.hc": 0.505,
+    "holy_cross_vs_lehigh_offensive_efficiency.two_point.leh": 0.527,
+    "holy_cross_vs_lehigh_offensive_efficiency.three_point.hc": 0.327,
+    "holy_cross_vs_lehigh_offensive_efficiency.three_point.leh": 0.358,
+    "holy_cross_vs_lehigh_offensive_efficiency.free_throw.hc": 0.7659999999999999,
+    "holy_cross_vs_lehigh_offensive_efficiency.free_throw.leh": 0.733,
+    "holy_cross_vs_lehigh_offensive_efficiency.points_2_pters.hc": 34.7,
+    "holy_cross_vs_lehigh_offensive_efficiency.points_2_pters.leh": 35.9,
+    "holy_cross_vs_lehigh_offensive_efficiency.points_3_pters.hc": 20.2,
+    "holy_cross_vs_lehigh_offensive_efficiency.points_3_pters.leh": 23.4,
+    "holy_cross_vs_lehigh_offensive_efficiency.off_rebound.hc": 0.19399999999999998,
+    "holy_cross_vs_lehigh_offensive_efficiency.off_rebound.leh": 0.20800000000000002,
+    "holy_cross_vs_lehigh_offensive_efficiency.def_rebound.hc": 0.737,
+    "holy_cross_vs_lehigh_offensive_efficiency.def_rebound.leh": 0.68,
+    "holy_cross_vs_lehigh_offensive_efficiency.block.hc": 0.028999999999999998,
+    "holy_cross_vs_lehigh_offensive_efficiency.block.leh": 0.052000000000000005,
+    "holy_cross_vs_lehigh_offensive_efficiency.steals_play.hc": 0.07200000000000001,
+    "holy_cross_vs_lehigh_offensive_efficiency.steals_play.leh": 0.084,
+    "holy_cross_vs_lehigh_offensive_efficiency.turnovers_play.hc": 0.138,
+    "holy_cross_vs_lehigh_offensive_efficiency.turnovers_play.leh": 0.16,
+    "holy_cross_vs_lehigh_offensive_efficiency.personal_fouls_play.hc": 0.214,
+    "holy_cross_vs_lehigh_offensive_efficiency.personal_fouls_play.leh": 0.201,
+    "holy_cross_vs_lehigh_offensive_efficiency.assists_fgm.hc": 0.45,
+    "holy_cross_vs_lehigh_offensive_efficiency.assists_fgm.leh": 0.548,
+    "holy_cross_vs_lehigh_defensive_efficiency.possessions_gm.hc": 67.0,
+    "holy_cross_vs_lehigh_defensive_efficiency.possessions_gm.leh": 70.3,
+    "holy_cross_vs_lehigh_defensive_efficiency.def_efficiency.hc": 1.119,
+    "holy_cross_vs_lehigh_defensive_efficiency.def_efficiency.leh": 1.076,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_effective_fg.hc": 0.5479999999999999,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_effective_fg.leh": 0.513,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_two_point_rate.hc": 0.605,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_two_point_rate.leh": 0.679,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_three_point_rate.hc": 0.395,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_three_point_rate.leh": 0.321,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_fta_play.hc": 0.214,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_fta_play.leh": 0.24100000000000002,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_two_point.hc": 0.575,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_two_point.leh": 0.512,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_three_point.hc": 0.337,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_three_point.leh": 0.344,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_free_throw.hc": 0.745,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_free_throw.leh": 0.741,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_points_2_pters.hc": 40.1,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_points_2_pters.leh": 41.5,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_points_3_pters.hc": 23.0,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_points_3_pters.leh": 19.8,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_off_rebound.hc": 0.263,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_off_rebound.leh": 0.32,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_def_rebound.hc": 0.8059999999999999,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_def_rebound.leh": 0.792,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_block.hc": 0.053,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_block.leh": 0.049,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_steals_play.hc": 0.087,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_steals_play.leh": 0.11,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_turnovers_play.hc": 0.12300000000000001,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_turnovers_play.leh": 0.142,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_personal_fouls_play.hc": 0.21100000000000002,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_personal_fouls_play.leh": 0.221,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_assists_fgm.hc": 0.507,
+    "holy_cross_vs_lehigh_defensive_efficiency.opp_assists_fgm.leh": 0.465
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "crusaders-mountain-hawks-2026-03-05",
+  "matchup_title": "#330 Holy Cross at #298 Lehigh",
+  "teams": {
+    "away": "#330 Holy Cross",
+    "home": "#298 Lehigh",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Stabler Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/crusaders-mountain-hawks-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/crusaders-mountain-hawks-2026-03-05/efficiency"
+  }
+}

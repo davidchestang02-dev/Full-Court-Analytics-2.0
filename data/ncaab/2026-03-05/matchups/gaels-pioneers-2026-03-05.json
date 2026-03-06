@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/gaels-pioneers-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:52.577422+00:00",
+  "tables": {
+    "Matchup Menu: IONA vs. SH": {
+      "headers": [
+        "Stat",
+        "IONA",
+        "adv",
+        "SH"
+      ],
+      "team_headers": [
+        "IONA",
+        "SH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "IONA": {
+            "raw": "1.028",
+            "value": 1.028
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "1.062",
+            "value": 1.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "15.4%",
+            "value": 0.154
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "24.5%",
+            "value": 0.245
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "27.0%",
+            "value": 0.27
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "IONA": {
+            "raw": "0.294",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "0.311",
+            "value": 0.311
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "IONA": {
+            "raw": "73.6",
+            "value": 73.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "74.7",
+            "value": 74.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "IONA": {
+            "raw": "+1.1",
+            "value": 1.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "-3.1",
+            "value": -3.1
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "IONA",
+        "adv",
+        "SH"
+      ],
+      "team_headers": [
+        "IONA",
+        "SH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "IONA": {
+            "raw": "1.028",
+            "value": 1.028
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "1.062",
+            "value": 1.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "15.4%",
+            "value": 0.154
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "24.5%",
+            "value": 0.245
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "27.0%",
+            "value": 0.27
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "IONA": {
+            "raw": "0.294",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "0.311",
+            "value": 0.311
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "IONA": {
+            "raw": "73.6",
+            "value": 73.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "74.7",
+            "value": 74.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "IONA": {
+            "raw": "+1.1",
+            "value": 1.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "-3.1",
+            "value": -3.1
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "IONA",
+        "adv",
+        "SH"
+      ],
+      "team_headers": [
+        "IONA",
+        "SH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "IONA": {
+            "raw": "1.013",
+            "value": 1.013
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SH": {
+            "raw": "1.106",
+            "value": 1.106
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "48.5%",
+            "value": 0.485
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SH": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SH": {
+            "raw": "12.7%",
+            "value": 0.127
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "71.0%",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "IONA": {
+            "raw": "0.284",
+            "value": 0.284
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "0.276",
+            "value": 0.276
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "IONA": {
+            "raw": "72.5",
+            "value": 72.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SH": {
+            "raw": "77.7",
+            "value": 77.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "4.5%",
+            "value": 0.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "19.8%",
+            "value": 0.198
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          }
+        }
+      ]
+    },
+    "Iona vs Sacred Heart Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "IONA",
+        "adv",
+        "SH"
+      ],
+      "team_headers": [
+        "IONA",
+        "SH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "IONA": {
+            "raw": "71.6",
+            "value": 71.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "IONA": {
+            "raw": "1.028",
+            "value": 1.028
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "1.062",
+            "value": 1.062
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "IONA": {
+            "raw": "54.2%",
+            "value": 0.542
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "49.8%",
+            "value": 0.498
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "IONA": {
+            "raw": "45.8%",
+            "value": 0.45799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "50.2%",
+            "value": 0.502
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "50.8%",
+            "value": 0.508
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "49.9%",
+            "value": 0.499
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "35.5%",
+            "value": 0.355
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "36.0%",
+            "value": 0.36
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "70.8%",
+            "value": 0.708
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SH": {
+            "raw": "77.6%",
+            "value": 0.7759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "IONA": {
+            "raw": "32.5",
+            "value": 32.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "29.0",
+            "value": 29.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "IONA": {
+            "raw": "28.8",
+            "value": 28.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "31.6",
+            "value": 31.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "24.5%",
+            "value": 0.245
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "27.0%",
+            "value": 0.27
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "71.0%",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "4.5%",
+            "value": 0.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SH": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "15.4%",
+            "value": 0.154
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "19.8%",
+            "value": 0.198
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "IONA": {
+            "raw": "0.536",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "0.573",
+            "value": 0.573
+          }
+        }
+      ]
+    },
+    "Iona vs Sacred Heart Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "IONA",
+        "adv",
+        "SH"
+      ],
+      "team_headers": [
+        "IONA",
+        "SH"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "IONA": {
+            "raw": "71.6",
+            "value": 71.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "IONA": {
+            "raw": "1.013",
+            "value": 1.013
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SH": {
+            "raw": "1.106",
+            "value": 1.106
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "48.5%",
+            "value": 0.485
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SH": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "IONA": {
+            "raw": "60.0%",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SH": {
+            "raw": "56.7%",
+            "value": 0.5670000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "IONA": {
+            "raw": "40.0%",
+            "value": 0.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SH": {
+            "raw": "43.3%",
+            "value": 0.433
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "21.2%",
+            "value": 0.212
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "50.5%",
+            "value": 0.505
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SH": {
+            "raw": "54.4%",
+            "value": 0.544
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "30.4%",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SH": {
+            "raw": "35.1%",
+            "value": 0.35100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SH": {
+            "raw": "70.1%",
+            "value": 0.701
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "IONA": {
+            "raw": "37.4",
+            "value": 37.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "37.9",
+            "value": 37.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "IONA": {
+            "raw": "22.5",
+            "value": 22.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SH": {
+            "raw": "28.0",
+            "value": 28.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "29.0%",
+            "value": 0.29
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "75.5%",
+            "value": 0.755
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "73.0%",
+            "value": 0.73
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "IONA": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SH": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "9.5%",
+            "value": 0.095
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SH": {
+            "raw": "9.0%",
+            "value": 0.09
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SH": {
+            "raw": "12.7%",
+            "value": 0.127
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "IONA": {
+            "raw": "20.1%",
+            "value": 0.201
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "19.7%",
+            "value": 0.19699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "IONA": {
+            "raw": "0.560",
+            "value": 0.56
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SH": {
+            "raw": "0.594",
+            "value": 0.594
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_iona_vs_sh.off_efficiency.iona": 1.028,
+    "matchup_menu_iona_vs_sh.off_efficiency.sh": 1.062,
+    "matchup_menu_iona_vs_sh.effective_fg.iona": 0.519,
+    "matchup_menu_iona_vs_sh.effective_fg.sh": 0.519,
+    "matchup_menu_iona_vs_sh.turnovers_play.iona": 0.153,
+    "matchup_menu_iona_vs_sh.turnovers_play.sh": 0.154,
+    "matchup_menu_iona_vs_sh.off_rebound.iona": 0.245,
+    "matchup_menu_iona_vs_sh.off_rebound.sh": 0.27,
+    "matchup_menu_iona_vs_sh.fta_fga.iona": 0.294,
+    "matchup_menu_iona_vs_sh.fta_fga.sh": 0.311,
+    "matchup_menu_iona_vs_sh.points_game.iona": 73.6,
+    "matchup_menu_iona_vs_sh.points_game.sh": 74.7,
+    "matchup_menu_iona_vs_sh.avg_score_margin.iona": 1.1,
+    "matchup_menu_iona_vs_sh.avg_score_margin.sh": -3.1,
+    "key_offensive_stats.off_efficiency.iona": 1.028,
+    "key_offensive_stats.off_efficiency.sh": 1.062,
+    "key_offensive_stats.effective_fg.iona": 0.519,
+    "key_offensive_stats.effective_fg.sh": 0.519,
+    "key_offensive_stats.turnovers_play.iona": 0.153,
+    "key_offensive_stats.turnovers_play.sh": 0.154,
+    "key_offensive_stats.off_rebound.iona": 0.245,
+    "key_offensive_stats.off_rebound.sh": 0.27,
+    "key_offensive_stats.fta_fga.iona": 0.294,
+    "key_offensive_stats.fta_fga.sh": 0.311,
+    "key_offensive_stats.points_game.iona": 73.6,
+    "key_offensive_stats.points_game.sh": 74.7,
+    "key_offensive_stats.avg_score_margin.iona": 1.1,
+    "key_offensive_stats.avg_score_margin.sh": -3.1,
+    "key_defensive_stats.def_efficiency.iona": 1.013,
+    "key_defensive_stats.def_efficiency.sh": 1.106,
+    "key_defensive_stats.opp_effective_fg.iona": 0.485,
+    "key_defensive_stats.opp_effective_fg.sh": 0.536,
+    "key_defensive_stats.opp_turnovers_play.iona": 0.14400000000000002,
+    "key_defensive_stats.opp_turnovers_play.sh": 0.127,
+    "key_defensive_stats.def_rebound.iona": 0.71,
+    "key_defensive_stats.def_rebound.sh": 0.7040000000000001,
+    "key_defensive_stats.opp_fta_fga.iona": 0.284,
+    "key_defensive_stats.opp_fta_fga.sh": 0.276,
+    "key_defensive_stats.opp_points_game.iona": 72.5,
+    "key_defensive_stats.opp_points_game.sh": 77.7,
+    "key_defensive_stats.block.iona": 0.049,
+    "key_defensive_stats.block.sh": 0.045,
+    "key_defensive_stats.personal_fouls_play.iona": 0.198,
+    "key_defensive_stats.personal_fouls_play.sh": 0.18899999999999997,
+    "iona_vs_sacred_heart_offensive_efficiency.possessions_gm.iona": 71.6,
+    "iona_vs_sacred_heart_offensive_efficiency.possessions_gm.sh": 70.3,
+    "iona_vs_sacred_heart_offensive_efficiency.off_efficiency.iona": 1.028,
+    "iona_vs_sacred_heart_offensive_efficiency.off_efficiency.sh": 1.062,
+    "iona_vs_sacred_heart_offensive_efficiency.effective_fg.iona": 0.519,
+    "iona_vs_sacred_heart_offensive_efficiency.effective_fg.sh": 0.519,
+    "iona_vs_sacred_heart_offensive_efficiency.two_point_rate.iona": 0.542,
+    "iona_vs_sacred_heart_offensive_efficiency.two_point_rate.sh": 0.498,
+    "iona_vs_sacred_heart_offensive_efficiency.three_point_rate.iona": 0.45799999999999996,
+    "iona_vs_sacred_heart_offensive_efficiency.three_point_rate.sh": 0.502,
+    "iona_vs_sacred_heart_offensive_efficiency.fta_play.iona": 0.218,
+    "iona_vs_sacred_heart_offensive_efficiency.fta_play.sh": 0.23,
+    "iona_vs_sacred_heart_offensive_efficiency.two_point.iona": 0.508,
+    "iona_vs_sacred_heart_offensive_efficiency.two_point.sh": 0.499,
+    "iona_vs_sacred_heart_offensive_efficiency.three_point.iona": 0.355,
+    "iona_vs_sacred_heart_offensive_efficiency.three_point.sh": 0.36,
+    "iona_vs_sacred_heart_offensive_efficiency.free_throw.iona": 0.708,
+    "iona_vs_sacred_heart_offensive_efficiency.free_throw.sh": 0.7759999999999999,
+    "iona_vs_sacred_heart_offensive_efficiency.points_2_pters.iona": 32.5,
+    "iona_vs_sacred_heart_offensive_efficiency.points_2_pters.sh": 29.0,
+    "iona_vs_sacred_heart_offensive_efficiency.points_3_pters.iona": 28.8,
+    "iona_vs_sacred_heart_offensive_efficiency.points_3_pters.sh": 31.6,
+    "iona_vs_sacred_heart_offensive_efficiency.off_rebound.iona": 0.245,
+    "iona_vs_sacred_heart_offensive_efficiency.off_rebound.sh": 0.27,
+    "iona_vs_sacred_heart_offensive_efficiency.def_rebound.iona": 0.71,
+    "iona_vs_sacred_heart_offensive_efficiency.def_rebound.sh": 0.7040000000000001,
+    "iona_vs_sacred_heart_offensive_efficiency.block.iona": 0.049,
+    "iona_vs_sacred_heart_offensive_efficiency.block.sh": 0.045,
+    "iona_vs_sacred_heart_offensive_efficiency.steals_play.iona": 0.083,
+    "iona_vs_sacred_heart_offensive_efficiency.steals_play.sh": 0.071,
+    "iona_vs_sacred_heart_offensive_efficiency.turnovers_play.iona": 0.153,
+    "iona_vs_sacred_heart_offensive_efficiency.turnovers_play.sh": 0.154,
+    "iona_vs_sacred_heart_offensive_efficiency.personal_fouls_play.iona": 0.198,
+    "iona_vs_sacred_heart_offensive_efficiency.personal_fouls_play.sh": 0.18899999999999997,
+    "iona_vs_sacred_heart_offensive_efficiency.assists_fgm.iona": 0.536,
+    "iona_vs_sacred_heart_offensive_efficiency.assists_fgm.sh": 0.573,
+    "iona_vs_sacred_heart_defensive_efficiency.possessions_gm.iona": 71.6,
+    "iona_vs_sacred_heart_defensive_efficiency.possessions_gm.sh": 70.3,
+    "iona_vs_sacred_heart_defensive_efficiency.def_efficiency.iona": 1.013,
+    "iona_vs_sacred_heart_defensive_efficiency.def_efficiency.sh": 1.106,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_effective_fg.iona": 0.485,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_effective_fg.sh": 0.536,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_two_point_rate.iona": 0.6,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_two_point_rate.sh": 0.5670000000000001,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_three_point_rate.iona": 0.4,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_three_point_rate.sh": 0.433,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_fta_play.iona": 0.214,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_fta_play.sh": 0.212,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_two_point.iona": 0.505,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_two_point.sh": 0.544,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_three_point.iona": 0.304,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_three_point.sh": 0.35100000000000003,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_free_throw.iona": 0.7290000000000001,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_free_throw.sh": 0.701,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_points_2_pters.iona": 37.4,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_points_2_pters.sh": 37.9,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_points_3_pters.iona": 22.5,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_points_3_pters.sh": 28.0,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_off_rebound.iona": 0.29,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_off_rebound.sh": 0.29600000000000004,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_def_rebound.iona": 0.755,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_def_rebound.sh": 0.73,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_block.iona": 0.057999999999999996,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_block.sh": 0.046,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_steals_play.iona": 0.095,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_steals_play.sh": 0.09,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_turnovers_play.iona": 0.14400000000000002,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_turnovers_play.sh": 0.127,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_personal_fouls_play.iona": 0.201,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_personal_fouls_play.sh": 0.19699999999999998,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_assists_fgm.iona": 0.56,
+    "iona_vs_sacred_heart_defensive_efficiency.opp_assists_fgm.sh": 0.594
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "gaels-pioneers-2026-03-05",
+  "matchup_title": "#220 Iona vs. #285 Sacred Heart",
+  "teams": {
+    "away": "#220 Iona",
+    "home": "#285 Sacred Heart",
+    "neutral_site": true
+  },
+  "time_local": "6:00 PM",
+  "location": "Boardwalk Hall",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/gaels-pioneers-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/gaels-pioneers-2026-03-05/efficiency"
+  }
+}

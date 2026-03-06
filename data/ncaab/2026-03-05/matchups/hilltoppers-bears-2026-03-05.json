@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/hilltoppers-bears-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:26.255056+00:00",
+  "tables": {
+    "Matchup Menu: WKU @ MOSU": {
+      "headers": [
+        "Stat",
+        "WKU",
+        "adv",
+        "MOSU"
+      ],
+      "team_headers": [
+        "WKU",
+        "MOSU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "WKU": {
+            "raw": "1.060",
+            "value": 1.06
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "MOSU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "29.7%",
+            "value": 0.297
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "29.0%",
+            "value": 0.29
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "WKU": {
+            "raw": "0.396",
+            "value": 0.396
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "0.444",
+            "value": 0.444
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "WKU": {
+            "raw": "78.1",
+            "value": 78.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "WKU": {
+            "raw": "+2.8",
+            "value": 2.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "-1.8",
+            "value": -1.8
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "WKU",
+        "adv",
+        "MOSU"
+      ],
+      "team_headers": [
+        "WKU",
+        "MOSU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "WKU": {
+            "raw": "1.060",
+            "value": 1.06
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "MOSU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "29.7%",
+            "value": 0.297
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "29.0%",
+            "value": 0.29
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "WKU": {
+            "raw": "0.396",
+            "value": 0.396
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "0.444",
+            "value": 0.444
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "WKU": {
+            "raw": "78.1",
+            "value": 78.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "WKU": {
+            "raw": "+2.8",
+            "value": 2.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "-1.8",
+            "value": -1.8
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "WKU",
+        "adv",
+        "MOSU"
+      ],
+      "team_headers": [
+        "WKU",
+        "MOSU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "WKU": {
+            "raw": "1.023",
+            "value": 1.023
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "1.064",
+            "value": 1.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "52.4%",
+            "value": 0.524
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "15.2%",
+            "value": 0.152
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "WKU": {
+            "raw": "0.469",
+            "value": 0.469
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "0.411",
+            "value": 0.411
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "WKU": {
+            "raw": "75.4",
+            "value": 75.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "74.8",
+            "value": 74.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "4.2%",
+            "value": 0.042
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          }
+        }
+      ]
+    },
+    "W Kentucky vs Missouri St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "WKU",
+        "adv",
+        "MOSU"
+      ],
+      "team_headers": [
+        "WKU",
+        "MOSU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "WKU": {
+            "raw": "73.7",
+            "value": 73.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "WKU": {
+            "raw": "1.060",
+            "value": 1.06
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "WKU": {
+            "raw": "60.0%",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "59.0%",
+            "value": 0.59
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "WKU": {
+            "raw": "40.0%",
+            "value": 0.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "41.0%",
+            "value": 0.41
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "31.4%",
+            "value": 0.314
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "45.9%",
+            "value": 0.45899999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "33.3%",
+            "value": 0.33299999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "76.5%",
+            "value": 0.765
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "MOSU": {
+            "raw": "67.6%",
+            "value": 0.6759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "WKU": {
+            "raw": "34.4",
+            "value": 34.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "33.8",
+            "value": 33.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "WKU": {
+            "raw": "24.9",
+            "value": 24.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "22.3",
+            "value": 22.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "29.7%",
+            "value": 0.297
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "29.0%",
+            "value": 0.29
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "4.2%",
+            "value": 0.042
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "9.1%",
+            "value": 0.091
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "9.1%",
+            "value": 0.091
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "12.3%",
+            "value": 0.12300000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "MOSU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "WKU": {
+            "raw": "0.519",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "0.558",
+            "value": 0.558
+          }
+        }
+      ]
+    },
+    "W Kentucky vs Missouri St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "WKU",
+        "adv",
+        "MOSU"
+      ],
+      "team_headers": [
+        "WKU",
+        "MOSU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "WKU": {
+            "raw": "73.7",
+            "value": 73.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "WKU": {
+            "raw": "1.023",
+            "value": 1.023
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "1.064",
+            "value": 1.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "52.4%",
+            "value": 0.524
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "WKU": {
+            "raw": "56.5%",
+            "value": 0.565
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "MOSU": {
+            "raw": "63.6%",
+            "value": 0.636
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "WKU": {
+            "raw": "43.5%",
+            "value": 0.435
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MOSU": {
+            "raw": "36.4%",
+            "value": 0.364
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "32.4%",
+            "value": 0.324
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "50.1%",
+            "value": 0.501
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "52.1%",
+            "value": 0.521
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "33.7%",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "68.8%",
+            "value": 0.688
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "72.1%",
+            "value": 0.721
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "WKU": {
+            "raw": "32.1",
+            "value": 32.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "36.8",
+            "value": 36.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "WKU": {
+            "raw": "25.0",
+            "value": 25.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "21.5",
+            "value": 21.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "25.6%",
+            "value": 0.256
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "70.3%",
+            "value": 0.703
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "WKU": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "8.6%",
+            "value": 0.086
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "8.3%",
+            "value": 0.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "15.3%",
+            "value": 0.153
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MOSU": {
+            "raw": "15.2%",
+            "value": 0.152
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "WKU": {
+            "raw": "22.0%",
+            "value": 0.22
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "24.0%",
+            "value": 0.24
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "WKU": {
+            "raw": "0.584",
+            "value": 0.584
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MOSU": {
+            "raw": "0.511",
+            "value": 0.511
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_wku_mosu.off_efficiency.wku": 1.06,
+    "matchup_menu_wku_mosu.off_efficiency.mosu": 1.038,
+    "matchup_menu_wku_mosu.effective_fg.wku": 0.475,
+    "matchup_menu_wku_mosu.effective_fg.mosu": 0.5,
+    "matchup_menu_wku_mosu.turnovers_play.wku": 0.12300000000000001,
+    "matchup_menu_wku_mosu.turnovers_play.mosu": 0.14800000000000002,
+    "matchup_menu_wku_mosu.off_rebound.wku": 0.297,
+    "matchup_menu_wku_mosu.off_rebound.mosu": 0.29,
+    "matchup_menu_wku_mosu.fta_fga.wku": 0.396,
+    "matchup_menu_wku_mosu.fta_fga.mosu": 0.444,
+    "matchup_menu_wku_mosu.points_game.wku": 78.1,
+    "matchup_menu_wku_mosu.points_game.mosu": 73.0,
+    "matchup_menu_wku_mosu.avg_score_margin.wku": 2.8,
+    "matchup_menu_wku_mosu.avg_score_margin.mosu": -1.8,
+    "key_offensive_stats.off_efficiency.wku": 1.06,
+    "key_offensive_stats.off_efficiency.mosu": 1.038,
+    "key_offensive_stats.effective_fg.wku": 0.475,
+    "key_offensive_stats.effective_fg.mosu": 0.5,
+    "key_offensive_stats.turnovers_play.wku": 0.12300000000000001,
+    "key_offensive_stats.turnovers_play.mosu": 0.14800000000000002,
+    "key_offensive_stats.off_rebound.wku": 0.297,
+    "key_offensive_stats.off_rebound.mosu": 0.29,
+    "key_offensive_stats.fta_fga.wku": 0.396,
+    "key_offensive_stats.fta_fga.mosu": 0.444,
+    "key_offensive_stats.points_game.wku": 78.1,
+    "key_offensive_stats.points_game.mosu": 73.0,
+    "key_offensive_stats.avg_score_margin.wku": 2.8,
+    "key_offensive_stats.avg_score_margin.mosu": -1.8,
+    "key_defensive_stats.def_efficiency.wku": 1.023,
+    "key_defensive_stats.def_efficiency.mosu": 1.064,
+    "key_defensive_stats.opp_effective_fg.wku": 0.503,
+    "key_defensive_stats.opp_effective_fg.mosu": 0.524,
+    "key_defensive_stats.opp_turnovers_play.wku": 0.153,
+    "key_defensive_stats.opp_turnovers_play.mosu": 0.152,
+    "key_defensive_stats.def_rebound.wku": 0.7440000000000001,
+    "key_defensive_stats.def_rebound.mosu": 0.7040000000000001,
+    "key_defensive_stats.opp_fta_fga.wku": 0.469,
+    "key_defensive_stats.opp_fta_fga.mosu": 0.411,
+    "key_defensive_stats.opp_points_game.wku": 75.4,
+    "key_defensive_stats.opp_points_game.mosu": 74.8,
+    "key_defensive_stats.block.wku": 0.042,
+    "key_defensive_stats.block.mosu": 0.057999999999999996,
+    "key_defensive_stats.personal_fouls_play.wku": 0.244,
+    "key_defensive_stats.personal_fouls_play.mosu": 0.23399999999999999,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.possessions_gm.wku": 73.7,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.possessions_gm.mosu": 70.3,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.off_efficiency.wku": 1.06,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.off_efficiency.mosu": 1.038,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.effective_fg.wku": 0.475,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.effective_fg.mosu": 0.5,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.two_point_rate.wku": 0.6,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.two_point_rate.mosu": 0.59,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.three_point_rate.wku": 0.4,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.three_point_rate.mosu": 0.41,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.fta_play.wku": 0.293,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.fta_play.mosu": 0.314,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.two_point.wku": 0.45899999999999996,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.two_point.mosu": 0.512,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.three_point.wku": 0.33299999999999996,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.three_point.mosu": 0.32299999999999995,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.free_throw.wku": 0.765,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.free_throw.mosu": 0.6759999999999999,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.points_2_pters.wku": 34.4,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.points_2_pters.mosu": 33.8,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.points_3_pters.wku": 24.9,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.points_3_pters.mosu": 22.3,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.off_rebound.wku": 0.297,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.off_rebound.mosu": 0.29,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.def_rebound.wku": 0.7440000000000001,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.def_rebound.mosu": 0.7040000000000001,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.block.wku": 0.042,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.block.mosu": 0.057999999999999996,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.steals_play.wku": 0.091,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.steals_play.mosu": 0.091,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.turnovers_play.wku": 0.12300000000000001,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.turnovers_play.mosu": 0.14800000000000002,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.personal_fouls_play.wku": 0.244,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.personal_fouls_play.mosu": 0.23399999999999999,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.assists_fgm.wku": 0.519,
+    "w_kentucky_vs_missouri_st_offensive_efficiency.assists_fgm.mosu": 0.558,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.possessions_gm.wku": 73.7,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.possessions_gm.mosu": 70.3,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.def_efficiency.wku": 1.023,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.def_efficiency.mosu": 1.064,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_effective_fg.wku": 0.503,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_effective_fg.mosu": 0.524,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_two_point_rate.wku": 0.565,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_two_point_rate.mosu": 0.636,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_three_point_rate.wku": 0.435,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_three_point_rate.mosu": 0.364,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_fta_play.wku": 0.324,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_fta_play.mosu": 0.29100000000000004,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_two_point.wku": 0.501,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_two_point.mosu": 0.521,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_three_point.wku": 0.337,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_three_point.mosu": 0.354,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_free_throw.wku": 0.688,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_free_throw.mosu": 0.721,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_points_2_pters.wku": 32.1,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_points_2_pters.mosu": 36.8,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_points_3_pters.wku": 25.0,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_points_3_pters.mosu": 21.5,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_off_rebound.wku": 0.256,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_off_rebound.mosu": 0.29600000000000004,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_def_rebound.wku": 0.703,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_def_rebound.mosu": 0.71,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_block.wku": 0.07200000000000001,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_block.mosu": 0.086,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_steals_play.wku": 0.07,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_steals_play.mosu": 0.083,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_turnovers_play.wku": 0.153,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_turnovers_play.mosu": 0.152,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_personal_fouls_play.wku": 0.22,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_personal_fouls_play.mosu": 0.24,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_assists_fgm.wku": 0.584,
+    "w_kentucky_vs_missouri_st_defensive_efficiency.opp_assists_fgm.mosu": 0.511
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "hilltoppers-bears-2026-03-05",
+  "matchup_title": "#133 W Kentucky at #207 Missouri St",
+  "teams": {
+    "away": "#133 W Kentucky",
+    "home": "#207 Missouri St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Great Southern Bank Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/hilltoppers-bears-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/hilltoppers-bears-2026-03-05/efficiency"
+  }
+}

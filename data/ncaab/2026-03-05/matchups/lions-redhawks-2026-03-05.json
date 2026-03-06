@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-redhawks-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:50.193707+00:00",
+  "tables": {
+    "Matchup Menu: LNDNWD vs. SEMO": {
+      "headers": [
+        "Stat",
+        "LNDNWD",
+        "adv",
+        "SEMO"
+      ],
+      "team_headers": [
+        "LNDNWD",
+        "SEMO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.990",
+            "value": 0.99
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "1.036",
+            "value": 1.036
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "48.3%",
+            "value": 0.483
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "50.4%",
+            "value": 0.504
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "15.8%",
+            "value": 0.158
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "30.8%",
+            "value": 0.308
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.381",
+            "value": 0.381
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "0.394",
+            "value": 0.394
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "74.7",
+            "value": 74.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "73.9",
+            "value": 73.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "-0.6",
+            "value": -0.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "+1.1",
+            "value": 1.1
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "LNDNWD",
+        "adv",
+        "SEMO"
+      ],
+      "team_headers": [
+        "LNDNWD",
+        "SEMO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.990",
+            "value": 0.99
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "1.036",
+            "value": 1.036
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "48.3%",
+            "value": 0.483
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "50.4%",
+            "value": 0.504
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "15.8%",
+            "value": 0.158
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "30.8%",
+            "value": 0.308
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.381",
+            "value": 0.381
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "0.394",
+            "value": 0.394
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "74.7",
+            "value": 74.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "73.9",
+            "value": 73.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "-0.6",
+            "value": -0.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "+1.1",
+            "value": 1.1
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "LNDNWD",
+        "adv",
+        "SEMO"
+      ],
+      "team_headers": [
+        "LNDNWD",
+        "SEMO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.999",
+            "value": 0.999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "1.020",
+            "value": 1.02
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "49.2%",
+            "value": 0.49200000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "49.5%",
+            "value": 0.495
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "73.6%",
+            "value": 0.736
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.377",
+            "value": 0.377
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "0.475",
+            "value": 0.475
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "75.3",
+            "value": 75.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "72.7",
+            "value": 72.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "7.1%",
+            "value": 0.071
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "6.4%",
+            "value": 0.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "20.8%",
+            "value": 0.20800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SEMO": {
+            "raw": "25.7%",
+            "value": 0.257
+          }
+        }
+      ]
+    },
+    "Lindenwood vs SE Missouri St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LNDNWD",
+        "adv",
+        "SEMO"
+      ],
+      "team_headers": [
+        "LNDNWD",
+        "SEMO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "75.4",
+            "value": 75.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "71.3",
+            "value": 71.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.990",
+            "value": 0.99
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "1.036",
+            "value": 1.036
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "48.3%",
+            "value": 0.483
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "50.4%",
+            "value": 0.504
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "69.0%",
+            "value": 0.69
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "63.9%",
+            "value": 0.639
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "31.0%",
+            "value": 0.31
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "36.1%",
+            "value": 0.361
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "50.1%",
+            "value": 0.501
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "52.3%",
+            "value": 0.523
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "67.5%",
+            "value": 0.675
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "68.9%",
+            "value": 0.6890000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "42.2",
+            "value": 42.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "38.6",
+            "value": 38.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "16.8",
+            "value": 16.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "19.6",
+            "value": 19.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "30.8%",
+            "value": 0.308
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "73.6%",
+            "value": 0.736
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "7.1%",
+            "value": 0.071
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "6.4%",
+            "value": 0.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "10.0%",
+            "value": 0.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "15.8%",
+            "value": 0.158
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "20.8%",
+            "value": 0.20800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SEMO": {
+            "raw": "25.7%",
+            "value": 0.257
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.481",
+            "value": 0.481
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "0.458",
+            "value": 0.458
+          }
+        }
+      ]
+    },
+    "Lindenwood vs SE Missouri St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LNDNWD",
+        "adv",
+        "SEMO"
+      ],
+      "team_headers": [
+        "LNDNWD",
+        "SEMO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "75.4",
+            "value": 75.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "71.3",
+            "value": 71.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.999",
+            "value": 0.999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "1.020",
+            "value": 1.02
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "49.2%",
+            "value": 0.49200000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "49.5%",
+            "value": 0.495
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "67.1%",
+            "value": 0.6709999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "65.9%",
+            "value": 0.659
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "32.9%",
+            "value": 0.32899999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "34.1%",
+            "value": 0.341
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "27.0%",
+            "value": 0.27
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "32.4%",
+            "value": 0.324
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "49.4%",
+            "value": 0.494
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "49.1%",
+            "value": 0.491
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "32.5%",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "33.5%",
+            "value": 0.335
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "68.2%",
+            "value": 0.682
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SEMO": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "40.2",
+            "value": 40.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SEMO": {
+            "raw": "35.1",
+            "value": 35.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "19.4",
+            "value": 19.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "18.5",
+            "value": 18.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "26.4%",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "71.4%",
+            "value": 0.7140000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "9.6%",
+            "value": 0.096
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "8.8%",
+            "value": 0.08800000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "20.9%",
+            "value": 0.209
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SEMO": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "LNDNWD": {
+            "raw": "0.479",
+            "value": 0.479
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SEMO": {
+            "raw": "0.450",
+            "value": 0.45
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_lndnwd_vs_semo.off_efficiency.lndnwd": 0.99,
+    "matchup_menu_lndnwd_vs_semo.off_efficiency.semo": 1.036,
+    "matchup_menu_lndnwd_vs_semo.effective_fg.lndnwd": 0.483,
+    "matchup_menu_lndnwd_vs_semo.effective_fg.semo": 0.504,
+    "matchup_menu_lndnwd_vs_semo.turnovers_play.lndnwd": 0.158,
+    "matchup_menu_lndnwd_vs_semo.turnovers_play.semo": 0.149,
+    "matchup_menu_lndnwd_vs_semo.off_rebound.lndnwd": 0.308,
+    "matchup_menu_lndnwd_vs_semo.off_rebound.semo": 0.28600000000000003,
+    "matchup_menu_lndnwd_vs_semo.fta_fga.lndnwd": 0.381,
+    "matchup_menu_lndnwd_vs_semo.fta_fga.semo": 0.394,
+    "matchup_menu_lndnwd_vs_semo.points_game.lndnwd": 74.7,
+    "matchup_menu_lndnwd_vs_semo.points_game.semo": 73.9,
+    "matchup_menu_lndnwd_vs_semo.avg_score_margin.lndnwd": -0.6,
+    "matchup_menu_lndnwd_vs_semo.avg_score_margin.semo": 1.1,
+    "key_offensive_stats.off_efficiency.lndnwd": 0.99,
+    "key_offensive_stats.off_efficiency.semo": 1.036,
+    "key_offensive_stats.effective_fg.lndnwd": 0.483,
+    "key_offensive_stats.effective_fg.semo": 0.504,
+    "key_offensive_stats.turnovers_play.lndnwd": 0.158,
+    "key_offensive_stats.turnovers_play.semo": 0.149,
+    "key_offensive_stats.off_rebound.lndnwd": 0.308,
+    "key_offensive_stats.off_rebound.semo": 0.28600000000000003,
+    "key_offensive_stats.fta_fga.lndnwd": 0.381,
+    "key_offensive_stats.fta_fga.semo": 0.394,
+    "key_offensive_stats.points_game.lndnwd": 74.7,
+    "key_offensive_stats.points_game.semo": 73.9,
+    "key_offensive_stats.avg_score_margin.lndnwd": -0.6,
+    "key_offensive_stats.avg_score_margin.semo": 1.1,
+    "key_defensive_stats.def_efficiency.lndnwd": 0.999,
+    "key_defensive_stats.def_efficiency.semo": 1.02,
+    "key_defensive_stats.opp_effective_fg.lndnwd": 0.49200000000000005,
+    "key_defensive_stats.opp_effective_fg.semo": 0.495,
+    "key_defensive_stats.opp_turnovers_play.lndnwd": 0.16,
+    "key_defensive_stats.opp_turnovers_play.semo": 0.162,
+    "key_defensive_stats.def_rebound.lndnwd": 0.7140000000000001,
+    "key_defensive_stats.def_rebound.semo": 0.736,
+    "key_defensive_stats.opp_fta_fga.lndnwd": 0.377,
+    "key_defensive_stats.opp_fta_fga.semo": 0.475,
+    "key_defensive_stats.opp_points_game.lndnwd": 75.3,
+    "key_defensive_stats.opp_points_game.semo": 72.7,
+    "key_defensive_stats.block.lndnwd": 0.071,
+    "key_defensive_stats.block.semo": 0.064,
+    "key_defensive_stats.personal_fouls_play.lndnwd": 0.20800000000000002,
+    "key_defensive_stats.personal_fouls_play.semo": 0.257,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.possessions_gm.lndnwd": 75.4,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.possessions_gm.semo": 71.3,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.off_efficiency.lndnwd": 0.99,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.off_efficiency.semo": 1.036,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.effective_fg.lndnwd": 0.483,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.effective_fg.semo": 0.504,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.two_point_rate.lndnwd": 0.69,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.two_point_rate.semo": 0.639,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.three_point_rate.lndnwd": 0.31,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.three_point_rate.semo": 0.361,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.fta_play.lndnwd": 0.27,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.fta_play.semo": 0.28300000000000003,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.two_point.lndnwd": 0.501,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.two_point.semo": 0.523,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.three_point.lndnwd": 0.29600000000000004,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.three_point.semo": 0.313,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.free_throw.lndnwd": 0.675,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.free_throw.semo": 0.6890000000000001,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.points_2_pters.lndnwd": 42.2,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.points_2_pters.semo": 38.6,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.points_3_pters.lndnwd": 16.8,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.points_3_pters.semo": 19.6,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.off_rebound.lndnwd": 0.308,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.off_rebound.semo": 0.28600000000000003,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.def_rebound.lndnwd": 0.7140000000000001,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.def_rebound.semo": 0.736,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.block.lndnwd": 0.071,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.block.semo": 0.064,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.steals_play.lndnwd": 0.1,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.steals_play.semo": 0.08,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.turnovers_play.lndnwd": 0.158,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.turnovers_play.semo": 0.149,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.personal_fouls_play.lndnwd": 0.20800000000000002,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.personal_fouls_play.semo": 0.257,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.assists_fgm.lndnwd": 0.481,
+    "lindenwood_vs_se_missouri_st_offensive_efficiency.assists_fgm.semo": 0.458,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.possessions_gm.lndnwd": 75.4,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.possessions_gm.semo": 71.3,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.def_efficiency.lndnwd": 0.999,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.def_efficiency.semo": 1.02,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_effective_fg.lndnwd": 0.49200000000000005,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_effective_fg.semo": 0.495,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_two_point_rate.lndnwd": 0.6709999999999999,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_two_point_rate.semo": 0.659,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_three_point_rate.lndnwd": 0.32899999999999996,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_three_point_rate.semo": 0.341,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_fta_play.lndnwd": 0.27,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_fta_play.semo": 0.324,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_two_point.lndnwd": 0.494,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_two_point.semo": 0.491,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_three_point.lndnwd": 0.325,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_three_point.semo": 0.335,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_free_throw.lndnwd": 0.682,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_free_throw.semo": 0.7440000000000001,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_points_2_pters.lndnwd": 40.2,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_points_2_pters.semo": 35.1,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_points_3_pters.lndnwd": 19.4,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_points_3_pters.semo": 18.5,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_off_rebound.lndnwd": 0.28600000000000003,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_off_rebound.semo": 0.264,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_def_rebound.lndnwd": 0.6920000000000001,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_def_rebound.semo": 0.7140000000000001,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_block.lndnwd": 0.064,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_block.semo": 0.059000000000000004,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_steals_play.lndnwd": 0.096,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_steals_play.semo": 0.08800000000000001,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_turnovers_play.lndnwd": 0.16,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_turnovers_play.semo": 0.162,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_personal_fouls_play.lndnwd": 0.209,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_personal_fouls_play.semo": 0.228,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_assists_fgm.lndnwd": 0.479,
+    "lindenwood_vs_se_missouri_st_defensive_efficiency.opp_assists_fgm.semo": 0.45
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "lions-redhawks-2026-03-05",
+  "matchup_title": "#262 Lindenwood vs. #221 SE Missouri St",
+  "teams": {
+    "away": "#262 Lindenwood",
+    "home": "#221 SE Missouri St",
+    "neutral_site": true
+  },
+  "time_local": "9:30 PM",
+  "location": "Ford Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-redhawks-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-redhawks-2026-03-05/efficiency"
+  }
+}

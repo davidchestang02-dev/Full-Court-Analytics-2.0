@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-tigers-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:08.388331+00:00",
+  "tables": {
+    "Matchup Menu: PV @ TXSO": {
+      "headers": [
+        "Stat",
+        "PV",
+        "adv",
+        "TXSO"
+      ],
+      "team_headers": [
+        "PV",
+        "TXSO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "PV": {
+            "raw": "1.011",
+            "value": 1.011
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "1.016",
+            "value": 1.016
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "PV": {
+            "raw": "47.4%",
+            "value": 0.474
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "50.8%",
+            "value": 0.508
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "16.5%",
+            "value": 0.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "PV": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "26.6%",
+            "value": 0.266
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "PV": {
+            "raw": "0.440",
+            "value": 0.44
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "0.382",
+            "value": 0.382
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "PV": {
+            "raw": "76.8",
+            "value": 76.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "PV": {
+            "raw": "-5.2",
+            "value": -5.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "-5.7",
+            "value": -5.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "PV",
+        "adv",
+        "TXSO"
+      ],
+      "team_headers": [
+        "PV",
+        "TXSO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "PV": {
+            "raw": "1.011",
+            "value": 1.011
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "1.016",
+            "value": 1.016
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "PV": {
+            "raw": "47.4%",
+            "value": 0.474
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "50.8%",
+            "value": 0.508
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "16.5%",
+            "value": 0.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "PV": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "26.6%",
+            "value": 0.266
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "PV": {
+            "raw": "0.440",
+            "value": 0.44
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "0.382",
+            "value": 0.382
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "PV": {
+            "raw": "76.8",
+            "value": 76.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "74.5",
+            "value": 74.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "PV": {
+            "raw": "-5.2",
+            "value": -5.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "-5.7",
+            "value": -5.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "PV",
+        "adv",
+        "TXSO"
+      ],
+      "team_headers": [
+        "PV",
+        "TXSO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "PV": {
+            "raw": "1.080",
+            "value": 1.08
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "1.093",
+            "value": 1.093
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "PV": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "52.4%",
+            "value": 0.524
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "16.8%",
+            "value": 0.168
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "PV": {
+            "raw": "65.9%",
+            "value": 0.659
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "PV": {
+            "raw": "0.448",
+            "value": 0.448
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "0.441",
+            "value": 0.441
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "PV": {
+            "raw": "82.0",
+            "value": 82.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "80.2",
+            "value": 80.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "PV": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TXSO": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "23.9%",
+            "value": 0.239
+          }
+        }
+      ]
+    },
+    "Prairie View vs Texas So Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "PV",
+        "adv",
+        "TXSO"
+      ],
+      "team_headers": [
+        "PV",
+        "TXSO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "PV": {
+            "raw": "75.9",
+            "value": 75.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "73.3",
+            "value": 73.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "PV": {
+            "raw": "1.011",
+            "value": 1.011
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "1.016",
+            "value": 1.016
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "PV": {
+            "raw": "47.4%",
+            "value": 0.474
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "50.8%",
+            "value": 0.508
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "PV": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "66.8%",
+            "value": 0.6679999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "PV": {
+            "raw": "30.8%",
+            "value": 0.308
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "33.2%",
+            "value": 0.332
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "31.3%",
+            "value": 0.313
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "26.9%",
+            "value": 0.26899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "PV": {
+            "raw": "47.1%",
+            "value": 0.47100000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "50.9%",
+            "value": 0.509
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "PV": {
+            "raw": "31.9%",
+            "value": 0.319
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "33.8%",
+            "value": 0.33799999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "PV": {
+            "raw": "76.1%",
+            "value": 0.7609999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "72.0%",
+            "value": 0.72
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "PV": {
+            "raw": "39.1",
+            "value": 39.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "39.2",
+            "value": 39.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "PV": {
+            "raw": "17.7",
+            "value": 17.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "19.4",
+            "value": 19.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "PV": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "26.6%",
+            "value": 0.266
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "PV": {
+            "raw": "65.9%",
+            "value": 0.659
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "PV": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TXSO": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "8.6%",
+            "value": 0.086
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "16.5%",
+            "value": 0.165
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "23.9%",
+            "value": 0.239
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "PV": {
+            "raw": "0.431",
+            "value": 0.431
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "0.425",
+            "value": 0.425
+          }
+        }
+      ]
+    },
+    "Prairie View vs Texas So Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "PV",
+        "adv",
+        "TXSO"
+      ],
+      "team_headers": [
+        "PV",
+        "TXSO"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "PV": {
+            "raw": "75.9",
+            "value": 75.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "73.3",
+            "value": 73.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "PV": {
+            "raw": "1.080",
+            "value": 1.08
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "1.093",
+            "value": 1.093
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "PV": {
+            "raw": "52.5%",
+            "value": 0.525
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "52.4%",
+            "value": 0.524
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "PV": {
+            "raw": "66.1%",
+            "value": 0.6609999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TXSO": {
+            "raw": "57.1%",
+            "value": 0.5710000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "PV": {
+            "raw": "33.9%",
+            "value": 0.33899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TXSO": {
+            "raw": "42.9%",
+            "value": 0.429
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "30.6%",
+            "value": 0.306
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "PV": {
+            "raw": "51.5%",
+            "value": 0.515
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "54.2%",
+            "value": 0.542
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "PV": {
+            "raw": "36.3%",
+            "value": 0.363
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "33.3%",
+            "value": 0.33299999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "PV": {
+            "raw": "73.7%",
+            "value": 0.737
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "PV": {
+            "raw": "40.5",
+            "value": 40.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "36.5",
+            "value": 36.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "PV": {
+            "raw": "21.9",
+            "value": 21.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "25.3",
+            "value": 25.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "PV": {
+            "raw": "34.1%",
+            "value": 0.341
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "PV": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "73.4%",
+            "value": 0.7340000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "PV": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TXSO": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "16.8%",
+            "value": 0.168
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "PV": {
+            "raw": "25.0%",
+            "value": 0.25
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TXSO": {
+            "raw": "21.8%",
+            "value": 0.218
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "PV": {
+            "raw": "0.487",
+            "value": 0.487
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TXSO": {
+            "raw": "0.538",
+            "value": 0.538
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_pv_txso.off_efficiency.pv": 1.011,
+    "matchup_menu_pv_txso.off_efficiency.txso": 1.016,
+    "matchup_menu_pv_txso.effective_fg.pv": 0.474,
+    "matchup_menu_pv_txso.effective_fg.txso": 0.508,
+    "matchup_menu_pv_txso.turnovers_play.pv": 0.14400000000000002,
+    "matchup_menu_pv_txso.turnovers_play.txso": 0.165,
+    "matchup_menu_pv_txso.off_rebound.pv": 0.24600000000000002,
+    "matchup_menu_pv_txso.off_rebound.txso": 0.266,
+    "matchup_menu_pv_txso.fta_fga.pv": 0.44,
+    "matchup_menu_pv_txso.fta_fga.txso": 0.382,
+    "matchup_menu_pv_txso.points_game.pv": 76.8,
+    "matchup_menu_pv_txso.points_game.txso": 74.5,
+    "matchup_menu_pv_txso.avg_score_margin.pv": -5.2,
+    "matchup_menu_pv_txso.avg_score_margin.txso": -5.7,
+    "key_offensive_stats.off_efficiency.pv": 1.011,
+    "key_offensive_stats.off_efficiency.txso": 1.016,
+    "key_offensive_stats.effective_fg.pv": 0.474,
+    "key_offensive_stats.effective_fg.txso": 0.508,
+    "key_offensive_stats.turnovers_play.pv": 0.14400000000000002,
+    "key_offensive_stats.turnovers_play.txso": 0.165,
+    "key_offensive_stats.off_rebound.pv": 0.24600000000000002,
+    "key_offensive_stats.off_rebound.txso": 0.266,
+    "key_offensive_stats.fta_fga.pv": 0.44,
+    "key_offensive_stats.fta_fga.txso": 0.382,
+    "key_offensive_stats.points_game.pv": 76.8,
+    "key_offensive_stats.points_game.txso": 74.5,
+    "key_offensive_stats.avg_score_margin.pv": -5.2,
+    "key_offensive_stats.avg_score_margin.txso": -5.7,
+    "key_defensive_stats.def_efficiency.pv": 1.08,
+    "key_defensive_stats.def_efficiency.txso": 1.093,
+    "key_defensive_stats.opp_effective_fg.pv": 0.525,
+    "key_defensive_stats.opp_effective_fg.txso": 0.524,
+    "key_defensive_stats.opp_turnovers_play.pv": 0.168,
+    "key_defensive_stats.opp_turnovers_play.txso": 0.14300000000000002,
+    "key_defensive_stats.def_rebound.pv": 0.659,
+    "key_defensive_stats.def_rebound.txso": 0.7040000000000001,
+    "key_defensive_stats.opp_fta_fga.pv": 0.448,
+    "key_defensive_stats.opp_fta_fga.txso": 0.441,
+    "key_defensive_stats.opp_points_game.pv": 82.0,
+    "key_defensive_stats.opp_points_game.txso": 80.2,
+    "key_defensive_stats.block.pv": 0.081,
+    "key_defensive_stats.block.txso": 0.052000000000000005,
+    "key_defensive_stats.personal_fouls_play.pv": 0.23,
+    "key_defensive_stats.personal_fouls_play.txso": 0.239,
+    "prairie_view_vs_texas_so_offensive_efficiency.possessions_gm.pv": 75.9,
+    "prairie_view_vs_texas_so_offensive_efficiency.possessions_gm.txso": 73.3,
+    "prairie_view_vs_texas_so_offensive_efficiency.off_efficiency.pv": 1.011,
+    "prairie_view_vs_texas_so_offensive_efficiency.off_efficiency.txso": 1.016,
+    "prairie_view_vs_texas_so_offensive_efficiency.effective_fg.pv": 0.474,
+    "prairie_view_vs_texas_so_offensive_efficiency.effective_fg.txso": 0.508,
+    "prairie_view_vs_texas_so_offensive_efficiency.two_point_rate.pv": 0.6920000000000001,
+    "prairie_view_vs_texas_so_offensive_efficiency.two_point_rate.txso": 0.6679999999999999,
+    "prairie_view_vs_texas_so_offensive_efficiency.three_point_rate.pv": 0.308,
+    "prairie_view_vs_texas_so_offensive_efficiency.three_point_rate.txso": 0.332,
+    "prairie_view_vs_texas_so_offensive_efficiency.fta_play.pv": 0.313,
+    "prairie_view_vs_texas_so_offensive_efficiency.fta_play.txso": 0.26899999999999996,
+    "prairie_view_vs_texas_so_offensive_efficiency.two_point.pv": 0.47100000000000003,
+    "prairie_view_vs_texas_so_offensive_efficiency.two_point.txso": 0.509,
+    "prairie_view_vs_texas_so_offensive_efficiency.three_point.pv": 0.319,
+    "prairie_view_vs_texas_so_offensive_efficiency.three_point.txso": 0.33799999999999997,
+    "prairie_view_vs_texas_so_offensive_efficiency.free_throw.pv": 0.7609999999999999,
+    "prairie_view_vs_texas_so_offensive_efficiency.free_throw.txso": 0.72,
+    "prairie_view_vs_texas_so_offensive_efficiency.points_2_pters.pv": 39.1,
+    "prairie_view_vs_texas_so_offensive_efficiency.points_2_pters.txso": 39.2,
+    "prairie_view_vs_texas_so_offensive_efficiency.points_3_pters.pv": 17.7,
+    "prairie_view_vs_texas_so_offensive_efficiency.points_3_pters.txso": 19.4,
+    "prairie_view_vs_texas_so_offensive_efficiency.off_rebound.pv": 0.24600000000000002,
+    "prairie_view_vs_texas_so_offensive_efficiency.off_rebound.txso": 0.266,
+    "prairie_view_vs_texas_so_offensive_efficiency.def_rebound.pv": 0.659,
+    "prairie_view_vs_texas_so_offensive_efficiency.def_rebound.txso": 0.7040000000000001,
+    "prairie_view_vs_texas_so_offensive_efficiency.block.pv": 0.081,
+    "prairie_view_vs_texas_so_offensive_efficiency.block.txso": 0.052000000000000005,
+    "prairie_view_vs_texas_so_offensive_efficiency.steals_play.pv": 0.086,
+    "prairie_view_vs_texas_so_offensive_efficiency.steals_play.txso": 0.08,
+    "prairie_view_vs_texas_so_offensive_efficiency.turnovers_play.pv": 0.14400000000000002,
+    "prairie_view_vs_texas_so_offensive_efficiency.turnovers_play.txso": 0.165,
+    "prairie_view_vs_texas_so_offensive_efficiency.personal_fouls_play.pv": 0.23,
+    "prairie_view_vs_texas_so_offensive_efficiency.personal_fouls_play.txso": 0.239,
+    "prairie_view_vs_texas_so_offensive_efficiency.assists_fgm.pv": 0.431,
+    "prairie_view_vs_texas_so_offensive_efficiency.assists_fgm.txso": 0.425,
+    "prairie_view_vs_texas_so_defensive_efficiency.possessions_gm.pv": 75.9,
+    "prairie_view_vs_texas_so_defensive_efficiency.possessions_gm.txso": 73.3,
+    "prairie_view_vs_texas_so_defensive_efficiency.def_efficiency.pv": 1.08,
+    "prairie_view_vs_texas_so_defensive_efficiency.def_efficiency.txso": 1.093,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_effective_fg.pv": 0.525,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_effective_fg.txso": 0.524,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_two_point_rate.pv": 0.6609999999999999,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_two_point_rate.txso": 0.5710000000000001,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_three_point_rate.pv": 0.33899999999999997,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_three_point_rate.txso": 0.429,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_fta_play.pv": 0.306,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_fta_play.txso": 0.313,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_two_point.pv": 0.515,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_two_point.txso": 0.542,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_three_point.pv": 0.363,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_three_point.txso": 0.33299999999999996,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_free_throw.pv": 0.737,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_free_throw.txso": 0.71,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_points_2_pters.pv": 40.5,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_points_2_pters.txso": 36.5,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_points_3_pters.pv": 21.9,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_points_3_pters.txso": 25.3,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_off_rebound.pv": 0.341,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_off_rebound.txso": 0.29600000000000004,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_def_rebound.pv": 0.754,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_def_rebound.txso": 0.7340000000000001,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_block.pv": 0.051,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_block.txso": 0.051,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_steals_play.pv": 0.079,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_steals_play.txso": 0.095,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_turnovers_play.pv": 0.168,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_turnovers_play.txso": 0.14300000000000002,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_personal_fouls_play.pv": 0.25,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_personal_fouls_play.txso": 0.218,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_assists_fgm.pv": 0.487,
+    "prairie_view_vs_texas_so_defensive_efficiency.opp_assists_fgm.txso": 0.538
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "panthers-tigers-2026-03-05",
+  "matchup_title": "#322 Prairie View at #312 Texas So",
+  "teams": {
+    "away": "#322 Prairie View",
+    "home": "#312 Texas So",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "H&PE Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-tigers-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-tigers-2026-03-05/efficiency"
+  }
+}

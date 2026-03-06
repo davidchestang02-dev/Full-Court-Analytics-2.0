@@ -1,0 +1,270 @@
+{
+  "sport": "nba",
+  "date": "2026-03-05",
+  "built_at_utc": "2026-03-05T22:31:43.864494+00:00",
+  "model_version": "baseline_v1",
+  "count": 9,
+  "predictions": [
+    {
+      "slug": "pistons-spurs-2026-03-05",
+      "matchup_title": "#2 Detroit at #3 San Antonio",
+      "teams": {
+        "away": "#2 Detroit",
+        "home": "#3 San Antonio",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "sa",
+          "away": "det"
+        },
+        "poss": 103.95,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.0945,
+        "ppp_away": 1.1005,
+        "proj_home": 113.77327500000001,
+        "proj_away": 114.39697500000001,
+        "proj_total": 228.17025,
+        "proj_spread_home": -0.6236999999999995
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "warriors-rockets-2026-03-05",
+      "matchup_title": "#11 Golden State at #6 Houston",
+      "teams": {
+        "away": "#11 Golden State",
+        "home": "#6 Houston",
+        "neutral_site": false
+      },
+      "time_local": "7:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "hou",
+          "away": "gs"
+        },
+        "poss": 102.1,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.121,
+        "ppp_away": 1.1005,
+        "proj_home": 114.4541,
+        "proj_away": 112.36104999999999,
+        "proj_total": 226.81515,
+        "proj_spread_home": 2.093050000000005
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "raptors-timberwolves-2026-03-05",
+      "matchup_title": "#14 Toronto at #9 Minnesota",
+      "teams": {
+        "away": "#14 Toronto",
+        "home": "#9 Minnesota",
+        "neutral_site": false
+      },
+      "time_local": "8:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "min",
+          "away": "tor"
+        },
+        "poss": 103.65,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1139999999999999,
+        "ppp_away": 1.1005,
+        "proj_home": 115.4661,
+        "proj_away": 114.06682500000001,
+        "proj_total": 229.532925,
+        "proj_spread_home": 1.3992749999999887
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "lakers-nuggets-2026-03-05",
+      "matchup_title": "#15 LA Lakers at #8 Denver",
+      "teams": {
+        "away": "#15 LA Lakers",
+        "home": "#8 Denver",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "den",
+          "away": "lal"
+        },
+        "poss": 102.05000000000001,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1545,
+        "ppp_away": 1.1364999999999998,
+        "proj_home": 117.81672500000002,
+        "proj_away": 115.97982499999999,
+        "proj_total": 233.79655000000002,
+        "proj_spread_home": 1.8369000000000284
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "mavericks-magic-2026-03-05",
+      "matchup_title": "#23 Dallas at #16 Orlando",
+      "teams": {
+        "away": "#23 Dallas",
+        "home": "#16 Orlando",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "orl",
+          "away": "dal"
+        },
+        "poss": 104.75,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1095000000000002,
+        "ppp_away": 1.088,
+        "proj_home": 116.22012500000001,
+        "proj_away": 113.968,
+        "proj_total": 230.188125,
+        "proj_spread_home": 2.2521250000000066
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "bulls-suns-2026-03-05",
+      "matchup_title": "#24 Chicago at #17 Phoenix",
+      "teams": {
+        "away": "#24 Chicago",
+        "home": "#17 Phoenix",
+        "neutral_site": false
+      },
+      "time_local": "9:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "pho",
+          "away": "chi"
+        },
+        "poss": 103.25,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1235,
+        "ppp_away": 1.0985,
+        "proj_home": 116.001375,
+        "proj_away": 113.420125,
+        "proj_total": 229.42149999999998,
+        "proj_spread_home": 2.581249999999997
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "nets-heat-2026-03-05",
+      "matchup_title": "#29 Brooklyn at #10 Miami",
+      "teams": {
+        "away": "#29 Brooklyn",
+        "home": "#10 Miami",
+        "neutral_site": false
+      },
+      "time_local": "7:30 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "mia",
+          "away": "bk"
+        },
+        "poss": 103.95,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1335000000000002,
+        "ppp_away": 1.0750000000000002,
+        "proj_home": 117.82732500000002,
+        "proj_away": 111.74625000000002,
+        "proj_total": 229.57357500000003,
+        "proj_spread_home": 6.0810749999999985
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "pelicans-kings-2026-03-05",
+      "matchup_title": "#25 New Orleans at #28 Sacramento",
+      "teams": {
+        "away": "#25 New Orleans",
+        "home": "#28 Sacramento",
+        "neutral_site": false
+      },
+      "time_local": "10:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "sac",
+          "away": "no"
+        },
+        "poss": 104.05000000000001,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.1065,
+        "ppp_away": 1.134,
+        "proj_home": 115.13132500000002,
+        "proj_away": 117.9927,
+        "proj_total": 233.12402500000002,
+        "proj_spread_home": -2.861374999999981
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    },
+    {
+      "slug": "jazz-wizards-2026-03-05",
+      "matchup_title": "#27 Utah at #30 Washington",
+      "teams": {
+        "away": "#27 Utah",
+        "home": "#30 Washington",
+        "neutral_site": false
+      },
+      "time_local": "7:00 PM",
+      "proj": {
+        "ok": true,
+        "tokens": {
+          "home": "was",
+          "away": "uta"
+        },
+        "poss": 105.6,
+        "poss_source": "matchup_possessions_gm",
+        "ppp_home": 1.125,
+        "ppp_away": 1.1395,
+        "proj_home": 118.8,
+        "proj_away": 120.3312,
+        "proj_total": 239.13119999999998,
+        "proj_spread_home": -1.5311999999999983
+      },
+      "market": {
+        "has_market": false
+      },
+      "odds_event_id": null
+    }
+  ]
+}

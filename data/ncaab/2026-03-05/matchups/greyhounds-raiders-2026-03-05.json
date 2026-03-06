@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/greyhounds-raiders-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:00.719353+00:00",
+  "tables": {
+    "Matchup Menu: L-MD @ COLG": {
+      "headers": [
+        "Stat",
+        "L-MD",
+        "adv",
+        "COLG"
+      ],
+      "team_headers": [
+        "L-MD",
+        "COLG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "1.032",
+            "value": 1.032
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "1.072",
+            "value": 1.072
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "25.7%",
+            "value": 0.257
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "0.299",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "0.295",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "73.6",
+            "value": 73.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "75.3",
+            "value": 75.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "-4.6",
+            "value": -4.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "-0.9",
+            "value": -0.9
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "L-MD",
+        "adv",
+        "COLG"
+      ],
+      "team_headers": [
+        "L-MD",
+        "COLG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "1.032",
+            "value": 1.032
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "1.072",
+            "value": 1.072
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "25.7%",
+            "value": 0.257
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "0.299",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "0.295",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "73.6",
+            "value": 73.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "75.3",
+            "value": 75.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "-4.6",
+            "value": -4.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "-0.9",
+            "value": -0.9
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "L-MD",
+        "adv",
+        "COLG"
+      ],
+      "team_headers": [
+        "L-MD",
+        "COLG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "1.096",
+            "value": 1.096
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "1.084",
+            "value": 1.084
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "54.2%",
+            "value": 0.542
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "13.4%",
+            "value": 0.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "74.0%",
+            "value": 0.74
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "0.323",
+            "value": 0.323
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "0.336",
+            "value": 0.336
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "78.1",
+            "value": 78.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "76.2",
+            "value": 76.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "21.7%",
+            "value": 0.217
+          }
+        }
+      ]
+    },
+    "Loyola MD vs Colgate Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "L-MD",
+        "adv",
+        "COLG"
+      ],
+      "team_headers": [
+        "L-MD",
+        "COLG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "71.3",
+            "value": 71.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "1.032",
+            "value": 1.032
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "1.072",
+            "value": 1.072
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "COLG": {
+            "raw": "65.2%",
+            "value": 0.652
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "47.3%",
+            "value": 0.473
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "COLG": {
+            "raw": "34.8%",
+            "value": 0.348
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "22.6%",
+            "value": 0.226
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "51.7%",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "52.5%",
+            "value": 0.525
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "32.4%",
+            "value": 0.324
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "COLG": {
+            "raw": "36.0%",
+            "value": 0.36
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "71.7%",
+            "value": 0.7170000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "32.9",
+            "value": 32.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "COLG": {
+            "raw": "40.3",
+            "value": 40.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "27.7",
+            "value": 27.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "22.1",
+            "value": 22.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "25.7%",
+            "value": 0.257
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "74.0%",
+            "value": 0.74
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "7.8%",
+            "value": 0.078
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "13.2%",
+            "value": 0.132
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "21.7%",
+            "value": 0.217
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "0.491",
+            "value": 0.491
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "0.514",
+            "value": 0.514
+          }
+        }
+      ]
+    },
+    "Loyola MD vs Colgate Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "L-MD",
+        "adv",
+        "COLG"
+      ],
+      "team_headers": [
+        "L-MD",
+        "COLG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "71.3",
+            "value": 71.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "70.3",
+            "value": 70.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "1.096",
+            "value": 1.096
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "1.084",
+            "value": 1.084
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "54.2%",
+            "value": 0.542
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "60.4%",
+            "value": 0.604
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "58.2%",
+            "value": 0.5820000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "39.6%",
+            "value": 0.396
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "41.8%",
+            "value": 0.418
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "25.2%",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "57.8%",
+            "value": 0.578
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "51.9%",
+            "value": 0.519
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "32.5%",
+            "value": 0.325
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "34.5%",
+            "value": 0.345
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "72.8%",
+            "value": 0.728
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "72.4%",
+            "value": 0.7240000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "41.3",
+            "value": 41.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "35.9",
+            "value": 35.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "22.9",
+            "value": 22.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "25.8",
+            "value": 25.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "26.0%",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "COLG": {
+            "raw": "28.1%",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "74.3%",
+            "value": 0.743
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "75.7%",
+            "value": 0.757
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "4.5%",
+            "value": 0.045
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "4.2%",
+            "value": 0.042
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "7.8%",
+            "value": 0.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "13.4%",
+            "value": 0.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "20.1%",
+            "value": 0.201
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "21.2%",
+            "value": 0.212
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "L-MD": {
+            "raw": "0.554",
+            "value": 0.554
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "COLG": {
+            "raw": "0.552",
+            "value": 0.552
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_l_md_colg.off_efficiency.l_md": 1.032,
+    "matchup_menu_l_md_colg.off_efficiency.colg": 1.072,
+    "matchup_menu_l_md_colg.effective_fg.l_md": 0.503,
+    "matchup_menu_l_md_colg.effective_fg.colg": 0.53,
+    "matchup_menu_l_md_colg.turnovers_play.l_md": 0.13699999999999998,
+    "matchup_menu_l_md_colg.turnovers_play.colg": 0.132,
+    "matchup_menu_l_md_colg.off_rebound.l_md": 0.257,
+    "matchup_menu_l_md_colg.off_rebound.colg": 0.243,
+    "matchup_menu_l_md_colg.fta_fga.l_md": 0.299,
+    "matchup_menu_l_md_colg.fta_fga.colg": 0.295,
+    "matchup_menu_l_md_colg.points_game.l_md": 73.6,
+    "matchup_menu_l_md_colg.points_game.colg": 75.3,
+    "matchup_menu_l_md_colg.avg_score_margin.l_md": -4.6,
+    "matchup_menu_l_md_colg.avg_score_margin.colg": -0.9,
+    "key_offensive_stats.off_efficiency.l_md": 1.032,
+    "key_offensive_stats.off_efficiency.colg": 1.072,
+    "key_offensive_stats.effective_fg.l_md": 0.503,
+    "key_offensive_stats.effective_fg.colg": 0.53,
+    "key_offensive_stats.turnovers_play.l_md": 0.13699999999999998,
+    "key_offensive_stats.turnovers_play.colg": 0.132,
+    "key_offensive_stats.off_rebound.l_md": 0.257,
+    "key_offensive_stats.off_rebound.colg": 0.243,
+    "key_offensive_stats.fta_fga.l_md": 0.299,
+    "key_offensive_stats.fta_fga.colg": 0.295,
+    "key_offensive_stats.points_game.l_md": 73.6,
+    "key_offensive_stats.points_game.colg": 75.3,
+    "key_offensive_stats.avg_score_margin.l_md": -4.6,
+    "key_offensive_stats.avg_score_margin.colg": -0.9,
+    "key_defensive_stats.def_efficiency.l_md": 1.096,
+    "key_defensive_stats.def_efficiency.colg": 1.084,
+    "key_defensive_stats.opp_effective_fg.l_md": 0.542,
+    "key_defensive_stats.opp_effective_fg.colg": 0.519,
+    "key_defensive_stats.opp_turnovers_play.l_md": 0.135,
+    "key_defensive_stats.opp_turnovers_play.colg": 0.134,
+    "key_defensive_stats.def_rebound.l_md": 0.74,
+    "key_defensive_stats.def_rebound.colg": 0.7190000000000001,
+    "key_defensive_stats.opp_fta_fga.l_md": 0.323,
+    "key_defensive_stats.opp_fta_fga.colg": 0.336,
+    "key_defensive_stats.opp_points_game.l_md": 78.1,
+    "key_defensive_stats.opp_points_game.colg": 76.2,
+    "key_defensive_stats.block.l_md": 0.059000000000000004,
+    "key_defensive_stats.block.colg": 0.051,
+    "key_defensive_stats.personal_fouls_play.l_md": 0.213,
+    "key_defensive_stats.personal_fouls_play.colg": 0.217,
+    "loyola_md_vs_colgate_offensive_efficiency.possessions_gm.l_md": 71.3,
+    "loyola_md_vs_colgate_offensive_efficiency.possessions_gm.colg": 70.3,
+    "loyola_md_vs_colgate_offensive_efficiency.off_efficiency.l_md": 1.032,
+    "loyola_md_vs_colgate_offensive_efficiency.off_efficiency.colg": 1.072,
+    "loyola_md_vs_colgate_offensive_efficiency.effective_fg.l_md": 0.503,
+    "loyola_md_vs_colgate_offensive_efficiency.effective_fg.colg": 0.53,
+    "loyola_md_vs_colgate_offensive_efficiency.two_point_rate.l_md": 0.527,
+    "loyola_md_vs_colgate_offensive_efficiency.two_point_rate.colg": 0.652,
+    "loyola_md_vs_colgate_offensive_efficiency.three_point_rate.l_md": 0.473,
+    "loyola_md_vs_colgate_offensive_efficiency.three_point_rate.colg": 0.348,
+    "loyola_md_vs_colgate_offensive_efficiency.fta_play.l_md": 0.226,
+    "loyola_md_vs_colgate_offensive_efficiency.fta_play.colg": 0.223,
+    "loyola_md_vs_colgate_offensive_efficiency.two_point.l_md": 0.517,
+    "loyola_md_vs_colgate_offensive_efficiency.two_point.colg": 0.525,
+    "loyola_md_vs_colgate_offensive_efficiency.three_point.l_md": 0.324,
+    "loyola_md_vs_colgate_offensive_efficiency.three_point.colg": 0.36,
+    "loyola_md_vs_colgate_offensive_efficiency.free_throw.l_md": 0.7170000000000001,
+    "loyola_md_vs_colgate_offensive_efficiency.free_throw.colg": 0.7440000000000001,
+    "loyola_md_vs_colgate_offensive_efficiency.points_2_pters.l_md": 32.9,
+    "loyola_md_vs_colgate_offensive_efficiency.points_2_pters.colg": 40.3,
+    "loyola_md_vs_colgate_offensive_efficiency.points_3_pters.l_md": 27.7,
+    "loyola_md_vs_colgate_offensive_efficiency.points_3_pters.colg": 22.1,
+    "loyola_md_vs_colgate_offensive_efficiency.off_rebound.l_md": 0.257,
+    "loyola_md_vs_colgate_offensive_efficiency.off_rebound.colg": 0.243,
+    "loyola_md_vs_colgate_offensive_efficiency.def_rebound.l_md": 0.74,
+    "loyola_md_vs_colgate_offensive_efficiency.def_rebound.colg": 0.7190000000000001,
+    "loyola_md_vs_colgate_offensive_efficiency.block.l_md": 0.059000000000000004,
+    "loyola_md_vs_colgate_offensive_efficiency.block.colg": 0.051,
+    "loyola_md_vs_colgate_offensive_efficiency.steals_play.l_md": 0.079,
+    "loyola_md_vs_colgate_offensive_efficiency.steals_play.colg": 0.078,
+    "loyola_md_vs_colgate_offensive_efficiency.turnovers_play.l_md": 0.13699999999999998,
+    "loyola_md_vs_colgate_offensive_efficiency.turnovers_play.colg": 0.132,
+    "loyola_md_vs_colgate_offensive_efficiency.personal_fouls_play.l_md": 0.213,
+    "loyola_md_vs_colgate_offensive_efficiency.personal_fouls_play.colg": 0.217,
+    "loyola_md_vs_colgate_offensive_efficiency.assists_fgm.l_md": 0.491,
+    "loyola_md_vs_colgate_offensive_efficiency.assists_fgm.colg": 0.514,
+    "loyola_md_vs_colgate_defensive_efficiency.possessions_gm.l_md": 71.3,
+    "loyola_md_vs_colgate_defensive_efficiency.possessions_gm.colg": 70.3,
+    "loyola_md_vs_colgate_defensive_efficiency.def_efficiency.l_md": 1.096,
+    "loyola_md_vs_colgate_defensive_efficiency.def_efficiency.colg": 1.084,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_effective_fg.l_md": 0.542,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_effective_fg.colg": 0.519,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_two_point_rate.l_md": 0.604,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_two_point_rate.colg": 0.5820000000000001,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_three_point_rate.l_md": 0.396,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_three_point_rate.colg": 0.418,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_fta_play.l_md": 0.242,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_fta_play.colg": 0.252,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_two_point.l_md": 0.578,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_two_point.colg": 0.519,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_three_point.l_md": 0.325,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_three_point.colg": 0.345,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_free_throw.l_md": 0.728,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_free_throw.colg": 0.7240000000000001,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_points_2_pters.l_md": 41.3,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_points_2_pters.colg": 35.9,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_points_3_pters.l_md": 22.9,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_points_3_pters.colg": 25.8,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_off_rebound.l_md": 0.26,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_off_rebound.colg": 0.281,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_def_rebound.l_md": 0.743,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_def_rebound.colg": 0.757,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_block.l_md": 0.045,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_block.colg": 0.042,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_steals_play.l_md": 0.078,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_steals_play.colg": 0.076,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_turnovers_play.l_md": 0.135,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_turnovers_play.colg": 0.134,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_personal_fouls_play.l_md": 0.201,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_personal_fouls_play.colg": 0.212,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_assists_fgm.l_md": 0.554,
+    "loyola_md_vs_colgate_defensive_efficiency.opp_assists_fgm.colg": 0.552
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "greyhounds-raiders-2026-03-05",
+  "matchup_title": "#316 Loyola MD at #223 Colgate",
+  "teams": {
+    "away": "#316 Loyola MD",
+    "home": "#223 Colgate",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Cotterell Court",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/greyhounds-raiders-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/greyhounds-raiders-2026-03-05/efficiency"
+  }
+}

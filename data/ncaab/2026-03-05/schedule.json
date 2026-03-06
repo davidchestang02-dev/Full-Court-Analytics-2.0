@@ -1,0 +1,559 @@
+{
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "scraped_at_utc": "2026-03-05T22:13:17.146493+00:00",
+  "games": [
+    {
+      "title": "#1 Michigan at #25 Iowa",
+      "slug": "wolverines-hawkeyes-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/wolverines-hawkeyes-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Carver-Hawkeye Arena",
+      "teams": {
+        "away": "#1 Michigan",
+        "home": "#25 Iowa",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#57 S Florida at #105 Memphis",
+      "slug": "bulls-tigers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/bulls-tigers-2026-03-05",
+      "time_local": "9:00 PM",
+      "location": "FedExForum",
+      "teams": {
+        "away": "#57 S Florida",
+        "home": "#105 Memphis",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#123 Rutgers at #11 Michigan St",
+      "slug": "scarlet-knights-spartans-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/scarlet-knights-spartans-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Jack Breslin Student Events Center",
+      "teams": {
+        "away": "#123 Rutgers",
+        "home": "#11 Michigan St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#122 S Illinois vs. #193 Drake",
+      "slug": "salukis-bulldogs-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/salukis-bulldogs-2026-03-05",
+      "time_local": "4:30 PM",
+      "location": "Enterprise Center",
+      "teams": {
+        "away": "#122 S Illinois",
+        "home": "#193 Drake",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#200 S Dakota St vs. #117 St Thomas",
+      "slug": "jackrabbits-tommies-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/jackrabbits-tommies-2026-03-05",
+      "time_local": "9:30 PM",
+      "location": "Denny Sanford Premier Center",
+      "teams": {
+        "away": "#200 S Dakota St",
+        "home": "#117 St Thomas",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#212 Louisiana Tech at #106 Liberty",
+      "slug": "bulldogs-flames-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-flames-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Liberty Arena",
+      "teams": {
+        "away": "#212 Louisiana Tech",
+        "home": "#106 Liberty",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#133 W Kentucky at #207 Missouri St",
+      "slug": "hilltoppers-bears-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/hilltoppers-bears-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Great Southern Bank Arena",
+      "teams": {
+        "away": "#133 W Kentucky",
+        "home": "#207 Missouri St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#183 Jacksonville St at #170 New Mexico St",
+      "slug": "gamecocks-aggies-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/gamecocks-aggies-2026-03-05",
+      "time_local": "9:00 PM",
+      "location": "Pan American Center",
+      "teams": {
+        "away": "#183 Jacksonville St",
+        "home": "#170 New Mexico St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#196 Tulane at #160 Temple",
+      "slug": "green-wave-owls-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/green-wave-owls-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "The Liacouras Center",
+      "teams": {
+        "away": "#196 Tulane",
+        "home": "#160 Temple",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#66 Tulsa at #259 E Carolina",
+      "slug": "golden-hurricane-pirates-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-hurricane-pirates-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Williams Arena at Minges Coliseum",
+      "teams": {
+        "away": "#66 Tulsa",
+        "home": "#259 E Carolina",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#161 Middle Tenn at #198 Florida Intl",
+      "slug": "blue-raiders-panthers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/blue-raiders-panthers-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Ocean Bank Convocation Center",
+      "teams": {
+        "away": "#161 Middle Tenn",
+        "home": "#198 Florida Intl",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#131 UCSD at #226 CS Fullerton",
+      "slug": "tritons-titans-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/tritons-titans-2026-03-05",
+      "time_local": "10:00 PM",
+      "location": "Titan Gym",
+      "teams": {
+        "away": "#131 UCSD",
+        "home": "#226 CS Fullerton",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#171 Valparaiso vs. #202 Indiana St",
+      "slug": "beacons-sycamores-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/beacons-sycamores-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Enterprise Center",
+      "teams": {
+        "away": "#171 Valparaiso",
+        "home": "#202 Indiana St",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#258 Cal Poly at #115 UC Irvine",
+      "slug": "mustangs-anteaters-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/mustangs-anteaters-2026-03-05",
+      "time_local": "10:00 PM",
+      "location": "Bren Events Center",
+      "teams": {
+        "away": "#258 Cal Poly",
+        "home": "#115 UC Irvine",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#244 Abl Christian at #138 Cal Baptist",
+      "slug": "wildcats-lancers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/wildcats-lancers-2026-03-05",
+      "time_local": "10:00 PM",
+      "location": "Dale E. and Sarah Ann Fowler Events Center",
+      "teams": {
+        "away": "#244 Abl Christian",
+        "home": "#138 Cal Baptist",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#99 Utah Valley at #275 S Utah",
+      "slug": "wolverines-thunderbirds-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/wolverines-thunderbirds-2026-03-05",
+      "time_local": "8:30 PM",
+      "location": "America First Events Center",
+      "teams": {
+        "away": "#99 Utah Valley",
+        "home": "#275 S Utah",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#178 UT Arlington at #228 Tarleton St",
+      "slug": "mavericks-texans-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/mavericks-texans-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Wisdom Gym",
+      "teams": {
+        "away": "#178 UT Arlington",
+        "home": "#228 Tarleton St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#274 UC Riverside at #116 Hawai'i",
+      "slug": "highlanders-rainbow-warriors-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/highlanders-rainbow-warriors-2026-03-05",
+      "time_local": "11:59 PM",
+      "location": "Bankoh Arena at the Stan Sheriff Center",
+      "teams": {
+        "away": "#274 UC Riverside",
+        "home": "#116 Hawai'i",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#109 Sam Houston at #280 Delaware",
+      "slug": "bearkats-blue-hens-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/bearkats-blue-hens-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Bob Carpenter Center",
+      "teams": {
+        "away": "#109 Sam Houston",
+        "home": "#280 Delaware",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#154 Loyola Mymt vs. #251 San Diego",
+      "slug": "lions-toreros-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-toreros-2026-03-05",
+      "time_local": "11:30 PM",
+      "location": "Orleans Areana",
+      "teams": {
+        "away": "#154 Loyola Mymt",
+        "home": "#251 San Diego",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#146 Kennesaw St at #264 UTEP",
+      "slug": "owls-miners-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/owls-miners-2026-03-05",
+      "time_local": "9:00 PM",
+      "location": "Don Haskins Center",
+      "teams": {
+        "away": "#146 Kennesaw St",
+        "home": "#264 UTEP",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#263 Georgia So vs. #148 Arkansas St",
+      "slug": "eagles-red-wolves-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-red-wolves-2026-03-05",
+      "time_local": "8:30 PM",
+      "location": "Pensacola Bay Center",
+      "teams": {
+        "away": "#263 Georgia So",
+        "home": "#148 Arkansas St",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#197 J Madison vs. #236 Southern Miss",
+      "slug": "dukes-golden-eagles-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/dukes-golden-eagles-2026-03-05",
+      "time_local": "6:00 PM",
+      "location": "Pensacola Bay Center",
+      "teams": {
+        "away": "#197 J Madison",
+        "home": "#236 Southern Miss",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#93 N Iowa vs. #307 Evansville",
+      "slug": "panthers-purple-aces-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-purple-aces-2026-03-05",
+      "time_local": "9:30 PM",
+      "location": "Enterprise Center",
+      "teams": {
+        "away": "#93 N Iowa",
+        "home": "#307 Evansville",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#311 Oral Roberts vs. #127 N Dakota St",
+      "slug": "golden-eagles-bison-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-eagles-bison-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Denny Sanford Premier Center",
+      "teams": {
+        "away": "#311 Oral Roberts",
+        "home": "#127 N Dakota St",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#190 UC Davis at #273 Long Beach St",
+      "slug": "aggies-beach-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/aggies-beach-2026-03-05",
+      "time_local": "10:00 PM",
+      "location": "The Walter Pyramid",
+      "teams": {
+        "away": "#190 UC Davis",
+        "home": "#273 Long Beach St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#262 Lindenwood vs. #221 SE Missouri St",
+      "slug": "lions-redhawks-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-redhawks-2026-03-05",
+      "time_local": "9:30 PM",
+      "location": "Ford Center",
+      "teams": {
+        "away": "#262 Lindenwood",
+        "home": "#221 SE Missouri St",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#333 Bucknell at #144 Navy",
+      "slug": "bison-midshipmen-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-midshipmen-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Alumni Hall",
+      "teams": {
+        "away": "#333 Bucknell",
+        "home": "#144 Navy",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#220 Iona vs. #285 Sacred Heart",
+      "slug": "gaels-pioneers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/gaels-pioneers-2026-03-05",
+      "time_local": "6:00 PM",
+      "location": "Boardwalk Hall",
+      "teams": {
+        "away": "#220 Iona",
+        "home": "#285 Sacred Heart",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#206 Howard at #297 Norfolk St",
+      "slug": "bison-spartans-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-spartans-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Joseph G. Echols Memorial Hall",
+      "teams": {
+        "away": "#206 Howard",
+        "home": "#297 Norfolk St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#250 American at #261 Boston U",
+      "slug": "eagles-terriers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-terriers-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Case Gym",
+      "teams": {
+        "away": "#250 American",
+        "home": "#261 Boston U",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#180 CS Northridge at #331 CS Bakersfield",
+      "slug": "matadors-roadrunners-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/matadors-roadrunners-2026-03-05",
+      "time_local": "9:30 PM",
+      "location": "Icardo Center",
+      "teams": {
+        "away": "#180 CS Northridge",
+        "home": "#331 CS Bakersfield",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#245 Portland vs. #282 Pepperdine",
+      "slug": "pilots-waves-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/pilots-waves-2026-03-05",
+      "time_local": "9:00 PM",
+      "location": "Orleans Areana",
+      "teams": {
+        "away": "#245 Portland",
+        "home": "#282 Pepperdine",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#319 E Illinois vs. #218 UT Martin",
+      "slug": "panthers-skyhawks-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-skyhawks-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Ford Center",
+      "teams": {
+        "away": "#319 E Illinois",
+        "home": "#218 UT Martin",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#316 Loyola MD at #223 Colgate",
+      "slug": "greyhounds-raiders-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/greyhounds-raiders-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Cotterell Court",
+      "teams": {
+        "away": "#316 Loyola MD",
+        "home": "#223 Colgate",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#266 Southern at #318 Alabama A&M",
+      "slug": "jaguars-bulldogs-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/jaguars-bulldogs-2026-03-05",
+      "time_local": "8:30 PM",
+      "location": "AAMU Events Center",
+      "teams": {
+        "away": "#266 Southern",
+        "home": "#318 Alabama A&M",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#255 Bethune at #329 Florida A&M",
+      "slug": "wildcats-rattlers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/wildcats-rattlers-2026-03-05",
+      "time_local": "7:30 PM",
+      "location": "Alfred Lawson Jr. Multipurpose Center",
+      "teams": {
+        "away": "#255 Bethune",
+        "home": "#329 Florida A&M",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#265 Fairfield vs. #325 Manhattan",
+      "slug": "stags-jaspers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/stags-jaspers-2026-03-05",
+      "time_local": "8:30 PM",
+      "location": "Boardwalk Hall",
+      "teams": {
+        "away": "#265 Fairfield",
+        "home": "#325 Manhattan",
+        "neutral_site": true
+      }
+    },
+    {
+      "title": "#301 Grambling at #314 Alabama St",
+      "slug": "tigers-hornets-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/tigers-hornets-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Dunn-Oliver Acadome",
+      "teams": {
+        "away": "#301 Grambling",
+        "home": "#314 Alabama St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#330 Holy Cross at #298 Lehigh",
+      "slug": "crusaders-mountain-hawks-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/crusaders-mountain-hawks-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Stabler Arena",
+      "teams": {
+        "away": "#330 Holy Cross",
+        "home": "#298 Lehigh",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#322 Prairie View at #312 Texas So",
+      "slug": "panthers-tigers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-tigers-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "H&PE Arena",
+      "teams": {
+        "away": "#322 Prairie View",
+        "home": "#312 Texas So",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#342 AR-Pine Bluff at #353 Alcorn St",
+      "slug": "golden-lions-braves-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-lions-braves-2026-03-05",
+      "time_local": "9:00 PM",
+      "location": "Davey Whitney Complex",
+      "teams": {
+        "away": "#342 AR-Pine Bluff",
+        "home": "#353 Alcorn St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#359 S Carolina St at #344 NC Central",
+      "slug": "bulldogs-eagles-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-eagles-2026-03-05",
+      "time_local": "5:00 PM",
+      "location": "McDougald-McLendon Arena",
+      "teams": {
+        "away": "#359 S Carolina St",
+        "home": "#344 NC Central",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#361 Delaware St at #346 Maryland ES",
+      "slug": "hornets-hawks-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/hornets-hawks-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Hytche Athletic Center",
+      "teams": {
+        "away": "#361 Delaware St",
+        "home": "#346 Maryland ES",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#364 Coppin St at #351 Morgan St",
+      "slug": "eagles-bears-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-bears-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Talmadge L. Hill Field House",
+      "teams": {
+        "away": "#364 Coppin St",
+        "home": "#351 Morgan St",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#365 Miss Valley St at #352 Jackson St",
+      "slug": "delta-devils-tigers-2026-03-05",
+      "url": "https://www.teamrankings.com/ncaa-basketball/matchup/delta-devils-tigers-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Williams Assembly Center",
+      "teams": {
+        "away": "#365 Miss Valley St",
+        "home": "#352 Jackson St",
+        "neutral_site": false
+      }
+    }
+  ]
+}

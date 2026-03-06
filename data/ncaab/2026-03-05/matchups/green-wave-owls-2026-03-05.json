@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/green-wave-owls-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:28.603028+00:00",
+  "tables": {
+    "Matchup Menu: TULN @ TEM": {
+      "headers": [
+        "Stat",
+        "TULN",
+        "adv",
+        "TEM"
+      ],
+      "team_headers": [
+        "TULN",
+        "TEM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TULN": {
+            "raw": "1.022",
+            "value": 1.022
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "1.072",
+            "value": 1.072
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "49.9%",
+            "value": 0.499
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "19.5%",
+            "value": 0.195
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "26.4%",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TULN": {
+            "raw": "0.453",
+            "value": 0.453
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "0.420",
+            "value": 0.42
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TULN": {
+            "raw": "71.8",
+            "value": 71.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "72.8",
+            "value": 72.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TULN": {
+            "raw": "-3.0",
+            "value": -3.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "+1.2",
+            "value": 1.2
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "TULN",
+        "adv",
+        "TEM"
+      ],
+      "team_headers": [
+        "TULN",
+        "TEM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TULN": {
+            "raw": "1.022",
+            "value": 1.022
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "1.072",
+            "value": 1.072
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "49.9%",
+            "value": 0.499
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "19.5%",
+            "value": 0.195
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "26.4%",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "TULN": {
+            "raw": "0.453",
+            "value": 0.453
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "0.420",
+            "value": 0.42
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "TULN": {
+            "raw": "71.8",
+            "value": 71.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "72.8",
+            "value": 72.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "TULN": {
+            "raw": "-3.0",
+            "value": -3.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "+1.2",
+            "value": 1.2
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "TULN",
+        "adv",
+        "TEM"
+      ],
+      "team_headers": [
+        "TULN",
+        "TEM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TULN": {
+            "raw": "1.065",
+            "value": 1.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "1.055",
+            "value": 1.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "50.4%",
+            "value": 0.504
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "50.8%",
+            "value": 0.508
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "13.4%",
+            "value": 0.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "66.6%",
+            "value": 0.6659999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TEM": {
+            "raw": "72.8%",
+            "value": 0.728
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "TULN": {
+            "raw": "0.374",
+            "value": 0.374
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "0.354",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "TULN": {
+            "raw": "74.8",
+            "value": 74.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "71.6",
+            "value": 71.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "23.1%",
+            "value": 0.231
+          }
+        }
+      ]
+    },
+    "Tulane vs Temple Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TULN",
+        "adv",
+        "TEM"
+      ],
+      "team_headers": [
+        "TULN",
+        "TEM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TULN": {
+            "raw": "70.2",
+            "value": 70.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "67.9",
+            "value": 67.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "TULN": {
+            "raw": "1.022",
+            "value": 1.022
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "1.072",
+            "value": 1.072
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "49.9%",
+            "value": 0.499
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "TULN": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "64.1%",
+            "value": 0.6409999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "TULN": {
+            "raw": "44.7%",
+            "value": 0.447
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "35.9%",
+            "value": 0.359
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "31.8%",
+            "value": 0.318
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "30.8%",
+            "value": 0.308
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "49.9%",
+            "value": 0.499
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "32.1%",
+            "value": 0.321
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "33.5%",
+            "value": 0.335
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "75.7%",
+            "value": 0.757
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "74.1%",
+            "value": 0.741
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "TULN": {
+            "raw": "30.4",
+            "value": 30.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "35.5",
+            "value": 35.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "TULN": {
+            "raw": "23.0",
+            "value": 23.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "20.0",
+            "value": 20.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "19.5%",
+            "value": 0.195
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "26.4%",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "66.6%",
+            "value": 0.6659999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TEM": {
+            "raw": "72.8%",
+            "value": 0.728
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "9.4%",
+            "value": 0.094
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TEM": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "23.1%",
+            "value": 0.231
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "TULN": {
+            "raw": "0.552",
+            "value": 0.552
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "0.491",
+            "value": 0.491
+          }
+        }
+      ]
+    },
+    "Tulane vs Temple Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "TULN",
+        "adv",
+        "TEM"
+      ],
+      "team_headers": [
+        "TULN",
+        "TEM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "TULN": {
+            "raw": "70.2",
+            "value": 70.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "67.9",
+            "value": 67.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "TULN": {
+            "raw": "1.065",
+            "value": 1.065
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "1.055",
+            "value": 1.055
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "50.4%",
+            "value": 0.504
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "50.8%",
+            "value": 0.508
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "TULN": {
+            "raw": "59.7%",
+            "value": 0.597
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "64.1%",
+            "value": 0.6409999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "TULN": {
+            "raw": "40.3%",
+            "value": 0.40299999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "35.9%",
+            "value": 0.359
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "27.2%",
+            "value": 0.272
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "26.3%",
+            "value": 0.263
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "49.9%",
+            "value": 0.499
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "52.0%",
+            "value": 0.52
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "32.5%",
+            "value": 0.325
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "70.3%",
+            "value": 0.703
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "71.6%",
+            "value": 0.716
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "TULN": {
+            "raw": "35.1",
+            "value": 35.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "37.6",
+            "value": 37.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "TULN": {
+            "raw": "24.2",
+            "value": 24.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TEM": {
+            "raw": "19.7",
+            "value": 19.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TEM": {
+            "raw": "27.2%",
+            "value": 0.272
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "80.5%",
+            "value": 0.805
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "73.6%",
+            "value": 0.736
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "TULN": {
+            "raw": "5.5%",
+            "value": 0.055
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TEM": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "8.0%",
+            "value": 0.08
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TEM": {
+            "raw": "13.4%",
+            "value": 0.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "TULN": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TEM": {
+            "raw": "24.8%",
+            "value": 0.248
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "TULN": {
+            "raw": "0.563",
+            "value": 0.563
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TEM": {
+            "raw": "0.487",
+            "value": 0.487
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_tuln_tem.off_efficiency.tuln": 1.022,
+    "matchup_menu_tuln_tem.off_efficiency.tem": 1.072,
+    "matchup_menu_tuln_tem.effective_fg.tuln": 0.499,
+    "matchup_menu_tuln_tem.effective_fg.tem": 0.5,
+    "matchup_menu_tuln_tem.turnovers_play.tuln": 0.14400000000000002,
+    "matchup_menu_tuln_tem.turnovers_play.tem": 0.11900000000000001,
+    "matchup_menu_tuln_tem.off_rebound.tuln": 0.195,
+    "matchup_menu_tuln_tem.off_rebound.tem": 0.264,
+    "matchup_menu_tuln_tem.fta_fga.tuln": 0.453,
+    "matchup_menu_tuln_tem.fta_fga.tem": 0.42,
+    "matchup_menu_tuln_tem.points_game.tuln": 71.8,
+    "matchup_menu_tuln_tem.points_game.tem": 72.8,
+    "matchup_menu_tuln_tem.avg_score_margin.tuln": -3.0,
+    "matchup_menu_tuln_tem.avg_score_margin.tem": 1.2,
+    "key_offensive_stats.off_efficiency.tuln": 1.022,
+    "key_offensive_stats.off_efficiency.tem": 1.072,
+    "key_offensive_stats.effective_fg.tuln": 0.499,
+    "key_offensive_stats.effective_fg.tem": 0.5,
+    "key_offensive_stats.turnovers_play.tuln": 0.14400000000000002,
+    "key_offensive_stats.turnovers_play.tem": 0.11900000000000001,
+    "key_offensive_stats.off_rebound.tuln": 0.195,
+    "key_offensive_stats.off_rebound.tem": 0.264,
+    "key_offensive_stats.fta_fga.tuln": 0.453,
+    "key_offensive_stats.fta_fga.tem": 0.42,
+    "key_offensive_stats.points_game.tuln": 71.8,
+    "key_offensive_stats.points_game.tem": 72.8,
+    "key_offensive_stats.avg_score_margin.tuln": -3.0,
+    "key_offensive_stats.avg_score_margin.tem": 1.2,
+    "key_defensive_stats.def_efficiency.tuln": 1.065,
+    "key_defensive_stats.def_efficiency.tem": 1.055,
+    "key_defensive_stats.opp_effective_fg.tuln": 0.504,
+    "key_defensive_stats.opp_effective_fg.tem": 0.508,
+    "key_defensive_stats.opp_turnovers_play.tuln": 0.146,
+    "key_defensive_stats.opp_turnovers_play.tem": 0.134,
+    "key_defensive_stats.def_rebound.tuln": 0.6659999999999999,
+    "key_defensive_stats.def_rebound.tem": 0.728,
+    "key_defensive_stats.opp_fta_fga.tuln": 0.374,
+    "key_defensive_stats.opp_fta_fga.tem": 0.354,
+    "key_defensive_stats.opp_points_game.tuln": 74.8,
+    "key_defensive_stats.opp_points_game.tem": 71.6,
+    "key_defensive_stats.block.tuln": 0.083,
+    "key_defensive_stats.block.tem": 0.073,
+    "key_defensive_stats.personal_fouls_play.tuln": 0.218,
+    "key_defensive_stats.personal_fouls_play.tem": 0.231,
+    "tulane_vs_temple_offensive_efficiency.possessions_gm.tuln": 70.2,
+    "tulane_vs_temple_offensive_efficiency.possessions_gm.tem": 67.9,
+    "tulane_vs_temple_offensive_efficiency.off_efficiency.tuln": 1.022,
+    "tulane_vs_temple_offensive_efficiency.off_efficiency.tem": 1.072,
+    "tulane_vs_temple_offensive_efficiency.effective_fg.tuln": 0.499,
+    "tulane_vs_temple_offensive_efficiency.effective_fg.tem": 0.5,
+    "tulane_vs_temple_offensive_efficiency.two_point_rate.tuln": 0.5529999999999999,
+    "tulane_vs_temple_offensive_efficiency.two_point_rate.tem": 0.6409999999999999,
+    "tulane_vs_temple_offensive_efficiency.three_point_rate.tuln": 0.447,
+    "tulane_vs_temple_offensive_efficiency.three_point_rate.tem": 0.359,
+    "tulane_vs_temple_offensive_efficiency.fta_play.tuln": 0.318,
+    "tulane_vs_temple_offensive_efficiency.fta_play.tem": 0.308,
+    "tulane_vs_temple_offensive_efficiency.two_point.tuln": 0.513,
+    "tulane_vs_temple_offensive_efficiency.two_point.tem": 0.499,
+    "tulane_vs_temple_offensive_efficiency.three_point.tuln": 0.321,
+    "tulane_vs_temple_offensive_efficiency.three_point.tem": 0.335,
+    "tulane_vs_temple_offensive_efficiency.free_throw.tuln": 0.757,
+    "tulane_vs_temple_offensive_efficiency.free_throw.tem": 0.741,
+    "tulane_vs_temple_offensive_efficiency.points_2_pters.tuln": 30.4,
+    "tulane_vs_temple_offensive_efficiency.points_2_pters.tem": 35.5,
+    "tulane_vs_temple_offensive_efficiency.points_3_pters.tuln": 23.0,
+    "tulane_vs_temple_offensive_efficiency.points_3_pters.tem": 20.0,
+    "tulane_vs_temple_offensive_efficiency.off_rebound.tuln": 0.195,
+    "tulane_vs_temple_offensive_efficiency.off_rebound.tem": 0.264,
+    "tulane_vs_temple_offensive_efficiency.def_rebound.tuln": 0.6659999999999999,
+    "tulane_vs_temple_offensive_efficiency.def_rebound.tem": 0.728,
+    "tulane_vs_temple_offensive_efficiency.block.tuln": 0.083,
+    "tulane_vs_temple_offensive_efficiency.block.tem": 0.073,
+    "tulane_vs_temple_offensive_efficiency.steals_play.tuln": 0.094,
+    "tulane_vs_temple_offensive_efficiency.steals_play.tem": 0.071,
+    "tulane_vs_temple_offensive_efficiency.turnovers_play.tuln": 0.14400000000000002,
+    "tulane_vs_temple_offensive_efficiency.turnovers_play.tem": 0.11900000000000001,
+    "tulane_vs_temple_offensive_efficiency.personal_fouls_play.tuln": 0.218,
+    "tulane_vs_temple_offensive_efficiency.personal_fouls_play.tem": 0.231,
+    "tulane_vs_temple_offensive_efficiency.assists_fgm.tuln": 0.552,
+    "tulane_vs_temple_offensive_efficiency.assists_fgm.tem": 0.491,
+    "tulane_vs_temple_defensive_efficiency.possessions_gm.tuln": 70.2,
+    "tulane_vs_temple_defensive_efficiency.possessions_gm.tem": 67.9,
+    "tulane_vs_temple_defensive_efficiency.def_efficiency.tuln": 1.065,
+    "tulane_vs_temple_defensive_efficiency.def_efficiency.tem": 1.055,
+    "tulane_vs_temple_defensive_efficiency.opp_effective_fg.tuln": 0.504,
+    "tulane_vs_temple_defensive_efficiency.opp_effective_fg.tem": 0.508,
+    "tulane_vs_temple_defensive_efficiency.opp_two_point_rate.tuln": 0.597,
+    "tulane_vs_temple_defensive_efficiency.opp_two_point_rate.tem": 0.6409999999999999,
+    "tulane_vs_temple_defensive_efficiency.opp_three_point_rate.tuln": 0.40299999999999997,
+    "tulane_vs_temple_defensive_efficiency.opp_three_point_rate.tem": 0.359,
+    "tulane_vs_temple_defensive_efficiency.opp_fta_play.tuln": 0.272,
+    "tulane_vs_temple_defensive_efficiency.opp_fta_play.tem": 0.263,
+    "tulane_vs_temple_defensive_efficiency.opp_two_point.tuln": 0.499,
+    "tulane_vs_temple_defensive_efficiency.opp_two_point.tem": 0.52,
+    "tulane_vs_temple_defensive_efficiency.opp_three_point.tuln": 0.34,
+    "tulane_vs_temple_defensive_efficiency.opp_three_point.tem": 0.325,
+    "tulane_vs_temple_defensive_efficiency.opp_free_throw.tuln": 0.703,
+    "tulane_vs_temple_defensive_efficiency.opp_free_throw.tem": 0.716,
+    "tulane_vs_temple_defensive_efficiency.opp_points_2_pters.tuln": 35.1,
+    "tulane_vs_temple_defensive_efficiency.opp_points_2_pters.tem": 37.6,
+    "tulane_vs_temple_defensive_efficiency.opp_points_3_pters.tuln": 24.2,
+    "tulane_vs_temple_defensive_efficiency.opp_points_3_pters.tem": 19.7,
+    "tulane_vs_temple_defensive_efficiency.opp_off_rebound.tuln": 0.33399999999999996,
+    "tulane_vs_temple_defensive_efficiency.opp_off_rebound.tem": 0.272,
+    "tulane_vs_temple_defensive_efficiency.opp_def_rebound.tuln": 0.805,
+    "tulane_vs_temple_defensive_efficiency.opp_def_rebound.tem": 0.736,
+    "tulane_vs_temple_defensive_efficiency.opp_block.tuln": 0.055,
+    "tulane_vs_temple_defensive_efficiency.opp_block.tem": 0.076,
+    "tulane_vs_temple_defensive_efficiency.opp_steals_play.tuln": 0.08,
+    "tulane_vs_temple_defensive_efficiency.opp_steals_play.tem": 0.07200000000000001,
+    "tulane_vs_temple_defensive_efficiency.opp_turnovers_play.tuln": 0.146,
+    "tulane_vs_temple_defensive_efficiency.opp_turnovers_play.tem": 0.134,
+    "tulane_vs_temple_defensive_efficiency.opp_personal_fouls_play.tuln": 0.244,
+    "tulane_vs_temple_defensive_efficiency.opp_personal_fouls_play.tem": 0.248,
+    "tulane_vs_temple_defensive_efficiency.opp_assists_fgm.tuln": 0.563,
+    "tulane_vs_temple_defensive_efficiency.opp_assists_fgm.tem": 0.487
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "green-wave-owls-2026-03-05",
+  "matchup_title": "#196 Tulane at #160 Temple",
+  "teams": {
+    "away": "#196 Tulane",
+    "home": "#160 Temple",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "The Liacouras Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/green-wave-owls-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/green-wave-owls-2026-03-05/efficiency"
+  }
+}

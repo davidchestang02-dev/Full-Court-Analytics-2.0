@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-bears-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:13.173852+00:00",
+  "tables": {
+    "Matchup Menu: COPP @ MORG": {
+      "headers": [
+        "Stat",
+        "COPP",
+        "adv",
+        "MORG"
+      ],
+      "team_headers": [
+        "COPP",
+        "MORG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.906",
+            "value": 0.906
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.980",
+            "value": 0.98
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "46.0%",
+            "value": 0.46
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "46.2%",
+            "value": 0.462
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "19.5%",
+            "value": 0.195
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "15.6%",
+            "value": 0.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "27.7%",
+            "value": 0.27699999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "27.1%",
+            "value": 0.271
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.386",
+            "value": 0.386
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.431",
+            "value": 0.431
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "COPP": {
+            "raw": "64.2",
+            "value": 64.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "71.9",
+            "value": 71.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "COPP": {
+            "raw": "-17.2",
+            "value": -17.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "-9.0",
+            "value": -9.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "COPP",
+        "adv",
+        "MORG"
+      ],
+      "team_headers": [
+        "COPP",
+        "MORG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.906",
+            "value": 0.906
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.980",
+            "value": 0.98
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "46.0%",
+            "value": 0.46
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "46.2%",
+            "value": 0.462
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "19.5%",
+            "value": 0.195
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "15.6%",
+            "value": 0.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "27.7%",
+            "value": 0.27699999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "27.1%",
+            "value": 0.271
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.386",
+            "value": 0.386
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.431",
+            "value": 0.431
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "COPP": {
+            "raw": "64.2",
+            "value": 64.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "71.9",
+            "value": 71.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "COPP": {
+            "raw": "-17.2",
+            "value": -17.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "-9.0",
+            "value": -9.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "COPP",
+        "adv",
+        "MORG"
+      ],
+      "team_headers": [
+        "COPP",
+        "MORG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "COPP": {
+            "raw": "1.148",
+            "value": 1.148
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "1.102",
+            "value": 1.102
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "55.8%",
+            "value": 0.5579999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "52.4%",
+            "value": 0.524
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "14.0%",
+            "value": 0.14
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "66.4%",
+            "value": 0.664
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "66.8%",
+            "value": 0.6679999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.439",
+            "value": 0.439
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.516",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "COPP": {
+            "raw": "81.4",
+            "value": 81.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "80.8",
+            "value": 80.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "5.7%",
+            "value": 0.057
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        }
+      ]
+    },
+    "Coppin St vs Morgan St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "COPP",
+        "adv",
+        "MORG"
+      ],
+      "team_headers": [
+        "COPP",
+        "MORG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "COPP": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "73.3",
+            "value": 73.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.906",
+            "value": 0.906
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.980",
+            "value": 0.98
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "46.0%",
+            "value": 0.46
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "46.2%",
+            "value": 0.462
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "COPP": {
+            "raw": "64.7%",
+            "value": 0.647
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "65.0%",
+            "value": 0.65
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "COPP": {
+            "raw": "35.3%",
+            "value": 0.353
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "35.0%",
+            "value": 0.35
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "26.3%",
+            "value": 0.263
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "30.3%",
+            "value": 0.303
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "46.0%",
+            "value": 0.46
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "45.0%",
+            "value": 0.45
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "30.6%",
+            "value": 0.306
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "66.9%",
+            "value": 0.669
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MORG": {
+            "raw": "74.3%",
+            "value": 0.743
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "COPP": {
+            "raw": "32.5",
+            "value": 32.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "33.8",
+            "value": 33.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "COPP": {
+            "raw": "17.7",
+            "value": 17.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "19.6",
+            "value": 19.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "27.7%",
+            "value": 0.27699999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "27.1%",
+            "value": 0.271
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "66.4%",
+            "value": 0.664
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "66.8%",
+            "value": 0.6679999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "5.7%",
+            "value": 0.057
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "19.5%",
+            "value": 0.195
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "15.6%",
+            "value": 0.156
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.523",
+            "value": 0.523
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.531",
+            "value": 0.531
+          }
+        }
+      ]
+    },
+    "Coppin St vs Morgan St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "COPP",
+        "adv",
+        "MORG"
+      ],
+      "team_headers": [
+        "COPP",
+        "MORG"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "COPP": {
+            "raw": "70.9",
+            "value": 70.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "73.3",
+            "value": 73.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "COPP": {
+            "raw": "1.148",
+            "value": 1.148
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "1.102",
+            "value": 1.102
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "55.8%",
+            "value": 0.5579999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "52.4%",
+            "value": 0.524
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "COPP": {
+            "raw": "56.7%",
+            "value": 0.5670000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "MORG": {
+            "raw": "67.4%",
+            "value": 0.674
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "COPP": {
+            "raw": "43.3%",
+            "value": 0.433
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MORG": {
+            "raw": "32.6%",
+            "value": 0.326
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "30.8%",
+            "value": 0.308
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "35.5%",
+            "value": 0.355
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "54.6%",
+            "value": 0.546
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "38.5%",
+            "value": 0.385
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MORG": {
+            "raw": "31.9%",
+            "value": 0.319
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "74.3%",
+            "value": 0.743
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "MORG": {
+            "raw": "70.0%",
+            "value": 0.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "COPP": {
+            "raw": "34.8",
+            "value": 34.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "MORG": {
+            "raw": "42.2",
+            "value": 42.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "COPP": {
+            "raw": "28.2",
+            "value": 28.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "MORG": {
+            "raw": "17.9",
+            "value": 17.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "33.6%",
+            "value": 0.336
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "33.2%",
+            "value": 0.332
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "72.3%",
+            "value": 0.723
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "COPP": {
+            "raw": "7.8%",
+            "value": 0.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "11.4%",
+            "value": 0.114
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "MORG": {
+            "raw": "8.5%",
+            "value": 0.085
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "14.0%",
+            "value": 0.14
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "COPP": {
+            "raw": "22.5%",
+            "value": 0.225
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "COPP": {
+            "raw": "0.632",
+            "value": 0.632
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "MORG": {
+            "raw": "0.581",
+            "value": 0.581
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_copp_morg.off_efficiency.copp": 0.906,
+    "matchup_menu_copp_morg.off_efficiency.morg": 0.98,
+    "matchup_menu_copp_morg.effective_fg.copp": 0.46,
+    "matchup_menu_copp_morg.effective_fg.morg": 0.462,
+    "matchup_menu_copp_morg.turnovers_play.copp": 0.195,
+    "matchup_menu_copp_morg.turnovers_play.morg": 0.156,
+    "matchup_menu_copp_morg.off_rebound.copp": 0.27699999999999997,
+    "matchup_menu_copp_morg.off_rebound.morg": 0.271,
+    "matchup_menu_copp_morg.fta_fga.copp": 0.386,
+    "matchup_menu_copp_morg.fta_fga.morg": 0.431,
+    "matchup_menu_copp_morg.points_game.copp": 64.2,
+    "matchup_menu_copp_morg.points_game.morg": 71.9,
+    "matchup_menu_copp_morg.avg_score_margin.copp": -17.2,
+    "matchup_menu_copp_morg.avg_score_margin.morg": -9.0,
+    "key_offensive_stats.off_efficiency.copp": 0.906,
+    "key_offensive_stats.off_efficiency.morg": 0.98,
+    "key_offensive_stats.effective_fg.copp": 0.46,
+    "key_offensive_stats.effective_fg.morg": 0.462,
+    "key_offensive_stats.turnovers_play.copp": 0.195,
+    "key_offensive_stats.turnovers_play.morg": 0.156,
+    "key_offensive_stats.off_rebound.copp": 0.27699999999999997,
+    "key_offensive_stats.off_rebound.morg": 0.271,
+    "key_offensive_stats.fta_fga.copp": 0.386,
+    "key_offensive_stats.fta_fga.morg": 0.431,
+    "key_offensive_stats.points_game.copp": 64.2,
+    "key_offensive_stats.points_game.morg": 71.9,
+    "key_offensive_stats.avg_score_margin.copp": -17.2,
+    "key_offensive_stats.avg_score_margin.morg": -9.0,
+    "key_defensive_stats.def_efficiency.copp": 1.148,
+    "key_defensive_stats.def_efficiency.morg": 1.102,
+    "key_defensive_stats.opp_effective_fg.copp": 0.5579999999999999,
+    "key_defensive_stats.opp_effective_fg.morg": 0.524,
+    "key_defensive_stats.opp_turnovers_play.copp": 0.151,
+    "key_defensive_stats.opp_turnovers_play.morg": 0.14,
+    "key_defensive_stats.def_rebound.copp": 0.664,
+    "key_defensive_stats.def_rebound.morg": 0.6679999999999999,
+    "key_defensive_stats.opp_fta_fga.copp": 0.439,
+    "key_defensive_stats.opp_fta_fga.morg": 0.516,
+    "key_defensive_stats.opp_points_game.copp": 81.4,
+    "key_defensive_stats.opp_points_game.morg": 80.8,
+    "key_defensive_stats.block.copp": 0.057,
+    "key_defensive_stats.block.morg": 0.055999999999999994,
+    "key_defensive_stats.personal_fouls_play.copp": 0.23399999999999999,
+    "key_defensive_stats.personal_fouls_play.morg": 0.26,
+    "coppin_st_vs_morgan_st_offensive_efficiency.possessions_gm.copp": 70.9,
+    "coppin_st_vs_morgan_st_offensive_efficiency.possessions_gm.morg": 73.3,
+    "coppin_st_vs_morgan_st_offensive_efficiency.off_efficiency.copp": 0.906,
+    "coppin_st_vs_morgan_st_offensive_efficiency.off_efficiency.morg": 0.98,
+    "coppin_st_vs_morgan_st_offensive_efficiency.effective_fg.copp": 0.46,
+    "coppin_st_vs_morgan_st_offensive_efficiency.effective_fg.morg": 0.462,
+    "coppin_st_vs_morgan_st_offensive_efficiency.two_point_rate.copp": 0.647,
+    "coppin_st_vs_morgan_st_offensive_efficiency.two_point_rate.morg": 0.65,
+    "coppin_st_vs_morgan_st_offensive_efficiency.three_point_rate.copp": 0.353,
+    "coppin_st_vs_morgan_st_offensive_efficiency.three_point_rate.morg": 0.35,
+    "coppin_st_vs_morgan_st_offensive_efficiency.fta_play.copp": 0.263,
+    "coppin_st_vs_morgan_st_offensive_efficiency.fta_play.morg": 0.303,
+    "coppin_st_vs_morgan_st_offensive_efficiency.two_point.copp": 0.46,
+    "coppin_st_vs_morgan_st_offensive_efficiency.two_point.morg": 0.45,
+    "coppin_st_vs_morgan_st_offensive_efficiency.three_point.copp": 0.306,
+    "coppin_st_vs_morgan_st_offensive_efficiency.three_point.morg": 0.32299999999999995,
+    "coppin_st_vs_morgan_st_offensive_efficiency.free_throw.copp": 0.669,
+    "coppin_st_vs_morgan_st_offensive_efficiency.free_throw.morg": 0.743,
+    "coppin_st_vs_morgan_st_offensive_efficiency.points_2_pters.copp": 32.5,
+    "coppin_st_vs_morgan_st_offensive_efficiency.points_2_pters.morg": 33.8,
+    "coppin_st_vs_morgan_st_offensive_efficiency.points_3_pters.copp": 17.7,
+    "coppin_st_vs_morgan_st_offensive_efficiency.points_3_pters.morg": 19.6,
+    "coppin_st_vs_morgan_st_offensive_efficiency.off_rebound.copp": 0.27699999999999997,
+    "coppin_st_vs_morgan_st_offensive_efficiency.off_rebound.morg": 0.271,
+    "coppin_st_vs_morgan_st_offensive_efficiency.def_rebound.copp": 0.664,
+    "coppin_st_vs_morgan_st_offensive_efficiency.def_rebound.morg": 0.6679999999999999,
+    "coppin_st_vs_morgan_st_offensive_efficiency.block.copp": 0.057,
+    "coppin_st_vs_morgan_st_offensive_efficiency.block.morg": 0.055999999999999994,
+    "coppin_st_vs_morgan_st_offensive_efficiency.steals_play.copp": 0.076,
+    "coppin_st_vs_morgan_st_offensive_efficiency.steals_play.morg": 0.052000000000000005,
+    "coppin_st_vs_morgan_st_offensive_efficiency.turnovers_play.copp": 0.195,
+    "coppin_st_vs_morgan_st_offensive_efficiency.turnovers_play.morg": 0.156,
+    "coppin_st_vs_morgan_st_offensive_efficiency.personal_fouls_play.copp": 0.23399999999999999,
+    "coppin_st_vs_morgan_st_offensive_efficiency.personal_fouls_play.morg": 0.26,
+    "coppin_st_vs_morgan_st_offensive_efficiency.assists_fgm.copp": 0.523,
+    "coppin_st_vs_morgan_st_offensive_efficiency.assists_fgm.morg": 0.531,
+    "coppin_st_vs_morgan_st_defensive_efficiency.possessions_gm.copp": 70.9,
+    "coppin_st_vs_morgan_st_defensive_efficiency.possessions_gm.morg": 73.3,
+    "coppin_st_vs_morgan_st_defensive_efficiency.def_efficiency.copp": 1.148,
+    "coppin_st_vs_morgan_st_defensive_efficiency.def_efficiency.morg": 1.102,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_effective_fg.copp": 0.5579999999999999,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_effective_fg.morg": 0.524,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_two_point_rate.copp": 0.5670000000000001,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_two_point_rate.morg": 0.674,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_three_point_rate.copp": 0.433,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_three_point_rate.morg": 0.326,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_fta_play.copp": 0.308,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_fta_play.morg": 0.355,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_two_point.copp": 0.5429999999999999,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_two_point.morg": 0.546,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_three_point.copp": 0.385,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_three_point.morg": 0.319,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_free_throw.copp": 0.743,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_free_throw.morg": 0.7,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_points_2_pters.copp": 34.8,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_points_2_pters.morg": 42.2,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_points_3_pters.copp": 28.2,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_points_3_pters.morg": 17.9,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_off_rebound.copp": 0.336,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_off_rebound.morg": 0.332,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_def_rebound.copp": 0.723,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_def_rebound.morg": 0.7290000000000001,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_block.copp": 0.078,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_block.morg": 0.063,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_steals_play.copp": 0.114,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_steals_play.morg": 0.085,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_turnovers_play.copp": 0.151,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_turnovers_play.morg": 0.14,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_personal_fouls_play.copp": 0.225,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_personal_fouls_play.morg": 0.23800000000000002,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_assists_fgm.copp": 0.632,
+    "coppin_st_vs_morgan_st_defensive_efficiency.opp_assists_fgm.morg": 0.581
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "eagles-bears-2026-03-05",
+  "matchup_title": "#364 Coppin St at #351 Morgan St",
+  "teams": {
+    "away": "#364 Coppin St",
+    "home": "#351 Morgan St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Talmadge L. Hill Field House",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-bears-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-bears-2026-03-05/efficiency"
+  }
+}

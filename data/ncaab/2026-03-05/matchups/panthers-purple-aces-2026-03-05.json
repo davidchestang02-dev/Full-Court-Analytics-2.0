@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-purple-aces-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:46.702724+00:00",
+  "tables": {
+    "Matchup Menu: UNI vs. EVAN": {
+      "headers": [
+        "Stat",
+        "UNI",
+        "adv",
+        "EVAN"
+      ],
+      "team_headers": [
+        "UNI",
+        "EVAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UNI": {
+            "raw": "1.042",
+            "value": 1.042
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "0.951",
+            "value": 0.951
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "49.4%",
+            "value": 0.494
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UNI": {
+            "raw": "0.252",
+            "value": 0.252
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "0.298",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UNI": {
+            "raw": "68.3",
+            "value": 68.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "66.1",
+            "value": 66.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UNI": {
+            "raw": "+6.3",
+            "value": 6.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "-12.6",
+            "value": -12.6
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "UNI",
+        "adv",
+        "EVAN"
+      ],
+      "team_headers": [
+        "UNI",
+        "EVAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UNI": {
+            "raw": "1.042",
+            "value": 1.042
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "0.951",
+            "value": 0.951
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "49.4%",
+            "value": 0.494
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UNI": {
+            "raw": "0.252",
+            "value": 0.252
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "0.298",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UNI": {
+            "raw": "68.3",
+            "value": 68.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "66.1",
+            "value": 66.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UNI": {
+            "raw": "+6.3",
+            "value": 6.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "-12.6",
+            "value": -12.6
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "UNI",
+        "adv",
+        "EVAN"
+      ],
+      "team_headers": [
+        "UNI",
+        "EVAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UNI": {
+            "raw": "0.946",
+            "value": 0.946
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "1.133",
+            "value": 1.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "47.4%",
+            "value": 0.474
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "55.5%",
+            "value": 0.555
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "16.3%",
+            "value": 0.163
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "UNI": {
+            "raw": "0.289",
+            "value": 0.289
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "0.312",
+            "value": 0.312
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "UNI": {
+            "raw": "62.0",
+            "value": 62.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "78.7",
+            "value": 78.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "20.7%",
+            "value": 0.207
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "20.5%",
+            "value": 0.205
+          }
+        }
+      ]
+    },
+    "N Iowa vs Evansville Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UNI",
+        "adv",
+        "EVAN"
+      ],
+      "team_headers": [
+        "UNI",
+        "EVAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UNI": {
+            "raw": "65.6",
+            "value": 65.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "69.5",
+            "value": 69.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UNI": {
+            "raw": "1.042",
+            "value": 1.042
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "0.951",
+            "value": 0.951
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "53.2%",
+            "value": 0.532
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "49.4%",
+            "value": 0.494
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "UNI": {
+            "raw": "60.3%",
+            "value": 0.603
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "57.1%",
+            "value": 0.5710000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "UNI": {
+            "raw": "39.7%",
+            "value": 0.397
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "42.9%",
+            "value": 0.429
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "19.5%",
+            "value": 0.195
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "54.4%",
+            "value": 0.544
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "50.3%",
+            "value": 0.503
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "34.2%",
+            "value": 0.342
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "32.1%",
+            "value": 0.321
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "69.5%",
+            "value": 0.695
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "73.4%",
+            "value": 0.7340000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "UNI": {
+            "raw": "36.1",
+            "value": 36.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "31.4",
+            "value": 31.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "UNI": {
+            "raw": "22.5",
+            "value": 22.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "22.7",
+            "value": 22.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "8.7%",
+            "value": 0.087
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "EVAN": {
+            "raw": "6.5%",
+            "value": 0.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "12.9%",
+            "value": 0.129
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "20.7%",
+            "value": 0.207
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "20.5%",
+            "value": 0.205
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "UNI": {
+            "raw": "0.553",
+            "value": 0.553
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "0.544",
+            "value": 0.544
+          }
+        }
+      ]
+    },
+    "N Iowa vs Evansville Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UNI",
+        "adv",
+        "EVAN"
+      ],
+      "team_headers": [
+        "UNI",
+        "EVAN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UNI": {
+            "raw": "65.6",
+            "value": 65.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "69.5",
+            "value": 69.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UNI": {
+            "raw": "0.946",
+            "value": 0.946
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "1.133",
+            "value": 1.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "47.4%",
+            "value": 0.474
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "55.5%",
+            "value": 0.555
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "UNI": {
+            "raw": "58.2%",
+            "value": 0.5820000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "56.9%",
+            "value": 0.569
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "UNI": {
+            "raw": "41.8%",
+            "value": 0.418
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "43.1%",
+            "value": 0.431
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "23.5%",
+            "value": 0.235
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "54.0%",
+            "value": 0.54
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "38.3%",
+            "value": 0.38299999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "70.8%",
+            "value": 0.708
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "EVAN": {
+            "raw": "74.6%",
+            "value": 0.746
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "UNI": {
+            "raw": "31.7",
+            "value": 31.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "36.1",
+            "value": 36.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "UNI": {
+            "raw": "19.3",
+            "value": 19.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "EVAN": {
+            "raw": "29.0",
+            "value": 29.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "28.8%",
+            "value": 0.28800000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "81.1%",
+            "value": 0.8109999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "79.6%",
+            "value": 0.7959999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "UNI": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "3.8%",
+            "value": 0.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "8.0%",
+            "value": 0.08
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "EVAN": {
+            "raw": "10.1%",
+            "value": 0.10099999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "16.3%",
+            "value": 0.163
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "EVAN": {
+            "raw": "13.7%",
+            "value": 0.13699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "UNI": {
+            "raw": "20.4%",
+            "value": 0.204
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "EVAN": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "UNI": {
+            "raw": "0.486",
+            "value": 0.486
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "EVAN": {
+            "raw": "0.577",
+            "value": 0.577
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_uni_vs_evan.off_efficiency.uni": 1.042,
+    "matchup_menu_uni_vs_evan.off_efficiency.evan": 0.951,
+    "matchup_menu_uni_vs_evan.effective_fg.uni": 0.532,
+    "matchup_menu_uni_vs_evan.effective_fg.evan": 0.494,
+    "matchup_menu_uni_vs_evan.turnovers_play.uni": 0.129,
+    "matchup_menu_uni_vs_evan.turnovers_play.evan": 0.171,
+    "matchup_menu_uni_vs_evan.off_rebound.uni": 0.18899999999999997,
+    "matchup_menu_uni_vs_evan.off_rebound.evan": 0.204,
+    "matchup_menu_uni_vs_evan.fta_fga.uni": 0.252,
+    "matchup_menu_uni_vs_evan.fta_fga.evan": 0.298,
+    "matchup_menu_uni_vs_evan.points_game.uni": 68.3,
+    "matchup_menu_uni_vs_evan.points_game.evan": 66.1,
+    "matchup_menu_uni_vs_evan.avg_score_margin.uni": 6.3,
+    "matchup_menu_uni_vs_evan.avg_score_margin.evan": -12.6,
+    "key_offensive_stats.off_efficiency.uni": 1.042,
+    "key_offensive_stats.off_efficiency.evan": 0.951,
+    "key_offensive_stats.effective_fg.uni": 0.532,
+    "key_offensive_stats.effective_fg.evan": 0.494,
+    "key_offensive_stats.turnovers_play.uni": 0.129,
+    "key_offensive_stats.turnovers_play.evan": 0.171,
+    "key_offensive_stats.off_rebound.uni": 0.18899999999999997,
+    "key_offensive_stats.off_rebound.evan": 0.204,
+    "key_offensive_stats.fta_fga.uni": 0.252,
+    "key_offensive_stats.fta_fga.evan": 0.298,
+    "key_offensive_stats.points_game.uni": 68.3,
+    "key_offensive_stats.points_game.evan": 66.1,
+    "key_offensive_stats.avg_score_margin.uni": 6.3,
+    "key_offensive_stats.avg_score_margin.evan": -12.6,
+    "key_defensive_stats.def_efficiency.uni": 0.946,
+    "key_defensive_stats.def_efficiency.evan": 1.133,
+    "key_defensive_stats.opp_effective_fg.uni": 0.474,
+    "key_defensive_stats.opp_effective_fg.evan": 0.555,
+    "key_defensive_stats.opp_turnovers_play.uni": 0.163,
+    "key_defensive_stats.opp_turnovers_play.evan": 0.13699999999999998,
+    "key_defensive_stats.def_rebound.uni": 0.7559999999999999,
+    "key_defensive_stats.def_rebound.evan": 0.7120000000000001,
+    "key_defensive_stats.opp_fta_fga.uni": 0.289,
+    "key_defensive_stats.opp_fta_fga.evan": 0.312,
+    "key_defensive_stats.opp_points_game.uni": 62.0,
+    "key_defensive_stats.opp_points_game.evan": 78.7,
+    "key_defensive_stats.block.uni": 0.055999999999999994,
+    "key_defensive_stats.block.evan": 0.057999999999999996,
+    "key_defensive_stats.personal_fouls_play.uni": 0.207,
+    "key_defensive_stats.personal_fouls_play.evan": 0.205,
+    "n_iowa_vs_evansville_offensive_efficiency.possessions_gm.uni": 65.6,
+    "n_iowa_vs_evansville_offensive_efficiency.possessions_gm.evan": 69.5,
+    "n_iowa_vs_evansville_offensive_efficiency.off_efficiency.uni": 1.042,
+    "n_iowa_vs_evansville_offensive_efficiency.off_efficiency.evan": 0.951,
+    "n_iowa_vs_evansville_offensive_efficiency.effective_fg.uni": 0.532,
+    "n_iowa_vs_evansville_offensive_efficiency.effective_fg.evan": 0.494,
+    "n_iowa_vs_evansville_offensive_efficiency.two_point_rate.uni": 0.603,
+    "n_iowa_vs_evansville_offensive_efficiency.two_point_rate.evan": 0.5710000000000001,
+    "n_iowa_vs_evansville_offensive_efficiency.three_point_rate.uni": 0.397,
+    "n_iowa_vs_evansville_offensive_efficiency.three_point_rate.evan": 0.429,
+    "n_iowa_vs_evansville_offensive_efficiency.fta_play.uni": 0.195,
+    "n_iowa_vs_evansville_offensive_efficiency.fta_play.evan": 0.21600000000000003,
+    "n_iowa_vs_evansville_offensive_efficiency.two_point.uni": 0.544,
+    "n_iowa_vs_evansville_offensive_efficiency.two_point.evan": 0.503,
+    "n_iowa_vs_evansville_offensive_efficiency.three_point.uni": 0.342,
+    "n_iowa_vs_evansville_offensive_efficiency.three_point.evan": 0.321,
+    "n_iowa_vs_evansville_offensive_efficiency.free_throw.uni": 0.695,
+    "n_iowa_vs_evansville_offensive_efficiency.free_throw.evan": 0.7340000000000001,
+    "n_iowa_vs_evansville_offensive_efficiency.points_2_pters.uni": 36.1,
+    "n_iowa_vs_evansville_offensive_efficiency.points_2_pters.evan": 31.4,
+    "n_iowa_vs_evansville_offensive_efficiency.points_3_pters.uni": 22.5,
+    "n_iowa_vs_evansville_offensive_efficiency.points_3_pters.evan": 22.7,
+    "n_iowa_vs_evansville_offensive_efficiency.off_rebound.uni": 0.18899999999999997,
+    "n_iowa_vs_evansville_offensive_efficiency.off_rebound.evan": 0.204,
+    "n_iowa_vs_evansville_offensive_efficiency.def_rebound.uni": 0.7559999999999999,
+    "n_iowa_vs_evansville_offensive_efficiency.def_rebound.evan": 0.7120000000000001,
+    "n_iowa_vs_evansville_offensive_efficiency.block.uni": 0.055999999999999994,
+    "n_iowa_vs_evansville_offensive_efficiency.block.evan": 0.057999999999999996,
+    "n_iowa_vs_evansville_offensive_efficiency.steals_play.uni": 0.087,
+    "n_iowa_vs_evansville_offensive_efficiency.steals_play.evan": 0.065,
+    "n_iowa_vs_evansville_offensive_efficiency.turnovers_play.uni": 0.129,
+    "n_iowa_vs_evansville_offensive_efficiency.turnovers_play.evan": 0.171,
+    "n_iowa_vs_evansville_offensive_efficiency.personal_fouls_play.uni": 0.207,
+    "n_iowa_vs_evansville_offensive_efficiency.personal_fouls_play.evan": 0.205,
+    "n_iowa_vs_evansville_offensive_efficiency.assists_fgm.uni": 0.553,
+    "n_iowa_vs_evansville_offensive_efficiency.assists_fgm.evan": 0.544,
+    "n_iowa_vs_evansville_defensive_efficiency.possessions_gm.uni": 65.6,
+    "n_iowa_vs_evansville_defensive_efficiency.possessions_gm.evan": 69.5,
+    "n_iowa_vs_evansville_defensive_efficiency.def_efficiency.uni": 0.946,
+    "n_iowa_vs_evansville_defensive_efficiency.def_efficiency.evan": 1.133,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_effective_fg.uni": 0.474,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_effective_fg.evan": 0.555,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_two_point_rate.uni": 0.5820000000000001,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_two_point_rate.evan": 0.569,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_three_point_rate.uni": 0.418,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_three_point_rate.evan": 0.431,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_fta_play.uni": 0.213,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_fta_play.evan": 0.235,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_two_point.uni": 0.506,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_two_point.evan": 0.54,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_three_point.uni": 0.28600000000000003,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_three_point.evan": 0.38299999999999995,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_free_throw.uni": 0.708,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_free_throw.evan": 0.746,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_points_2_pters.uni": 31.7,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_points_2_pters.evan": 36.1,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_points_3_pters.uni": 19.3,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_points_3_pters.evan": 29.0,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_off_rebound.uni": 0.244,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_off_rebound.evan": 0.28800000000000003,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_def_rebound.uni": 0.8109999999999999,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_def_rebound.evan": 0.7959999999999999,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_block.uni": 0.051,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_block.evan": 0.038,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_steals_play.uni": 0.08,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_steals_play.evan": 0.10099999999999999,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_turnovers_play.uni": 0.163,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_turnovers_play.evan": 0.13699999999999998,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_personal_fouls_play.uni": 0.204,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_personal_fouls_play.evan": 0.21600000000000003,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_assists_fgm.uni": 0.486,
+    "n_iowa_vs_evansville_defensive_efficiency.opp_assists_fgm.evan": 0.577
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "panthers-purple-aces-2026-03-05",
+  "matchup_title": "#93 N Iowa vs. #307 Evansville",
+  "teams": {
+    "away": "#93 N Iowa",
+    "home": "#307 Evansville",
+    "neutral_site": true
+  },
+  "time_local": "9:30 PM",
+  "location": "Enterprise Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-purple-aces-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-purple-aces-2026-03-05/efficiency"
+  }
+}

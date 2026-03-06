@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/hornets-hawks-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:12.047014+00:00",
+  "tables": {
+    "Matchup Menu: DSU @ UMES": {
+      "headers": [
+        "Stat",
+        "DSU",
+        "adv",
+        "UMES"
+      ],
+      "team_headers": [
+        "DSU",
+        "UMES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.870",
+            "value": 0.87
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "0.922",
+            "value": 0.922
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "42.5%",
+            "value": 0.425
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "17.4%",
+            "value": 0.174
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "20.6%",
+            "value": 0.20600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "24.7%",
+            "value": 0.247
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "29.8%",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.344",
+            "value": 0.344
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "0.292",
+            "value": 0.292
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DSU": {
+            "raw": "59.4",
+            "value": 59.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "62.1",
+            "value": 62.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DSU": {
+            "raw": "-13.2",
+            "value": -13.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "-9.5",
+            "value": -9.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "DSU",
+        "adv",
+        "UMES"
+      ],
+      "team_headers": [
+        "DSU",
+        "UMES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.870",
+            "value": 0.87
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "0.922",
+            "value": 0.922
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "42.5%",
+            "value": 0.425
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "17.4%",
+            "value": 0.174
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "20.6%",
+            "value": 0.20600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "24.7%",
+            "value": 0.247
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "29.8%",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.344",
+            "value": 0.344
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "0.292",
+            "value": 0.292
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "DSU": {
+            "raw": "59.4",
+            "value": 59.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "62.1",
+            "value": 62.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "DSU": {
+            "raw": "-13.2",
+            "value": -13.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "-9.5",
+            "value": -9.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "DSU",
+        "adv",
+        "UMES"
+      ],
+      "team_headers": [
+        "DSU",
+        "UMES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DSU": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "1.063",
+            "value": 1.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "54.5%",
+            "value": 0.545
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "50.6%",
+            "value": 0.506
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "17.4%",
+            "value": 0.174
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "15.2%",
+            "value": 0.152
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "68.5%",
+            "value": 0.685
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.408",
+            "value": 0.408
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "0.436",
+            "value": 0.436
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "DSU": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "71.6",
+            "value": 71.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "3.1%",
+            "value": 0.031
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "4.2%",
+            "value": 0.042
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        }
+      ]
+    },
+    "Delaware St vs Maryland ES Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DSU",
+        "adv",
+        "UMES"
+      ],
+      "team_headers": [
+        "DSU",
+        "UMES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DSU": {
+            "raw": "68.3",
+            "value": 68.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "67.4",
+            "value": 67.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.870",
+            "value": 0.87
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "0.922",
+            "value": 0.922
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "42.5%",
+            "value": 0.425
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "DSU": {
+            "raw": "70.7%",
+            "value": 0.7070000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "66.4%",
+            "value": 0.664
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "DSU": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "33.6%",
+            "value": 0.336
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "42.3%",
+            "value": 0.423
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "49.8%",
+            "value": 0.498
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "29.4%",
+            "value": 0.294
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "69.2%",
+            "value": 0.6920000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "70.6%",
+            "value": 0.706
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "DSU": {
+            "raw": "32.7",
+            "value": 32.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "35.3",
+            "value": 35.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "DSU": {
+            "raw": "13.8",
+            "value": 13.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "15.9",
+            "value": 15.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "24.7%",
+            "value": 0.247
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "29.8%",
+            "value": 0.298
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "69.6%",
+            "value": 0.696
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "68.5%",
+            "value": 0.685
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "3.1%",
+            "value": 0.031
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "4.2%",
+            "value": 0.042
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "10.3%",
+            "value": 0.10300000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UMES": {
+            "raw": "7.3%",
+            "value": 0.073
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "17.4%",
+            "value": 0.174
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "20.6%",
+            "value": 0.20600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.458",
+            "value": 0.458
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UMES": {
+            "raw": "0.572",
+            "value": 0.572
+          }
+        }
+      ]
+    },
+    "Delaware St vs Maryland ES Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "DSU",
+        "adv",
+        "UMES"
+      ],
+      "team_headers": [
+        "DSU",
+        "UMES"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "DSU": {
+            "raw": "68.3",
+            "value": 68.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "67.4",
+            "value": 67.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "DSU": {
+            "raw": "1.064",
+            "value": 1.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "1.063",
+            "value": 1.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "54.5%",
+            "value": 0.545
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "50.6%",
+            "value": 0.506
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "DSU": {
+            "raw": "64.6%",
+            "value": 0.6459999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "59.8%",
+            "value": 0.598
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "DSU": {
+            "raw": "35.4%",
+            "value": 0.354
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "40.2%",
+            "value": 0.402
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "28.0%",
+            "value": 0.28
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "55.5%",
+            "value": 0.555
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "51.3%",
+            "value": 0.513
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "35.1%",
+            "value": 0.35100000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "71.5%",
+            "value": 0.715
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "73.8%",
+            "value": 0.738
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "DSU": {
+            "raw": "37.7",
+            "value": 37.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "32.9",
+            "value": 32.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "DSU": {
+            "raw": "19.6",
+            "value": 19.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "21.4",
+            "value": 21.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "30.4%",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "31.5%",
+            "value": 0.315
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "75.3%",
+            "value": 0.753
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "DSU": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "8.5%",
+            "value": 0.085
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "17.4%",
+            "value": 0.174
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UMES": {
+            "raw": "15.2%",
+            "value": 0.152
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "DSU": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "22.3%",
+            "value": 0.223
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "DSU": {
+            "raw": "0.562",
+            "value": 0.562
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UMES": {
+            "raw": "0.567",
+            "value": 0.567
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_dsu_umes.off_efficiency.dsu": 0.87,
+    "matchup_menu_dsu_umes.off_efficiency.umes": 0.922,
+    "matchup_menu_dsu_umes.effective_fg.dsu": 0.425,
+    "matchup_menu_dsu_umes.effective_fg.umes": 0.479,
+    "matchup_menu_dsu_umes.turnovers_play.dsu": 0.174,
+    "matchup_menu_dsu_umes.turnovers_play.umes": 0.20600000000000002,
+    "matchup_menu_dsu_umes.off_rebound.dsu": 0.247,
+    "matchup_menu_dsu_umes.off_rebound.umes": 0.298,
+    "matchup_menu_dsu_umes.fta_fga.dsu": 0.344,
+    "matchup_menu_dsu_umes.fta_fga.umes": 0.292,
+    "matchup_menu_dsu_umes.points_game.dsu": 59.4,
+    "matchup_menu_dsu_umes.points_game.umes": 62.1,
+    "matchup_menu_dsu_umes.avg_score_margin.dsu": -13.2,
+    "matchup_menu_dsu_umes.avg_score_margin.umes": -9.5,
+    "key_offensive_stats.off_efficiency.dsu": 0.87,
+    "key_offensive_stats.off_efficiency.umes": 0.922,
+    "key_offensive_stats.effective_fg.dsu": 0.425,
+    "key_offensive_stats.effective_fg.umes": 0.479,
+    "key_offensive_stats.turnovers_play.dsu": 0.174,
+    "key_offensive_stats.turnovers_play.umes": 0.20600000000000002,
+    "key_offensive_stats.off_rebound.dsu": 0.247,
+    "key_offensive_stats.off_rebound.umes": 0.298,
+    "key_offensive_stats.fta_fga.dsu": 0.344,
+    "key_offensive_stats.fta_fga.umes": 0.292,
+    "key_offensive_stats.points_game.dsu": 59.4,
+    "key_offensive_stats.points_game.umes": 62.1,
+    "key_offensive_stats.avg_score_margin.dsu": -13.2,
+    "key_offensive_stats.avg_score_margin.umes": -9.5,
+    "key_defensive_stats.def_efficiency.dsu": 1.064,
+    "key_defensive_stats.def_efficiency.umes": 1.063,
+    "key_defensive_stats.opp_effective_fg.dsu": 0.545,
+    "key_defensive_stats.opp_effective_fg.umes": 0.506,
+    "key_defensive_stats.opp_turnovers_play.dsu": 0.174,
+    "key_defensive_stats.opp_turnovers_play.umes": 0.152,
+    "key_defensive_stats.def_rebound.dsu": 0.696,
+    "key_defensive_stats.def_rebound.umes": 0.685,
+    "key_defensive_stats.opp_fta_fga.dsu": 0.408,
+    "key_defensive_stats.opp_fta_fga.umes": 0.436,
+    "key_defensive_stats.opp_points_game.dsu": 72.6,
+    "key_defensive_stats.opp_points_game.umes": 71.6,
+    "key_defensive_stats.block.dsu": 0.031,
+    "key_defensive_stats.block.umes": 0.042,
+    "key_defensive_stats.personal_fouls_play.dsu": 0.23600000000000002,
+    "key_defensive_stats.personal_fouls_play.umes": 0.242,
+    "delaware_st_vs_maryland_es_offensive_efficiency.possessions_gm.dsu": 68.3,
+    "delaware_st_vs_maryland_es_offensive_efficiency.possessions_gm.umes": 67.4,
+    "delaware_st_vs_maryland_es_offensive_efficiency.off_efficiency.dsu": 0.87,
+    "delaware_st_vs_maryland_es_offensive_efficiency.off_efficiency.umes": 0.922,
+    "delaware_st_vs_maryland_es_offensive_efficiency.effective_fg.dsu": 0.425,
+    "delaware_st_vs_maryland_es_offensive_efficiency.effective_fg.umes": 0.479,
+    "delaware_st_vs_maryland_es_offensive_efficiency.two_point_rate.dsu": 0.7070000000000001,
+    "delaware_st_vs_maryland_es_offensive_efficiency.two_point_rate.umes": 0.664,
+    "delaware_st_vs_maryland_es_offensive_efficiency.three_point_rate.dsu": 0.293,
+    "delaware_st_vs_maryland_es_offensive_efficiency.three_point_rate.umes": 0.336,
+    "delaware_st_vs_maryland_es_offensive_efficiency.fta_play.dsu": 0.24600000000000002,
+    "delaware_st_vs_maryland_es_offensive_efficiency.fta_play.umes": 0.204,
+    "delaware_st_vs_maryland_es_offensive_efficiency.two_point.dsu": 0.423,
+    "delaware_st_vs_maryland_es_offensive_efficiency.two_point.umes": 0.498,
+    "delaware_st_vs_maryland_es_offensive_efficiency.three_point.dsu": 0.28600000000000003,
+    "delaware_st_vs_maryland_es_offensive_efficiency.three_point.umes": 0.294,
+    "delaware_st_vs_maryland_es_offensive_efficiency.free_throw.dsu": 0.6920000000000001,
+    "delaware_st_vs_maryland_es_offensive_efficiency.free_throw.umes": 0.706,
+    "delaware_st_vs_maryland_es_offensive_efficiency.points_2_pters.dsu": 32.7,
+    "delaware_st_vs_maryland_es_offensive_efficiency.points_2_pters.umes": 35.3,
+    "delaware_st_vs_maryland_es_offensive_efficiency.points_3_pters.dsu": 13.8,
+    "delaware_st_vs_maryland_es_offensive_efficiency.points_3_pters.umes": 15.9,
+    "delaware_st_vs_maryland_es_offensive_efficiency.off_rebound.dsu": 0.247,
+    "delaware_st_vs_maryland_es_offensive_efficiency.off_rebound.umes": 0.298,
+    "delaware_st_vs_maryland_es_offensive_efficiency.def_rebound.dsu": 0.696,
+    "delaware_st_vs_maryland_es_offensive_efficiency.def_rebound.umes": 0.685,
+    "delaware_st_vs_maryland_es_offensive_efficiency.block.dsu": 0.031,
+    "delaware_st_vs_maryland_es_offensive_efficiency.block.umes": 0.042,
+    "delaware_st_vs_maryland_es_offensive_efficiency.steals_play.dsu": 0.10300000000000001,
+    "delaware_st_vs_maryland_es_offensive_efficiency.steals_play.umes": 0.073,
+    "delaware_st_vs_maryland_es_offensive_efficiency.turnovers_play.dsu": 0.174,
+    "delaware_st_vs_maryland_es_offensive_efficiency.turnovers_play.umes": 0.20600000000000002,
+    "delaware_st_vs_maryland_es_offensive_efficiency.personal_fouls_play.dsu": 0.23600000000000002,
+    "delaware_st_vs_maryland_es_offensive_efficiency.personal_fouls_play.umes": 0.242,
+    "delaware_st_vs_maryland_es_offensive_efficiency.assists_fgm.dsu": 0.458,
+    "delaware_st_vs_maryland_es_offensive_efficiency.assists_fgm.umes": 0.572,
+    "delaware_st_vs_maryland_es_defensive_efficiency.possessions_gm.dsu": 68.3,
+    "delaware_st_vs_maryland_es_defensive_efficiency.possessions_gm.umes": 67.4,
+    "delaware_st_vs_maryland_es_defensive_efficiency.def_efficiency.dsu": 1.064,
+    "delaware_st_vs_maryland_es_defensive_efficiency.def_efficiency.umes": 1.063,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_effective_fg.dsu": 0.545,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_effective_fg.umes": 0.506,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_two_point_rate.dsu": 0.6459999999999999,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_two_point_rate.umes": 0.598,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_three_point_rate.dsu": 0.354,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_three_point_rate.umes": 0.402,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_fta_play.dsu": 0.28,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_fta_play.umes": 0.305,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_two_point.dsu": 0.555,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_two_point.umes": 0.513,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_three_point.dsu": 0.35100000000000003,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_three_point.umes": 0.331,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_free_throw.dsu": 0.715,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_free_throw.umes": 0.738,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_points_2_pters.dsu": 37.7,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_points_2_pters.umes": 32.9,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_points_3_pters.dsu": 19.6,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_points_3_pters.umes": 21.4,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_off_rebound.dsu": 0.304,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_off_rebound.umes": 0.315,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_def_rebound.dsu": 0.753,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_def_rebound.umes": 0.7020000000000001,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_block.dsu": 0.076,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_block.umes": 0.057999999999999996,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_steals_play.dsu": 0.085,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_steals_play.umes": 0.11900000000000001,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_turnovers_play.dsu": 0.174,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_turnovers_play.umes": 0.152,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_personal_fouls_play.dsu": 0.214,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_personal_fouls_play.umes": 0.223,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_assists_fgm.dsu": 0.562,
+    "delaware_st_vs_maryland_es_defensive_efficiency.opp_assists_fgm.umes": 0.567
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "hornets-hawks-2026-03-05",
+  "matchup_title": "#361 Delaware St at #346 Maryland ES",
+  "teams": {
+    "away": "#361 Delaware St",
+    "home": "#346 Maryland ES",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Hytche Athletic Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/hornets-hawks-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/hornets-hawks-2026-03-05/efficiency"
+  }
+}

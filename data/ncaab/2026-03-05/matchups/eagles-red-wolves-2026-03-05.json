@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-red-wolves-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:44.409946+00:00",
+  "tables": {
+    "Matchup Menu: GASO vs. ARST": {
+      "headers": [
+        "Stat",
+        "GASO",
+        "adv",
+        "ARST"
+      ],
+      "team_headers": [
+        "GASO",
+        "ARST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GASO": {
+            "raw": "1.063",
+            "value": 1.063
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "1.091",
+            "value": 1.091
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ARST": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "37.3%",
+            "value": 0.373
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GASO": {
+            "raw": "0.403",
+            "value": 0.403
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "0.395",
+            "value": 0.395
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GASO": {
+            "raw": "79.4",
+            "value": 79.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "81.9",
+            "value": 81.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GASO": {
+            "raw": "-1.3",
+            "value": -1.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "+4.0",
+            "value": 4.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "GASO",
+        "adv",
+        "ARST"
+      ],
+      "team_headers": [
+        "GASO",
+        "ARST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GASO": {
+            "raw": "1.063",
+            "value": 1.063
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "1.091",
+            "value": 1.091
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ARST": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "37.3%",
+            "value": 0.373
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GASO": {
+            "raw": "0.403",
+            "value": 0.403
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "0.395",
+            "value": 0.395
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GASO": {
+            "raw": "79.4",
+            "value": 79.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "81.9",
+            "value": 81.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GASO": {
+            "raw": "-1.3",
+            "value": -1.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "+4.0",
+            "value": 4.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "GASO",
+        "adv",
+        "ARST"
+      ],
+      "team_headers": [
+        "GASO",
+        "ARST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GASO": {
+            "raw": "1.081",
+            "value": 1.081
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "52.2%",
+            "value": 0.522
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "13.1%",
+            "value": 0.131
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "68.1%",
+            "value": 0.6809999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "74.8%",
+            "value": 0.748
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "GASO": {
+            "raw": "0.417",
+            "value": 0.417
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "0.370",
+            "value": 0.37
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "GASO": {
+            "raw": "80.8",
+            "value": 80.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "78.0",
+            "value": 78.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "6.0%",
+            "value": 0.06
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        }
+      ]
+    },
+    "Georgia So vs Arkansas St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GASO",
+        "adv",
+        "ARST"
+      ],
+      "team_headers": [
+        "GASO",
+        "ARST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GASO": {
+            "raw": "74.7",
+            "value": 74.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "75.1",
+            "value": 75.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GASO": {
+            "raw": "1.063",
+            "value": 1.063
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "1.091",
+            "value": 1.091
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "50.3%",
+            "value": 0.503
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "GASO": {
+            "raw": "52.4%",
+            "value": 0.524
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "55.2%",
+            "value": 0.552
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "GASO": {
+            "raw": "47.6%",
+            "value": 0.47600000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "44.8%",
+            "value": 0.44799999999999995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "27.8%",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "52.1%",
+            "value": 0.521
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "53.7%",
+            "value": 0.537
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "32.2%",
+            "value": 0.322
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "33.0%",
+            "value": 0.33
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "73.2%",
+            "value": 0.732
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "GASO": {
+            "raw": "33.3",
+            "value": 33.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "36.6",
+            "value": 36.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "GASO": {
+            "raw": "28.1",
+            "value": 28.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "27.3",
+            "value": 27.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "26.1%",
+            "value": 0.261
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "37.3%",
+            "value": 0.373
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "68.1%",
+            "value": 0.6809999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "74.8%",
+            "value": 0.748
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "6.0%",
+            "value": 0.06
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "9.5%",
+            "value": 0.095
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "8.6%",
+            "value": 0.086
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "12.6%",
+            "value": 0.126
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "ARST": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "GASO": {
+            "raw": "0.401",
+            "value": 0.401
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "0.555",
+            "value": 0.555
+          }
+        }
+      ]
+    },
+    "Georgia So vs Arkansas St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GASO",
+        "adv",
+        "ARST"
+      ],
+      "team_headers": [
+        "GASO",
+        "ARST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GASO": {
+            "raw": "74.7",
+            "value": 74.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "75.1",
+            "value": 75.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GASO": {
+            "raw": "1.081",
+            "value": 1.081
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "1.038",
+            "value": 1.038
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "52.2%",
+            "value": 0.522
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "50.0%",
+            "value": 0.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "GASO": {
+            "raw": "61.1%",
+            "value": 0.611
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "62.0%",
+            "value": 0.62
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "GASO": {
+            "raw": "38.9%",
+            "value": 0.389
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "38.0%",
+            "value": 0.38
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "29.4%",
+            "value": 0.294
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "27.3%",
+            "value": 0.273
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "52.7%",
+            "value": 0.527
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "50.8%",
+            "value": 0.508
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "32.6%",
+            "value": 0.326
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "75.0%",
+            "value": 0.75
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "70.0%",
+            "value": 0.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "GASO": {
+            "raw": "38.3",
+            "value": 38.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "39.0",
+            "value": 39.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "GASO": {
+            "raw": "23.8",
+            "value": 23.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "23.0",
+            "value": 23.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "31.9%",
+            "value": 0.319
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "25.2%",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "62.7%",
+            "value": 0.627
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "GASO": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "10.2%",
+            "value": 0.102
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ARST": {
+            "raw": "13.1%",
+            "value": 0.131
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "GASO": {
+            "raw": "22.3%",
+            "value": 0.223
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ARST": {
+            "raw": "22.4%",
+            "value": 0.22399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "GASO": {
+            "raw": "0.454",
+            "value": 0.454
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ARST": {
+            "raw": "0.512",
+            "value": 0.512
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_gaso_vs_arst.off_efficiency.gaso": 1.063,
+    "matchup_menu_gaso_vs_arst.off_efficiency.arst": 1.091,
+    "matchup_menu_gaso_vs_arst.effective_fg.gaso": 0.503,
+    "matchup_menu_gaso_vs_arst.effective_fg.arst": 0.518,
+    "matchup_menu_gaso_vs_arst.turnovers_play.gaso": 0.126,
+    "matchup_menu_gaso_vs_arst.turnovers_play.arst": 0.16699999999999998,
+    "matchup_menu_gaso_vs_arst.off_rebound.gaso": 0.261,
+    "matchup_menu_gaso_vs_arst.off_rebound.arst": 0.373,
+    "matchup_menu_gaso_vs_arst.fta_fga.gaso": 0.403,
+    "matchup_menu_gaso_vs_arst.fta_fga.arst": 0.395,
+    "matchup_menu_gaso_vs_arst.points_game.gaso": 79.4,
+    "matchup_menu_gaso_vs_arst.points_game.arst": 81.9,
+    "matchup_menu_gaso_vs_arst.avg_score_margin.gaso": -1.3,
+    "matchup_menu_gaso_vs_arst.avg_score_margin.arst": 4.0,
+    "key_offensive_stats.off_efficiency.gaso": 1.063,
+    "key_offensive_stats.off_efficiency.arst": 1.091,
+    "key_offensive_stats.effective_fg.gaso": 0.503,
+    "key_offensive_stats.effective_fg.arst": 0.518,
+    "key_offensive_stats.turnovers_play.gaso": 0.126,
+    "key_offensive_stats.turnovers_play.arst": 0.16699999999999998,
+    "key_offensive_stats.off_rebound.gaso": 0.261,
+    "key_offensive_stats.off_rebound.arst": 0.373,
+    "key_offensive_stats.fta_fga.gaso": 0.403,
+    "key_offensive_stats.fta_fga.arst": 0.395,
+    "key_offensive_stats.points_game.gaso": 79.4,
+    "key_offensive_stats.points_game.arst": 81.9,
+    "key_offensive_stats.avg_score_margin.gaso": -1.3,
+    "key_offensive_stats.avg_score_margin.arst": 4.0,
+    "key_defensive_stats.def_efficiency.gaso": 1.081,
+    "key_defensive_stats.def_efficiency.arst": 1.038,
+    "key_defensive_stats.opp_effective_fg.gaso": 0.522,
+    "key_defensive_stats.opp_effective_fg.arst": 0.5,
+    "key_defensive_stats.opp_turnovers_play.gaso": 0.16,
+    "key_defensive_stats.opp_turnovers_play.arst": 0.131,
+    "key_defensive_stats.def_rebound.gaso": 0.6809999999999999,
+    "key_defensive_stats.def_rebound.arst": 0.748,
+    "key_defensive_stats.opp_fta_fga.gaso": 0.417,
+    "key_defensive_stats.opp_fta_fga.arst": 0.37,
+    "key_defensive_stats.opp_points_game.gaso": 80.8,
+    "key_defensive_stats.opp_points_game.arst": 78.0,
+    "key_defensive_stats.block.gaso": 0.06,
+    "key_defensive_stats.block.arst": 0.046,
+    "key_defensive_stats.personal_fouls_play.gaso": 0.235,
+    "key_defensive_stats.personal_fouls_play.arst": 0.228,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.possessions_gm.gaso": 74.7,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.possessions_gm.arst": 75.1,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.off_efficiency.gaso": 1.063,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.off_efficiency.arst": 1.091,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.effective_fg.gaso": 0.503,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.effective_fg.arst": 0.518,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.two_point_rate.gaso": 0.524,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.two_point_rate.arst": 0.552,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.three_point_rate.gaso": 0.47600000000000003,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.three_point_rate.arst": 0.44799999999999995,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.fta_play.gaso": 0.294,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.fta_play.arst": 0.278,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.two_point.gaso": 0.521,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.two_point.arst": 0.537,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.three_point.gaso": 0.322,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.three_point.arst": 0.33,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.free_throw.gaso": 0.732,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.free_throw.arst": 0.7390000000000001,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.points_2_pters.gaso": 33.3,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.points_2_pters.arst": 36.6,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.points_3_pters.gaso": 28.1,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.points_3_pters.arst": 27.3,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.off_rebound.gaso": 0.261,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.off_rebound.arst": 0.373,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.def_rebound.gaso": 0.6809999999999999,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.def_rebound.arst": 0.748,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.block.gaso": 0.06,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.block.arst": 0.046,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.steals_play.gaso": 0.095,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.steals_play.arst": 0.086,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.turnovers_play.gaso": 0.126,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.turnovers_play.arst": 0.16699999999999998,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.personal_fouls_play.gaso": 0.235,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.personal_fouls_play.arst": 0.228,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.assists_fgm.gaso": 0.401,
+    "georgia_so_vs_arkansas_st_offensive_efficiency.assists_fgm.arst": 0.555,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.possessions_gm.gaso": 74.7,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.possessions_gm.arst": 75.1,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.def_efficiency.gaso": 1.081,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.def_efficiency.arst": 1.038,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_effective_fg.gaso": 0.522,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_effective_fg.arst": 0.5,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_two_point_rate.gaso": 0.611,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_two_point_rate.arst": 0.62,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_three_point_rate.gaso": 0.389,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_three_point_rate.arst": 0.38,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_fta_play.gaso": 0.294,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_fta_play.arst": 0.273,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_two_point.gaso": 0.527,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_two_point.arst": 0.508,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_three_point.gaso": 0.34299999999999997,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_three_point.arst": 0.326,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_free_throw.gaso": 0.75,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_free_throw.arst": 0.7,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_points_2_pters.gaso": 38.3,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_points_2_pters.arst": 39.0,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_points_3_pters.gaso": 23.8,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_points_3_pters.arst": 23.0,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_off_rebound.gaso": 0.319,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_off_rebound.arst": 0.252,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_def_rebound.gaso": 0.7390000000000001,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_def_rebound.arst": 0.627,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_block.gaso": 0.051,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_block.arst": 0.057,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_steals_play.gaso": 0.079,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_steals_play.arst": 0.102,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_turnovers_play.gaso": 0.16,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_turnovers_play.arst": 0.131,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_personal_fouls_play.gaso": 0.223,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_personal_fouls_play.arst": 0.22399999999999998,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_assists_fgm.gaso": 0.454,
+    "georgia_so_vs_arkansas_st_defensive_efficiency.opp_assists_fgm.arst": 0.512
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "eagles-red-wolves-2026-03-05",
+  "matchup_title": "#263 Georgia So vs. #148 Arkansas St",
+  "teams": {
+    "away": "#263 Georgia So",
+    "home": "#148 Arkansas St",
+    "neutral_site": true
+  },
+  "time_local": "8:30 PM",
+  "location": "Pensacola Bay Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-red-wolves-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/eagles-red-wolves-2026-03-05/efficiency"
+  }
+}

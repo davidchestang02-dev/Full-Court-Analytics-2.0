@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-flames-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:24.709745+00:00",
+  "tables": {
+    "Matchup Menu: LT @ LIB": {
+      "headers": [
+        "Stat",
+        "LT",
+        "adv",
+        "LIB"
+      ],
+      "team_headers": [
+        "LT",
+        "LIB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.980",
+            "value": 0.98
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "1.141",
+            "value": 1.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LT": {
+            "raw": "46.6%",
+            "value": 0.466
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "60.2%",
+            "value": 0.602
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "15.9%",
+            "value": 0.159
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LT": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.353",
+            "value": 0.353
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "0.328",
+            "value": 0.328
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LT": {
+            "raw": "66.8",
+            "value": 66.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "76.6",
+            "value": 76.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LT": {
+            "raw": "-1.9",
+            "value": -1.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "+4.7",
+            "value": 4.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "LT",
+        "adv",
+        "LIB"
+      ],
+      "team_headers": [
+        "LT",
+        "LIB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.980",
+            "value": 0.98
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "1.141",
+            "value": 1.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LT": {
+            "raw": "46.6%",
+            "value": 0.466
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "60.2%",
+            "value": 0.602
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "15.9%",
+            "value": 0.159
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LT": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.353",
+            "value": 0.353
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "0.328",
+            "value": 0.328
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LT": {
+            "raw": "66.8",
+            "value": 66.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "76.6",
+            "value": 76.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LT": {
+            "raw": "-1.9",
+            "value": -1.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "+4.7",
+            "value": 4.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "LT",
+        "adv",
+        "LIB"
+      ],
+      "team_headers": [
+        "LT",
+        "LIB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LT": {
+            "raw": "1.008",
+            "value": 1.008
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "1.071",
+            "value": 1.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LT": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "52.6%",
+            "value": 0.526
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "15.4%",
+            "value": 0.154
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "15.1%",
+            "value": 0.151
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LT": {
+            "raw": "71.6%",
+            "value": 0.716
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "69.7%",
+            "value": 0.6970000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.364",
+            "value": 0.364
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "0.264",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "LT": {
+            "raw": "68.7",
+            "value": 68.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "71.8",
+            "value": 71.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LT": {
+            "raw": "8.7%",
+            "value": 0.087
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        }
+      ]
+    },
+    "Louisiana Tech vs Liberty Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LT",
+        "adv",
+        "LIB"
+      ],
+      "team_headers": [
+        "LT",
+        "LIB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LT": {
+            "raw": "68.2",
+            "value": 68.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "67.1",
+            "value": 67.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.980",
+            "value": 0.98
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "1.141",
+            "value": 1.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LT": {
+            "raw": "46.6%",
+            "value": 0.466
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "60.2%",
+            "value": 0.602
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "LT": {
+            "raw": "66.9%",
+            "value": 0.669
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "LT": {
+            "raw": "33.1%",
+            "value": 0.331
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "47.0%",
+            "value": 0.47
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "25.5%",
+            "value": 0.255
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "LT": {
+            "raw": "48.8%",
+            "value": 0.488
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "61.0%",
+            "value": 0.61
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "LT": {
+            "raw": "28.1%",
+            "value": 0.281
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "39.6%",
+            "value": 0.396
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "LT": {
+            "raw": "65.8%",
+            "value": 0.6579999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "70.5%",
+            "value": 0.705
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "LT": {
+            "raw": "37.5",
+            "value": 37.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "34.5",
+            "value": 34.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "LT": {
+            "raw": "16.0",
+            "value": 16.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "29.8",
+            "value": 29.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LT": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "14.9%",
+            "value": 0.149
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LT": {
+            "raw": "71.6%",
+            "value": 0.716
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "69.7%",
+            "value": 0.6970000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LT": {
+            "raw": "8.7%",
+            "value": 0.087
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "8.5%",
+            "value": 0.085
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "8.4%",
+            "value": 0.084
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "15.9%",
+            "value": 0.159
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "21.4%",
+            "value": 0.214
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.471",
+            "value": 0.471
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "0.603",
+            "value": 0.603
+          }
+        }
+      ]
+    },
+    "Louisiana Tech vs Liberty Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LT",
+        "adv",
+        "LIB"
+      ],
+      "team_headers": [
+        "LT",
+        "LIB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LT": {
+            "raw": "68.2",
+            "value": 68.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "67.1",
+            "value": 67.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LT": {
+            "raw": "1.008",
+            "value": 1.008
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "1.071",
+            "value": 1.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LT": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "52.6%",
+            "value": 0.526
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "LT": {
+            "raw": "54.4%",
+            "value": 0.544
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "62.3%",
+            "value": 0.623
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "LT": {
+            "raw": "45.6%",
+            "value": 0.456
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "37.7%",
+            "value": 0.377
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "26.2%",
+            "value": 0.262
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "20.0%",
+            "value": 0.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "LT": {
+            "raw": "46.7%",
+            "value": 0.467
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "49.9%",
+            "value": 0.499
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "LT": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "38.0%",
+            "value": 0.38
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "LT": {
+            "raw": "71.0%",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "72.8%",
+            "value": 0.728
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "LT": {
+            "raw": "28.2",
+            "value": 28.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "35.9",
+            "value": 35.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "LT": {
+            "raw": "26.2",
+            "value": 26.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "24.8",
+            "value": 24.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "LT": {
+            "raw": "28.4%",
+            "value": 0.284
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "30.3%",
+            "value": 0.303
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "LT": {
+            "raw": "65.3%",
+            "value": 0.653
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "LIB": {
+            "raw": "85.1%",
+            "value": 0.851
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "LT": {
+            "raw": "7.1%",
+            "value": 0.071
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "6.0%",
+            "value": 0.06
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "8.8%",
+            "value": 0.08800000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "7.6%",
+            "value": 0.076
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "15.4%",
+            "value": 0.154
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "LIB": {
+            "raw": "15.1%",
+            "value": 0.151
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "LT": {
+            "raw": "21.1%",
+            "value": 0.21100000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "LIB": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "LT": {
+            "raw": "0.551",
+            "value": 0.551
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "LIB": {
+            "raw": "0.465",
+            "value": 0.465
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_lt_lib.off_efficiency.lt": 0.98,
+    "matchup_menu_lt_lib.off_efficiency.lib": 1.141,
+    "matchup_menu_lt_lib.effective_fg.lt": 0.466,
+    "matchup_menu_lt_lib.effective_fg.lib": 0.602,
+    "matchup_menu_lt_lib.turnovers_play.lt": 0.159,
+    "matchup_menu_lt_lib.turnovers_play.lib": 0.128,
+    "matchup_menu_lt_lib.off_rebound.lt": 0.34700000000000003,
+    "matchup_menu_lt_lib.off_rebound.lib": 0.149,
+    "matchup_menu_lt_lib.fta_fga.lt": 0.353,
+    "matchup_menu_lt_lib.fta_fga.lib": 0.328,
+    "matchup_menu_lt_lib.points_game.lt": 66.8,
+    "matchup_menu_lt_lib.points_game.lib": 76.6,
+    "matchup_menu_lt_lib.avg_score_margin.lt": -1.9,
+    "matchup_menu_lt_lib.avg_score_margin.lib": 4.7,
+    "key_offensive_stats.off_efficiency.lt": 0.98,
+    "key_offensive_stats.off_efficiency.lib": 1.141,
+    "key_offensive_stats.effective_fg.lt": 0.466,
+    "key_offensive_stats.effective_fg.lib": 0.602,
+    "key_offensive_stats.turnovers_play.lt": 0.159,
+    "key_offensive_stats.turnovers_play.lib": 0.128,
+    "key_offensive_stats.off_rebound.lt": 0.34700000000000003,
+    "key_offensive_stats.off_rebound.lib": 0.149,
+    "key_offensive_stats.fta_fga.lt": 0.353,
+    "key_offensive_stats.fta_fga.lib": 0.328,
+    "key_offensive_stats.points_game.lt": 66.8,
+    "key_offensive_stats.points_game.lib": 76.6,
+    "key_offensive_stats.avg_score_margin.lt": -1.9,
+    "key_offensive_stats.avg_score_margin.lib": 4.7,
+    "key_defensive_stats.def_efficiency.lt": 1.008,
+    "key_defensive_stats.def_efficiency.lib": 1.071,
+    "key_defensive_stats.opp_effective_fg.lt": 0.49,
+    "key_defensive_stats.opp_effective_fg.lib": 0.526,
+    "key_defensive_stats.opp_turnovers_play.lt": 0.154,
+    "key_defensive_stats.opp_turnovers_play.lib": 0.151,
+    "key_defensive_stats.def_rebound.lt": 0.716,
+    "key_defensive_stats.def_rebound.lib": 0.6970000000000001,
+    "key_defensive_stats.opp_fta_fga.lt": 0.364,
+    "key_defensive_stats.opp_fta_fga.lib": 0.264,
+    "key_defensive_stats.opp_points_game.lt": 68.7,
+    "key_defensive_stats.opp_points_game.lib": 71.8,
+    "key_defensive_stats.block.lt": 0.087,
+    "key_defensive_stats.block.lib": 0.057999999999999996,
+    "key_defensive_stats.personal_fouls_play.lt": 0.214,
+    "key_defensive_stats.personal_fouls_play.lib": 0.19,
+    "louisiana_tech_vs_liberty_offensive_efficiency.possessions_gm.lt": 68.2,
+    "louisiana_tech_vs_liberty_offensive_efficiency.possessions_gm.lib": 67.1,
+    "louisiana_tech_vs_liberty_offensive_efficiency.off_efficiency.lt": 0.98,
+    "louisiana_tech_vs_liberty_offensive_efficiency.off_efficiency.lib": 1.141,
+    "louisiana_tech_vs_liberty_offensive_efficiency.effective_fg.lt": 0.466,
+    "louisiana_tech_vs_liberty_offensive_efficiency.effective_fg.lib": 0.602,
+    "louisiana_tech_vs_liberty_offensive_efficiency.two_point_rate.lt": 0.669,
+    "louisiana_tech_vs_liberty_offensive_efficiency.two_point_rate.lib": 0.53,
+    "louisiana_tech_vs_liberty_offensive_efficiency.three_point_rate.lt": 0.331,
+    "louisiana_tech_vs_liberty_offensive_efficiency.three_point_rate.lib": 0.47,
+    "louisiana_tech_vs_liberty_offensive_efficiency.fta_play.lt": 0.255,
+    "louisiana_tech_vs_liberty_offensive_efficiency.fta_play.lib": 0.24600000000000002,
+    "louisiana_tech_vs_liberty_offensive_efficiency.two_point.lt": 0.488,
+    "louisiana_tech_vs_liberty_offensive_efficiency.two_point.lib": 0.61,
+    "louisiana_tech_vs_liberty_offensive_efficiency.three_point.lt": 0.281,
+    "louisiana_tech_vs_liberty_offensive_efficiency.three_point.lib": 0.396,
+    "louisiana_tech_vs_liberty_offensive_efficiency.free_throw.lt": 0.6579999999999999,
+    "louisiana_tech_vs_liberty_offensive_efficiency.free_throw.lib": 0.705,
+    "louisiana_tech_vs_liberty_offensive_efficiency.points_2_pters.lt": 37.5,
+    "louisiana_tech_vs_liberty_offensive_efficiency.points_2_pters.lib": 34.5,
+    "louisiana_tech_vs_liberty_offensive_efficiency.points_3_pters.lt": 16.0,
+    "louisiana_tech_vs_liberty_offensive_efficiency.points_3_pters.lib": 29.8,
+    "louisiana_tech_vs_liberty_offensive_efficiency.off_rebound.lt": 0.34700000000000003,
+    "louisiana_tech_vs_liberty_offensive_efficiency.off_rebound.lib": 0.149,
+    "louisiana_tech_vs_liberty_offensive_efficiency.def_rebound.lt": 0.716,
+    "louisiana_tech_vs_liberty_offensive_efficiency.def_rebound.lib": 0.6970000000000001,
+    "louisiana_tech_vs_liberty_offensive_efficiency.block.lt": 0.087,
+    "louisiana_tech_vs_liberty_offensive_efficiency.block.lib": 0.057999999999999996,
+    "louisiana_tech_vs_liberty_offensive_efficiency.steals_play.lt": 0.085,
+    "louisiana_tech_vs_liberty_offensive_efficiency.steals_play.lib": 0.084,
+    "louisiana_tech_vs_liberty_offensive_efficiency.turnovers_play.lt": 0.159,
+    "louisiana_tech_vs_liberty_offensive_efficiency.turnovers_play.lib": 0.128,
+    "louisiana_tech_vs_liberty_offensive_efficiency.personal_fouls_play.lt": 0.214,
+    "louisiana_tech_vs_liberty_offensive_efficiency.personal_fouls_play.lib": 0.19,
+    "louisiana_tech_vs_liberty_offensive_efficiency.assists_fgm.lt": 0.471,
+    "louisiana_tech_vs_liberty_offensive_efficiency.assists_fgm.lib": 0.603,
+    "louisiana_tech_vs_liberty_defensive_efficiency.possessions_gm.lt": 68.2,
+    "louisiana_tech_vs_liberty_defensive_efficiency.possessions_gm.lib": 67.1,
+    "louisiana_tech_vs_liberty_defensive_efficiency.def_efficiency.lt": 1.008,
+    "louisiana_tech_vs_liberty_defensive_efficiency.def_efficiency.lib": 1.071,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_effective_fg.lt": 0.49,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_effective_fg.lib": 0.526,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_two_point_rate.lt": 0.544,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_two_point_rate.lib": 0.623,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_three_point_rate.lt": 0.456,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_three_point_rate.lib": 0.377,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_fta_play.lt": 0.262,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_fta_play.lib": 0.2,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_two_point.lt": 0.467,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_two_point.lib": 0.499,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_three_point.lt": 0.345,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_three_point.lib": 0.38,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_free_throw.lt": 0.71,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_free_throw.lib": 0.728,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_points_2_pters.lt": 28.2,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_points_2_pters.lib": 35.9,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_points_3_pters.lt": 26.2,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_points_3_pters.lib": 24.8,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_off_rebound.lt": 0.284,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_off_rebound.lib": 0.303,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_def_rebound.lt": 0.653,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_def_rebound.lib": 0.851,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_block.lt": 0.071,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_block.lib": 0.06,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_steals_play.lt": 0.08800000000000001,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_steals_play.lib": 0.076,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_turnovers_play.lt": 0.154,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_turnovers_play.lib": 0.151,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_personal_fouls_play.lt": 0.21100000000000002,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_personal_fouls_play.lib": 0.22899999999999998,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_assists_fgm.lt": 0.551,
+    "louisiana_tech_vs_liberty_defensive_efficiency.opp_assists_fgm.lib": 0.465
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "bulldogs-flames-2026-03-05",
+  "matchup_title": "#212 Louisiana Tech at #106 Liberty",
+  "teams": {
+    "away": "#212 Louisiana Tech",
+    "home": "#106 Liberty",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Liberty Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-flames-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/bulldogs-flames-2026-03-05/efficiency"
+  }
+}

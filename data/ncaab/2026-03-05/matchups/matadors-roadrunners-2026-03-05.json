@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/matadors-roadrunners-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:56.156278+00:00",
+  "tables": {
+    "Matchup Menu: CSN @ CSB": {
+      "headers": [
+        "Stat",
+        "CSN",
+        "adv",
+        "CSB"
+      ],
+      "team_headers": [
+        "CSN",
+        "CSB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "CSN": {
+            "raw": "1.037",
+            "value": 1.037
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "0.961",
+            "value": 0.961
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "45.4%",
+            "value": 0.45399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "16.3%",
+            "value": 0.163
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "CSN": {
+            "raw": "0.354",
+            "value": 0.354
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "0.432",
+            "value": 0.432
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "CSN": {
+            "raw": "80.7",
+            "value": 80.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "71.4",
+            "value": 71.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "CSN": {
+            "raw": "-0.2",
+            "value": -0.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "-11.0",
+            "value": -11.0
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "CSN",
+        "adv",
+        "CSB"
+      ],
+      "team_headers": [
+        "CSN",
+        "CSB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "CSN": {
+            "raw": "1.037",
+            "value": 1.037
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "0.961",
+            "value": 0.961
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "45.4%",
+            "value": 0.45399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "16.3%",
+            "value": 0.163
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "CSN": {
+            "raw": "0.354",
+            "value": 0.354
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "0.432",
+            "value": 0.432
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "CSN": {
+            "raw": "80.7",
+            "value": 80.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "71.4",
+            "value": 71.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "CSN": {
+            "raw": "-0.2",
+            "value": -0.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "-11.0",
+            "value": -11.0
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "CSN",
+        "adv",
+        "CSB"
+      ],
+      "team_headers": [
+        "CSN",
+        "CSB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "CSN": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.4%",
+            "value": 0.514
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "54.0%",
+            "value": 0.54
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "15.5%",
+            "value": 0.155
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CSB": {
+            "raw": "68.2%",
+            "value": 0.682
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "CSN": {
+            "raw": "0.349",
+            "value": 0.349
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "0.440",
+            "value": 0.44
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "CSN": {
+            "raw": "80.9",
+            "value": 80.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "82.4",
+            "value": 82.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CSB": {
+            "raw": "8.3%",
+            "value": 0.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        }
+      ]
+    },
+    "CS Northridge vs CS Bakersfield Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "CSN",
+        "adv",
+        "CSB"
+      ],
+      "team_headers": [
+        "CSN",
+        "CSB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "CSN": {
+            "raw": "77.8",
+            "value": 77.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "74.3",
+            "value": 74.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "CSN": {
+            "raw": "1.037",
+            "value": 1.037
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "0.961",
+            "value": 0.961
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "45.4%",
+            "value": 0.45399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "CSN": {
+            "raw": "67.8%",
+            "value": 0.6779999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "71.5%",
+            "value": 0.715
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "CSN": {
+            "raw": "32.2%",
+            "value": 0.322
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "26.0%",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "29.9%",
+            "value": 0.299
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "46.3%",
+            "value": 0.46299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "33.3%",
+            "value": 0.33299999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "28.7%",
+            "value": 0.287
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "65.5%",
+            "value": 0.655
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "CSN": {
+            "raw": "45.1",
+            "value": 45.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "38.5",
+            "value": 38.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "CSN": {
+            "raw": "20.7",
+            "value": 20.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "14.3",
+            "value": 14.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "28.7%",
+            "value": 0.287
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "28.5%",
+            "value": 0.285
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CSB": {
+            "raw": "68.2%",
+            "value": 0.682
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "CSB": {
+            "raw": "8.3%",
+            "value": 0.083
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "7.8%",
+            "value": 0.078
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "8.7%",
+            "value": 0.087
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "15.1%",
+            "value": 0.151
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "16.3%",
+            "value": 0.163
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "21.3%",
+            "value": 0.213
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "CSN": {
+            "raw": "0.568",
+            "value": 0.568
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "0.443",
+            "value": 0.443
+          }
+        }
+      ]
+    },
+    "CS Northridge vs CS Bakersfield Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "CSN",
+        "adv",
+        "CSB"
+      ],
+      "team_headers": [
+        "CSN",
+        "CSB"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "CSN": {
+            "raw": "77.8",
+            "value": 77.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "74.3",
+            "value": 74.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "CSN": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "1.110",
+            "value": 1.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.4%",
+            "value": 0.514
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "54.0%",
+            "value": 0.54
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.5%",
+            "value": 0.515
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "61.2%",
+            "value": 0.612
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "CSN": {
+            "raw": "48.5%",
+            "value": 0.485
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "25.3%",
+            "value": 0.253
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "30.8%",
+            "value": 0.308
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "51.3%",
+            "value": 0.513
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "53.5%",
+            "value": 0.535
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "36.6%",
+            "value": 0.366
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "76.3%",
+            "value": 0.763
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "72.6%",
+            "value": 0.726
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "CSN": {
+            "raw": "33.1",
+            "value": 33.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSB": {
+            "raw": "38.6",
+            "value": 38.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "CSN": {
+            "raw": "31.2",
+            "value": 31.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "25.1",
+            "value": 25.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CSB": {
+            "raw": "31.8%",
+            "value": 0.318
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "71.3%",
+            "value": 0.713
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "71.5%",
+            "value": 0.715
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "CSN": {
+            "raw": "6.7%",
+            "value": 0.067
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "9.1%",
+            "value": 0.091
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "8.9%",
+            "value": 0.08900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "14.4%",
+            "value": 0.14400000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "15.5%",
+            "value": 0.155
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "CSN": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSB": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "CSN": {
+            "raw": "0.573",
+            "value": 0.573
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSB": {
+            "raw": "0.547",
+            "value": 0.547
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_csn_csb.off_efficiency.csn": 1.037,
+    "matchup_menu_csn_csb.off_efficiency.csb": 0.961,
+    "matchup_menu_csn_csb.effective_fg.csn": 0.513,
+    "matchup_menu_csn_csb.effective_fg.csb": 0.45399999999999996,
+    "matchup_menu_csn_csb.turnovers_play.csn": 0.151,
+    "matchup_menu_csn_csb.turnovers_play.csb": 0.163,
+    "matchup_menu_csn_csb.off_rebound.csn": 0.287,
+    "matchup_menu_csn_csb.off_rebound.csb": 0.285,
+    "matchup_menu_csn_csb.fta_fga.csn": 0.354,
+    "matchup_menu_csn_csb.fta_fga.csb": 0.432,
+    "matchup_menu_csn_csb.points_game.csn": 80.7,
+    "matchup_menu_csn_csb.points_game.csb": 71.4,
+    "matchup_menu_csn_csb.avg_score_margin.csn": -0.2,
+    "matchup_menu_csn_csb.avg_score_margin.csb": -11.0,
+    "key_offensive_stats.off_efficiency.csn": 1.037,
+    "key_offensive_stats.off_efficiency.csb": 0.961,
+    "key_offensive_stats.effective_fg.csn": 0.513,
+    "key_offensive_stats.effective_fg.csb": 0.45399999999999996,
+    "key_offensive_stats.turnovers_play.csn": 0.151,
+    "key_offensive_stats.turnovers_play.csb": 0.163,
+    "key_offensive_stats.off_rebound.csn": 0.287,
+    "key_offensive_stats.off_rebound.csb": 0.285,
+    "key_offensive_stats.fta_fga.csn": 0.354,
+    "key_offensive_stats.fta_fga.csb": 0.432,
+    "key_offensive_stats.points_game.csn": 80.7,
+    "key_offensive_stats.points_game.csb": 71.4,
+    "key_offensive_stats.avg_score_margin.csn": -0.2,
+    "key_offensive_stats.avg_score_margin.csb": -11.0,
+    "key_defensive_stats.def_efficiency.csn": 1.04,
+    "key_defensive_stats.def_efficiency.csb": 1.11,
+    "key_defensive_stats.opp_effective_fg.csn": 0.514,
+    "key_defensive_stats.opp_effective_fg.csb": 0.54,
+    "key_defensive_stats.opp_turnovers_play.csn": 0.14400000000000002,
+    "key_defensive_stats.opp_turnovers_play.csb": 0.155,
+    "key_defensive_stats.def_rebound.csn": 0.7559999999999999,
+    "key_defensive_stats.def_rebound.csb": 0.682,
+    "key_defensive_stats.opp_fta_fga.csn": 0.349,
+    "key_defensive_stats.opp_fta_fga.csb": 0.44,
+    "key_defensive_stats.opp_points_game.csn": 80.9,
+    "key_defensive_stats.opp_points_game.csb": 82.4,
+    "key_defensive_stats.block.csn": 0.044000000000000004,
+    "key_defensive_stats.block.csb": 0.083,
+    "key_defensive_stats.personal_fouls_play.csn": 0.213,
+    "key_defensive_stats.personal_fouls_play.csb": 0.243,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.possessions_gm.csn": 77.8,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.possessions_gm.csb": 74.3,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.off_efficiency.csn": 1.037,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.off_efficiency.csb": 0.961,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.effective_fg.csn": 0.513,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.effective_fg.csb": 0.45399999999999996,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.two_point_rate.csn": 0.6779999999999999,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.two_point_rate.csb": 0.715,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.three_point_rate.csn": 0.322,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.three_point_rate.csb": 0.285,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.fta_play.csn": 0.26,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.fta_play.csb": 0.299,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.two_point.csn": 0.519,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.two_point.csb": 0.46299999999999997,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.three_point.csn": 0.33299999999999996,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.three_point.csb": 0.287,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.free_throw.csn": 0.655,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.free_throw.csb": 0.7440000000000001,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.points_2_pters.csn": 45.1,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.points_2_pters.csb": 38.5,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.points_3_pters.csn": 20.7,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.points_3_pters.csb": 14.3,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.off_rebound.csn": 0.287,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.off_rebound.csb": 0.285,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.def_rebound.csn": 0.7559999999999999,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.def_rebound.csb": 0.682,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.block.csn": 0.044000000000000004,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.block.csb": 0.083,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.steals_play.csn": 0.078,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.steals_play.csb": 0.087,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.turnovers_play.csn": 0.151,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.turnovers_play.csb": 0.163,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.personal_fouls_play.csn": 0.213,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.personal_fouls_play.csb": 0.243,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.assists_fgm.csn": 0.568,
+    "cs_northridge_vs_cs_bakersfield_offensive_efficiency.assists_fgm.csb": 0.443,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.possessions_gm.csn": 77.8,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.possessions_gm.csb": 74.3,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.def_efficiency.csn": 1.04,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.def_efficiency.csb": 1.11,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_effective_fg.csn": 0.514,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_effective_fg.csb": 0.54,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_two_point_rate.csn": 0.515,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_two_point_rate.csb": 0.612,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_three_point_rate.csn": 0.485,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_three_point_rate.csb": 0.38799999999999996,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_fta_play.csn": 0.253,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_fta_play.csb": 0.308,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_two_point.csn": 0.513,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_two_point.csb": 0.535,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_three_point.csn": 0.34299999999999997,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_three_point.csb": 0.366,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_free_throw.csn": 0.763,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_free_throw.csb": 0.726,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_points_2_pters.csn": 33.1,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_points_2_pters.csb": 38.6,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_points_3_pters.csn": 31.2,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_points_3_pters.csb": 25.1,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_off_rebound.csn": 0.244,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_off_rebound.csb": 0.318,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_def_rebound.csn": 0.713,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_def_rebound.csb": 0.715,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_block.csn": 0.067,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_block.csb": 0.066,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_steals_play.csn": 0.091,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_steals_play.csb": 0.08900000000000001,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_turnovers_play.csn": 0.14400000000000002,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_turnovers_play.csb": 0.155,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_personal_fouls_play.csn": 0.218,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_personal_fouls_play.csb": 0.23199999999999998,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_assists_fgm.csn": 0.573,
+    "cs_northridge_vs_cs_bakersfield_defensive_efficiency.opp_assists_fgm.csb": 0.547
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "matadors-roadrunners-2026-03-05",
+  "matchup_title": "#180 CS Northridge at #331 CS Bakersfield",
+  "teams": {
+    "away": "#180 CS Northridge",
+    "home": "#331 CS Bakersfield",
+    "neutral_site": false
+  },
+  "time_local": "9:30 PM",
+  "location": "Icardo Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/matadors-roadrunners-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/matadors-roadrunners-2026-03-05/efficiency"
+  }
+}

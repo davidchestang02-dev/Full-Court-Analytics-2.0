@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/delta-devils-tigers-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:14.277229+00:00",
+  "tables": {
+    "Matchup Menu: MVSU @ JKST": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "MVSU",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.877",
+            "value": 0.877
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.952",
+            "value": 0.952
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.9%",
+            "value": 0.45899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "26.1%",
+            "value": 0.261
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.330",
+            "value": 0.33
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.353",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "63.1",
+            "value": 63.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "70.2",
+            "value": 70.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "-20.7",
+            "value": -20.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "-14.9",
+            "value": -14.9
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "MVSU",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.877",
+            "value": 0.877
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.952",
+            "value": 0.952
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.9%",
+            "value": 0.45899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "26.1%",
+            "value": 0.261
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.330",
+            "value": 0.33
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.353",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "63.1",
+            "value": 63.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "70.2",
+            "value": 70.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "-20.7",
+            "value": -20.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "-14.9",
+            "value": -14.9
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "MVSU",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "1.165",
+            "value": 1.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "1.154",
+            "value": 1.154
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "55.8%",
+            "value": 0.5579999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "13.4%",
+            "value": 0.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "65.6%",
+            "value": 0.6559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "63.2%",
+            "value": 0.632
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.495",
+            "value": 0.495
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.415",
+            "value": 0.415
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "83.9",
+            "value": 83.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "85.1",
+            "value": 85.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "4.5%",
+            "value": 0.045
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "4.8%",
+            "value": 0.048
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "26.2%",
+            "value": 0.262
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        }
+      ]
+    },
+    "Miss Valley St vs Jackson St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "MVSU",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "72.0",
+            "value": 72.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "73.7",
+            "value": 73.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.877",
+            "value": 0.877
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.952",
+            "value": 0.952
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.9%",
+            "value": 0.45899999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "70.1%",
+            "value": 0.701
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "JKST": {
+            "raw": "56.6%",
+            "value": 0.5660000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "JKST": {
+            "raw": "43.4%",
+            "value": 0.434
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "23.1%",
+            "value": 0.231
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "25.2%",
+            "value": 0.252
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "45.8%",
+            "value": 0.45799999999999996
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "45.1%",
+            "value": 0.451
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "28.6%",
+            "value": 0.28600000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "71.3%",
+            "value": 0.713
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "76.5%",
+            "value": 0.765
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "35.7",
+            "value": 35.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "30.1",
+            "value": 30.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "14.3",
+            "value": 14.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "JKST": {
+            "raw": "24.1",
+            "value": 24.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "26.1%",
+            "value": 0.261
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "65.6%",
+            "value": 0.6559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "63.2%",
+            "value": 0.632
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "4.5%",
+            "value": 0.045
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "4.8%",
+            "value": 0.048
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "8.7%",
+            "value": 0.087
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "19.3%",
+            "value": 0.193
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "26.2%",
+            "value": 0.262
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "22.8%",
+            "value": 0.228
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.517",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "0.460",
+            "value": 0.46
+          }
+        }
+      ]
+    },
+    "Miss Valley St vs Jackson St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "MVSU",
+        "adv",
+        "JKST"
+      ],
+      "team_headers": [
+        "MVSU",
+        "JKST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "72.0",
+            "value": 72.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "73.7",
+            "value": 73.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "1.165",
+            "value": 1.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "1.154",
+            "value": 1.154
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "55.8%",
+            "value": 0.5579999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "57.4%",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "59.9%",
+            "value": 0.599
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "42.6%",
+            "value": 0.426
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "40.1%",
+            "value": 0.401
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "29.9%",
+            "value": 0.299
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "56.4%",
+            "value": 0.564
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "54.4%",
+            "value": 0.544
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "36.6%",
+            "value": 0.366
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "34.5%",
+            "value": 0.345
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "74.9%",
+            "value": 0.7490000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "74.3%",
+            "value": 0.743
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "36.5",
+            "value": 36.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "40.3",
+            "value": 40.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "26.4",
+            "value": 26.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "25.7",
+            "value": 25.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "34.4%",
+            "value": 0.344
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "36.8%",
+            "value": 0.368
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "76.0%",
+            "value": 0.76
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "6.3%",
+            "value": 0.063
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "11.1%",
+            "value": 0.111
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "JKST": {
+            "raw": "13.4%",
+            "value": 0.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "MVSU": {
+            "raw": "0.599",
+            "value": 0.599
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "JKST": {
+            "raw": "0.607",
+            "value": 0.607
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_mvsu_jkst.off_efficiency.mvsu": 0.877,
+    "matchup_menu_mvsu_jkst.off_efficiency.jkst": 0.952,
+    "matchup_menu_mvsu_jkst.effective_fg.mvsu": 0.449,
+    "matchup_menu_mvsu_jkst.effective_fg.jkst": 0.45899999999999996,
+    "matchup_menu_mvsu_jkst.turnovers_play.mvsu": 0.193,
+    "matchup_menu_mvsu_jkst.turnovers_play.jkst": 0.16899999999999998,
+    "matchup_menu_mvsu_jkst.off_rebound.mvsu": 0.24,
+    "matchup_menu_mvsu_jkst.off_rebound.jkst": 0.261,
+    "matchup_menu_mvsu_jkst.fta_fga.mvsu": 0.33,
+    "matchup_menu_mvsu_jkst.fta_fga.jkst": 0.353,
+    "matchup_menu_mvsu_jkst.points_game.mvsu": 63.1,
+    "matchup_menu_mvsu_jkst.points_game.jkst": 70.2,
+    "matchup_menu_mvsu_jkst.avg_score_margin.mvsu": -20.7,
+    "matchup_menu_mvsu_jkst.avg_score_margin.jkst": -14.9,
+    "key_offensive_stats.off_efficiency.mvsu": 0.877,
+    "key_offensive_stats.off_efficiency.jkst": 0.952,
+    "key_offensive_stats.effective_fg.mvsu": 0.449,
+    "key_offensive_stats.effective_fg.jkst": 0.45899999999999996,
+    "key_offensive_stats.turnovers_play.mvsu": 0.193,
+    "key_offensive_stats.turnovers_play.jkst": 0.16899999999999998,
+    "key_offensive_stats.off_rebound.mvsu": 0.24,
+    "key_offensive_stats.off_rebound.jkst": 0.261,
+    "key_offensive_stats.fta_fga.mvsu": 0.33,
+    "key_offensive_stats.fta_fga.jkst": 0.353,
+    "key_offensive_stats.points_game.mvsu": 63.1,
+    "key_offensive_stats.points_game.jkst": 70.2,
+    "key_offensive_stats.avg_score_margin.mvsu": -20.7,
+    "key_offensive_stats.avg_score_margin.jkst": -14.9,
+    "key_defensive_stats.def_efficiency.mvsu": 1.165,
+    "key_defensive_stats.def_efficiency.jkst": 1.154,
+    "key_defensive_stats.opp_effective_fg.mvsu": 0.5579999999999999,
+    "key_defensive_stats.opp_effective_fg.jkst": 0.5329999999999999,
+    "key_defensive_stats.opp_turnovers_play.mvsu": 0.14800000000000002,
+    "key_defensive_stats.opp_turnovers_play.jkst": 0.134,
+    "key_defensive_stats.def_rebound.mvsu": 0.6559999999999999,
+    "key_defensive_stats.def_rebound.jkst": 0.632,
+    "key_defensive_stats.opp_fta_fga.mvsu": 0.495,
+    "key_defensive_stats.opp_fta_fga.jkst": 0.415,
+    "key_defensive_stats.opp_points_game.mvsu": 83.9,
+    "key_defensive_stats.opp_points_game.jkst": 85.1,
+    "key_defensive_stats.block.mvsu": 0.045,
+    "key_defensive_stats.block.jkst": 0.048,
+    "key_defensive_stats.personal_fouls_play.mvsu": 0.262,
+    "key_defensive_stats.personal_fouls_play.jkst": 0.228,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.possessions_gm.mvsu": 72.0,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.possessions_gm.jkst": 73.7,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.off_efficiency.mvsu": 0.877,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.off_efficiency.jkst": 0.952,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.effective_fg.mvsu": 0.449,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.effective_fg.jkst": 0.45899999999999996,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.two_point_rate.mvsu": 0.701,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.two_point_rate.jkst": 0.5660000000000001,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.three_point_rate.mvsu": 0.299,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.three_point_rate.jkst": 0.434,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.fta_play.mvsu": 0.231,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.fta_play.jkst": 0.252,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.two_point.mvsu": 0.45799999999999996,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.two_point.jkst": 0.451,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.three_point.mvsu": 0.28600000000000003,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.three_point.jkst": 0.313,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.free_throw.mvsu": 0.713,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.free_throw.jkst": 0.765,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.points_2_pters.mvsu": 35.7,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.points_2_pters.jkst": 30.1,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.points_3_pters.mvsu": 14.3,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.points_3_pters.jkst": 24.1,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.off_rebound.mvsu": 0.24,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.off_rebound.jkst": 0.261,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.def_rebound.mvsu": 0.6559999999999999,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.def_rebound.jkst": 0.632,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.block.mvsu": 0.045,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.block.jkst": 0.048,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.steals_play.mvsu": 0.087,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.steals_play.jkst": 0.071,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.turnovers_play.mvsu": 0.193,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.turnovers_play.jkst": 0.16899999999999998,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.personal_fouls_play.mvsu": 0.262,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.personal_fouls_play.jkst": 0.228,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.assists_fgm.mvsu": 0.517,
+    "miss_valley_st_vs_jackson_st_offensive_efficiency.assists_fgm.jkst": 0.46,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.possessions_gm.mvsu": 72.0,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.possessions_gm.jkst": 73.7,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.def_efficiency.mvsu": 1.165,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.def_efficiency.jkst": 1.154,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_effective_fg.mvsu": 0.5579999999999999,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_effective_fg.jkst": 0.5329999999999999,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_two_point_rate.mvsu": 0.574,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_two_point_rate.jkst": 0.599,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_three_point_rate.mvsu": 0.426,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_three_point_rate.jkst": 0.401,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_fta_play.mvsu": 0.34,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_fta_play.jkst": 0.299,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_two_point.mvsu": 0.564,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_two_point.jkst": 0.544,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_three_point.mvsu": 0.366,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_three_point.jkst": 0.345,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_free_throw.mvsu": 0.7490000000000001,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_free_throw.jkst": 0.743,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_points_2_pters.mvsu": 36.5,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_points_2_pters.jkst": 40.3,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_points_3_pters.mvsu": 26.4,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_points_3_pters.jkst": 25.7,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_off_rebound.mvsu": 0.344,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_off_rebound.jkst": 0.368,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_def_rebound.mvsu": 0.76,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_def_rebound.jkst": 0.7390000000000001,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_block.mvsu": 0.063,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_block.jkst": 0.071,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_steals_play.mvsu": 0.111,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_steals_play.jkst": 0.095,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_turnovers_play.mvsu": 0.14800000000000002,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_turnovers_play.jkst": 0.134,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_personal_fouls_play.mvsu": 0.218,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_personal_fouls_play.jkst": 0.21600000000000003,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_assists_fgm.mvsu": 0.599,
+    "miss_valley_st_vs_jackson_st_defensive_efficiency.opp_assists_fgm.jkst": 0.607
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "delta-devils-tigers-2026-03-05",
+  "matchup_title": "#365 Miss Valley St at #352 Jackson St",
+  "teams": {
+    "away": "#365 Miss Valley St",
+    "home": "#352 Jackson St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Williams Assembly Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/delta-devils-tigers-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/delta-devils-tigers-2026-03-05/efficiency"
+  }
+}

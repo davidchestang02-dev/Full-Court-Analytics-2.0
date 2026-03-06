@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/lakers-nuggets-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:10.215886+00:00",
+  "tables": {
+    "Matchup Menu: LAL @ DEN": {
+      "headers": [
+        "Stat",
+        "LAL",
+        "adv",
+        "DEN"
+      ],
+      "team_headers": [
+        "LAL",
+        "DEN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LAL": {
+            "raw": "1.139",
+            "value": 1.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "1.176",
+            "value": 1.176
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "56.9%",
+            "value": 0.569
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "57.2%",
+            "value": 0.5720000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "13.2%",
+            "value": 0.132
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "11.6%",
+            "value": 0.11599999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "23.7%",
+            "value": 0.237
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LAL": {
+            "raw": "0.317",
+            "value": 0.317
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "0.300",
+            "value": 0.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LAL": {
+            "raw": "115.8",
+            "value": 115.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "120.5",
+            "value": 120.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LAL": {
+            "raw": "+0.6",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "+4.4",
+            "value": 4.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "LAL",
+        "adv",
+        "DEN"
+      ],
+      "team_headers": [
+        "LAL",
+        "DEN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LAL": {
+            "raw": "1.139",
+            "value": 1.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "1.176",
+            "value": 1.176
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "56.9%",
+            "value": 0.569
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "57.2%",
+            "value": 0.5720000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "13.2%",
+            "value": 0.132
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "11.6%",
+            "value": 0.11599999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "23.7%",
+            "value": 0.237
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LAL": {
+            "raw": "0.317",
+            "value": 0.317
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "0.300",
+            "value": 0.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LAL": {
+            "raw": "115.8",
+            "value": 115.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "120.5",
+            "value": 120.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LAL": {
+            "raw": "+0.6",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "+4.4",
+            "value": 4.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "LAL",
+        "adv",
+        "DEN"
+      ],
+      "team_headers": [
+        "LAL",
+        "DEN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LAL": {
+            "raw": "1.133",
+            "value": 1.133
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "1.134",
+            "value": 1.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "55.9%",
+            "value": 0.5589999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "54.2%",
+            "value": 0.542
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "13.0%",
+            "value": 0.13
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "10.6%",
+            "value": 0.106
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "74.7%",
+            "value": 0.747
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "LAL": {
+            "raw": "0.242",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "0.258",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "LAL": {
+            "raw": "115.2",
+            "value": 115.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "116.1",
+            "value": 116.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "4.5%",
+            "value": 0.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        }
+      ]
+    },
+    "LA Lakers vs Denver Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LAL",
+        "adv",
+        "DEN"
+      ],
+      "team_headers": [
+        "LAL",
+        "DEN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LAL": {
+            "raw": "101.7",
+            "value": 101.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "102.4",
+            "value": 102.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LAL": {
+            "raw": "1.139",
+            "value": 1.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "1.176",
+            "value": 1.176
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "56.9%",
+            "value": 0.569
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "57.2%",
+            "value": 0.5720000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "LAL": {
+            "raw": "60.0%",
+            "value": 0.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "59.7%",
+            "value": 0.597
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "LAL": {
+            "raw": "40.0%",
+            "value": 0.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "40.3%",
+            "value": 0.40299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "23.9%",
+            "value": 0.239
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "23.3%",
+            "value": 0.233
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "59.4%",
+            "value": 0.594
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "56.1%",
+            "value": 0.561
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "35.6%",
+            "value": 0.35600000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "39.2%",
+            "value": 0.392
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "76.8%",
+            "value": 0.768
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "80.8%",
+            "value": 0.8079999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "LAL": {
+            "raw": "59.7",
+            "value": 59.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "58.2",
+            "value": 58.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "LAL": {
+            "raw": "35.8",
+            "value": 35.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "41.2",
+            "value": 41.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "23.7%",
+            "value": 0.237
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "74.7%",
+            "value": 0.747
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "4.5%",
+            "value": 0.045
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "7.3%",
+            "value": 0.073
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "6.1%",
+            "value": 0.061
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "13.2%",
+            "value": 0.132
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "11.6%",
+            "value": 0.11599999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "LAL": {
+            "raw": "0.609",
+            "value": 0.609
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "0.653",
+            "value": 0.653
+          }
+        }
+      ]
+    },
+    "LA Lakers vs Denver Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LAL",
+        "adv",
+        "DEN"
+      ],
+      "team_headers": [
+        "LAL",
+        "DEN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LAL": {
+            "raw": "101.7",
+            "value": 101.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "102.4",
+            "value": 102.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LAL": {
+            "raw": "1.133",
+            "value": 1.133
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "1.134",
+            "value": 1.134
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "55.9%",
+            "value": 0.5589999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "54.2%",
+            "value": 0.542
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "LAL": {
+            "raw": "58.5%",
+            "value": 0.585
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "57.7%",
+            "value": 0.5770000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "LAL": {
+            "raw": "41.5%",
+            "value": 0.415
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "42.3%",
+            "value": 0.423
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "20.5%",
+            "value": 0.205
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "57.2%",
+            "value": 0.5720000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "36.1%",
+            "value": 0.361
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "35.0%",
+            "value": 0.35
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "79.0%",
+            "value": 0.79
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "77.6%",
+            "value": 0.7759999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "LAL": {
+            "raw": "58.9",
+            "value": 58.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "57.7",
+            "value": 57.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "LAL": {
+            "raw": "39.5",
+            "value": 39.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "40.2",
+            "value": 40.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "25.6%",
+            "value": 0.256
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "25.3%",
+            "value": 0.253
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "76.0%",
+            "value": 0.76
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "76.3%",
+            "value": 0.763
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "LAL": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "5.4%",
+            "value": 0.054000000000000006
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "8.1%",
+            "value": 0.081
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "13.0%",
+            "value": 0.13
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "DEN": {
+            "raw": "10.6%",
+            "value": 0.106
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "LAL": {
+            "raw": "19.0%",
+            "value": 0.19
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "DEN": {
+            "raw": "19.3%",
+            "value": 0.193
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "LAL": {
+            "raw": "0.645",
+            "value": 0.645
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "DEN": {
+            "raw": "0.635",
+            "value": 0.635
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_lal_den.off_efficiency.lal": 1.139,
+    "matchup_menu_lal_den.off_efficiency.den": 1.176,
+    "matchup_menu_lal_den.effective_fg.lal": 0.569,
+    "matchup_menu_lal_den.effective_fg.den": 0.5720000000000001,
+    "matchup_menu_lal_den.turnovers_play.lal": 0.132,
+    "matchup_menu_lal_den.turnovers_play.den": 0.11599999999999999,
+    "matchup_menu_lal_den.off_rebound.lal": 0.24,
+    "matchup_menu_lal_den.off_rebound.den": 0.237,
+    "matchup_menu_lal_den.fta_fga.lal": 0.317,
+    "matchup_menu_lal_den.fta_fga.den": 0.3,
+    "matchup_menu_lal_den.points_game.lal": 115.8,
+    "matchup_menu_lal_den.points_game.den": 120.5,
+    "matchup_menu_lal_den.avg_score_margin.lal": 0.6,
+    "matchup_menu_lal_den.avg_score_margin.den": 4.4,
+    "key_offensive_stats.off_efficiency.lal": 1.139,
+    "key_offensive_stats.off_efficiency.den": 1.176,
+    "key_offensive_stats.effective_fg.lal": 0.569,
+    "key_offensive_stats.effective_fg.den": 0.5720000000000001,
+    "key_offensive_stats.turnovers_play.lal": 0.132,
+    "key_offensive_stats.turnovers_play.den": 0.11599999999999999,
+    "key_offensive_stats.off_rebound.lal": 0.24,
+    "key_offensive_stats.off_rebound.den": 0.237,
+    "key_offensive_stats.fta_fga.lal": 0.317,
+    "key_offensive_stats.fta_fga.den": 0.3,
+    "key_offensive_stats.points_game.lal": 115.8,
+    "key_offensive_stats.points_game.den": 120.5,
+    "key_offensive_stats.avg_score_margin.lal": 0.6,
+    "key_offensive_stats.avg_score_margin.den": 4.4,
+    "key_defensive_stats.def_efficiency.lal": 1.133,
+    "key_defensive_stats.def_efficiency.den": 1.134,
+    "key_defensive_stats.opp_effective_fg.lal": 0.5589999999999999,
+    "key_defensive_stats.opp_effective_fg.den": 0.542,
+    "key_defensive_stats.opp_turnovers_play.lal": 0.13,
+    "key_defensive_stats.opp_turnovers_play.den": 0.106,
+    "key_defensive_stats.def_rebound.lal": 0.7440000000000001,
+    "key_defensive_stats.def_rebound.den": 0.747,
+    "key_defensive_stats.opp_fta_fga.lal": 0.242,
+    "key_defensive_stats.opp_fta_fga.den": 0.258,
+    "key_defensive_stats.opp_points_game.lal": 115.2,
+    "key_defensive_stats.opp_points_game.den": 116.1,
+    "key_defensive_stats.block.lal": 0.049,
+    "key_defensive_stats.block.den": 0.045,
+    "key_defensive_stats.personal_fouls_play.lal": 0.165,
+    "key_defensive_stats.personal_fouls_play.den": 0.16699999999999998,
+    "la_lakers_vs_denver_offensive_efficiency.possessions_gm.lal": 101.7,
+    "la_lakers_vs_denver_offensive_efficiency.possessions_gm.den": 102.4,
+    "la_lakers_vs_denver_offensive_efficiency.off_efficiency.lal": 1.139,
+    "la_lakers_vs_denver_offensive_efficiency.off_efficiency.den": 1.176,
+    "la_lakers_vs_denver_offensive_efficiency.effective_fg.lal": 0.569,
+    "la_lakers_vs_denver_offensive_efficiency.effective_fg.den": 0.5720000000000001,
+    "la_lakers_vs_denver_offensive_efficiency.two_point_rate.lal": 0.6,
+    "la_lakers_vs_denver_offensive_efficiency.two_point_rate.den": 0.597,
+    "la_lakers_vs_denver_offensive_efficiency.three_point_rate.lal": 0.4,
+    "la_lakers_vs_denver_offensive_efficiency.three_point_rate.den": 0.40299999999999997,
+    "la_lakers_vs_denver_offensive_efficiency.fta_play.lal": 0.239,
+    "la_lakers_vs_denver_offensive_efficiency.fta_play.den": 0.233,
+    "la_lakers_vs_denver_offensive_efficiency.two_point.lal": 0.594,
+    "la_lakers_vs_denver_offensive_efficiency.two_point.den": 0.561,
+    "la_lakers_vs_denver_offensive_efficiency.three_point.lal": 0.35600000000000004,
+    "la_lakers_vs_denver_offensive_efficiency.three_point.den": 0.392,
+    "la_lakers_vs_denver_offensive_efficiency.free_throw.lal": 0.768,
+    "la_lakers_vs_denver_offensive_efficiency.free_throw.den": 0.8079999999999999,
+    "la_lakers_vs_denver_offensive_efficiency.points_2_pters.lal": 59.7,
+    "la_lakers_vs_denver_offensive_efficiency.points_2_pters.den": 58.2,
+    "la_lakers_vs_denver_offensive_efficiency.points_3_pters.lal": 35.8,
+    "la_lakers_vs_denver_offensive_efficiency.points_3_pters.den": 41.2,
+    "la_lakers_vs_denver_offensive_efficiency.off_rebound.lal": 0.24,
+    "la_lakers_vs_denver_offensive_efficiency.off_rebound.den": 0.237,
+    "la_lakers_vs_denver_offensive_efficiency.def_rebound.lal": 0.7440000000000001,
+    "la_lakers_vs_denver_offensive_efficiency.def_rebound.den": 0.747,
+    "la_lakers_vs_denver_offensive_efficiency.block.lal": 0.049,
+    "la_lakers_vs_denver_offensive_efficiency.block.den": 0.045,
+    "la_lakers_vs_denver_offensive_efficiency.steals_play.lal": 0.073,
+    "la_lakers_vs_denver_offensive_efficiency.steals_play.den": 0.061,
+    "la_lakers_vs_denver_offensive_efficiency.turnovers_play.lal": 0.132,
+    "la_lakers_vs_denver_offensive_efficiency.turnovers_play.den": 0.11599999999999999,
+    "la_lakers_vs_denver_offensive_efficiency.personal_fouls_play.lal": 0.165,
+    "la_lakers_vs_denver_offensive_efficiency.personal_fouls_play.den": 0.16699999999999998,
+    "la_lakers_vs_denver_offensive_efficiency.assists_fgm.lal": 0.609,
+    "la_lakers_vs_denver_offensive_efficiency.assists_fgm.den": 0.653,
+    "la_lakers_vs_denver_defensive_efficiency.possessions_gm.lal": 101.7,
+    "la_lakers_vs_denver_defensive_efficiency.possessions_gm.den": 102.4,
+    "la_lakers_vs_denver_defensive_efficiency.def_efficiency.lal": 1.133,
+    "la_lakers_vs_denver_defensive_efficiency.def_efficiency.den": 1.134,
+    "la_lakers_vs_denver_defensive_efficiency.opp_effective_fg.lal": 0.5589999999999999,
+    "la_lakers_vs_denver_defensive_efficiency.opp_effective_fg.den": 0.542,
+    "la_lakers_vs_denver_defensive_efficiency.opp_two_point_rate.lal": 0.585,
+    "la_lakers_vs_denver_defensive_efficiency.opp_two_point_rate.den": 0.5770000000000001,
+    "la_lakers_vs_denver_defensive_efficiency.opp_three_point_rate.lal": 0.415,
+    "la_lakers_vs_denver_defensive_efficiency.opp_three_point_rate.den": 0.423,
+    "la_lakers_vs_denver_defensive_efficiency.opp_fta_play.lal": 0.18899999999999997,
+    "la_lakers_vs_denver_defensive_efficiency.opp_fta_play.den": 0.205,
+    "la_lakers_vs_denver_defensive_efficiency.opp_two_point.lal": 0.5720000000000001,
+    "la_lakers_vs_denver_defensive_efficiency.opp_two_point.den": 0.5529999999999999,
+    "la_lakers_vs_denver_defensive_efficiency.opp_three_point.lal": 0.361,
+    "la_lakers_vs_denver_defensive_efficiency.opp_three_point.den": 0.35,
+    "la_lakers_vs_denver_defensive_efficiency.opp_free_throw.lal": 0.79,
+    "la_lakers_vs_denver_defensive_efficiency.opp_free_throw.den": 0.7759999999999999,
+    "la_lakers_vs_denver_defensive_efficiency.opp_points_2_pters.lal": 58.9,
+    "la_lakers_vs_denver_defensive_efficiency.opp_points_2_pters.den": 57.7,
+    "la_lakers_vs_denver_defensive_efficiency.opp_points_3_pters.lal": 39.5,
+    "la_lakers_vs_denver_defensive_efficiency.opp_points_3_pters.den": 40.2,
+    "la_lakers_vs_denver_defensive_efficiency.opp_off_rebound.lal": 0.256,
+    "la_lakers_vs_denver_defensive_efficiency.opp_off_rebound.den": 0.253,
+    "la_lakers_vs_denver_defensive_efficiency.opp_def_rebound.lal": 0.76,
+    "la_lakers_vs_denver_defensive_efficiency.opp_def_rebound.den": 0.763,
+    "la_lakers_vs_denver_defensive_efficiency.opp_block.lal": 0.044000000000000004,
+    "la_lakers_vs_denver_defensive_efficiency.opp_block.den": 0.054000000000000006,
+    "la_lakers_vs_denver_defensive_efficiency.opp_steals_play.lal": 0.081,
+    "la_lakers_vs_denver_defensive_efficiency.opp_steals_play.den": 0.071,
+    "la_lakers_vs_denver_defensive_efficiency.opp_turnovers_play.lal": 0.13,
+    "la_lakers_vs_denver_defensive_efficiency.opp_turnovers_play.den": 0.106,
+    "la_lakers_vs_denver_defensive_efficiency.opp_personal_fouls_play.lal": 0.19,
+    "la_lakers_vs_denver_defensive_efficiency.opp_personal_fouls_play.den": 0.193,
+    "la_lakers_vs_denver_defensive_efficiency.opp_assists_fgm.lal": 0.645,
+    "la_lakers_vs_denver_defensive_efficiency.opp_assists_fgm.den": 0.635
+  },
+  "sport": "nba",
+  "date": "2026-03-05",
+  "slug": "lakers-nuggets-2026-03-05",
+  "matchup_title": "#15 LA Lakers at #8 Denver",
+  "teams": {
+    "away": "#15 LA Lakers",
+    "home": "#8 Denver",
+    "neutral_site": false
+  },
+  "time_local": "10:00 PM",
+  "location": "Ball Arena",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/lakers-nuggets-2026-03-05",
+    "detail": "https://www.teamrankings.com/nba/matchup/lakers-nuggets-2026-03-05/efficiency"
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/pilots-waves-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:57.533996+00:00",
+  "tables": {
+    "Matchup Menu: PORT vs. PEPP": {
+      "headers": [
+        "Stat",
+        "PORT",
+        "adv",
+        "PEPP"
+      ],
+      "team_headers": [
+        "PORT",
+        "PEPP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "PORT": {
+            "raw": "1.001",
+            "value": 1.001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "0.982",
+            "value": 0.982
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "51.2%",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "17.5%",
+            "value": 0.175
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "26.0%",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "25.8%",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "PORT": {
+            "raw": "0.348",
+            "value": 0.348
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "0.342",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "PORT": {
+            "raw": "72.1",
+            "value": 72.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "70.4",
+            "value": 70.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "PORT": {
+            "raw": "-6.6",
+            "value": -6.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "-9.3",
+            "value": -9.3
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "PORT",
+        "adv",
+        "PEPP"
+      ],
+      "team_headers": [
+        "PORT",
+        "PEPP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "PORT": {
+            "raw": "1.001",
+            "value": 1.001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "0.982",
+            "value": 0.982
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "51.2%",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "17.5%",
+            "value": 0.175
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "26.0%",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "25.8%",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "PORT": {
+            "raw": "0.348",
+            "value": 0.348
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "0.342",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "PORT": {
+            "raw": "72.1",
+            "value": 72.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "70.4",
+            "value": 70.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "PORT": {
+            "raw": "-6.6",
+            "value": -6.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "-9.3",
+            "value": -9.3
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "PORT",
+        "adv",
+        "PEPP"
+      ],
+      "team_headers": [
+        "PORT",
+        "PEPP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "PORT": {
+            "raw": "1.093",
+            "value": 1.093
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "1.112",
+            "value": 1.112
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "53.6%",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "54.2%",
+            "value": 0.542
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "14.1%",
+            "value": 0.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "67.2%",
+            "value": 0.672
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "PORT": {
+            "raw": "0.330",
+            "value": 0.33
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "0.282",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "PORT": {
+            "raw": "78.7",
+            "value": 78.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "79.8",
+            "value": 79.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "4.7%",
+            "value": 0.047
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "18.7%",
+            "value": 0.187
+          }
+        }
+      ]
+    },
+    "Portland vs Pepperdine Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "PORT",
+        "adv",
+        "PEPP"
+      ],
+      "team_headers": [
+        "PORT",
+        "PEPP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "PORT": {
+            "raw": "72.0",
+            "value": 72.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "71.7",
+            "value": 71.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "PORT": {
+            "raw": "1.001",
+            "value": 1.001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "0.982",
+            "value": 0.982
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "51.2%",
+            "value": 0.512
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "47.9%",
+            "value": 0.479
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "PORT": {
+            "raw": "63.9%",
+            "value": 0.639
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "60.8%",
+            "value": 0.608
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "PORT": {
+            "raw": "36.1%",
+            "value": 0.361
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "39.2%",
+            "value": 0.392
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "24.7%",
+            "value": 0.247
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "54.7%",
+            "value": 0.547
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "PEPP": {
+            "raw": "48.3%",
+            "value": 0.483
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "31.5%",
+            "value": 0.315
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "74.3%",
+            "value": 0.743
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "76.4%",
+            "value": 0.764
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "PORT": {
+            "raw": "39.3",
+            "value": 39.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "33.9",
+            "value": 33.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "PORT": {
+            "raw": "18.2",
+            "value": 18.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "21.4",
+            "value": 21.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "26.0%",
+            "value": 0.26
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "25.8%",
+            "value": 0.258
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "70.2%",
+            "value": 0.7020000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "67.2%",
+            "value": 0.672
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "4.7%",
+            "value": 0.047
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "7.5%",
+            "value": 0.075
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "17.5%",
+            "value": 0.175
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "18.7%",
+            "value": 0.187
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "PORT": {
+            "raw": "0.621",
+            "value": 0.621
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "0.559",
+            "value": 0.559
+          }
+        }
+      ]
+    },
+    "Portland vs Pepperdine Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "PORT",
+        "adv",
+        "PEPP"
+      ],
+      "team_headers": [
+        "PORT",
+        "PEPP"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "PORT": {
+            "raw": "72.0",
+            "value": 72.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "71.7",
+            "value": 71.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "PORT": {
+            "raw": "1.093",
+            "value": 1.093
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "1.112",
+            "value": 1.112
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "53.6%",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "54.2%",
+            "value": 0.542
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "PORT": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "59.3%",
+            "value": 0.593
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "PORT": {
+            "raw": "45.7%",
+            "value": 0.457
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "40.7%",
+            "value": 0.40700000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "21.3%",
+            "value": 0.213
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "55.0%",
+            "value": 0.55
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "37.0%",
+            "value": 0.37
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "35.3%",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "75.1%",
+            "value": 0.7509999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "PORT": {
+            "raw": "33.7",
+            "value": 33.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "PEPP": {
+            "raw": "40.3",
+            "value": 40.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "PORT": {
+            "raw": "30.2",
+            "value": 30.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "26.7",
+            "value": 26.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "29.8%",
+            "value": 0.298
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "32.8%",
+            "value": 0.32799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "74.0%",
+            "value": 0.74
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "74.2%",
+            "value": 0.742
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "PORT": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "PEPP": {
+            "raw": "6.5%",
+            "value": 0.065
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "9.7%",
+            "value": 0.09699999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "9.7%",
+            "value": 0.09699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "15.2%",
+            "value": 0.152
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "PEPP": {
+            "raw": "14.1%",
+            "value": 0.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "PORT": {
+            "raw": "21.8%",
+            "value": 0.218
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "PORT": {
+            "raw": "0.664",
+            "value": 0.664
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "PEPP": {
+            "raw": "0.553",
+            "value": 0.553
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_port_vs_pepp.off_efficiency.port": 1.001,
+    "matchup_menu_port_vs_pepp.off_efficiency.pepp": 0.982,
+    "matchup_menu_port_vs_pepp.effective_fg.port": 0.512,
+    "matchup_menu_port_vs_pepp.effective_fg.pepp": 0.479,
+    "matchup_menu_port_vs_pepp.turnovers_play.port": 0.175,
+    "matchup_menu_port_vs_pepp.turnovers_play.pepp": 0.162,
+    "matchup_menu_port_vs_pepp.off_rebound.port": 0.26,
+    "matchup_menu_port_vs_pepp.off_rebound.pepp": 0.258,
+    "matchup_menu_port_vs_pepp.fta_fga.port": 0.348,
+    "matchup_menu_port_vs_pepp.fta_fga.pepp": 0.342,
+    "matchup_menu_port_vs_pepp.points_game.port": 72.1,
+    "matchup_menu_port_vs_pepp.points_game.pepp": 70.4,
+    "matchup_menu_port_vs_pepp.avg_score_margin.port": -6.6,
+    "matchup_menu_port_vs_pepp.avg_score_margin.pepp": -9.3,
+    "key_offensive_stats.off_efficiency.port": 1.001,
+    "key_offensive_stats.off_efficiency.pepp": 0.982,
+    "key_offensive_stats.effective_fg.port": 0.512,
+    "key_offensive_stats.effective_fg.pepp": 0.479,
+    "key_offensive_stats.turnovers_play.port": 0.175,
+    "key_offensive_stats.turnovers_play.pepp": 0.162,
+    "key_offensive_stats.off_rebound.port": 0.26,
+    "key_offensive_stats.off_rebound.pepp": 0.258,
+    "key_offensive_stats.fta_fga.port": 0.348,
+    "key_offensive_stats.fta_fga.pepp": 0.342,
+    "key_offensive_stats.points_game.port": 72.1,
+    "key_offensive_stats.points_game.pepp": 70.4,
+    "key_offensive_stats.avg_score_margin.port": -6.6,
+    "key_offensive_stats.avg_score_margin.pepp": -9.3,
+    "key_defensive_stats.def_efficiency.port": 1.093,
+    "key_defensive_stats.def_efficiency.pepp": 1.112,
+    "key_defensive_stats.opp_effective_fg.port": 0.536,
+    "key_defensive_stats.opp_effective_fg.pepp": 0.542,
+    "key_defensive_stats.opp_turnovers_play.port": 0.152,
+    "key_defensive_stats.opp_turnovers_play.pepp": 0.141,
+    "key_defensive_stats.def_rebound.port": 0.7020000000000001,
+    "key_defensive_stats.def_rebound.pepp": 0.672,
+    "key_defensive_stats.opp_fta_fga.port": 0.33,
+    "key_defensive_stats.opp_fta_fga.pepp": 0.282,
+    "key_defensive_stats.opp_points_game.port": 78.7,
+    "key_defensive_stats.opp_points_game.pepp": 79.8,
+    "key_defensive_stats.block.port": 0.047,
+    "key_defensive_stats.block.pepp": 0.046,
+    "key_defensive_stats.personal_fouls_play.port": 0.218,
+    "key_defensive_stats.personal_fouls_play.pepp": 0.187,
+    "portland_vs_pepperdine_offensive_efficiency.possessions_gm.port": 72.0,
+    "portland_vs_pepperdine_offensive_efficiency.possessions_gm.pepp": 71.7,
+    "portland_vs_pepperdine_offensive_efficiency.off_efficiency.port": 1.001,
+    "portland_vs_pepperdine_offensive_efficiency.off_efficiency.pepp": 0.982,
+    "portland_vs_pepperdine_offensive_efficiency.effective_fg.port": 0.512,
+    "portland_vs_pepperdine_offensive_efficiency.effective_fg.pepp": 0.479,
+    "portland_vs_pepperdine_offensive_efficiency.two_point_rate.port": 0.639,
+    "portland_vs_pepperdine_offensive_efficiency.two_point_rate.pepp": 0.608,
+    "portland_vs_pepperdine_offensive_efficiency.three_point_rate.port": 0.361,
+    "portland_vs_pepperdine_offensive_efficiency.three_point_rate.pepp": 0.392,
+    "portland_vs_pepperdine_offensive_efficiency.fta_play.port": 0.24600000000000002,
+    "portland_vs_pepperdine_offensive_efficiency.fta_play.pepp": 0.247,
+    "portland_vs_pepperdine_offensive_efficiency.two_point.port": 0.547,
+    "portland_vs_pepperdine_offensive_efficiency.two_point.pepp": 0.483,
+    "portland_vs_pepperdine_offensive_efficiency.three_point.port": 0.299,
+    "portland_vs_pepperdine_offensive_efficiency.three_point.pepp": 0.315,
+    "portland_vs_pepperdine_offensive_efficiency.free_throw.port": 0.743,
+    "portland_vs_pepperdine_offensive_efficiency.free_throw.pepp": 0.764,
+    "portland_vs_pepperdine_offensive_efficiency.points_2_pters.port": 39.3,
+    "portland_vs_pepperdine_offensive_efficiency.points_2_pters.pepp": 33.9,
+    "portland_vs_pepperdine_offensive_efficiency.points_3_pters.port": 18.2,
+    "portland_vs_pepperdine_offensive_efficiency.points_3_pters.pepp": 21.4,
+    "portland_vs_pepperdine_offensive_efficiency.off_rebound.port": 0.26,
+    "portland_vs_pepperdine_offensive_efficiency.off_rebound.pepp": 0.258,
+    "portland_vs_pepperdine_offensive_efficiency.def_rebound.port": 0.7020000000000001,
+    "portland_vs_pepperdine_offensive_efficiency.def_rebound.pepp": 0.672,
+    "portland_vs_pepperdine_offensive_efficiency.block.port": 0.047,
+    "portland_vs_pepperdine_offensive_efficiency.block.pepp": 0.046,
+    "portland_vs_pepperdine_offensive_efficiency.steals_play.port": 0.075,
+    "portland_vs_pepperdine_offensive_efficiency.steals_play.pepp": 0.07200000000000001,
+    "portland_vs_pepperdine_offensive_efficiency.turnovers_play.port": 0.175,
+    "portland_vs_pepperdine_offensive_efficiency.turnovers_play.pepp": 0.162,
+    "portland_vs_pepperdine_offensive_efficiency.personal_fouls_play.port": 0.218,
+    "portland_vs_pepperdine_offensive_efficiency.personal_fouls_play.pepp": 0.187,
+    "portland_vs_pepperdine_offensive_efficiency.assists_fgm.port": 0.621,
+    "portland_vs_pepperdine_offensive_efficiency.assists_fgm.pepp": 0.559,
+    "portland_vs_pepperdine_defensive_efficiency.possessions_gm.port": 72.0,
+    "portland_vs_pepperdine_defensive_efficiency.possessions_gm.pepp": 71.7,
+    "portland_vs_pepperdine_defensive_efficiency.def_efficiency.port": 1.093,
+    "portland_vs_pepperdine_defensive_efficiency.def_efficiency.pepp": 1.112,
+    "portland_vs_pepperdine_defensive_efficiency.opp_effective_fg.port": 0.536,
+    "portland_vs_pepperdine_defensive_efficiency.opp_effective_fg.pepp": 0.542,
+    "portland_vs_pepperdine_defensive_efficiency.opp_two_point_rate.port": 0.5429999999999999,
+    "portland_vs_pepperdine_defensive_efficiency.opp_two_point_rate.pepp": 0.593,
+    "portland_vs_pepperdine_defensive_efficiency.opp_three_point_rate.port": 0.457,
+    "portland_vs_pepperdine_defensive_efficiency.opp_three_point_rate.pepp": 0.40700000000000003,
+    "portland_vs_pepperdine_defensive_efficiency.opp_fta_play.port": 0.242,
+    "portland_vs_pepperdine_defensive_efficiency.opp_fta_play.pepp": 0.213,
+    "portland_vs_pepperdine_defensive_efficiency.opp_two_point.port": 0.52,
+    "portland_vs_pepperdine_defensive_efficiency.opp_two_point.pepp": 0.55,
+    "portland_vs_pepperdine_defensive_efficiency.opp_three_point.port": 0.37,
+    "portland_vs_pepperdine_defensive_efficiency.opp_three_point.pepp": 0.353,
+    "portland_vs_pepperdine_defensive_efficiency.opp_free_throw.port": 0.7509999999999999,
+    "portland_vs_pepperdine_defensive_efficiency.opp_free_throw.pepp": 0.7290000000000001,
+    "portland_vs_pepperdine_defensive_efficiency.opp_points_2_pters.port": 33.7,
+    "portland_vs_pepperdine_defensive_efficiency.opp_points_2_pters.pepp": 40.3,
+    "portland_vs_pepperdine_defensive_efficiency.opp_points_3_pters.port": 30.2,
+    "portland_vs_pepperdine_defensive_efficiency.opp_points_3_pters.pepp": 26.7,
+    "portland_vs_pepperdine_defensive_efficiency.opp_off_rebound.port": 0.298,
+    "portland_vs_pepperdine_defensive_efficiency.opp_off_rebound.pepp": 0.32799999999999996,
+    "portland_vs_pepperdine_defensive_efficiency.opp_def_rebound.port": 0.74,
+    "portland_vs_pepperdine_defensive_efficiency.opp_def_rebound.pepp": 0.742,
+    "portland_vs_pepperdine_defensive_efficiency.opp_block.port": 0.044000000000000004,
+    "portland_vs_pepperdine_defensive_efficiency.opp_block.pepp": 0.065,
+    "portland_vs_pepperdine_defensive_efficiency.opp_steals_play.port": 0.09699999999999999,
+    "portland_vs_pepperdine_defensive_efficiency.opp_steals_play.pepp": 0.09699999999999999,
+    "portland_vs_pepperdine_defensive_efficiency.opp_turnovers_play.port": 0.152,
+    "portland_vs_pepperdine_defensive_efficiency.opp_turnovers_play.pepp": 0.141,
+    "portland_vs_pepperdine_defensive_efficiency.opp_personal_fouls_play.port": 0.218,
+    "portland_vs_pepperdine_defensive_efficiency.opp_personal_fouls_play.pepp": 0.23199999999999998,
+    "portland_vs_pepperdine_defensive_efficiency.opp_assists_fgm.port": 0.664,
+    "portland_vs_pepperdine_defensive_efficiency.opp_assists_fgm.pepp": 0.553
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "pilots-waves-2026-03-05",
+  "matchup_title": "#245 Portland vs. #282 Pepperdine",
+  "teams": {
+    "away": "#245 Portland",
+    "home": "#282 Pepperdine",
+    "neutral_site": true
+  },
+  "time_local": "9:00 PM",
+  "location": "Orleans Areana",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/pilots-waves-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/pilots-waves-2026-03-05/efficiency"
+  }
+}

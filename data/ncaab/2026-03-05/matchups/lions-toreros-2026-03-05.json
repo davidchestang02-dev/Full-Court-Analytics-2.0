@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-toreros-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:42.104828+00:00",
+  "tables": {
+    "Matchup Menu: LMU vs. USD": {
+      "headers": [
+        "Stat",
+        "LMU",
+        "adv",
+        "USD"
+      ],
+      "team_headers": [
+        "LMU",
+        "USD"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LMU": {
+            "raw": "1.026",
+            "value": 1.026
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "1.029",
+            "value": 1.029
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "15.6%",
+            "value": 0.156
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "15.3%",
+            "value": 0.153
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "25.6%",
+            "value": 0.256
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LMU": {
+            "raw": "0.313",
+            "value": 0.313
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "0.254",
+            "value": 0.254
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LMU": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "73.6",
+            "value": 73.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LMU": {
+            "raw": "-0.3",
+            "value": -0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "-6.5",
+            "value": -6.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "LMU",
+        "adv",
+        "USD"
+      ],
+      "team_headers": [
+        "LMU",
+        "USD"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LMU": {
+            "raw": "1.026",
+            "value": 1.026
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "1.029",
+            "value": 1.029
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "15.6%",
+            "value": 0.156
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "15.3%",
+            "value": 0.153
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "25.6%",
+            "value": 0.256
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "LMU": {
+            "raw": "0.313",
+            "value": 0.313
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "0.254",
+            "value": 0.254
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "LMU": {
+            "raw": "72.6",
+            "value": 72.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "73.6",
+            "value": 73.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "LMU": {
+            "raw": "-0.3",
+            "value": -0.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "-6.5",
+            "value": -6.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "LMU",
+        "adv",
+        "USD"
+      ],
+      "team_headers": [
+        "LMU",
+        "USD"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LMU": {
+            "raw": "1.030",
+            "value": 1.03
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USD": {
+            "raw": "1.120",
+            "value": 1.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USD": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USD": {
+            "raw": "16.4%",
+            "value": 0.16399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "70.1%",
+            "value": 0.701
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "65.4%",
+            "value": 0.654
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "LMU": {
+            "raw": "0.324",
+            "value": 0.324
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "0.396",
+            "value": 0.396
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "LMU": {
+            "raw": "72.9",
+            "value": 72.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USD": {
+            "raw": "80.1",
+            "value": 80.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USD": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "22.1%",
+            "value": 0.221
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        }
+      ]
+    },
+    "Loyola Mymt vs San Diego Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LMU",
+        "adv",
+        "USD"
+      ],
+      "team_headers": [
+        "LMU",
+        "USD"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LMU": {
+            "raw": "70.8",
+            "value": 70.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "71.5",
+            "value": 71.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "LMU": {
+            "raw": "1.026",
+            "value": 1.026
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "1.029",
+            "value": 1.029
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "52.0%",
+            "value": 0.52
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "51.5%",
+            "value": 0.515
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "LMU": {
+            "raw": "59.2%",
+            "value": 0.5920000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "56.5%",
+            "value": 0.565
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "LMU": {
+            "raw": "40.8%",
+            "value": 0.408
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "43.5%",
+            "value": 0.435
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "19.2%",
+            "value": 0.192
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "51.7%",
+            "value": 0.517
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "35.0%",
+            "value": 0.35
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "34.6%",
+            "value": 0.34600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USD": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "LMU": {
+            "raw": "35.3",
+            "value": 35.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "34.9",
+            "value": 34.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "LMU": {
+            "raw": "24.7",
+            "value": 24.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "27.3",
+            "value": 27.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "24.3%",
+            "value": 0.243
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "25.6%",
+            "value": 0.256
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "70.1%",
+            "value": 0.701
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "65.4%",
+            "value": 0.654
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "6.6%",
+            "value": 0.066
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USD": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "7.5%",
+            "value": 0.075
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "USD": {
+            "raw": "9.7%",
+            "value": 0.09699999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "15.6%",
+            "value": 0.156
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "15.3%",
+            "value": 0.153
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "22.1%",
+            "value": 0.221
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "23.0%",
+            "value": 0.23
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "LMU": {
+            "raw": "0.497",
+            "value": 0.497
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "USD": {
+            "raw": "0.594",
+            "value": 0.594
+          }
+        }
+      ]
+    },
+    "Loyola Mymt vs San Diego Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "LMU",
+        "adv",
+        "USD"
+      ],
+      "team_headers": [
+        "LMU",
+        "USD"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "LMU": {
+            "raw": "70.8",
+            "value": 70.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "71.5",
+            "value": 71.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "LMU": {
+            "raw": "1.030",
+            "value": 1.03
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USD": {
+            "raw": "1.120",
+            "value": 1.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "49.0%",
+            "value": 0.49
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "USD": {
+            "raw": "55.3%",
+            "value": 0.5529999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "LMU": {
+            "raw": "64.1%",
+            "value": 0.6409999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USD": {
+            "raw": "59.5%",
+            "value": 0.595
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "LMU": {
+            "raw": "35.9%",
+            "value": 0.359
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "40.5%",
+            "value": 0.405
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "24.0%",
+            "value": 0.24
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "27.8%",
+            "value": 0.278
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "47.2%",
+            "value": 0.47200000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "USD": {
+            "raw": "58.8%",
+            "value": 0.588
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "74.7%",
+            "value": 0.747
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "73.7%",
+            "value": 0.737
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "LMU": {
+            "raw": "36.1",
+            "value": 36.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "40.1",
+            "value": 40.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "LMU": {
+            "raw": "22.3",
+            "value": 22.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "23.3",
+            "value": 23.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "29.9%",
+            "value": 0.299
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "34.6%",
+            "value": 0.34600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "75.7%",
+            "value": 0.757
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "USD": {
+            "raw": "74.4%",
+            "value": 0.7440000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "LMU": {
+            "raw": "4.2%",
+            "value": 0.042
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "5.7%",
+            "value": 0.057
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "USD": {
+            "raw": "8.7%",
+            "value": 0.087
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "USD": {
+            "raw": "16.4%",
+            "value": 0.16399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "LMU": {
+            "raw": "22.2%",
+            "value": 0.222
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "20.2%",
+            "value": 0.20199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "LMU": {
+            "raw": "0.511",
+            "value": 0.511
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "USD": {
+            "raw": "0.579",
+            "value": 0.579
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_lmu_vs_usd.off_efficiency.lmu": 1.026,
+    "matchup_menu_lmu_vs_usd.off_efficiency.usd": 1.029,
+    "matchup_menu_lmu_vs_usd.effective_fg.lmu": 0.52,
+    "matchup_menu_lmu_vs_usd.effective_fg.usd": 0.515,
+    "matchup_menu_lmu_vs_usd.turnovers_play.lmu": 0.156,
+    "matchup_menu_lmu_vs_usd.turnovers_play.usd": 0.153,
+    "matchup_menu_lmu_vs_usd.off_rebound.lmu": 0.243,
+    "matchup_menu_lmu_vs_usd.off_rebound.usd": 0.256,
+    "matchup_menu_lmu_vs_usd.fta_fga.lmu": 0.313,
+    "matchup_menu_lmu_vs_usd.fta_fga.usd": 0.254,
+    "matchup_menu_lmu_vs_usd.points_game.lmu": 72.6,
+    "matchup_menu_lmu_vs_usd.points_game.usd": 73.6,
+    "matchup_menu_lmu_vs_usd.avg_score_margin.lmu": -0.3,
+    "matchup_menu_lmu_vs_usd.avg_score_margin.usd": -6.5,
+    "key_offensive_stats.off_efficiency.lmu": 1.026,
+    "key_offensive_stats.off_efficiency.usd": 1.029,
+    "key_offensive_stats.effective_fg.lmu": 0.52,
+    "key_offensive_stats.effective_fg.usd": 0.515,
+    "key_offensive_stats.turnovers_play.lmu": 0.156,
+    "key_offensive_stats.turnovers_play.usd": 0.153,
+    "key_offensive_stats.off_rebound.lmu": 0.243,
+    "key_offensive_stats.off_rebound.usd": 0.256,
+    "key_offensive_stats.fta_fga.lmu": 0.313,
+    "key_offensive_stats.fta_fga.usd": 0.254,
+    "key_offensive_stats.points_game.lmu": 72.6,
+    "key_offensive_stats.points_game.usd": 73.6,
+    "key_offensive_stats.avg_score_margin.lmu": -0.3,
+    "key_offensive_stats.avg_score_margin.usd": -6.5,
+    "key_defensive_stats.def_efficiency.lmu": 1.03,
+    "key_defensive_stats.def_efficiency.usd": 1.12,
+    "key_defensive_stats.opp_effective_fg.lmu": 0.49,
+    "key_defensive_stats.opp_effective_fg.usd": 0.5529999999999999,
+    "key_defensive_stats.opp_turnovers_play.lmu": 0.14300000000000002,
+    "key_defensive_stats.opp_turnovers_play.usd": 0.16399999999999998,
+    "key_defensive_stats.def_rebound.lmu": 0.701,
+    "key_defensive_stats.def_rebound.usd": 0.654,
+    "key_defensive_stats.opp_fta_fga.lmu": 0.324,
+    "key_defensive_stats.opp_fta_fga.usd": 0.396,
+    "key_defensive_stats.opp_points_game.lmu": 72.9,
+    "key_defensive_stats.opp_points_game.usd": 80.1,
+    "key_defensive_stats.block.lmu": 0.066,
+    "key_defensive_stats.block.usd": 0.044000000000000004,
+    "key_defensive_stats.personal_fouls_play.lmu": 0.221,
+    "key_defensive_stats.personal_fouls_play.usd": 0.23,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.possessions_gm.lmu": 70.8,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.possessions_gm.usd": 71.5,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.off_efficiency.lmu": 1.026,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.off_efficiency.usd": 1.029,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.effective_fg.lmu": 0.52,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.effective_fg.usd": 0.515,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.two_point_rate.lmu": 0.5920000000000001,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.two_point_rate.usd": 0.565,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.three_point_rate.lmu": 0.408,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.three_point_rate.usd": 0.435,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.fta_play.lmu": 0.23,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.fta_play.usd": 0.192,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.two_point.lmu": 0.517,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.two_point.usd": 0.512,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.three_point.lmu": 0.35,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.three_point.usd": 0.34600000000000003,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.free_throw.lmu": 0.6990000000000001,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.free_throw.usd": 0.7440000000000001,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.points_2_pters.lmu": 35.3,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.points_2_pters.usd": 34.9,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.points_3_pters.lmu": 24.7,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.points_3_pters.usd": 27.3,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.off_rebound.lmu": 0.243,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.off_rebound.usd": 0.256,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.def_rebound.lmu": 0.701,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.def_rebound.usd": 0.654,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.block.lmu": 0.066,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.block.usd": 0.044000000000000004,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.steals_play.lmu": 0.075,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.steals_play.usd": 0.09699999999999999,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.turnovers_play.lmu": 0.156,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.turnovers_play.usd": 0.153,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.personal_fouls_play.lmu": 0.221,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.personal_fouls_play.usd": 0.23,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.assists_fgm.lmu": 0.497,
+    "loyola_mymt_vs_san_diego_offensive_efficiency.assists_fgm.usd": 0.594,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.possessions_gm.lmu": 70.8,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.possessions_gm.usd": 71.5,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.def_efficiency.lmu": 1.03,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.def_efficiency.usd": 1.12,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_effective_fg.lmu": 0.49,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_effective_fg.usd": 0.5529999999999999,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_two_point_rate.lmu": 0.6409999999999999,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_two_point_rate.usd": 0.595,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_three_point_rate.lmu": 0.359,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_three_point_rate.usd": 0.405,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_fta_play.lmu": 0.24,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_fta_play.usd": 0.278,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_two_point.lmu": 0.47200000000000003,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_two_point.usd": 0.588,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_three_point.lmu": 0.34700000000000003,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_three_point.usd": 0.33399999999999996,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_free_throw.lmu": 0.747,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_free_throw.usd": 0.737,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_points_2_pters.lmu": 36.1,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_points_2_pters.usd": 40.1,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_points_3_pters.lmu": 22.3,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_points_3_pters.usd": 23.3,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_off_rebound.lmu": 0.299,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_off_rebound.usd": 0.34600000000000003,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_def_rebound.lmu": 0.757,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_def_rebound.usd": 0.7440000000000001,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_block.lmu": 0.042,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_block.usd": 0.057,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_steals_play.lmu": 0.08199999999999999,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_steals_play.usd": 0.087,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_turnovers_play.lmu": 0.14300000000000002,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_turnovers_play.usd": 0.16399999999999998,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_personal_fouls_play.lmu": 0.222,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_personal_fouls_play.usd": 0.20199999999999999,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_assists_fgm.lmu": 0.511,
+    "loyola_mymt_vs_san_diego_defensive_efficiency.opp_assists_fgm.usd": 0.579
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "lions-toreros-2026-03-05",
+  "matchup_title": "#154 Loyola Mymt vs. #251 San Diego",
+  "teams": {
+    "away": "#154 Loyola Mymt",
+    "home": "#251 San Diego",
+    "neutral_site": true
+  },
+  "time_local": "11:30 PM",
+  "location": "Orleans Areana",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-toreros-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/lions-toreros-2026-03-05/efficiency"
+  }
+}

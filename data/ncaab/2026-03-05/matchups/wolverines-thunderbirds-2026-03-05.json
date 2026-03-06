@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/wolverines-thunderbirds-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:37.399710+00:00",
+  "tables": {
+    "Matchup Menu: UVU @ SUU": {
+      "headers": [
+        "Stat",
+        "UVU",
+        "adv",
+        "SUU"
+      ],
+      "team_headers": [
+        "UVU",
+        "SUU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UVU": {
+            "raw": "1.074",
+            "value": 1.074
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "0.987",
+            "value": 0.987
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "55.0%",
+            "value": 0.55
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "50.5%",
+            "value": 0.505
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "18.0%",
+            "value": 0.18
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "27.0%",
+            "value": 0.27
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UVU": {
+            "raw": "0.369",
+            "value": 0.369
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "0.327",
+            "value": 0.327
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UVU": {
+            "raw": "77.2",
+            "value": 77.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UVU": {
+            "raw": "+8.0",
+            "value": 8.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "-9.3",
+            "value": -9.3
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "UVU",
+        "adv",
+        "SUU"
+      ],
+      "team_headers": [
+        "UVU",
+        "SUU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UVU": {
+            "raw": "1.074",
+            "value": 1.074
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "0.987",
+            "value": 0.987
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "55.0%",
+            "value": 0.55
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "50.5%",
+            "value": 0.505
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "18.0%",
+            "value": 0.18
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "27.0%",
+            "value": 0.27
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UVU": {
+            "raw": "0.369",
+            "value": 0.369
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "0.327",
+            "value": 0.327
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UVU": {
+            "raw": "77.2",
+            "value": 77.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "72.0",
+            "value": 72.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UVU": {
+            "raw": "+8.0",
+            "value": 8.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "-9.3",
+            "value": -9.3
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "UVU",
+        "adv",
+        "SUU"
+      ],
+      "team_headers": [
+        "UVU",
+        "SUU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UVU": {
+            "raw": "0.964",
+            "value": 0.964
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "1.115",
+            "value": 1.115
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "48.2%",
+            "value": 0.48200000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "71.6%",
+            "value": 0.716
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "68.8%",
+            "value": 0.688
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "UVU": {
+            "raw": "0.383",
+            "value": 0.383
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "0.289",
+            "value": 0.289
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "UVU": {
+            "raw": "69.2",
+            "value": 69.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "81.3",
+            "value": 81.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "9.8%",
+            "value": 0.098
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "19.6%",
+            "value": 0.196
+          }
+        }
+      ]
+    },
+    "Utah Valley vs S Utah Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UVU",
+        "adv",
+        "SUU"
+      ],
+      "team_headers": [
+        "UVU",
+        "SUU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UVU": {
+            "raw": "71.8",
+            "value": 71.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UVU": {
+            "raw": "1.074",
+            "value": 1.074
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "0.987",
+            "value": 0.987
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "55.0%",
+            "value": 0.55
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "50.5%",
+            "value": 0.505
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "UVU": {
+            "raw": "67.2%",
+            "value": 0.672
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "65.0%",
+            "value": 0.65
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "UVU": {
+            "raw": "32.8%",
+            "value": 0.32799999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "35.0%",
+            "value": 0.35
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "25.8%",
+            "value": 0.258
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "23.2%",
+            "value": 0.23199999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "57.6%",
+            "value": 0.5760000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "50.4%",
+            "value": 0.504
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "33.1%",
+            "value": 0.331
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "33.8%",
+            "value": 0.33799999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "71.7%",
+            "value": 0.7170000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "UVU": {
+            "raw": "44.2",
+            "value": 44.2
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "37.8",
+            "value": 37.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "UVU": {
+            "raw": "18.6",
+            "value": 18.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "20.5",
+            "value": 20.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "27.0%",
+            "value": 0.27
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "71.6%",
+            "value": 0.716
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "68.8%",
+            "value": 0.688
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "9.8%",
+            "value": 0.098
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "6.6%",
+            "value": 0.066
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "12.0%",
+            "value": 0.12
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "6.4%",
+            "value": 0.064
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "18.0%",
+            "value": 0.18
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "23.0%",
+            "value": 0.23
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "19.6%",
+            "value": 0.196
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "UVU": {
+            "raw": "0.622",
+            "value": 0.622
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "0.494",
+            "value": 0.494
+          }
+        }
+      ]
+    },
+    "Utah Valley vs S Utah Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UVU",
+        "adv",
+        "SUU"
+      ],
+      "team_headers": [
+        "UVU",
+        "SUU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UVU": {
+            "raw": "71.8",
+            "value": 71.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "72.9",
+            "value": 72.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UVU": {
+            "raw": "0.964",
+            "value": 0.964
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "1.115",
+            "value": 1.115
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "48.2%",
+            "value": 0.48200000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "53.6%",
+            "value": 0.536
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "UVU": {
+            "raw": "67.7%",
+            "value": 0.677
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "70.1%",
+            "value": 0.701
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "UVU": {
+            "raw": "32.3%",
+            "value": 0.32299999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "29.9%",
+            "value": 0.299
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "26.4%",
+            "value": 0.264
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "22.2%",
+            "value": 0.222
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "46.4%",
+            "value": 0.46399999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "51.6%",
+            "value": 0.516
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "34.7%",
+            "value": 0.34700000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "38.8%",
+            "value": 0.38799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "73.1%",
+            "value": 0.731
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "70.6%",
+            "value": 0.706
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "UVU": {
+            "raw": "34.9",
+            "value": 34.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "46.2",
+            "value": 46.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "UVU": {
+            "raw": "18.7",
+            "value": 18.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "22.2",
+            "value": 22.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "28.4%",
+            "value": 0.284
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "31.2%",
+            "value": 0.312
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "66.8%",
+            "value": 0.6679999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "SUU": {
+            "raw": "73.0%",
+            "value": 0.73
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "UVU": {
+            "raw": "5.3%",
+            "value": 0.053
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "6.8%",
+            "value": 0.068
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "10.9%",
+            "value": 0.109
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "11.0%",
+            "value": 0.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "18.9%",
+            "value": 0.18899999999999997
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "SUU": {
+            "raw": "12.8%",
+            "value": 0.128
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "UVU": {
+            "raw": "22.3%",
+            "value": 0.223
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "SUU": {
+            "raw": "21.6%",
+            "value": 0.21600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "UVU": {
+            "raw": "0.524",
+            "value": 0.524
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "SUU": {
+            "raw": "0.468",
+            "value": 0.468
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_uvu_suu.off_efficiency.uvu": 1.074,
+    "matchup_menu_uvu_suu.off_efficiency.suu": 0.987,
+    "matchup_menu_uvu_suu.effective_fg.uvu": 0.55,
+    "matchup_menu_uvu_suu.effective_fg.suu": 0.505,
+    "matchup_menu_uvu_suu.turnovers_play.uvu": 0.17800000000000002,
+    "matchup_menu_uvu_suu.turnovers_play.suu": 0.18,
+    "matchup_menu_uvu_suu.off_rebound.uvu": 0.332,
+    "matchup_menu_uvu_suu.off_rebound.suu": 0.27,
+    "matchup_menu_uvu_suu.fta_fga.uvu": 0.369,
+    "matchup_menu_uvu_suu.fta_fga.suu": 0.327,
+    "matchup_menu_uvu_suu.points_game.uvu": 77.2,
+    "matchup_menu_uvu_suu.points_game.suu": 72.0,
+    "matchup_menu_uvu_suu.avg_score_margin.uvu": 8.0,
+    "matchup_menu_uvu_suu.avg_score_margin.suu": -9.3,
+    "key_offensive_stats.off_efficiency.uvu": 1.074,
+    "key_offensive_stats.off_efficiency.suu": 0.987,
+    "key_offensive_stats.effective_fg.uvu": 0.55,
+    "key_offensive_stats.effective_fg.suu": 0.505,
+    "key_offensive_stats.turnovers_play.uvu": 0.17800000000000002,
+    "key_offensive_stats.turnovers_play.suu": 0.18,
+    "key_offensive_stats.off_rebound.uvu": 0.332,
+    "key_offensive_stats.off_rebound.suu": 0.27,
+    "key_offensive_stats.fta_fga.uvu": 0.369,
+    "key_offensive_stats.fta_fga.suu": 0.327,
+    "key_offensive_stats.points_game.uvu": 77.2,
+    "key_offensive_stats.points_game.suu": 72.0,
+    "key_offensive_stats.avg_score_margin.uvu": 8.0,
+    "key_offensive_stats.avg_score_margin.suu": -9.3,
+    "key_defensive_stats.def_efficiency.uvu": 0.964,
+    "key_defensive_stats.def_efficiency.suu": 1.115,
+    "key_defensive_stats.opp_effective_fg.uvu": 0.48200000000000004,
+    "key_defensive_stats.opp_effective_fg.suu": 0.536,
+    "key_defensive_stats.opp_turnovers_play.uvu": 0.18899999999999997,
+    "key_defensive_stats.opp_turnovers_play.suu": 0.128,
+    "key_defensive_stats.def_rebound.uvu": 0.716,
+    "key_defensive_stats.def_rebound.suu": 0.688,
+    "key_defensive_stats.opp_fta_fga.uvu": 0.383,
+    "key_defensive_stats.opp_fta_fga.suu": 0.289,
+    "key_defensive_stats.opp_points_game.uvu": 69.2,
+    "key_defensive_stats.opp_points_game.suu": 81.3,
+    "key_defensive_stats.block.uvu": 0.098,
+    "key_defensive_stats.block.suu": 0.066,
+    "key_defensive_stats.personal_fouls_play.uvu": 0.23,
+    "key_defensive_stats.personal_fouls_play.suu": 0.196,
+    "utah_valley_vs_s_utah_offensive_efficiency.possessions_gm.uvu": 71.8,
+    "utah_valley_vs_s_utah_offensive_efficiency.possessions_gm.suu": 72.9,
+    "utah_valley_vs_s_utah_offensive_efficiency.off_efficiency.uvu": 1.074,
+    "utah_valley_vs_s_utah_offensive_efficiency.off_efficiency.suu": 0.987,
+    "utah_valley_vs_s_utah_offensive_efficiency.effective_fg.uvu": 0.55,
+    "utah_valley_vs_s_utah_offensive_efficiency.effective_fg.suu": 0.505,
+    "utah_valley_vs_s_utah_offensive_efficiency.two_point_rate.uvu": 0.672,
+    "utah_valley_vs_s_utah_offensive_efficiency.two_point_rate.suu": 0.65,
+    "utah_valley_vs_s_utah_offensive_efficiency.three_point_rate.uvu": 0.32799999999999996,
+    "utah_valley_vs_s_utah_offensive_efficiency.three_point_rate.suu": 0.35,
+    "utah_valley_vs_s_utah_offensive_efficiency.fta_play.uvu": 0.258,
+    "utah_valley_vs_s_utah_offensive_efficiency.fta_play.suu": 0.23199999999999998,
+    "utah_valley_vs_s_utah_offensive_efficiency.two_point.uvu": 0.5760000000000001,
+    "utah_valley_vs_s_utah_offensive_efficiency.two_point.suu": 0.504,
+    "utah_valley_vs_s_utah_offensive_efficiency.three_point.uvu": 0.331,
+    "utah_valley_vs_s_utah_offensive_efficiency.three_point.suu": 0.33799999999999997,
+    "utah_valley_vs_s_utah_offensive_efficiency.free_throw.uvu": 0.6859999999999999,
+    "utah_valley_vs_s_utah_offensive_efficiency.free_throw.suu": 0.7170000000000001,
+    "utah_valley_vs_s_utah_offensive_efficiency.points_2_pters.uvu": 44.2,
+    "utah_valley_vs_s_utah_offensive_efficiency.points_2_pters.suu": 37.8,
+    "utah_valley_vs_s_utah_offensive_efficiency.points_3_pters.uvu": 18.6,
+    "utah_valley_vs_s_utah_offensive_efficiency.points_3_pters.suu": 20.5,
+    "utah_valley_vs_s_utah_offensive_efficiency.off_rebound.uvu": 0.332,
+    "utah_valley_vs_s_utah_offensive_efficiency.off_rebound.suu": 0.27,
+    "utah_valley_vs_s_utah_offensive_efficiency.def_rebound.uvu": 0.716,
+    "utah_valley_vs_s_utah_offensive_efficiency.def_rebound.suu": 0.688,
+    "utah_valley_vs_s_utah_offensive_efficiency.block.uvu": 0.098,
+    "utah_valley_vs_s_utah_offensive_efficiency.block.suu": 0.066,
+    "utah_valley_vs_s_utah_offensive_efficiency.steals_play.uvu": 0.12,
+    "utah_valley_vs_s_utah_offensive_efficiency.steals_play.suu": 0.064,
+    "utah_valley_vs_s_utah_offensive_efficiency.turnovers_play.uvu": 0.17800000000000002,
+    "utah_valley_vs_s_utah_offensive_efficiency.turnovers_play.suu": 0.18,
+    "utah_valley_vs_s_utah_offensive_efficiency.personal_fouls_play.uvu": 0.23,
+    "utah_valley_vs_s_utah_offensive_efficiency.personal_fouls_play.suu": 0.196,
+    "utah_valley_vs_s_utah_offensive_efficiency.assists_fgm.uvu": 0.622,
+    "utah_valley_vs_s_utah_offensive_efficiency.assists_fgm.suu": 0.494,
+    "utah_valley_vs_s_utah_defensive_efficiency.possessions_gm.uvu": 71.8,
+    "utah_valley_vs_s_utah_defensive_efficiency.possessions_gm.suu": 72.9,
+    "utah_valley_vs_s_utah_defensive_efficiency.def_efficiency.uvu": 0.964,
+    "utah_valley_vs_s_utah_defensive_efficiency.def_efficiency.suu": 1.115,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_effective_fg.uvu": 0.48200000000000004,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_effective_fg.suu": 0.536,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_two_point_rate.uvu": 0.677,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_two_point_rate.suu": 0.701,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_three_point_rate.uvu": 0.32299999999999995,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_three_point_rate.suu": 0.299,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_fta_play.uvu": 0.264,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_fta_play.suu": 0.222,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_two_point.uvu": 0.46399999999999997,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_two_point.suu": 0.516,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_three_point.uvu": 0.34700000000000003,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_three_point.suu": 0.38799999999999996,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_free_throw.uvu": 0.731,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_free_throw.suu": 0.706,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_points_2_pters.uvu": 34.9,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_points_2_pters.suu": 46.2,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_points_3_pters.uvu": 18.7,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_points_3_pters.suu": 22.2,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_off_rebound.uvu": 0.284,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_off_rebound.suu": 0.312,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_def_rebound.uvu": 0.6679999999999999,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_def_rebound.suu": 0.73,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_block.uvu": 0.053,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_block.suu": 0.068,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_steals_play.uvu": 0.109,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_steals_play.suu": 0.11,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_turnovers_play.uvu": 0.18899999999999997,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_turnovers_play.suu": 0.128,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_personal_fouls_play.uvu": 0.223,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_personal_fouls_play.suu": 0.21600000000000003,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_assists_fgm.uvu": 0.524,
+    "utah_valley_vs_s_utah_defensive_efficiency.opp_assists_fgm.suu": 0.468
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "wolverines-thunderbirds-2026-03-05",
+  "matchup_title": "#99 Utah Valley at #275 S Utah",
+  "teams": {
+    "away": "#99 Utah Valley",
+    "home": "#275 S Utah",
+    "neutral_site": false
+  },
+  "time_local": "8:30 PM",
+  "location": "America First Events Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/wolverines-thunderbirds-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/wolverines-thunderbirds-2026-03-05/efficiency"
+  }
+}

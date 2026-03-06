@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-skyhawks-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:58.907316+00:00",
+  "tables": {
+    "Matchup Menu: EIU vs. UTM": {
+      "headers": [
+        "Stat",
+        "EIU",
+        "adv",
+        "UTM"
+      ],
+      "team_headers": [
+        "EIU",
+        "UTM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.938",
+            "value": 0.938
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "1.002",
+            "value": 1.002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "45.5%",
+            "value": 0.455
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "16.2%",
+            "value": 0.162
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "17.9%",
+            "value": 0.179
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "25.7%",
+            "value": 0.257
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "35.9%",
+            "value": 0.359
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.338",
+            "value": 0.338
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "0.385",
+            "value": 0.385
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "EIU": {
+            "raw": "64.6",
+            "value": 64.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "68.4",
+            "value": 68.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "EIU": {
+            "raw": "-7.8",
+            "value": -7.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "+3.7",
+            "value": 3.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "EIU",
+        "adv",
+        "UTM"
+      ],
+      "team_headers": [
+        "EIU",
+        "UTM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.938",
+            "value": 0.938
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "1.002",
+            "value": 1.002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "45.5%",
+            "value": 0.455
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "16.2%",
+            "value": 0.162
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "17.9%",
+            "value": 0.179
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "25.7%",
+            "value": 0.257
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "35.9%",
+            "value": 0.359
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.338",
+            "value": 0.338
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "0.385",
+            "value": 0.385
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "EIU": {
+            "raw": "64.6",
+            "value": 64.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "68.4",
+            "value": 68.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "EIU": {
+            "raw": "-7.8",
+            "value": -7.8
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "+3.7",
+            "value": 3.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "EIU",
+        "adv",
+        "UTM"
+      ],
+      "team_headers": [
+        "EIU",
+        "UTM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "EIU": {
+            "raw": "1.051",
+            "value": 1.051
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "0.948",
+            "value": 0.948
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "45.7%",
+            "value": 0.457
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "66.6%",
+            "value": 0.6659999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.354",
+            "value": 0.354
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "0.370",
+            "value": 0.37
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "EIU": {
+            "raw": "72.4",
+            "value": 72.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "64.6",
+            "value": 64.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "7.5%",
+            "value": 0.075
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "22.5%",
+            "value": 0.225
+          }
+        }
+      ]
+    },
+    "E Illinois vs UT Martin Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "EIU",
+        "adv",
+        "UTM"
+      ],
+      "team_headers": [
+        "EIU",
+        "UTM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "EIU": {
+            "raw": "68.9",
+            "value": 68.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "68.2",
+            "value": 68.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.938",
+            "value": 0.938
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "1.002",
+            "value": 1.002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "45.5%",
+            "value": 0.455
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "EIU": {
+            "raw": "70.3%",
+            "value": 0.703
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "UTM": {
+            "raw": "53.1%",
+            "value": 0.531
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "EIU": {
+            "raw": "29.7%",
+            "value": 0.297
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UTM": {
+            "raw": "46.9%",
+            "value": 0.469
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "26.6%",
+            "value": 0.266
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "44.9%",
+            "value": 0.449
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "31.3%",
+            "value": 0.313
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "30.5%",
+            "value": 0.305
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "74.5%",
+            "value": 0.745
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "67.4%",
+            "value": 0.674
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "EIU": {
+            "raw": "35.1",
+            "value": 35.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "30.4",
+            "value": 30.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "EIU": {
+            "raw": "15.5",
+            "value": 15.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "23.7",
+            "value": 23.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "25.7%",
+            "value": 0.257
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "35.9%",
+            "value": 0.359
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "66.6%",
+            "value": 0.6659999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "70.4%",
+            "value": 0.7040000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "7.5%",
+            "value": 0.075
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "9.6%",
+            "value": 0.096
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "10.6%",
+            "value": 0.106
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "16.2%",
+            "value": 0.162
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "17.9%",
+            "value": 0.179
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "21.5%",
+            "value": 0.215
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "22.5%",
+            "value": 0.225
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.487",
+            "value": 0.487
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "0.559",
+            "value": 0.559
+          }
+        }
+      ]
+    },
+    "E Illinois vs UT Martin Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "EIU",
+        "adv",
+        "UTM"
+      ],
+      "team_headers": [
+        "EIU",
+        "UTM"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "EIU": {
+            "raw": "68.9",
+            "value": 68.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "68.2",
+            "value": 68.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "EIU": {
+            "raw": "1.051",
+            "value": 1.051
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "0.948",
+            "value": 0.948
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "45.7%",
+            "value": 0.457
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "EIU": {
+            "raw": "59.2%",
+            "value": 0.5920000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "60.4%",
+            "value": 0.604
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "EIU": {
+            "raw": "40.8%",
+            "value": 0.408
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "39.6%",
+            "value": 0.396
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "25.3%",
+            "value": 0.253
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "26.2%",
+            "value": 0.262
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "53.1%",
+            "value": 0.531
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "46.6%",
+            "value": 0.466
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "31.8%",
+            "value": 0.318
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "29.4%",
+            "value": 0.294
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "74.3%",
+            "value": 0.743
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UTM": {
+            "raw": "68.5%",
+            "value": 0.685
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "EIU": {
+            "raw": "35.5",
+            "value": 35.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "31.2",
+            "value": 31.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "EIU": {
+            "raw": "22.0",
+            "value": 22.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "19.4",
+            "value": 19.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "74.3%",
+            "value": 0.743
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UTM": {
+            "raw": "64.1%",
+            "value": 0.6409999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "EIU": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "8.3%",
+            "value": 0.083
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UTM": {
+            "raw": "11.0%",
+            "value": 0.11
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "16.5%",
+            "value": 0.165
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "EIU": {
+            "raw": "21.1%",
+            "value": 0.21100000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "22.2%",
+            "value": 0.222
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "EIU": {
+            "raw": "0.574",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UTM": {
+            "raw": "0.537",
+            "value": 0.537
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_eiu_vs_utm.off_efficiency.eiu": 0.938,
+    "matchup_menu_eiu_vs_utm.off_efficiency.utm": 1.002,
+    "matchup_menu_eiu_vs_utm.effective_fg.eiu": 0.455,
+    "matchup_menu_eiu_vs_utm.effective_fg.utm": 0.49,
+    "matchup_menu_eiu_vs_utm.turnovers_play.eiu": 0.162,
+    "matchup_menu_eiu_vs_utm.turnovers_play.utm": 0.179,
+    "matchup_menu_eiu_vs_utm.off_rebound.eiu": 0.257,
+    "matchup_menu_eiu_vs_utm.off_rebound.utm": 0.359,
+    "matchup_menu_eiu_vs_utm.fta_fga.eiu": 0.338,
+    "matchup_menu_eiu_vs_utm.fta_fga.utm": 0.385,
+    "matchup_menu_eiu_vs_utm.points_game.eiu": 64.6,
+    "matchup_menu_eiu_vs_utm.points_game.utm": 68.4,
+    "matchup_menu_eiu_vs_utm.avg_score_margin.eiu": -7.8,
+    "matchup_menu_eiu_vs_utm.avg_score_margin.utm": 3.7,
+    "key_offensive_stats.off_efficiency.eiu": 0.938,
+    "key_offensive_stats.off_efficiency.utm": 1.002,
+    "key_offensive_stats.effective_fg.eiu": 0.455,
+    "key_offensive_stats.effective_fg.utm": 0.49,
+    "key_offensive_stats.turnovers_play.eiu": 0.162,
+    "key_offensive_stats.turnovers_play.utm": 0.179,
+    "key_offensive_stats.off_rebound.eiu": 0.257,
+    "key_offensive_stats.off_rebound.utm": 0.359,
+    "key_offensive_stats.fta_fga.eiu": 0.338,
+    "key_offensive_stats.fta_fga.utm": 0.385,
+    "key_offensive_stats.points_game.eiu": 64.6,
+    "key_offensive_stats.points_game.utm": 68.4,
+    "key_offensive_stats.avg_score_margin.eiu": -7.8,
+    "key_offensive_stats.avg_score_margin.utm": 3.7,
+    "key_defensive_stats.def_efficiency.eiu": 1.051,
+    "key_defensive_stats.def_efficiency.utm": 0.948,
+    "key_defensive_stats.opp_effective_fg.eiu": 0.509,
+    "key_defensive_stats.opp_effective_fg.utm": 0.457,
+    "key_defensive_stats.opp_turnovers_play.eiu": 0.165,
+    "key_defensive_stats.opp_turnovers_play.utm": 0.16899999999999998,
+    "key_defensive_stats.def_rebound.eiu": 0.6659999999999999,
+    "key_defensive_stats.def_rebound.utm": 0.7040000000000001,
+    "key_defensive_stats.opp_fta_fga.eiu": 0.354,
+    "key_defensive_stats.opp_fta_fga.utm": 0.37,
+    "key_defensive_stats.opp_points_game.eiu": 72.4,
+    "key_defensive_stats.opp_points_game.utm": 64.6,
+    "key_defensive_stats.block.eiu": 0.051,
+    "key_defensive_stats.block.utm": 0.075,
+    "key_defensive_stats.personal_fouls_play.eiu": 0.215,
+    "key_defensive_stats.personal_fouls_play.utm": 0.225,
+    "e_illinois_vs_ut_martin_offensive_efficiency.possessions_gm.eiu": 68.9,
+    "e_illinois_vs_ut_martin_offensive_efficiency.possessions_gm.utm": 68.2,
+    "e_illinois_vs_ut_martin_offensive_efficiency.off_efficiency.eiu": 0.938,
+    "e_illinois_vs_ut_martin_offensive_efficiency.off_efficiency.utm": 1.002,
+    "e_illinois_vs_ut_martin_offensive_efficiency.effective_fg.eiu": 0.455,
+    "e_illinois_vs_ut_martin_offensive_efficiency.effective_fg.utm": 0.49,
+    "e_illinois_vs_ut_martin_offensive_efficiency.two_point_rate.eiu": 0.703,
+    "e_illinois_vs_ut_martin_offensive_efficiency.two_point_rate.utm": 0.531,
+    "e_illinois_vs_ut_martin_offensive_efficiency.three_point_rate.eiu": 0.297,
+    "e_illinois_vs_ut_martin_offensive_efficiency.three_point_rate.utm": 0.469,
+    "e_illinois_vs_ut_martin_offensive_efficiency.fta_play.eiu": 0.244,
+    "e_illinois_vs_ut_martin_offensive_efficiency.fta_play.utm": 0.266,
+    "e_illinois_vs_ut_martin_offensive_efficiency.two_point.eiu": 0.449,
+    "e_illinois_vs_ut_martin_offensive_efficiency.two_point.utm": 0.518,
+    "e_illinois_vs_ut_martin_offensive_efficiency.three_point.eiu": 0.313,
+    "e_illinois_vs_ut_martin_offensive_efficiency.three_point.utm": 0.305,
+    "e_illinois_vs_ut_martin_offensive_efficiency.free_throw.eiu": 0.745,
+    "e_illinois_vs_ut_martin_offensive_efficiency.free_throw.utm": 0.674,
+    "e_illinois_vs_ut_martin_offensive_efficiency.points_2_pters.eiu": 35.1,
+    "e_illinois_vs_ut_martin_offensive_efficiency.points_2_pters.utm": 30.4,
+    "e_illinois_vs_ut_martin_offensive_efficiency.points_3_pters.eiu": 15.5,
+    "e_illinois_vs_ut_martin_offensive_efficiency.points_3_pters.utm": 23.7,
+    "e_illinois_vs_ut_martin_offensive_efficiency.off_rebound.eiu": 0.257,
+    "e_illinois_vs_ut_martin_offensive_efficiency.off_rebound.utm": 0.359,
+    "e_illinois_vs_ut_martin_offensive_efficiency.def_rebound.eiu": 0.6659999999999999,
+    "e_illinois_vs_ut_martin_offensive_efficiency.def_rebound.utm": 0.7040000000000001,
+    "e_illinois_vs_ut_martin_offensive_efficiency.block.eiu": 0.051,
+    "e_illinois_vs_ut_martin_offensive_efficiency.block.utm": 0.075,
+    "e_illinois_vs_ut_martin_offensive_efficiency.steals_play.eiu": 0.096,
+    "e_illinois_vs_ut_martin_offensive_efficiency.steals_play.utm": 0.106,
+    "e_illinois_vs_ut_martin_offensive_efficiency.turnovers_play.eiu": 0.162,
+    "e_illinois_vs_ut_martin_offensive_efficiency.turnovers_play.utm": 0.179,
+    "e_illinois_vs_ut_martin_offensive_efficiency.personal_fouls_play.eiu": 0.215,
+    "e_illinois_vs_ut_martin_offensive_efficiency.personal_fouls_play.utm": 0.225,
+    "e_illinois_vs_ut_martin_offensive_efficiency.assists_fgm.eiu": 0.487,
+    "e_illinois_vs_ut_martin_offensive_efficiency.assists_fgm.utm": 0.559,
+    "e_illinois_vs_ut_martin_defensive_efficiency.possessions_gm.eiu": 68.9,
+    "e_illinois_vs_ut_martin_defensive_efficiency.possessions_gm.utm": 68.2,
+    "e_illinois_vs_ut_martin_defensive_efficiency.def_efficiency.eiu": 1.051,
+    "e_illinois_vs_ut_martin_defensive_efficiency.def_efficiency.utm": 0.948,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_effective_fg.eiu": 0.509,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_effective_fg.utm": 0.457,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_two_point_rate.eiu": 0.5920000000000001,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_two_point_rate.utm": 0.604,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_three_point_rate.eiu": 0.408,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_three_point_rate.utm": 0.396,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_fta_play.eiu": 0.253,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_fta_play.utm": 0.262,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_two_point.eiu": 0.531,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_two_point.utm": 0.466,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_three_point.eiu": 0.318,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_three_point.utm": 0.294,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_free_throw.eiu": 0.743,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_free_throw.utm": 0.685,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_points_2_pters.eiu": 35.5,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_points_2_pters.utm": 31.2,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_points_3_pters.eiu": 22.0,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_points_3_pters.utm": 19.4,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_off_rebound.eiu": 0.33399999999999996,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_off_rebound.utm": 0.29600000000000004,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_def_rebound.eiu": 0.743,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_def_rebound.utm": 0.6409999999999999,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_block.eiu": 0.083,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_block.utm": 0.057999999999999996,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_steals_play.eiu": 0.083,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_steals_play.utm": 0.11,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_turnovers_play.eiu": 0.165,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_turnovers_play.utm": 0.16899999999999998,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_personal_fouls_play.eiu": 0.21100000000000002,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_personal_fouls_play.utm": 0.222,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_assists_fgm.eiu": 0.574,
+    "e_illinois_vs_ut_martin_defensive_efficiency.opp_assists_fgm.utm": 0.537
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "panthers-skyhawks-2026-03-05",
+  "matchup_title": "#319 E Illinois vs. #218 UT Martin",
+  "teams": {
+    "away": "#319 E Illinois",
+    "home": "#218 UT Martin",
+    "neutral_site": true
+  },
+  "time_local": "7:00 PM",
+  "location": "Ford Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-skyhawks-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/panthers-skyhawks-2026-03-05/efficiency"
+  }
+}

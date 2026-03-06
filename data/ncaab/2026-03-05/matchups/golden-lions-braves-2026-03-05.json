@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-lions-braves-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:14:09.499265+00:00",
+  "tables": {
+    "Matchup Menu: ARPB @ ALCN": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "ARPB",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.005",
+            "value": 1.005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.951",
+            "value": 0.951
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.6%",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "48.3%",
+            "value": 0.483
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "25.8%",
+            "value": 0.258
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.389",
+            "value": 0.389
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "0.302",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.4",
+            "value": 73.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "67.6",
+            "value": 67.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "-9.6",
+            "value": -9.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "-13.6",
+            "value": -13.6
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "ARPB",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.005",
+            "value": 1.005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.951",
+            "value": 0.951
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.6%",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "48.3%",
+            "value": 0.483
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "25.8%",
+            "value": 0.258
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.389",
+            "value": 0.389
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "0.302",
+            "value": 0.302
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.4",
+            "value": 73.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "67.6",
+            "value": 67.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "-9.6",
+            "value": -9.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "-13.6",
+            "value": -13.6
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "ARPB",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.136",
+            "value": 1.136
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "1.141",
+            "value": 1.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "52.8%",
+            "value": 0.528
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "56.2%",
+            "value": 0.562
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "16.1%",
+            "value": 0.161
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "65.6%",
+            "value": 0.6559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "64.8%",
+            "value": 0.648
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.440",
+            "value": 0.44
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.402",
+            "value": 0.402
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "83.0",
+            "value": 83.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "81.1",
+            "value": 81.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "5.0%",
+            "value": 0.05
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "22.0%",
+            "value": 0.22
+          }
+        }
+      ]
+    },
+    "AR-Pine Bluff vs Alcorn St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "ARPB",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.1",
+            "value": 73.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "71.1",
+            "value": 71.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.005",
+            "value": 1.005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.951",
+            "value": 0.951
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.6%",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "48.3%",
+            "value": 0.483
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "62.1%",
+            "value": 0.621
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "65.9%",
+            "value": 0.659
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "37.9%",
+            "value": 0.379
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "34.1%",
+            "value": 0.341
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "27.3%",
+            "value": 0.273
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "21.8%",
+            "value": 0.218
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "49.2%",
+            "value": 0.49200000000000005
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "46.8%",
+            "value": 0.46799999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "33.5%",
+            "value": 0.335
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "34.3%",
+            "value": 0.34299999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "71.1%",
+            "value": 0.711
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "34.9",
+            "value": 34.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "35.2",
+            "value": 35.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "21.8",
+            "value": 21.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "20.1",
+            "value": 20.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "25.8%",
+            "value": 0.258
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "65.6%",
+            "value": 0.6559999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "64.8%",
+            "value": 0.648
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "5.0%",
+            "value": 0.05
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "5.9%",
+            "value": 0.059000000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "8.0%",
+            "value": 0.08
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "9.6%",
+            "value": 0.096
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "17.3%",
+            "value": 0.17300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "22.0%",
+            "value": 0.22
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.562",
+            "value": 0.562
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "ALCN": {
+            "raw": "0.464",
+            "value": 0.464
+          }
+        }
+      ]
+    },
+    "AR-Pine Bluff vs Alcorn St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "ARPB",
+        "adv",
+        "ALCN"
+      ],
+      "team_headers": [
+        "ARPB",
+        "ALCN"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "73.1",
+            "value": 73.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "71.1",
+            "value": 71.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "1.136",
+            "value": 1.136
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "1.141",
+            "value": 1.141
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "52.8%",
+            "value": 0.528
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "56.2%",
+            "value": 0.562
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "62.2%",
+            "value": 0.622
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "64.6%",
+            "value": 0.6459999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "37.8%",
+            "value": 0.37799999999999995
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "31.3%",
+            "value": 0.313
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "28.4%",
+            "value": 0.284
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "54.9%",
+            "value": 0.5489999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "58.8%",
+            "value": 0.588
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "33.0%",
+            "value": 0.33
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "34.2%",
+            "value": 0.342
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "76.3%",
+            "value": 0.763
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "72.8%",
+            "value": 0.728
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "40.7",
+            "value": 40.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "43.6",
+            "value": 43.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "22.3",
+            "value": 22.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "20.8",
+            "value": 20.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "34.4%",
+            "value": 0.344
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "35.2%",
+            "value": 0.35200000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "74.2%",
+            "value": 0.742
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "74.5%",
+            "value": 0.745
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "9.7%",
+            "value": 0.09699999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "9.3%",
+            "value": 0.09300000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "13.9%",
+            "value": 0.139
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "16.1%",
+            "value": 0.161
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "21.0%",
+            "value": 0.21
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "ALCN": {
+            "raw": "19.2%",
+            "value": 0.192
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "ARPB": {
+            "raw": "0.536",
+            "value": 0.536
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "ALCN": {
+            "raw": "0.553",
+            "value": 0.553
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_arpb_alcn.off_efficiency.arpb": 1.005,
+    "matchup_menu_arpb_alcn.off_efficiency.alcn": 0.951,
+    "matchup_menu_arpb_alcn.effective_fg.arpb": 0.496,
+    "matchup_menu_arpb_alcn.effective_fg.alcn": 0.483,
+    "matchup_menu_arpb_alcn.turnovers_play.arpb": 0.16899999999999998,
+    "matchup_menu_arpb_alcn.turnovers_play.alcn": 0.17300000000000001,
+    "matchup_menu_arpb_alcn.off_rebound.arpb": 0.258,
+    "matchup_menu_arpb_alcn.off_rebound.alcn": 0.255,
+    "matchup_menu_arpb_alcn.fta_fga.arpb": 0.389,
+    "matchup_menu_arpb_alcn.fta_fga.alcn": 0.302,
+    "matchup_menu_arpb_alcn.points_game.arpb": 73.4,
+    "matchup_menu_arpb_alcn.points_game.alcn": 67.6,
+    "matchup_menu_arpb_alcn.avg_score_margin.arpb": -9.6,
+    "matchup_menu_arpb_alcn.avg_score_margin.alcn": -13.6,
+    "key_offensive_stats.off_efficiency.arpb": 1.005,
+    "key_offensive_stats.off_efficiency.alcn": 0.951,
+    "key_offensive_stats.effective_fg.arpb": 0.496,
+    "key_offensive_stats.effective_fg.alcn": 0.483,
+    "key_offensive_stats.turnovers_play.arpb": 0.16899999999999998,
+    "key_offensive_stats.turnovers_play.alcn": 0.17300000000000001,
+    "key_offensive_stats.off_rebound.arpb": 0.258,
+    "key_offensive_stats.off_rebound.alcn": 0.255,
+    "key_offensive_stats.fta_fga.arpb": 0.389,
+    "key_offensive_stats.fta_fga.alcn": 0.302,
+    "key_offensive_stats.points_game.arpb": 73.4,
+    "key_offensive_stats.points_game.alcn": 67.6,
+    "key_offensive_stats.avg_score_margin.arpb": -9.6,
+    "key_offensive_stats.avg_score_margin.alcn": -13.6,
+    "key_defensive_stats.def_efficiency.arpb": 1.136,
+    "key_defensive_stats.def_efficiency.alcn": 1.141,
+    "key_defensive_stats.opp_effective_fg.arpb": 0.528,
+    "key_defensive_stats.opp_effective_fg.alcn": 0.562,
+    "key_defensive_stats.opp_turnovers_play.arpb": 0.139,
+    "key_defensive_stats.opp_turnovers_play.alcn": 0.161,
+    "key_defensive_stats.def_rebound.arpb": 0.6559999999999999,
+    "key_defensive_stats.def_rebound.alcn": 0.648,
+    "key_defensive_stats.opp_fta_fga.arpb": 0.44,
+    "key_defensive_stats.opp_fta_fga.alcn": 0.402,
+    "key_defensive_stats.opp_points_game.arpb": 83.0,
+    "key_defensive_stats.opp_points_game.alcn": 81.1,
+    "key_defensive_stats.block.arpb": 0.05,
+    "key_defensive_stats.block.alcn": 0.059000000000000004,
+    "key_defensive_stats.personal_fouls_play.arpb": 0.23800000000000002,
+    "key_defensive_stats.personal_fouls_play.alcn": 0.22,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.possessions_gm.arpb": 73.1,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.possessions_gm.alcn": 71.1,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.off_efficiency.arpb": 1.005,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.off_efficiency.alcn": 0.951,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.effective_fg.arpb": 0.496,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.effective_fg.alcn": 0.483,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.two_point_rate.arpb": 0.621,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.two_point_rate.alcn": 0.659,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.three_point_rate.arpb": 0.379,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.three_point_rate.alcn": 0.341,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.fta_play.arpb": 0.273,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.fta_play.alcn": 0.218,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.two_point.arpb": 0.49200000000000005,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.two_point.alcn": 0.46799999999999997,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.three_point.arpb": 0.335,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.three_point.alcn": 0.34299999999999997,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.free_throw.arpb": 0.754,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.free_throw.alcn": 0.711,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.points_2_pters.arpb": 34.9,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.points_2_pters.alcn": 35.2,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.points_3_pters.arpb": 21.8,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.points_3_pters.alcn": 20.1,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.off_rebound.arpb": 0.258,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.off_rebound.alcn": 0.255,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.def_rebound.arpb": 0.6559999999999999,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.def_rebound.alcn": 0.648,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.block.arpb": 0.05,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.block.alcn": 0.059000000000000004,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.steals_play.arpb": 0.08,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.steals_play.alcn": 0.096,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.turnovers_play.arpb": 0.16899999999999998,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.turnovers_play.alcn": 0.17300000000000001,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.personal_fouls_play.arpb": 0.23800000000000002,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.personal_fouls_play.alcn": 0.22,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.assists_fgm.arpb": 0.562,
+    "ar_pine_bluff_vs_alcorn_st_offensive_efficiency.assists_fgm.alcn": 0.464,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.possessions_gm.arpb": 73.1,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.possessions_gm.alcn": 71.1,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.def_efficiency.arpb": 1.136,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.def_efficiency.alcn": 1.141,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_effective_fg.arpb": 0.528,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_effective_fg.alcn": 0.562,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_two_point_rate.arpb": 0.622,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_two_point_rate.alcn": 0.6459999999999999,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_three_point_rate.arpb": 0.37799999999999995,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_three_point_rate.alcn": 0.354,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_fta_play.arpb": 0.313,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_fta_play.alcn": 0.284,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_two_point.arpb": 0.5489999999999999,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_two_point.alcn": 0.588,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_three_point.arpb": 0.33,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_three_point.alcn": 0.342,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_free_throw.arpb": 0.763,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_free_throw.alcn": 0.728,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_points_2_pters.arpb": 40.7,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_points_2_pters.alcn": 43.6,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_points_3_pters.arpb": 22.3,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_points_3_pters.alcn": 20.8,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_off_rebound.arpb": 0.344,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_off_rebound.alcn": 0.35200000000000004,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_def_rebound.arpb": 0.742,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_def_rebound.alcn": 0.745,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_block.arpb": 0.055999999999999994,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_block.alcn": 0.07400000000000001,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_steals_play.arpb": 0.09699999999999999,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_steals_play.alcn": 0.09300000000000001,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_turnovers_play.arpb": 0.139,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_turnovers_play.alcn": 0.161,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_personal_fouls_play.arpb": 0.21,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_personal_fouls_play.alcn": 0.192,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_assists_fgm.arpb": 0.536,
+    "ar_pine_bluff_vs_alcorn_st_defensive_efficiency.opp_assists_fgm.alcn": 0.553
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "golden-lions-braves-2026-03-05",
+  "matchup_title": "#342 AR-Pine Bluff at #353 Alcorn St",
+  "teams": {
+    "away": "#342 AR-Pine Bluff",
+    "home": "#353 Alcorn St",
+    "neutral_site": false
+  },
+  "time_local": "9:00 PM",
+  "location": "Davey Whitney Complex",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-lions-braves-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/golden-lions-braves-2026-03-05/efficiency"
+  }
+}

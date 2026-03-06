@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/nba/matchup/warriors-rockets-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:07.796713+00:00",
+  "tables": {
+    "Matchup Menu: GS @ HOU": {
+      "headers": [
+        "Stat",
+        "GS",
+        "adv",
+        "HOU"
+      ],
+      "team_headers": [
+        "GS",
+        "HOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GS": {
+            "raw": "1.116",
+            "value": 1.116
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "1.138",
+            "value": 1.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GS": {
+            "raw": "55.2%",
+            "value": 0.552
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GS": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GS": {
+            "raw": "0.233",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "0.264",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GS": {
+            "raw": "115.3",
+            "value": 115.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "114.7",
+            "value": 114.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GS": {
+            "raw": "+1.3",
+            "value": 1.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "+5.3",
+            "value": 5.3
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "GS",
+        "adv",
+        "HOU"
+      ],
+      "team_headers": [
+        "GS",
+        "HOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GS": {
+            "raw": "1.116",
+            "value": 1.116
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "1.138",
+            "value": 1.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GS": {
+            "raw": "55.2%",
+            "value": 0.552
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GS": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "GS": {
+            "raw": "0.233",
+            "value": 0.233
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "0.264",
+            "value": 0.264
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "GS": {
+            "raw": "115.3",
+            "value": 115.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "114.7",
+            "value": 114.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "GS": {
+            "raw": "+1.3",
+            "value": 1.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "+5.3",
+            "value": 5.3
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "GS",
+        "adv",
+        "HOU"
+      ],
+      "team_headers": [
+        "GS",
+        "HOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GS": {
+            "raw": "1.104",
+            "value": 1.104
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "1.085",
+            "value": 1.085
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GS": {
+            "raw": "54.4%",
+            "value": 0.544
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "52.6%",
+            "value": 0.526
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "12.0%",
+            "value": 0.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GS": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "74.1%",
+            "value": 0.741
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "GS": {
+            "raw": "0.248",
+            "value": 0.248
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "0.249",
+            "value": 0.249
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "GS": {
+            "raw": "114.1",
+            "value": 114.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "109.4",
+            "value": 109.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GS": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "6.7%",
+            "value": 0.067
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "17.2%",
+            "value": 0.172
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "16.4%",
+            "value": 0.16399999999999998
+          }
+        }
+      ]
+    },
+    "Golden State vs Houston Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GS",
+        "adv",
+        "HOU"
+      ],
+      "team_headers": [
+        "GS",
+        "HOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GS": {
+            "raw": "103.4",
+            "value": 103.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "100.8",
+            "value": 100.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "GS": {
+            "raw": "1.116",
+            "value": 1.116
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "1.138",
+            "value": 1.138
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "GS": {
+            "raw": "55.2%",
+            "value": 0.552
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "53.8%",
+            "value": 0.5379999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "GS": {
+            "raw": "49.1%",
+            "value": 0.491
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "HOU": {
+            "raw": "65.5%",
+            "value": 0.655
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "GS": {
+            "raw": "50.9%",
+            "value": 0.509
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "HOU": {
+            "raw": "34.5%",
+            "value": 0.345
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "18.2%",
+            "value": 0.182
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "20.4%",
+            "value": 0.204
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "GS": {
+            "raw": "56.5%",
+            "value": 0.565
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "GS": {
+            "raw": "36.0%",
+            "value": 0.36
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "36.9%",
+            "value": 0.369
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "GS": {
+            "raw": "80.6%",
+            "value": 0.8059999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "76.1%",
+            "value": 0.7609999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "GS": {
+            "raw": "49.5",
+            "value": 49.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "HOU": {
+            "raw": "62.4",
+            "value": 62.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "GS": {
+            "raw": "49.0",
+            "value": 49.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "HOU": {
+            "raw": "34.3",
+            "value": 34.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "GS": {
+            "raw": "25.1%",
+            "value": 0.251
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "GS": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "74.1%",
+            "value": 0.741
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "GS": {
+            "raw": "4.9%",
+            "value": 0.049
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "6.7%",
+            "value": 0.067
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "8.6%",
+            "value": 0.086
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "7.8%",
+            "value": 0.078
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "13.5%",
+            "value": 0.135
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "13.3%",
+            "value": 0.133
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "17.2%",
+            "value": 0.172
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "16.4%",
+            "value": 0.16399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "GS": {
+            "raw": "0.710",
+            "value": 0.71
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "HOU": {
+            "raw": "0.581",
+            "value": 0.581
+          }
+        }
+      ]
+    },
+    "Golden State vs Houston Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "GS",
+        "adv",
+        "HOU"
+      ],
+      "team_headers": [
+        "GS",
+        "HOU"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "GS": {
+            "raw": "103.4",
+            "value": 103.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "100.8",
+            "value": 100.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "GS": {
+            "raw": "1.104",
+            "value": 1.104
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "1.085",
+            "value": 1.085
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "GS": {
+            "raw": "54.4%",
+            "value": 0.544
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "52.6%",
+            "value": 0.526
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "GS": {
+            "raw": "59.7%",
+            "value": 0.597
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "60.2%",
+            "value": 0.602
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "GS": {
+            "raw": "40.3%",
+            "value": 0.40299999999999997
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "39.8%",
+            "value": 0.39799999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "19.1%",
+            "value": 0.191
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "19.5%",
+            "value": 0.195
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "GS": {
+            "raw": "55.4%",
+            "value": 0.5539999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "52.8%",
+            "value": 0.528
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "GS": {
+            "raw": "35.3%",
+            "value": 0.353
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "34.8%",
+            "value": 0.348
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "GS": {
+            "raw": "79.8%",
+            "value": 0.7979999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "HOU": {
+            "raw": "75.6%",
+            "value": 0.7559999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "GS": {
+            "raw": "58.7",
+            "value": 58.7
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "56.1",
+            "value": 56.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "GS": {
+            "raw": "37.9",
+            "value": 37.9
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "36.7",
+            "value": 36.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "GS": {
+            "raw": "27.1%",
+            "value": 0.271
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "25.9%",
+            "value": 0.259
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "GS": {
+            "raw": "74.9%",
+            "value": 0.7490000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "64.6%",
+            "value": 0.6459999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "GS": {
+            "raw": "4.8%",
+            "value": 0.048
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "HOU": {
+            "raw": "5.1%",
+            "value": 0.051
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "7.6%",
+            "value": 0.076
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "7.9%",
+            "value": 0.079
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "13.8%",
+            "value": 0.138
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "HOU": {
+            "raw": "12.0%",
+            "value": 0.12
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "GS": {
+            "raw": "16.0%",
+            "value": 0.16
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "17.1%",
+            "value": 0.171
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "GS": {
+            "raw": "0.637",
+            "value": 0.637
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "HOU": {
+            "raw": "0.604",
+            "value": 0.604
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_gs_hou.off_efficiency.gs": 1.116,
+    "matchup_menu_gs_hou.off_efficiency.hou": 1.138,
+    "matchup_menu_gs_hou.effective_fg.gs": 0.552,
+    "matchup_menu_gs_hou.effective_fg.hou": 0.5379999999999999,
+    "matchup_menu_gs_hou.turnovers_play.gs": 0.135,
+    "matchup_menu_gs_hou.turnovers_play.hou": 0.133,
+    "matchup_menu_gs_hou.off_rebound.gs": 0.251,
+    "matchup_menu_gs_hou.off_rebound.hou": 0.354,
+    "matchup_menu_gs_hou.fta_fga.gs": 0.233,
+    "matchup_menu_gs_hou.fta_fga.hou": 0.264,
+    "matchup_menu_gs_hou.points_game.gs": 115.3,
+    "matchup_menu_gs_hou.points_game.hou": 114.7,
+    "matchup_menu_gs_hou.avg_score_margin.gs": 1.3,
+    "matchup_menu_gs_hou.avg_score_margin.hou": 5.3,
+    "key_offensive_stats.off_efficiency.gs": 1.116,
+    "key_offensive_stats.off_efficiency.hou": 1.138,
+    "key_offensive_stats.effective_fg.gs": 0.552,
+    "key_offensive_stats.effective_fg.hou": 0.5379999999999999,
+    "key_offensive_stats.turnovers_play.gs": 0.135,
+    "key_offensive_stats.turnovers_play.hou": 0.133,
+    "key_offensive_stats.off_rebound.gs": 0.251,
+    "key_offensive_stats.off_rebound.hou": 0.354,
+    "key_offensive_stats.fta_fga.gs": 0.233,
+    "key_offensive_stats.fta_fga.hou": 0.264,
+    "key_offensive_stats.points_game.gs": 115.3,
+    "key_offensive_stats.points_game.hou": 114.7,
+    "key_offensive_stats.avg_score_margin.gs": 1.3,
+    "key_offensive_stats.avg_score_margin.hou": 5.3,
+    "key_defensive_stats.def_efficiency.gs": 1.104,
+    "key_defensive_stats.def_efficiency.hou": 1.085,
+    "key_defensive_stats.opp_effective_fg.gs": 0.544,
+    "key_defensive_stats.opp_effective_fg.hou": 0.526,
+    "key_defensive_stats.opp_turnovers_play.gs": 0.138,
+    "key_defensive_stats.opp_turnovers_play.hou": 0.12,
+    "key_defensive_stats.def_rebound.gs": 0.7290000000000001,
+    "key_defensive_stats.def_rebound.hou": 0.741,
+    "key_defensive_stats.opp_fta_fga.gs": 0.248,
+    "key_defensive_stats.opp_fta_fga.hou": 0.249,
+    "key_defensive_stats.opp_points_game.gs": 114.1,
+    "key_defensive_stats.opp_points_game.hou": 109.4,
+    "key_defensive_stats.block.gs": 0.049,
+    "key_defensive_stats.block.hou": 0.067,
+    "key_defensive_stats.personal_fouls_play.gs": 0.172,
+    "key_defensive_stats.personal_fouls_play.hou": 0.16399999999999998,
+    "golden_state_vs_houston_offensive_efficiency.possessions_gm.gs": 103.4,
+    "golden_state_vs_houston_offensive_efficiency.possessions_gm.hou": 100.8,
+    "golden_state_vs_houston_offensive_efficiency.off_efficiency.gs": 1.116,
+    "golden_state_vs_houston_offensive_efficiency.off_efficiency.hou": 1.138,
+    "golden_state_vs_houston_offensive_efficiency.effective_fg.gs": 0.552,
+    "golden_state_vs_houston_offensive_efficiency.effective_fg.hou": 0.5379999999999999,
+    "golden_state_vs_houston_offensive_efficiency.two_point_rate.gs": 0.491,
+    "golden_state_vs_houston_offensive_efficiency.two_point_rate.hou": 0.655,
+    "golden_state_vs_houston_offensive_efficiency.three_point_rate.gs": 0.509,
+    "golden_state_vs_houston_offensive_efficiency.three_point_rate.hou": 0.345,
+    "golden_state_vs_houston_offensive_efficiency.fta_play.gs": 0.182,
+    "golden_state_vs_houston_offensive_efficiency.fta_play.hou": 0.204,
+    "golden_state_vs_houston_offensive_efficiency.two_point.gs": 0.565,
+    "golden_state_vs_houston_offensive_efficiency.two_point.hou": 0.53,
+    "golden_state_vs_houston_offensive_efficiency.three_point.gs": 0.36,
+    "golden_state_vs_houston_offensive_efficiency.three_point.hou": 0.369,
+    "golden_state_vs_houston_offensive_efficiency.free_throw.gs": 0.8059999999999999,
+    "golden_state_vs_houston_offensive_efficiency.free_throw.hou": 0.7609999999999999,
+    "golden_state_vs_houston_offensive_efficiency.points_2_pters.gs": 49.5,
+    "golden_state_vs_houston_offensive_efficiency.points_2_pters.hou": 62.4,
+    "golden_state_vs_houston_offensive_efficiency.points_3_pters.gs": 49.0,
+    "golden_state_vs_houston_offensive_efficiency.points_3_pters.hou": 34.3,
+    "golden_state_vs_houston_offensive_efficiency.off_rebound.gs": 0.251,
+    "golden_state_vs_houston_offensive_efficiency.off_rebound.hou": 0.354,
+    "golden_state_vs_houston_offensive_efficiency.def_rebound.gs": 0.7290000000000001,
+    "golden_state_vs_houston_offensive_efficiency.def_rebound.hou": 0.741,
+    "golden_state_vs_houston_offensive_efficiency.block.gs": 0.049,
+    "golden_state_vs_houston_offensive_efficiency.block.hou": 0.067,
+    "golden_state_vs_houston_offensive_efficiency.steals_play.gs": 0.086,
+    "golden_state_vs_houston_offensive_efficiency.steals_play.hou": 0.078,
+    "golden_state_vs_houston_offensive_efficiency.turnovers_play.gs": 0.135,
+    "golden_state_vs_houston_offensive_efficiency.turnovers_play.hou": 0.133,
+    "golden_state_vs_houston_offensive_efficiency.personal_fouls_play.gs": 0.172,
+    "golden_state_vs_houston_offensive_efficiency.personal_fouls_play.hou": 0.16399999999999998,
+    "golden_state_vs_houston_offensive_efficiency.assists_fgm.gs": 0.71,
+    "golden_state_vs_houston_offensive_efficiency.assists_fgm.hou": 0.581,
+    "golden_state_vs_houston_defensive_efficiency.possessions_gm.gs": 103.4,
+    "golden_state_vs_houston_defensive_efficiency.possessions_gm.hou": 100.8,
+    "golden_state_vs_houston_defensive_efficiency.def_efficiency.gs": 1.104,
+    "golden_state_vs_houston_defensive_efficiency.def_efficiency.hou": 1.085,
+    "golden_state_vs_houston_defensive_efficiency.opp_effective_fg.gs": 0.544,
+    "golden_state_vs_houston_defensive_efficiency.opp_effective_fg.hou": 0.526,
+    "golden_state_vs_houston_defensive_efficiency.opp_two_point_rate.gs": 0.597,
+    "golden_state_vs_houston_defensive_efficiency.opp_two_point_rate.hou": 0.602,
+    "golden_state_vs_houston_defensive_efficiency.opp_three_point_rate.gs": 0.40299999999999997,
+    "golden_state_vs_houston_defensive_efficiency.opp_three_point_rate.hou": 0.39799999999999996,
+    "golden_state_vs_houston_defensive_efficiency.opp_fta_play.gs": 0.191,
+    "golden_state_vs_houston_defensive_efficiency.opp_fta_play.hou": 0.195,
+    "golden_state_vs_houston_defensive_efficiency.opp_two_point.gs": 0.5539999999999999,
+    "golden_state_vs_houston_defensive_efficiency.opp_two_point.hou": 0.528,
+    "golden_state_vs_houston_defensive_efficiency.opp_three_point.gs": 0.353,
+    "golden_state_vs_houston_defensive_efficiency.opp_three_point.hou": 0.348,
+    "golden_state_vs_houston_defensive_efficiency.opp_free_throw.gs": 0.7979999999999999,
+    "golden_state_vs_houston_defensive_efficiency.opp_free_throw.hou": 0.7559999999999999,
+    "golden_state_vs_houston_defensive_efficiency.opp_points_2_pters.gs": 58.7,
+    "golden_state_vs_houston_defensive_efficiency.opp_points_2_pters.hou": 56.1,
+    "golden_state_vs_houston_defensive_efficiency.opp_points_3_pters.gs": 37.9,
+    "golden_state_vs_houston_defensive_efficiency.opp_points_3_pters.hou": 36.7,
+    "golden_state_vs_houston_defensive_efficiency.opp_off_rebound.gs": 0.271,
+    "golden_state_vs_houston_defensive_efficiency.opp_off_rebound.hou": 0.259,
+    "golden_state_vs_houston_defensive_efficiency.opp_def_rebound.gs": 0.7490000000000001,
+    "golden_state_vs_houston_defensive_efficiency.opp_def_rebound.hou": 0.6459999999999999,
+    "golden_state_vs_houston_defensive_efficiency.opp_block.gs": 0.048,
+    "golden_state_vs_houston_defensive_efficiency.opp_block.hou": 0.051,
+    "golden_state_vs_houston_defensive_efficiency.opp_steals_play.gs": 0.076,
+    "golden_state_vs_houston_defensive_efficiency.opp_steals_play.hou": 0.079,
+    "golden_state_vs_houston_defensive_efficiency.opp_turnovers_play.gs": 0.138,
+    "golden_state_vs_houston_defensive_efficiency.opp_turnovers_play.hou": 0.12,
+    "golden_state_vs_houston_defensive_efficiency.opp_personal_fouls_play.gs": 0.16,
+    "golden_state_vs_houston_defensive_efficiency.opp_personal_fouls_play.hou": 0.171,
+    "golden_state_vs_houston_defensive_efficiency.opp_assists_fgm.gs": 0.637,
+    "golden_state_vs_houston_defensive_efficiency.opp_assists_fgm.hou": 0.604
+  },
+  "sport": "nba",
+  "date": "2026-03-05",
+  "slug": "warriors-rockets-2026-03-05",
+  "matchup_title": "#11 Golden State at #6 Houston",
+  "teams": {
+    "away": "#11 Golden State",
+    "home": "#6 Houston",
+    "neutral_site": false
+  },
+  "time_local": "7:30 PM",
+  "location": "Toyota Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/nba/matchup/warriors-rockets-2026-03-05",
+    "detail": "https://www.teamrankings.com/nba/matchup/warriors-rockets-2026-03-05/efficiency"
+  }
+}

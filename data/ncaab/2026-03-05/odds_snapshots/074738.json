@@ -1,0 +1,2526 @@
+{
+  "sport": "ncaab",
+  "scraped_at_utc": "2026-03-05T07:47:38.066230+00:00",
+  "games": [
+    {
+      "event_id": 11957560,
+      "state": null,
+      "start_utc": "2026-03-05T21:30:00Z",
+      "teams": {
+        "away": "Drake",
+        "home": "Southern Illinois"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566540,
+      "state": null,
+      "start_utc": "2026-03-05T22:00:00Z",
+      "teams": {
+        "away": "South Carolina State",
+        "home": "North Carolina Central"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11948160,
+      "state": null,
+      "start_utc": "2026-03-05T23:00:00Z",
+      "teams": {
+        "away": "Sacred Heart",
+        "home": "Iona"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11975550,
+      "state": null,
+      "start_utc": "2026-03-05T23:00:00Z",
+      "teams": {
+        "away": "James Madison",
+        "home": "Southern Miss"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514490,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Middle Tennessee",
+        "home": "Florida International"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514680,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Sam Houston",
+        "home": "Delaware"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10359130,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Tulane",
+        "home": "Temple"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10359150,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Tulsa",
+        "home": "East Carolina"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514730,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Louisiana Tech",
+        "home": "Liberty"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11957590,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Indiana State",
+        "home": "Valparaiso"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11975620,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Eastern Illinois",
+        "home": "Tennessee-Martin"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11975970,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Oral Roberts",
+        "home": "North Dakota State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566510,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Howard",
+        "home": "Norfolk State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566560,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Delaware State",
+        "home": "Maryland-Eastern Shore"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11967170,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Bucknell",
+        "home": "Navy"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11939580,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "American",
+        "home": "Boston University"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11939570,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Loyola Maryland",
+        "home": "Colgate"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11967080,
+      "state": null,
+      "start_utc": "2026-03-06T00:00:00Z",
+      "teams": {
+        "away": "Holy Cross",
+        "home": "Lehigh"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10568230,
+      "state": null,
+      "start_utc": "2026-03-06T00:30:00Z",
+      "teams": {
+        "away": "Bethune-Cookman",
+        "home": "Florida A&M"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10329220,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Michigan (3)",
+        "home": "Iowa"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514810,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Western Kentucky",
+        "home": "Missouri State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10329210,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Rutgers",
+        "home": "Michigan State (8)"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514720,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "UT Arlington",
+        "home": "Tarleton State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566520,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Prairie View A&M",
+        "home": "Texas Southern"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566580,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Grambling State",
+        "home": "Alabama State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566480,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Coppin State",
+        "home": "Morgan State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566500,
+      "state": null,
+      "start_utc": "2026-03-06T01:00:00Z",
+      "teams": {
+        "away": "Mississippi Valley State",
+        "home": "Jackson State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514530,
+      "state": null,
+      "start_utc": "2026-03-06T01:30:00Z",
+      "teams": {
+        "away": "Utah Valley",
+        "home": "Southern Utah"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11948170,
+      "state": null,
+      "start_utc": "2026-03-06T01:30:00Z",
+      "teams": {
+        "away": "Manhattan",
+        "home": "Fairfield"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11976280,
+      "state": null,
+      "start_utc": "2026-03-06T01:30:00Z",
+      "teams": {
+        "away": "Georgia Southern",
+        "home": "Arkansas State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566550,
+      "state": null,
+      "start_utc": "2026-03-06T01:30:00Z",
+      "teams": {
+        "away": "Southern University",
+        "home": "Alabama A&M"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514610,
+      "state": null,
+      "start_utc": "2026-03-06T02:00:00Z",
+      "teams": {
+        "away": "Jacksonville State",
+        "home": "New Mexico State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10359170,
+      "state": null,
+      "start_utc": "2026-03-06T02:00:00Z",
+      "teams": {
+        "away": "South Florida",
+        "home": "Memphis"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514550,
+      "state": null,
+      "start_utc": "2026-03-06T02:00:00Z",
+      "teams": {
+        "away": "Kennesaw State",
+        "home": "UTEP"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11947510,
+      "state": null,
+      "start_utc": "2026-03-06T02:00:00Z",
+      "teams": {
+        "away": "Pepperdine",
+        "home": "Portland"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 10566490,
+      "state": null,
+      "start_utc": "2026-03-06T02:00:00Z",
+      "teams": {
+        "away": "Arkansas-Pine Bluff",
+        "home": "Alcorn State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514600,
+      "state": null,
+      "start_utc": "2026-03-06T02:30:00Z",
+      "teams": {
+        "away": "Cal State Northridge",
+        "home": "Cal State Bakersfield"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11957580,
+      "state": null,
+      "start_utc": "2026-03-06T02:30:00Z",
+      "teams": {
+        "away": "Evansville",
+        "home": "Northern Iowa"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11940300,
+      "state": null,
+      "start_utc": "2026-03-06T02:30:00Z",
+      "teams": {
+        "away": "South Dakota State",
+        "home": "St. Thomas"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11976600,
+      "state": null,
+      "start_utc": "2026-03-06T02:30:00Z",
+      "teams": {
+        "away": "Lindenwood",
+        "home": "Southeast Missouri State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514570,
+      "state": null,
+      "start_utc": "2026-03-06T03:00:00Z",
+      "teams": {
+        "away": "UC San Diego",
+        "home": "Cal State Fullerton"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514560,
+      "state": null,
+      "start_utc": "2026-03-06T03:00:00Z",
+      "teams": {
+        "away": "Abilene Christian",
+        "home": "California Baptist"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514670,
+      "state": null,
+      "start_utc": "2026-03-06T03:00:00Z",
+      "teams": {
+        "away": "Cal Poly",
+        "home": "UC Irvine"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 8514710,
+      "state": null,
+      "start_utc": "2026-03-06T03:00:00Z",
+      "teams": {
+        "away": "UC Davis",
+        "home": "Long Beach State"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    },
+    {
+      "event_id": 11947500,
+      "state": null,
+      "start_utc": "2026-03-06T04:30:00Z",
+      "teams": {
+        "away": "San Diego",
+        "home": "Loyola Marymount"
+      },
+      "final": {
+        "away": null,
+        "home": null
+      },
+      "markets": {
+        "spread": {
+          "away": {
+            "line": null,
+            "odds": null
+          },
+          "home": {
+            "line": null,
+            "odds": null
+          }
+        },
+        "total": {
+          "line": null,
+          "over": {
+            "odds": null
+          },
+          "under": {
+            "odds": null
+          }
+        },
+        "moneyline": {
+          "away": {
+            "odds": null
+          },
+          "home": {
+            "odds": null
+          }
+        }
+      },
+      "signals": {
+        "spread": {
+          "away": [],
+          "home": []
+        },
+        "total": {
+          "away": [],
+          "home": []
+        },
+        "moneyline": {
+          "away": [],
+          "home": []
+        }
+      }
+    }
+  ]
+}

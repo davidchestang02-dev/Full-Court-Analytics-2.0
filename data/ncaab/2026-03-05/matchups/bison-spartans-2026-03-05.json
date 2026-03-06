@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-spartans-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:53.822104+00:00",
+  "tables": {
+    "Matchup Menu: HOW @ NORF": {
+      "headers": [
+        "Stat",
+        "HOW",
+        "adv",
+        "NORF"
+      ],
+      "team_headers": [
+        "HOW",
+        "NORF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HOW": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "1.006",
+            "value": 1.006
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "49.3%",
+            "value": 0.493
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HOW": {
+            "raw": "0.421",
+            "value": 0.421
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "0.442",
+            "value": 0.442
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HOW": {
+            "raw": "74.7",
+            "value": 74.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "71.1",
+            "value": 71.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HOW": {
+            "raw": "+6.8",
+            "value": 6.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "-2.7",
+            "value": -2.7
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "HOW",
+        "adv",
+        "NORF"
+      ],
+      "team_headers": [
+        "HOW",
+        "NORF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HOW": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "1.006",
+            "value": 1.006
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "49.3%",
+            "value": 0.493
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "HOW": {
+            "raw": "0.421",
+            "value": 0.421
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "0.442",
+            "value": 0.442
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "HOW": {
+            "raw": "74.7",
+            "value": 74.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "71.1",
+            "value": 71.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "HOW": {
+            "raw": "+6.8",
+            "value": 6.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "-2.7",
+            "value": -2.7
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "HOW",
+        "adv",
+        "NORF"
+      ],
+      "team_headers": [
+        "HOW",
+        "NORF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HOW": {
+            "raw": "0.945",
+            "value": 0.945
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "1.044",
+            "value": 1.044
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "18.4%",
+            "value": 0.184
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "71.1%",
+            "value": 0.711
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "69.1%",
+            "value": 0.691
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "HOW": {
+            "raw": "0.394",
+            "value": 0.394
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "0.446",
+            "value": 0.446
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "HOW": {
+            "raw": "67.9",
+            "value": 67.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "73.8",
+            "value": 73.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "24.9%",
+            "value": 0.249
+          }
+        }
+      ]
+    },
+    "Howard vs Norfolk St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HOW",
+        "adv",
+        "NORF"
+      ],
+      "team_headers": [
+        "HOW",
+        "NORF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HOW": {
+            "raw": "71.9",
+            "value": 71.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "HOW": {
+            "raw": "1.040",
+            "value": 1.04
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "1.006",
+            "value": 1.006
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "49.3%",
+            "value": 0.493
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "HOW": {
+            "raw": "66.0%",
+            "value": 0.66
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "69.1%",
+            "value": 0.691
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "HOW": {
+            "raw": "34.0%",
+            "value": 0.34
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "30.9%",
+            "value": 0.309
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "30.7%",
+            "value": 0.307
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "50.0%",
+            "value": 0.5
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "47.8%",
+            "value": 0.478
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "34.5%",
+            "value": 0.345
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "35.1%",
+            "value": 0.35100000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "73.9%",
+            "value": 0.7390000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NORF": {
+            "raw": "66.9%",
+            "value": 0.669
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "HOW": {
+            "raw": "37.3",
+            "value": 37.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "36.7",
+            "value": 36.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "HOW": {
+            "raw": "19.8",
+            "value": 19.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "18.0",
+            "value": 18.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "33.2%",
+            "value": 0.332
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "71.1%",
+            "value": 0.711
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "69.1%",
+            "value": 0.691
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "7.0%",
+            "value": 0.07
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "5.2%",
+            "value": 0.052000000000000005
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "10.8%",
+            "value": 0.10800000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "8.1%",
+            "value": 0.081
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "23.5%",
+            "value": 0.235
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "24.9%",
+            "value": 0.249
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "HOW": {
+            "raw": "0.615",
+            "value": 0.615
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "NORF": {
+            "raw": "0.464",
+            "value": 0.464
+          }
+        }
+      ]
+    },
+    "Howard vs Norfolk St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "HOW",
+        "adv",
+        "NORF"
+      ],
+      "team_headers": [
+        "HOW",
+        "NORF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "HOW": {
+            "raw": "71.9",
+            "value": 71.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "70.7",
+            "value": 70.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "HOW": {
+            "raw": "0.945",
+            "value": 0.945
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "1.044",
+            "value": 1.044
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "47.5%",
+            "value": 0.475
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "51.2%",
+            "value": 0.512
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "HOW": {
+            "raw": "65.8%",
+            "value": 0.6579999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NORF": {
+            "raw": "58.0%",
+            "value": 0.58
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "HOW": {
+            "raw": "34.2%",
+            "value": 0.342
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NORF": {
+            "raw": "42.0%",
+            "value": 0.42
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "27.1%",
+            "value": 0.271
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "30.7%",
+            "value": 0.307
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "48.4%",
+            "value": 0.484
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NORF": {
+            "raw": "54.3%",
+            "value": 0.5429999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "30.5%",
+            "value": 0.305
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "31.3%",
+            "value": 0.313
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "HOW": {
+            "raw": "35.5",
+            "value": 35.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "34.7",
+            "value": 34.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "HOW": {
+            "raw": "17.4",
+            "value": 17.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "21.7",
+            "value": 21.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "28.9%",
+            "value": 0.289
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "30.9%",
+            "value": 0.309
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "66.8%",
+            "value": 0.6679999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NORF": {
+            "raw": "70.9%",
+            "value": 0.7090000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "HOW": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "7.4%",
+            "value": 0.07400000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "7.2%",
+            "value": 0.07200000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NORF": {
+            "raw": "9.4%",
+            "value": 0.094
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "18.4%",
+            "value": 0.184
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "16.2%",
+            "value": 0.162
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "HOW": {
+            "raw": "23.4%",
+            "value": 0.23399999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NORF": {
+            "raw": "23.3%",
+            "value": 0.233
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "HOW": {
+            "raw": "0.472",
+            "value": 0.472
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "NORF": {
+            "raw": "0.588",
+            "value": 0.588
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_how_norf.off_efficiency.how": 1.04,
+    "matchup_menu_how_norf.off_efficiency.norf": 1.006,
+    "matchup_menu_how_norf.effective_fg.how": 0.506,
+    "matchup_menu_how_norf.effective_fg.norf": 0.493,
+    "matchup_menu_how_norf.turnovers_play.how": 0.16899999999999998,
+    "matchup_menu_how_norf.turnovers_play.norf": 0.162,
+    "matchup_menu_how_norf.off_rebound.how": 0.332,
+    "matchup_menu_how_norf.off_rebound.norf": 0.29100000000000004,
+    "matchup_menu_how_norf.fta_fga.how": 0.421,
+    "matchup_menu_how_norf.fta_fga.norf": 0.442,
+    "matchup_menu_how_norf.points_game.how": 74.7,
+    "matchup_menu_how_norf.points_game.norf": 71.1,
+    "matchup_menu_how_norf.avg_score_margin.how": 6.8,
+    "matchup_menu_how_norf.avg_score_margin.norf": -2.7,
+    "key_offensive_stats.off_efficiency.how": 1.04,
+    "key_offensive_stats.off_efficiency.norf": 1.006,
+    "key_offensive_stats.effective_fg.how": 0.506,
+    "key_offensive_stats.effective_fg.norf": 0.493,
+    "key_offensive_stats.turnovers_play.how": 0.16899999999999998,
+    "key_offensive_stats.turnovers_play.norf": 0.162,
+    "key_offensive_stats.off_rebound.how": 0.332,
+    "key_offensive_stats.off_rebound.norf": 0.29100000000000004,
+    "key_offensive_stats.fta_fga.how": 0.421,
+    "key_offensive_stats.fta_fga.norf": 0.442,
+    "key_offensive_stats.points_game.how": 74.7,
+    "key_offensive_stats.points_game.norf": 71.1,
+    "key_offensive_stats.avg_score_margin.how": 6.8,
+    "key_offensive_stats.avg_score_margin.norf": -2.7,
+    "key_defensive_stats.def_efficiency.how": 0.945,
+    "key_defensive_stats.def_efficiency.norf": 1.044,
+    "key_defensive_stats.opp_effective_fg.how": 0.475,
+    "key_defensive_stats.opp_effective_fg.norf": 0.512,
+    "key_defensive_stats.opp_turnovers_play.how": 0.184,
+    "key_defensive_stats.opp_turnovers_play.norf": 0.162,
+    "key_defensive_stats.def_rebound.how": 0.711,
+    "key_defensive_stats.def_rebound.norf": 0.691,
+    "key_defensive_stats.opp_fta_fga.how": 0.394,
+    "key_defensive_stats.opp_fta_fga.norf": 0.446,
+    "key_defensive_stats.opp_points_game.how": 67.9,
+    "key_defensive_stats.opp_points_game.norf": 73.8,
+    "key_defensive_stats.block.how": 0.07,
+    "key_defensive_stats.block.norf": 0.052000000000000005,
+    "key_defensive_stats.personal_fouls_play.how": 0.235,
+    "key_defensive_stats.personal_fouls_play.norf": 0.249,
+    "howard_vs_norfolk_st_offensive_efficiency.possessions_gm.how": 71.9,
+    "howard_vs_norfolk_st_offensive_efficiency.possessions_gm.norf": 70.7,
+    "howard_vs_norfolk_st_offensive_efficiency.off_efficiency.how": 1.04,
+    "howard_vs_norfolk_st_offensive_efficiency.off_efficiency.norf": 1.006,
+    "howard_vs_norfolk_st_offensive_efficiency.effective_fg.how": 0.506,
+    "howard_vs_norfolk_st_offensive_efficiency.effective_fg.norf": 0.493,
+    "howard_vs_norfolk_st_offensive_efficiency.two_point_rate.how": 0.66,
+    "howard_vs_norfolk_st_offensive_efficiency.two_point_rate.norf": 0.691,
+    "howard_vs_norfolk_st_offensive_efficiency.three_point_rate.how": 0.34,
+    "howard_vs_norfolk_st_offensive_efficiency.three_point_rate.norf": 0.309,
+    "howard_vs_norfolk_st_offensive_efficiency.fta_play.how": 0.29100000000000004,
+    "howard_vs_norfolk_st_offensive_efficiency.fta_play.norf": 0.307,
+    "howard_vs_norfolk_st_offensive_efficiency.two_point.how": 0.5,
+    "howard_vs_norfolk_st_offensive_efficiency.two_point.norf": 0.478,
+    "howard_vs_norfolk_st_offensive_efficiency.three_point.how": 0.345,
+    "howard_vs_norfolk_st_offensive_efficiency.three_point.norf": 0.35100000000000003,
+    "howard_vs_norfolk_st_offensive_efficiency.free_throw.how": 0.7390000000000001,
+    "howard_vs_norfolk_st_offensive_efficiency.free_throw.norf": 0.669,
+    "howard_vs_norfolk_st_offensive_efficiency.points_2_pters.how": 37.3,
+    "howard_vs_norfolk_st_offensive_efficiency.points_2_pters.norf": 36.7,
+    "howard_vs_norfolk_st_offensive_efficiency.points_3_pters.how": 19.8,
+    "howard_vs_norfolk_st_offensive_efficiency.points_3_pters.norf": 18.0,
+    "howard_vs_norfolk_st_offensive_efficiency.off_rebound.how": 0.332,
+    "howard_vs_norfolk_st_offensive_efficiency.off_rebound.norf": 0.29100000000000004,
+    "howard_vs_norfolk_st_offensive_efficiency.def_rebound.how": 0.711,
+    "howard_vs_norfolk_st_offensive_efficiency.def_rebound.norf": 0.691,
+    "howard_vs_norfolk_st_offensive_efficiency.block.how": 0.07,
+    "howard_vs_norfolk_st_offensive_efficiency.block.norf": 0.052000000000000005,
+    "howard_vs_norfolk_st_offensive_efficiency.steals_play.how": 0.10800000000000001,
+    "howard_vs_norfolk_st_offensive_efficiency.steals_play.norf": 0.081,
+    "howard_vs_norfolk_st_offensive_efficiency.turnovers_play.how": 0.16899999999999998,
+    "howard_vs_norfolk_st_offensive_efficiency.turnovers_play.norf": 0.162,
+    "howard_vs_norfolk_st_offensive_efficiency.personal_fouls_play.how": 0.235,
+    "howard_vs_norfolk_st_offensive_efficiency.personal_fouls_play.norf": 0.249,
+    "howard_vs_norfolk_st_offensive_efficiency.assists_fgm.how": 0.615,
+    "howard_vs_norfolk_st_offensive_efficiency.assists_fgm.norf": 0.464,
+    "howard_vs_norfolk_st_defensive_efficiency.possessions_gm.how": 71.9,
+    "howard_vs_norfolk_st_defensive_efficiency.possessions_gm.norf": 70.7,
+    "howard_vs_norfolk_st_defensive_efficiency.def_efficiency.how": 0.945,
+    "howard_vs_norfolk_st_defensive_efficiency.def_efficiency.norf": 1.044,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_effective_fg.how": 0.475,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_effective_fg.norf": 0.512,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_two_point_rate.how": 0.6579999999999999,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_two_point_rate.norf": 0.58,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_three_point_rate.how": 0.342,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_three_point_rate.norf": 0.42,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_fta_play.how": 0.271,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_fta_play.norf": 0.307,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_two_point.how": 0.484,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_two_point.norf": 0.5429999999999999,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_three_point.how": 0.305,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_three_point.norf": 0.313,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_free_throw.how": 0.6859999999999999,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_free_throw.norf": 0.71,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_points_2_pters.how": 35.5,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_points_2_pters.norf": 34.7,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_points_3_pters.how": 17.4,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_points_3_pters.norf": 21.7,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_off_rebound.how": 0.289,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_off_rebound.norf": 0.309,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_def_rebound.how": 0.6679999999999999,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_def_rebound.norf": 0.7090000000000001,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_block.how": 0.07400000000000001,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_block.norf": 0.07400000000000001,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_steals_play.how": 0.07200000000000001,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_steals_play.norf": 0.094,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_turnovers_play.how": 0.184,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_turnovers_play.norf": 0.162,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_personal_fouls_play.how": 0.23399999999999999,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_personal_fouls_play.norf": 0.233,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_assists_fgm.how": 0.472,
+    "howard_vs_norfolk_st_defensive_efficiency.opp_assists_fgm.norf": 0.588
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "bison-spartans-2026-03-05",
+  "matchup_title": "#206 Howard at #297 Norfolk St",
+  "teams": {
+    "away": "#206 Howard",
+    "home": "#297 Norfolk St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Joseph G. Echols Memorial Hall",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-spartans-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-spartans-2026-03-05/efficiency"
+  }
+}

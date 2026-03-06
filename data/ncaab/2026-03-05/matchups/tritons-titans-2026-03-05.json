@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/tritons-titans-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:32.523692+00:00",
+  "tables": {
+    "Matchup Menu: UCSD @ CSF": {
+      "headers": [
+        "Stat",
+        "UCSD",
+        "adv",
+        "CSF"
+      ],
+      "team_headers": [
+        "UCSD",
+        "CSF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "1.054",
+            "value": 1.054
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "1.047",
+            "value": 1.047
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "0.317",
+            "value": 0.317
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "0.386",
+            "value": 0.386
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "75.2",
+            "value": 75.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "80.7",
+            "value": 80.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "+4.9",
+            "value": 4.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "-2.6",
+            "value": -2.6
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "UCSD",
+        "adv",
+        "CSF"
+      ],
+      "team_headers": [
+        "UCSD",
+        "CSF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "1.054",
+            "value": 1.054
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "1.047",
+            "value": 1.047
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "0.317",
+            "value": 0.317
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "0.386",
+            "value": 0.386
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "75.2",
+            "value": 75.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "80.7",
+            "value": 80.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "+4.9",
+            "value": 4.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "-2.6",
+            "value": -2.6
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "UCSD",
+        "adv",
+        "CSF"
+      ],
+      "team_headers": [
+        "UCSD",
+        "CSF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "0.985",
+            "value": 0.985
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSF": {
+            "raw": "1.082",
+            "value": 1.082
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "48.0%",
+            "value": 0.48
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CSF": {
+            "raw": "55.4%",
+            "value": 0.5539999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "74.7%",
+            "value": 0.747
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "74.0%",
+            "value": 0.74
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "0.306",
+            "value": 0.306
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "0.358",
+            "value": 0.358
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "70.3",
+            "value": 70.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CSF": {
+            "raw": "83.4",
+            "value": 83.4
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "20.7%",
+            "value": 0.207
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "22.5%",
+            "value": 0.225
+          }
+        }
+      ]
+    },
+    "UCSD vs CS Fullerton Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UCSD",
+        "adv",
+        "CSF"
+      ],
+      "team_headers": [
+        "UCSD",
+        "CSF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "71.4",
+            "value": 71.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "77.1",
+            "value": 77.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "1.054",
+            "value": 1.054
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "1.047",
+            "value": 1.047
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "52.9%",
+            "value": 0.529
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "57.4%",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "58.2%",
+            "value": 0.5820000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "42.6%",
+            "value": 0.426
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "41.8%",
+            "value": 0.418
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "23.6%",
+            "value": 0.23600000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "28.1%",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "54.7%",
+            "value": 0.547
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "51.8%",
+            "value": 0.518
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "33.7%",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "34.5%",
+            "value": 0.345
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "37.0",
+            "value": 37.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "37.1",
+            "value": 37.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "25.4",
+            "value": 25.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "26.7",
+            "value": 26.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "24.6%",
+            "value": 0.24600000000000002
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "21.9%",
+            "value": 0.21899999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "74.7%",
+            "value": 0.747
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "74.0%",
+            "value": 0.74
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "4.4%",
+            "value": 0.044000000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "4.6%",
+            "value": 0.046
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "9.1%",
+            "value": 0.091
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "9.0%",
+            "value": 0.09
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "14.3%",
+            "value": 0.14300000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "13.5%",
+            "value": 0.135
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "20.7%",
+            "value": 0.207
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "22.5%",
+            "value": 0.225
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "0.546",
+            "value": 0.546
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "0.545",
+            "value": 0.545
+          }
+        }
+      ]
+    },
+    "UCSD vs CS Fullerton Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UCSD",
+        "adv",
+        "CSF"
+      ],
+      "team_headers": [
+        "UCSD",
+        "CSF"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "71.4",
+            "value": 71.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "77.1",
+            "value": 77.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "0.985",
+            "value": 0.985
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSF": {
+            "raw": "1.082",
+            "value": 1.082
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "48.0%",
+            "value": 0.48
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CSF": {
+            "raw": "55.4%",
+            "value": 0.5539999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "57.1%",
+            "value": 0.5710000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "53.2%",
+            "value": 0.532
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "42.9%",
+            "value": 0.429
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "46.8%",
+            "value": 0.46799999999999997
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "22.8%",
+            "value": 0.228
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "25.5%",
+            "value": 0.255
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "48.0%",
+            "value": 0.48
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "CSF": {
+            "raw": "57.6%",
+            "value": 0.5760000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "32.0%",
+            "value": 0.32
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "CSF": {
+            "raw": "35.3%",
+            "value": 0.353
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "70.8%",
+            "value": 0.708
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "73.8%",
+            "value": 0.738
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "32.7",
+            "value": 32.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "37.2",
+            "value": 37.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "24.6",
+            "value": 24.6
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "30.1",
+            "value": 30.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "25.3%",
+            "value": 0.253
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "26.0%",
+            "value": 0.26
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "75.4%",
+            "value": 0.754
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "78.1%",
+            "value": 0.7809999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "6.1%",
+            "value": 0.061
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "5.0%",
+            "value": 0.05
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "7.9%",
+            "value": 0.079
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "14.6%",
+            "value": 0.146
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "CSF": {
+            "raw": "16.9%",
+            "value": 0.16899999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "20.2%",
+            "value": 0.20199999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "CSF": {
+            "raw": "23.8%",
+            "value": 0.23800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "UCSD": {
+            "raw": "0.557",
+            "value": 0.557
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "CSF": {
+            "raw": "0.585",
+            "value": 0.585
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_ucsd_csf.off_efficiency.ucsd": 1.054,
+    "matchup_menu_ucsd_csf.off_efficiency.csf": 1.047,
+    "matchup_menu_ucsd_csf.effective_fg.ucsd": 0.529,
+    "matchup_menu_ucsd_csf.effective_fg.csf": 0.518,
+    "matchup_menu_ucsd_csf.turnovers_play.ucsd": 0.14300000000000002,
+    "matchup_menu_ucsd_csf.turnovers_play.csf": 0.135,
+    "matchup_menu_ucsd_csf.off_rebound.ucsd": 0.24600000000000002,
+    "matchup_menu_ucsd_csf.off_rebound.csf": 0.21899999999999997,
+    "matchup_menu_ucsd_csf.fta_fga.ucsd": 0.317,
+    "matchup_menu_ucsd_csf.fta_fga.csf": 0.386,
+    "matchup_menu_ucsd_csf.points_game.ucsd": 75.2,
+    "matchup_menu_ucsd_csf.points_game.csf": 80.7,
+    "matchup_menu_ucsd_csf.avg_score_margin.ucsd": 4.9,
+    "matchup_menu_ucsd_csf.avg_score_margin.csf": -2.6,
+    "key_offensive_stats.off_efficiency.ucsd": 1.054,
+    "key_offensive_stats.off_efficiency.csf": 1.047,
+    "key_offensive_stats.effective_fg.ucsd": 0.529,
+    "key_offensive_stats.effective_fg.csf": 0.518,
+    "key_offensive_stats.turnovers_play.ucsd": 0.14300000000000002,
+    "key_offensive_stats.turnovers_play.csf": 0.135,
+    "key_offensive_stats.off_rebound.ucsd": 0.24600000000000002,
+    "key_offensive_stats.off_rebound.csf": 0.21899999999999997,
+    "key_offensive_stats.fta_fga.ucsd": 0.317,
+    "key_offensive_stats.fta_fga.csf": 0.386,
+    "key_offensive_stats.points_game.ucsd": 75.2,
+    "key_offensive_stats.points_game.csf": 80.7,
+    "key_offensive_stats.avg_score_margin.ucsd": 4.9,
+    "key_offensive_stats.avg_score_margin.csf": -2.6,
+    "key_defensive_stats.def_efficiency.ucsd": 0.985,
+    "key_defensive_stats.def_efficiency.csf": 1.082,
+    "key_defensive_stats.opp_effective_fg.ucsd": 0.48,
+    "key_defensive_stats.opp_effective_fg.csf": 0.5539999999999999,
+    "key_defensive_stats.opp_turnovers_play.ucsd": 0.146,
+    "key_defensive_stats.opp_turnovers_play.csf": 0.16899999999999998,
+    "key_defensive_stats.def_rebound.ucsd": 0.747,
+    "key_defensive_stats.def_rebound.csf": 0.74,
+    "key_defensive_stats.opp_fta_fga.ucsd": 0.306,
+    "key_defensive_stats.opp_fta_fga.csf": 0.358,
+    "key_defensive_stats.opp_points_game.ucsd": 70.3,
+    "key_defensive_stats.opp_points_game.csf": 83.4,
+    "key_defensive_stats.block.ucsd": 0.044000000000000004,
+    "key_defensive_stats.block.csf": 0.046,
+    "key_defensive_stats.personal_fouls_play.ucsd": 0.207,
+    "key_defensive_stats.personal_fouls_play.csf": 0.225,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.possessions_gm.ucsd": 71.4,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.possessions_gm.csf": 77.1,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.off_efficiency.ucsd": 1.054,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.off_efficiency.csf": 1.047,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.effective_fg.ucsd": 0.529,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.effective_fg.csf": 0.518,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.two_point_rate.ucsd": 0.574,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.two_point_rate.csf": 0.5820000000000001,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.three_point_rate.ucsd": 0.426,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.three_point_rate.csf": 0.418,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.fta_play.ucsd": 0.23600000000000002,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.fta_play.csf": 0.281,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.two_point.ucsd": 0.547,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.two_point.csf": 0.518,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.three_point.ucsd": 0.337,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.three_point.csf": 0.345,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.free_throw.ucsd": 0.6859999999999999,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.free_throw.csf": 0.71,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.points_2_pters.ucsd": 37.0,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.points_2_pters.csf": 37.1,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.points_3_pters.ucsd": 25.4,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.points_3_pters.csf": 26.7,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.off_rebound.ucsd": 0.24600000000000002,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.off_rebound.csf": 0.21899999999999997,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.def_rebound.ucsd": 0.747,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.def_rebound.csf": 0.74,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.block.ucsd": 0.044000000000000004,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.block.csf": 0.046,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.steals_play.ucsd": 0.091,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.steals_play.csf": 0.09,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.turnovers_play.ucsd": 0.14300000000000002,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.turnovers_play.csf": 0.135,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.personal_fouls_play.ucsd": 0.207,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.personal_fouls_play.csf": 0.225,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.assists_fgm.ucsd": 0.546,
+    "ucsd_vs_cs_fullerton_offensive_efficiency.assists_fgm.csf": 0.545,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.possessions_gm.ucsd": 71.4,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.possessions_gm.csf": 77.1,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.def_efficiency.ucsd": 0.985,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.def_efficiency.csf": 1.082,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_effective_fg.ucsd": 0.48,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_effective_fg.csf": 0.5539999999999999,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_two_point_rate.ucsd": 0.5710000000000001,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_two_point_rate.csf": 0.532,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_three_point_rate.ucsd": 0.429,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_three_point_rate.csf": 0.46799999999999997,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_fta_play.ucsd": 0.228,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_fta_play.csf": 0.255,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_two_point.ucsd": 0.48,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_two_point.csf": 0.5760000000000001,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_three_point.ucsd": 0.32,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_three_point.csf": 0.353,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_free_throw.ucsd": 0.708,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_free_throw.csf": 0.738,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_points_2_pters.ucsd": 32.7,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_points_2_pters.csf": 37.2,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_points_3_pters.ucsd": 24.6,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_points_3_pters.csf": 30.1,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_off_rebound.ucsd": 0.253,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_off_rebound.csf": 0.26,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_def_rebound.ucsd": 0.754,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_def_rebound.csf": 0.7809999999999999,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_block.ucsd": 0.061,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_block.csf": 0.05,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_steals_play.ucsd": 0.079,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_steals_play.csf": 0.071,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_turnovers_play.ucsd": 0.146,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_turnovers_play.csf": 0.16899999999999998,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_personal_fouls_play.ucsd": 0.20199999999999999,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_personal_fouls_play.csf": 0.23800000000000002,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_assists_fgm.ucsd": 0.557,
+    "ucsd_vs_cs_fullerton_defensive_efficiency.opp_assists_fgm.csf": 0.585
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "tritons-titans-2026-03-05",
+  "matchup_title": "#131 UCSD at #226 CS Fullerton",
+  "teams": {
+    "away": "#131 UCSD",
+    "home": "#226 CS Fullerton",
+    "neutral_site": false
+  },
+  "time_local": "10:00 PM",
+  "location": "Titan Gym",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/tritons-titans-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/tritons-titans-2026-03-05/efficiency"
+  }
+}

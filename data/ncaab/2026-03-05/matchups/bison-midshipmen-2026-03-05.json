@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-midshipmen-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:51.359872+00:00",
+  "tables": {
+    "Matchup Menu: BUCK @ NAVY": {
+      "headers": [
+        "Stat",
+        "BUCK",
+        "adv",
+        "NAVY"
+      ],
+      "team_headers": [
+        "BUCK",
+        "NAVY"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.972",
+            "value": 0.972
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "1.099",
+            "value": 1.099
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "48.4%",
+            "value": 0.484
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.304",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "0.396",
+            "value": 0.396
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "67.3",
+            "value": 67.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "74.2",
+            "value": 74.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "-9.1",
+            "value": -9.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "NAVY": {
+            "raw": "+9.5",
+            "value": 9.5
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "BUCK",
+        "adv",
+        "NAVY"
+      ],
+      "team_headers": [
+        "BUCK",
+        "NAVY"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.972",
+            "value": 0.972
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "1.099",
+            "value": 1.099
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "48.4%",
+            "value": 0.484
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.304",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "0.396",
+            "value": 0.396
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "67.3",
+            "value": 67.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "74.2",
+            "value": 74.2
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "-9.1",
+            "value": -9.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "NAVY": {
+            "raw": "+9.5",
+            "value": 9.5
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "BUCK",
+        "adv",
+        "NAVY"
+      ],
+      "team_headers": [
+        "BUCK",
+        "NAVY"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "1.103",
+            "value": 1.103
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "0.958",
+            "value": 0.958
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "54.5%",
+            "value": 0.545
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "NAVY": {
+            "raw": "47.4%",
+            "value": 0.474
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "15.5%",
+            "value": 0.155
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "75.2%",
+            "value": 0.752
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.351",
+            "value": 0.351
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "0.262",
+            "value": 0.262
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "76.4",
+            "value": 76.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "64.7",
+            "value": 64.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "3.3%",
+            "value": 0.033
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "22.8%",
+            "value": 0.228
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          }
+        }
+      ]
+    },
+    "Bucknell vs Navy Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "BUCK",
+        "adv",
+        "NAVY"
+      ],
+      "team_headers": [
+        "BUCK",
+        "NAVY"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "69.3",
+            "value": 69.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "67.5",
+            "value": 67.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.972",
+            "value": 0.972
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "1.099",
+            "value": 1.099
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "48.4%",
+            "value": 0.484
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "53.3%",
+            "value": 0.5329999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "57.4%",
+            "value": 0.574
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "66.9%",
+            "value": 0.669
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "42.6%",
+            "value": 0.426
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "22.2%",
+            "value": 0.222
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "50.5%",
+            "value": 0.505
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "53.0%",
+            "value": 0.53
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "30.4%",
+            "value": 0.304
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "36.0%",
+            "value": 0.36
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "76.6%",
+            "value": 0.7659999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "73.8%",
+            "value": 0.738
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "32.5",
+            "value": 32.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "38.7",
+            "value": 38.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "21.8",
+            "value": 21.8
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "19.6",
+            "value": 19.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "24.2%",
+            "value": 0.242
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "30.1%",
+            "value": 0.301
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "75.2%",
+            "value": 0.752
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "3.3%",
+            "value": 0.033
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "5.6%",
+            "value": 0.055999999999999994
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "9.2%",
+            "value": 0.092
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "9.8%",
+            "value": 0.098
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "16.7%",
+            "value": 0.16699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "14.8%",
+            "value": 0.14800000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "22.8%",
+            "value": 0.228
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "19.4%",
+            "value": 0.19399999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.537",
+            "value": 0.537
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "0.616",
+            "value": 0.616
+          }
+        }
+      ]
+    },
+    "Bucknell vs Navy Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "BUCK",
+        "adv",
+        "NAVY"
+      ],
+      "team_headers": [
+        "BUCK",
+        "NAVY"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "69.3",
+            "value": 69.3
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "67.5",
+            "value": 67.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "1.103",
+            "value": 1.103
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "0.958",
+            "value": 0.958
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "54.5%",
+            "value": 0.545
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "NAVY": {
+            "raw": "47.4%",
+            "value": 0.474
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "54.4%",
+            "value": 0.544
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "54.4%",
+            "value": 0.544
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "45.6%",
+            "value": 0.456
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "45.6%",
+            "value": 0.456
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "25.3%",
+            "value": 0.253
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "19.7%",
+            "value": 0.19699999999999998
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "54.1%",
+            "value": 0.541
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "50.2%",
+            "value": 0.502
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "36.7%",
+            "value": 0.36700000000000005
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "NAVY": {
+            "raw": "29.3%",
+            "value": 0.293
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "75.2%",
+            "value": 0.752
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "73.8%",
+            "value": 0.738
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "33.2",
+            "value": 33.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "31.0",
+            "value": 31.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "28.3",
+            "value": 28.3
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "22.8",
+            "value": 22.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "30.1%",
+            "value": 0.301
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "24.8%",
+            "value": 0.248
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "75.8%",
+            "value": 0.758
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "69.9%",
+            "value": 0.6990000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "5.3%",
+            "value": 0.053
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "9.8%",
+            "value": 0.098
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "8.2%",
+            "value": 0.08199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "15.5%",
+            "value": 0.155
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "NAVY": {
+            "raw": "15.9%",
+            "value": 0.159
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "21.7%",
+            "value": 0.217
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "NAVY": {
+            "raw": "25.1%",
+            "value": 0.251
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "BUCK": {
+            "raw": "0.613",
+            "value": 0.613
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "NAVY": {
+            "raw": "0.520",
+            "value": 0.52
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_buck_navy.off_efficiency.buck": 0.972,
+    "matchup_menu_buck_navy.off_efficiency.navy": 1.099,
+    "matchup_menu_buck_navy.effective_fg.buck": 0.484,
+    "matchup_menu_buck_navy.effective_fg.navy": 0.5329999999999999,
+    "matchup_menu_buck_navy.turnovers_play.buck": 0.16699999999999998,
+    "matchup_menu_buck_navy.turnovers_play.navy": 0.14800000000000002,
+    "matchup_menu_buck_navy.off_rebound.buck": 0.242,
+    "matchup_menu_buck_navy.off_rebound.navy": 0.301,
+    "matchup_menu_buck_navy.fta_fga.buck": 0.304,
+    "matchup_menu_buck_navy.fta_fga.navy": 0.396,
+    "matchup_menu_buck_navy.points_game.buck": 67.3,
+    "matchup_menu_buck_navy.points_game.navy": 74.2,
+    "matchup_menu_buck_navy.avg_score_margin.buck": -9.1,
+    "matchup_menu_buck_navy.avg_score_margin.navy": 9.5,
+    "key_offensive_stats.off_efficiency.buck": 0.972,
+    "key_offensive_stats.off_efficiency.navy": 1.099,
+    "key_offensive_stats.effective_fg.buck": 0.484,
+    "key_offensive_stats.effective_fg.navy": 0.5329999999999999,
+    "key_offensive_stats.turnovers_play.buck": 0.16699999999999998,
+    "key_offensive_stats.turnovers_play.navy": 0.14800000000000002,
+    "key_offensive_stats.off_rebound.buck": 0.242,
+    "key_offensive_stats.off_rebound.navy": 0.301,
+    "key_offensive_stats.fta_fga.buck": 0.304,
+    "key_offensive_stats.fta_fga.navy": 0.396,
+    "key_offensive_stats.points_game.buck": 67.3,
+    "key_offensive_stats.points_game.navy": 74.2,
+    "key_offensive_stats.avg_score_margin.buck": -9.1,
+    "key_offensive_stats.avg_score_margin.navy": 9.5,
+    "key_defensive_stats.def_efficiency.buck": 1.103,
+    "key_defensive_stats.def_efficiency.navy": 0.958,
+    "key_defensive_stats.opp_effective_fg.buck": 0.545,
+    "key_defensive_stats.opp_effective_fg.navy": 0.474,
+    "key_defensive_stats.opp_turnovers_play.buck": 0.155,
+    "key_defensive_stats.opp_turnovers_play.navy": 0.159,
+    "key_defensive_stats.def_rebound.buck": 0.6990000000000001,
+    "key_defensive_stats.def_rebound.navy": 0.752,
+    "key_defensive_stats.opp_fta_fga.buck": 0.351,
+    "key_defensive_stats.opp_fta_fga.navy": 0.262,
+    "key_defensive_stats.opp_points_game.buck": 76.4,
+    "key_defensive_stats.opp_points_game.navy": 64.7,
+    "key_defensive_stats.block.buck": 0.033,
+    "key_defensive_stats.block.navy": 0.055999999999999994,
+    "key_defensive_stats.personal_fouls_play.buck": 0.228,
+    "key_defensive_stats.personal_fouls_play.navy": 0.19399999999999998,
+    "bucknell_vs_navy_offensive_efficiency.possessions_gm.buck": 69.3,
+    "bucknell_vs_navy_offensive_efficiency.possessions_gm.navy": 67.5,
+    "bucknell_vs_navy_offensive_efficiency.off_efficiency.buck": 0.972,
+    "bucknell_vs_navy_offensive_efficiency.off_efficiency.navy": 1.099,
+    "bucknell_vs_navy_offensive_efficiency.effective_fg.buck": 0.484,
+    "bucknell_vs_navy_offensive_efficiency.effective_fg.navy": 0.5329999999999999,
+    "bucknell_vs_navy_offensive_efficiency.two_point_rate.buck": 0.574,
+    "bucknell_vs_navy_offensive_efficiency.two_point_rate.navy": 0.669,
+    "bucknell_vs_navy_offensive_efficiency.three_point_rate.buck": 0.426,
+    "bucknell_vs_navy_offensive_efficiency.three_point_rate.navy": 0.331,
+    "bucknell_vs_navy_offensive_efficiency.fta_play.buck": 0.222,
+    "bucknell_vs_navy_offensive_efficiency.fta_play.navy": 0.28300000000000003,
+    "bucknell_vs_navy_offensive_efficiency.two_point.buck": 0.505,
+    "bucknell_vs_navy_offensive_efficiency.two_point.navy": 0.53,
+    "bucknell_vs_navy_offensive_efficiency.three_point.buck": 0.304,
+    "bucknell_vs_navy_offensive_efficiency.three_point.navy": 0.36,
+    "bucknell_vs_navy_offensive_efficiency.free_throw.buck": 0.7659999999999999,
+    "bucknell_vs_navy_offensive_efficiency.free_throw.navy": 0.738,
+    "bucknell_vs_navy_offensive_efficiency.points_2_pters.buck": 32.5,
+    "bucknell_vs_navy_offensive_efficiency.points_2_pters.navy": 38.7,
+    "bucknell_vs_navy_offensive_efficiency.points_3_pters.buck": 21.8,
+    "bucknell_vs_navy_offensive_efficiency.points_3_pters.navy": 19.6,
+    "bucknell_vs_navy_offensive_efficiency.off_rebound.buck": 0.242,
+    "bucknell_vs_navy_offensive_efficiency.off_rebound.navy": 0.301,
+    "bucknell_vs_navy_offensive_efficiency.def_rebound.buck": 0.6990000000000001,
+    "bucknell_vs_navy_offensive_efficiency.def_rebound.navy": 0.752,
+    "bucknell_vs_navy_offensive_efficiency.block.buck": 0.033,
+    "bucknell_vs_navy_offensive_efficiency.block.navy": 0.055999999999999994,
+    "bucknell_vs_navy_offensive_efficiency.steals_play.buck": 0.092,
+    "bucknell_vs_navy_offensive_efficiency.steals_play.navy": 0.098,
+    "bucknell_vs_navy_offensive_efficiency.turnovers_play.buck": 0.16699999999999998,
+    "bucknell_vs_navy_offensive_efficiency.turnovers_play.navy": 0.14800000000000002,
+    "bucknell_vs_navy_offensive_efficiency.personal_fouls_play.buck": 0.228,
+    "bucknell_vs_navy_offensive_efficiency.personal_fouls_play.navy": 0.19399999999999998,
+    "bucknell_vs_navy_offensive_efficiency.assists_fgm.buck": 0.537,
+    "bucknell_vs_navy_offensive_efficiency.assists_fgm.navy": 0.616,
+    "bucknell_vs_navy_defensive_efficiency.possessions_gm.buck": 69.3,
+    "bucknell_vs_navy_defensive_efficiency.possessions_gm.navy": 67.5,
+    "bucknell_vs_navy_defensive_efficiency.def_efficiency.buck": 1.103,
+    "bucknell_vs_navy_defensive_efficiency.def_efficiency.navy": 0.958,
+    "bucknell_vs_navy_defensive_efficiency.opp_effective_fg.buck": 0.545,
+    "bucknell_vs_navy_defensive_efficiency.opp_effective_fg.navy": 0.474,
+    "bucknell_vs_navy_defensive_efficiency.opp_two_point_rate.buck": 0.544,
+    "bucknell_vs_navy_defensive_efficiency.opp_two_point_rate.navy": 0.544,
+    "bucknell_vs_navy_defensive_efficiency.opp_three_point_rate.buck": 0.456,
+    "bucknell_vs_navy_defensive_efficiency.opp_three_point_rate.navy": 0.456,
+    "bucknell_vs_navy_defensive_efficiency.opp_fta_play.buck": 0.253,
+    "bucknell_vs_navy_defensive_efficiency.opp_fta_play.navy": 0.19699999999999998,
+    "bucknell_vs_navy_defensive_efficiency.opp_two_point.buck": 0.541,
+    "bucknell_vs_navy_defensive_efficiency.opp_two_point.navy": 0.502,
+    "bucknell_vs_navy_defensive_efficiency.opp_three_point.buck": 0.36700000000000005,
+    "bucknell_vs_navy_defensive_efficiency.opp_three_point.navy": 0.293,
+    "bucknell_vs_navy_defensive_efficiency.opp_free_throw.buck": 0.752,
+    "bucknell_vs_navy_defensive_efficiency.opp_free_throw.navy": 0.738,
+    "bucknell_vs_navy_defensive_efficiency.opp_points_2_pters.buck": 33.2,
+    "bucknell_vs_navy_defensive_efficiency.opp_points_2_pters.navy": 31.0,
+    "bucknell_vs_navy_defensive_efficiency.opp_points_3_pters.buck": 28.3,
+    "bucknell_vs_navy_defensive_efficiency.opp_points_3_pters.navy": 22.8,
+    "bucknell_vs_navy_defensive_efficiency.opp_off_rebound.buck": 0.301,
+    "bucknell_vs_navy_defensive_efficiency.opp_off_rebound.navy": 0.248,
+    "bucknell_vs_navy_defensive_efficiency.opp_def_rebound.buck": 0.758,
+    "bucknell_vs_navy_defensive_efficiency.opp_def_rebound.navy": 0.6990000000000001,
+    "bucknell_vs_navy_defensive_efficiency.opp_block.buck": 0.064,
+    "bucknell_vs_navy_defensive_efficiency.opp_block.navy": 0.053,
+    "bucknell_vs_navy_defensive_efficiency.opp_steals_play.buck": 0.098,
+    "bucknell_vs_navy_defensive_efficiency.opp_steals_play.navy": 0.08199999999999999,
+    "bucknell_vs_navy_defensive_efficiency.opp_turnovers_play.buck": 0.155,
+    "bucknell_vs_navy_defensive_efficiency.opp_turnovers_play.navy": 0.159,
+    "bucknell_vs_navy_defensive_efficiency.opp_personal_fouls_play.buck": 0.217,
+    "bucknell_vs_navy_defensive_efficiency.opp_personal_fouls_play.navy": 0.251,
+    "bucknell_vs_navy_defensive_efficiency.opp_assists_fgm.buck": 0.613,
+    "bucknell_vs_navy_defensive_efficiency.opp_assists_fgm.navy": 0.52
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "bison-midshipmen-2026-03-05",
+  "matchup_title": "#333 Bucknell at #144 Navy",
+  "teams": {
+    "away": "#333 Bucknell",
+    "home": "#144 Navy",
+    "neutral_site": false
+  },
+  "time_local": "7:00 PM",
+  "location": "Alumni Hall",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-midshipmen-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/bison-midshipmen-2026-03-05/efficiency"
+  }
+}

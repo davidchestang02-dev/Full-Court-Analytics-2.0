@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/mavericks-texans-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:38.622753+00:00",
+  "tables": {
+    "Matchup Menu: UTA @ TST": {
+      "headers": [
+        "Stat",
+        "UTA",
+        "adv",
+        "TST"
+      ],
+      "team_headers": [
+        "UTA",
+        "TST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.979",
+            "value": 0.979
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "0.995",
+            "value": 0.995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "47.8%",
+            "value": 0.478
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "48.6%",
+            "value": 0.486
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "17.6%",
+            "value": 0.17600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "33.0%",
+            "value": 0.33
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "28.1%",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.415",
+            "value": 0.415
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "0.404",
+            "value": 0.404
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UTA": {
+            "raw": "68.0",
+            "value": 68.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "72.7",
+            "value": 72.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UTA": {
+            "raw": "-0.7",
+            "value": -0.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "-3.1",
+            "value": -3.1
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "UTA",
+        "adv",
+        "TST"
+      ],
+      "team_headers": [
+        "UTA",
+        "TST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.979",
+            "value": 0.979
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "0.995",
+            "value": 0.995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "47.8%",
+            "value": 0.478
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "48.6%",
+            "value": 0.486
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "17.6%",
+            "value": 0.17600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "33.0%",
+            "value": 0.33
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "28.1%",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.415",
+            "value": 0.415
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "0.404",
+            "value": 0.404
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "UTA": {
+            "raw": "68.0",
+            "value": 68.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "72.7",
+            "value": 72.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "UTA": {
+            "raw": "-0.7",
+            "value": -0.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "-3.1",
+            "value": -3.1
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "UTA",
+        "adv",
+        "TST"
+      ],
+      "team_headers": [
+        "UTA",
+        "TST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.988",
+            "value": 0.988
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "1.037",
+            "value": 1.037
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TST": {
+            "raw": "53.7%",
+            "value": 0.537
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "15.7%",
+            "value": 0.157
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "20.2%",
+            "value": 0.20199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TST": {
+            "raw": "65.4%",
+            "value": 0.654
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.410",
+            "value": 0.41
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "0.455",
+            "value": 0.455
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "UTA": {
+            "raw": "68.7",
+            "value": 68.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "75.8",
+            "value": 75.8
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "6.3%",
+            "value": 0.063
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          }
+        }
+      ]
+    },
+    "UT Arlington vs Tarleton St Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UTA",
+        "adv",
+        "TST"
+      ],
+      "team_headers": [
+        "UTA",
+        "TST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UTA": {
+            "raw": "69.5",
+            "value": 69.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "73.1",
+            "value": 73.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.979",
+            "value": 0.979
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "0.995",
+            "value": 0.995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "47.8%",
+            "value": 0.478
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "48.6%",
+            "value": 0.486
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "UTA": {
+            "raw": "68.6%",
+            "value": 0.6859999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "75.7%",
+            "value": 0.757
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "UTA": {
+            "raw": "31.4%",
+            "value": 0.314
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "24.3%",
+            "value": 0.243
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "28.2%",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "49.6%",
+            "value": 0.496
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "48.5%",
+            "value": 0.485
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "29.3%",
+            "value": 0.293
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "32.4%",
+            "value": 0.324
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "71.2%",
+            "value": 0.7120000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "75.0%",
+            "value": 0.75
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "UTA": {
+            "raw": "37.0",
+            "value": 37.0
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "41.9",
+            "value": 41.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "UTA": {
+            "raw": "15.0",
+            "value": 15.0
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "13.5",
+            "value": 13.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "33.0%",
+            "value": 0.33
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "28.1%",
+            "value": 0.281
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "72.9%",
+            "value": 0.7290000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TST": {
+            "raw": "65.4%",
+            "value": 0.654
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "6.3%",
+            "value": 0.063
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "5.8%",
+            "value": 0.057999999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "9.3%",
+            "value": 0.09300000000000001
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "11.9%",
+            "value": 0.11900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "17.8%",
+            "value": 0.17800000000000002
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "17.6%",
+            "value": 0.17600000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "24.4%",
+            "value": 0.244
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "24.1%",
+            "value": 0.24100000000000002
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.483",
+            "value": 0.483
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "0.418",
+            "value": 0.418
+          }
+        }
+      ]
+    },
+    "UT Arlington vs Tarleton St Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "UTA",
+        "adv",
+        "TST"
+      ],
+      "team_headers": [
+        "UTA",
+        "TST"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "UTA": {
+            "raw": "69.5",
+            "value": 69.5
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "73.1",
+            "value": 73.1
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.988",
+            "value": 0.988
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "1.037",
+            "value": 1.037
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "47.7%",
+            "value": 0.47700000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TST": {
+            "raw": "53.7%",
+            "value": 0.537
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "UTA": {
+            "raw": "68.4%",
+            "value": 0.684
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "TST": {
+            "raw": "59.3%",
+            "value": 0.593
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "UTA": {
+            "raw": "31.6%",
+            "value": 0.316
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TST": {
+            "raw": "40.7%",
+            "value": 0.40700000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "29.1%",
+            "value": 0.29100000000000004
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "29.6%",
+            "value": 0.29600000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "50.6%",
+            "value": 0.506
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "54.2%",
+            "value": 0.542
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "27.6%",
+            "value": 0.276
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TST": {
+            "raw": "35.4%",
+            "value": 0.354
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "70.9%",
+            "value": 0.7090000000000001
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "72.6%",
+            "value": 0.726
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "UTA": {
+            "raw": "38.2",
+            "value": 38.2
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "34.7",
+            "value": 34.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "UTA": {
+            "raw": "14.4",
+            "value": 14.4
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "23.3",
+            "value": 23.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "27.1%",
+            "value": 0.271
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "TST": {
+            "raw": "34.6%",
+            "value": 0.34600000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "67.0%",
+            "value": 0.67
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "71.9%",
+            "value": 0.7190000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "UTA": {
+            "raw": "6.4%",
+            "value": 0.064
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "TST": {
+            "raw": "7.1%",
+            "value": 0.071
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "9.6%",
+            "value": 0.096
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "8.9%",
+            "value": 0.08900000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "15.7%",
+            "value": 0.157
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "TST": {
+            "raw": "20.2%",
+            "value": 0.20199999999999999
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "UTA": {
+            "raw": "22.7%",
+            "value": 0.22699999999999998
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "TST": {
+            "raw": "24.2%",
+            "value": 0.242
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "UTA": {
+            "raw": "0.498",
+            "value": 0.498
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "TST": {
+            "raw": "0.557",
+            "value": 0.557
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_uta_tst.off_efficiency.uta": 0.979,
+    "matchup_menu_uta_tst.off_efficiency.tst": 0.995,
+    "matchup_menu_uta_tst.effective_fg.uta": 0.478,
+    "matchup_menu_uta_tst.effective_fg.tst": 0.486,
+    "matchup_menu_uta_tst.turnovers_play.uta": 0.17800000000000002,
+    "matchup_menu_uta_tst.turnovers_play.tst": 0.17600000000000002,
+    "matchup_menu_uta_tst.off_rebound.uta": 0.33,
+    "matchup_menu_uta_tst.off_rebound.tst": 0.281,
+    "matchup_menu_uta_tst.fta_fga.uta": 0.415,
+    "matchup_menu_uta_tst.fta_fga.tst": 0.404,
+    "matchup_menu_uta_tst.points_game.uta": 68.0,
+    "matchup_menu_uta_tst.points_game.tst": 72.7,
+    "matchup_menu_uta_tst.avg_score_margin.uta": -0.7,
+    "matchup_menu_uta_tst.avg_score_margin.tst": -3.1,
+    "key_offensive_stats.off_efficiency.uta": 0.979,
+    "key_offensive_stats.off_efficiency.tst": 0.995,
+    "key_offensive_stats.effective_fg.uta": 0.478,
+    "key_offensive_stats.effective_fg.tst": 0.486,
+    "key_offensive_stats.turnovers_play.uta": 0.17800000000000002,
+    "key_offensive_stats.turnovers_play.tst": 0.17600000000000002,
+    "key_offensive_stats.off_rebound.uta": 0.33,
+    "key_offensive_stats.off_rebound.tst": 0.281,
+    "key_offensive_stats.fta_fga.uta": 0.415,
+    "key_offensive_stats.fta_fga.tst": 0.404,
+    "key_offensive_stats.points_game.uta": 68.0,
+    "key_offensive_stats.points_game.tst": 72.7,
+    "key_offensive_stats.avg_score_margin.uta": -0.7,
+    "key_offensive_stats.avg_score_margin.tst": -3.1,
+    "key_defensive_stats.def_efficiency.uta": 0.988,
+    "key_defensive_stats.def_efficiency.tst": 1.037,
+    "key_defensive_stats.opp_effective_fg.uta": 0.47700000000000004,
+    "key_defensive_stats.opp_effective_fg.tst": 0.537,
+    "key_defensive_stats.opp_turnovers_play.uta": 0.157,
+    "key_defensive_stats.opp_turnovers_play.tst": 0.20199999999999999,
+    "key_defensive_stats.def_rebound.uta": 0.7290000000000001,
+    "key_defensive_stats.def_rebound.tst": 0.654,
+    "key_defensive_stats.opp_fta_fga.uta": 0.41,
+    "key_defensive_stats.opp_fta_fga.tst": 0.455,
+    "key_defensive_stats.opp_points_game.uta": 68.7,
+    "key_defensive_stats.opp_points_game.tst": 75.8,
+    "key_defensive_stats.block.uta": 0.063,
+    "key_defensive_stats.block.tst": 0.057999999999999996,
+    "key_defensive_stats.personal_fouls_play.uta": 0.244,
+    "key_defensive_stats.personal_fouls_play.tst": 0.24100000000000002,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.possessions_gm.uta": 69.5,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.possessions_gm.tst": 73.1,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.off_efficiency.uta": 0.979,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.off_efficiency.tst": 0.995,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.effective_fg.uta": 0.478,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.effective_fg.tst": 0.486,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.two_point_rate.uta": 0.6859999999999999,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.two_point_rate.tst": 0.757,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.three_point_rate.uta": 0.314,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.three_point_rate.tst": 0.243,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.fta_play.uta": 0.28300000000000003,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.fta_play.tst": 0.282,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.two_point.uta": 0.496,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.two_point.tst": 0.485,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.three_point.uta": 0.293,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.three_point.tst": 0.324,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.free_throw.uta": 0.7120000000000001,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.free_throw.tst": 0.75,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.points_2_pters.uta": 37.0,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.points_2_pters.tst": 41.9,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.points_3_pters.uta": 15.0,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.points_3_pters.tst": 13.5,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.off_rebound.uta": 0.33,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.off_rebound.tst": 0.281,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.def_rebound.uta": 0.7290000000000001,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.def_rebound.tst": 0.654,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.block.uta": 0.063,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.block.tst": 0.057999999999999996,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.steals_play.uta": 0.09300000000000001,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.steals_play.tst": 0.11900000000000001,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.turnovers_play.uta": 0.17800000000000002,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.turnovers_play.tst": 0.17600000000000002,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.personal_fouls_play.uta": 0.244,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.personal_fouls_play.tst": 0.24100000000000002,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.assists_fgm.uta": 0.483,
+    "ut_arlington_vs_tarleton_st_offensive_efficiency.assists_fgm.tst": 0.418,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.possessions_gm.uta": 69.5,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.possessions_gm.tst": 73.1,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.def_efficiency.uta": 0.988,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.def_efficiency.tst": 1.037,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_effective_fg.uta": 0.47700000000000004,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_effective_fg.tst": 0.537,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_two_point_rate.uta": 0.684,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_two_point_rate.tst": 0.593,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_three_point_rate.uta": 0.316,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_three_point_rate.tst": 0.40700000000000003,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_fta_play.uta": 0.29100000000000004,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_fta_play.tst": 0.29600000000000004,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_two_point.uta": 0.506,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_two_point.tst": 0.542,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_three_point.uta": 0.276,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_three_point.tst": 0.354,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_free_throw.uta": 0.7090000000000001,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_free_throw.tst": 0.726,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_points_2_pters.uta": 38.2,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_points_2_pters.tst": 34.7,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_points_3_pters.uta": 14.4,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_points_3_pters.tst": 23.3,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_off_rebound.uta": 0.271,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_off_rebound.tst": 0.34600000000000003,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_def_rebound.uta": 0.67,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_def_rebound.tst": 0.7190000000000001,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_block.uta": 0.064,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_block.tst": 0.071,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_steals_play.uta": 0.096,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_steals_play.tst": 0.08900000000000001,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_turnovers_play.uta": 0.157,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_turnovers_play.tst": 0.20199999999999999,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_personal_fouls_play.uta": 0.22699999999999998,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_personal_fouls_play.tst": 0.242,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_assists_fgm.uta": 0.498,
+    "ut_arlington_vs_tarleton_st_defensive_efficiency.opp_assists_fgm.tst": 0.557
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "mavericks-texans-2026-03-05",
+  "matchup_title": "#178 UT Arlington at #228 Tarleton St",
+  "teams": {
+    "away": "#178 UT Arlington",
+    "home": "#228 Tarleton St",
+    "neutral_site": false
+  },
+  "time_local": "8:00 PM",
+  "location": "Wisdom Gym",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/mavericks-texans-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/mavericks-texans-2026-03-05/efficiency"
+  }
+}

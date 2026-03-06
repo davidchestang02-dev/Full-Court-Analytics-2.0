@@ -1,0 +1,1253 @@
+{
+  "source_url": "https://www.teamrankings.com/ncaa-basketball/matchup/mustangs-anteaters-2026-03-05/efficiency",
+  "scraped_at_utc": "2026-03-05T22:13:34.803456+00:00",
+  "tables": {
+    "Matchup Menu: CP @ UCI": {
+      "headers": [
+        "Stat",
+        "CP",
+        "adv",
+        "UCI"
+      ],
+      "team_headers": [
+        "CP",
+        "UCI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "CP": {
+            "raw": "1.033",
+            "value": 1.033
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "0.995",
+            "value": 0.995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "CP": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "18.0%",
+            "value": 0.18
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "15.5%",
+            "value": 0.155
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "CP": {
+            "raw": "27.3%",
+            "value": 0.273
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "28.2%",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "CP": {
+            "raw": "0.358",
+            "value": 0.358
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "0.355",
+            "value": 0.355
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "CP": {
+            "raw": "80.7",
+            "value": 80.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "72.6",
+            "value": 72.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "CP": {
+            "raw": "-4.6",
+            "value": -4.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UCI": {
+            "raw": "+4.4",
+            "value": 4.4
+          }
+        }
+      ]
+    },
+    "Key Offensive Stats": {
+      "headers": [
+        "Stat",
+        "CP",
+        "adv",
+        "UCI"
+      ],
+      "team_headers": [
+        "CP",
+        "UCI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "CP": {
+            "raw": "1.033",
+            "value": 1.033
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "0.995",
+            "value": 0.995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "CP": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "18.0%",
+            "value": 0.18
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "15.5%",
+            "value": 0.155
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "CP": {
+            "raw": "27.3%",
+            "value": 0.273
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "28.2%",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/FGA",
+            "value": null
+          },
+          "CP": {
+            "raw": "0.358",
+            "value": 0.358
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "0.355",
+            "value": 0.355
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points/Game",
+            "value": null
+          },
+          "CP": {
+            "raw": "80.7",
+            "value": 80.7
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "72.6",
+            "value": 72.6
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Avg Score Margin",
+            "value": null
+          },
+          "CP": {
+            "raw": "-4.6",
+            "value": -4.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UCI": {
+            "raw": "+4.4",
+            "value": 4.4
+          }
+        }
+      ]
+    },
+    "Key Defensive Stats": {
+      "headers": [
+        "Stat",
+        "CP",
+        "adv",
+        "UCI"
+      ],
+      "team_headers": [
+        "CP",
+        "UCI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "CP": {
+            "raw": "1.093",
+            "value": 1.093
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UCI": {
+            "raw": "0.935",
+            "value": 0.935
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "CP": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "44.9%",
+            "value": 0.449
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "16.1%",
+            "value": 0.161
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "CP": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "70.5%",
+            "value": 0.705
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/FGA",
+            "value": null
+          },
+          "CP": {
+            "raw": "0.337",
+            "value": 0.337
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "0.280",
+            "value": 0.28
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points/Game",
+            "value": null
+          },
+          "CP": {
+            "raw": "85.4",
+            "value": 85.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "68.3",
+            "value": 68.3
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "CP": {
+            "raw": "3.4%",
+            "value": 0.034
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "22.3%",
+            "value": 0.223
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        }
+      ]
+    },
+    "Cal Poly vs UC Irvine Offensive Efficiency": {
+      "headers": [
+        "Stat",
+        "CP",
+        "adv",
+        "UCI"
+      ],
+      "team_headers": [
+        "CP",
+        "UCI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "CP": {
+            "raw": "78.1",
+            "value": 78.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Efficiency",
+            "value": null
+          },
+          "CP": {
+            "raw": "1.033",
+            "value": 1.033
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "0.995",
+            "value": 0.995
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Effective FG %",
+            "value": null
+          },
+          "CP": {
+            "raw": "51.9%",
+            "value": 0.519
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "49.0%",
+            "value": 0.49
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point Rate",
+            "value": null
+          },
+          "CP": {
+            "raw": "46.6%",
+            "value": 0.466
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "71.7%",
+            "value": 0.7170000000000001
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point Rate",
+            "value": null
+          },
+          "CP": {
+            "raw": "53.4%",
+            "value": 0.534
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "28.3%",
+            "value": 0.28300000000000003
+          }
+        },
+        {
+          "Stat": {
+            "raw": "FTA/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "25.2%",
+            "value": 0.252
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "25.7%",
+            "value": 0.257
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Two Point %",
+            "value": null
+          },
+          "CP": {
+            "raw": "53.7%",
+            "value": 0.537
+          },
+          "adv": {
+            "direction": "left",
+            "level": 3
+          },
+          "UCI": {
+            "raw": "48.7%",
+            "value": 0.48700000000000004
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Three Point %",
+            "value": null
+          },
+          "CP": {
+            "raw": "33.6%",
+            "value": 0.336
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "33.1%",
+            "value": 0.331
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Free Throw %",
+            "value": null
+          },
+          "CP": {
+            "raw": "78.3%",
+            "value": 0.7829999999999999
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "68.4%",
+            "value": 0.684
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (2 pters)",
+            "value": null
+          },
+          "CP": {
+            "raw": "30.6",
+            "value": 30.6
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "41.5",
+            "value": 41.5
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Points (3 pters)",
+            "value": null
+          },
+          "CP": {
+            "raw": "32.9",
+            "value": 32.9
+          },
+          "adv": {
+            "direction": "left",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "16.7",
+            "value": 16.7
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Off Rebound %",
+            "value": null
+          },
+          "CP": {
+            "raw": "27.3%",
+            "value": 0.273
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "28.2%",
+            "value": 0.282
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Rebound %",
+            "value": null
+          },
+          "CP": {
+            "raw": "71.8%",
+            "value": 0.718
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "70.5%",
+            "value": 0.705
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Block %",
+            "value": null
+          },
+          "CP": {
+            "raw": "3.4%",
+            "value": 0.034
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "9.5%",
+            "value": 0.095
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Steals/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "7.3%",
+            "value": 0.073
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "9.1%",
+            "value": 0.091
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Turnovers/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "18.0%",
+            "value": 0.18
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "15.5%",
+            "value": 0.155
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Personal Fouls/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "22.3%",
+            "value": 0.223
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "19.0%",
+            "value": 0.19
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Assists/FGM",
+            "value": null
+          },
+          "CP": {
+            "raw": "0.485",
+            "value": 0.485
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "0.555",
+            "value": 0.555
+          }
+        }
+      ]
+    },
+    "Cal Poly vs UC Irvine Defensive Efficiency": {
+      "headers": [
+        "Stat",
+        "CP",
+        "adv",
+        "UCI"
+      ],
+      "team_headers": [
+        "CP",
+        "UCI"
+      ],
+      "rows": [
+        {
+          "Stat": {
+            "raw": "Possessions/Gm",
+            "value": null
+          },
+          "CP": {
+            "raw": "78.1",
+            "value": 78.1
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "73.0",
+            "value": 73.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Def Efficiency",
+            "value": null
+          },
+          "CP": {
+            "raw": "1.093",
+            "value": 1.093
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UCI": {
+            "raw": "0.935",
+            "value": 0.935
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Effective FG %",
+            "value": null
+          },
+          "CP": {
+            "raw": "53.9%",
+            "value": 0.539
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "44.9%",
+            "value": 0.449
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point Rate",
+            "value": null
+          },
+          "CP": {
+            "raw": "58.3%",
+            "value": 0.583
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "63.2%",
+            "value": 0.632
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point Rate",
+            "value": null
+          },
+          "CP": {
+            "raw": "41.7%",
+            "value": 0.41700000000000004
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "36.8%",
+            "value": 0.368
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp FTA/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "24.8%",
+            "value": 0.248
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "20.7%",
+            "value": 0.207
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Two Point %",
+            "value": null
+          },
+          "CP": {
+            "raw": "54.8%",
+            "value": 0.5479999999999999
+          },
+          "adv": {
+            "direction": "right",
+            "level": 4
+          },
+          "UCI": {
+            "raw": "42.0%",
+            "value": 0.42
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Three Point %",
+            "value": null
+          },
+          "CP": {
+            "raw": "35.1%",
+            "value": 0.35100000000000003
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "33.4%",
+            "value": 0.33399999999999996
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Free Throw %",
+            "value": null
+          },
+          "CP": {
+            "raw": "72.7%",
+            "value": 0.727
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "71.0%",
+            "value": 0.71
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (2 pters)",
+            "value": null
+          },
+          "CP": {
+            "raw": "41.1",
+            "value": 41.1
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UCI": {
+            "raw": "33.0",
+            "value": 33.0
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Points (3 pters)",
+            "value": null
+          },
+          "CP": {
+            "raw": "28.4",
+            "value": 28.4
+          },
+          "adv": {
+            "direction": "right",
+            "level": 3
+          },
+          "UCI": {
+            "raw": "22.9",
+            "value": 22.9
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Off Rebound %",
+            "value": null
+          },
+          "CP": {
+            "raw": "28.2%",
+            "value": 0.282
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "29.5%",
+            "value": 0.295
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Def Rebound %",
+            "value": null
+          },
+          "CP": {
+            "raw": "72.7%",
+            "value": 0.727
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "71.8%",
+            "value": 0.718
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Block %",
+            "value": null
+          },
+          "CP": {
+            "raw": "5.1%",
+            "value": 0.051
+          },
+          "adv": {
+            "direction": "left",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "6.3%",
+            "value": 0.063
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Steals/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "8.4%",
+            "value": 0.084
+          },
+          "adv": {
+            "direction": "right",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "8.0%",
+            "value": 0.08
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Turnovers/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "14.2%",
+            "value": 0.142
+          },
+          "adv": {
+            "direction": "right",
+            "level": 2
+          },
+          "UCI": {
+            "raw": "16.1%",
+            "value": 0.161
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Personal Fouls/Play",
+            "value": null
+          },
+          "CP": {
+            "raw": "22.9%",
+            "value": 0.22899999999999998
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "22.2%",
+            "value": 0.222
+          }
+        },
+        {
+          "Stat": {
+            "raw": "Opp Assists/FGM",
+            "value": null
+          },
+          "CP": {
+            "raw": "0.524",
+            "value": 0.524
+          },
+          "adv": {
+            "direction": "left",
+            "level": 1
+          },
+          "UCI": {
+            "raw": "0.540",
+            "value": 0.54
+          }
+        }
+      ]
+    }
+  },
+  "features": {
+    "matchup_menu_cp_uci.off_efficiency.cp": 1.033,
+    "matchup_menu_cp_uci.off_efficiency.uci": 0.995,
+    "matchup_menu_cp_uci.effective_fg.cp": 0.519,
+    "matchup_menu_cp_uci.effective_fg.uci": 0.49,
+    "matchup_menu_cp_uci.turnovers_play.cp": 0.18,
+    "matchup_menu_cp_uci.turnovers_play.uci": 0.155,
+    "matchup_menu_cp_uci.off_rebound.cp": 0.273,
+    "matchup_menu_cp_uci.off_rebound.uci": 0.282,
+    "matchup_menu_cp_uci.fta_fga.cp": 0.358,
+    "matchup_menu_cp_uci.fta_fga.uci": 0.355,
+    "matchup_menu_cp_uci.points_game.cp": 80.7,
+    "matchup_menu_cp_uci.points_game.uci": 72.6,
+    "matchup_menu_cp_uci.avg_score_margin.cp": -4.6,
+    "matchup_menu_cp_uci.avg_score_margin.uci": 4.4,
+    "key_offensive_stats.off_efficiency.cp": 1.033,
+    "key_offensive_stats.off_efficiency.uci": 0.995,
+    "key_offensive_stats.effective_fg.cp": 0.519,
+    "key_offensive_stats.effective_fg.uci": 0.49,
+    "key_offensive_stats.turnovers_play.cp": 0.18,
+    "key_offensive_stats.turnovers_play.uci": 0.155,
+    "key_offensive_stats.off_rebound.cp": 0.273,
+    "key_offensive_stats.off_rebound.uci": 0.282,
+    "key_offensive_stats.fta_fga.cp": 0.358,
+    "key_offensive_stats.fta_fga.uci": 0.355,
+    "key_offensive_stats.points_game.cp": 80.7,
+    "key_offensive_stats.points_game.uci": 72.6,
+    "key_offensive_stats.avg_score_margin.cp": -4.6,
+    "key_offensive_stats.avg_score_margin.uci": 4.4,
+    "key_defensive_stats.def_efficiency.cp": 1.093,
+    "key_defensive_stats.def_efficiency.uci": 0.935,
+    "key_defensive_stats.opp_effective_fg.cp": 0.539,
+    "key_defensive_stats.opp_effective_fg.uci": 0.449,
+    "key_defensive_stats.opp_turnovers_play.cp": 0.142,
+    "key_defensive_stats.opp_turnovers_play.uci": 0.161,
+    "key_defensive_stats.def_rebound.cp": 0.718,
+    "key_defensive_stats.def_rebound.uci": 0.705,
+    "key_defensive_stats.opp_fta_fga.cp": 0.337,
+    "key_defensive_stats.opp_fta_fga.uci": 0.28,
+    "key_defensive_stats.opp_points_game.cp": 85.4,
+    "key_defensive_stats.opp_points_game.uci": 68.3,
+    "key_defensive_stats.block.cp": 0.034,
+    "key_defensive_stats.block.uci": 0.095,
+    "key_defensive_stats.personal_fouls_play.cp": 0.223,
+    "key_defensive_stats.personal_fouls_play.uci": 0.19,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.possessions_gm.cp": 78.1,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.possessions_gm.uci": 73.0,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.off_efficiency.cp": 1.033,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.off_efficiency.uci": 0.995,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.effective_fg.cp": 0.519,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.effective_fg.uci": 0.49,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.two_point_rate.cp": 0.466,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.two_point_rate.uci": 0.7170000000000001,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.three_point_rate.cp": 0.534,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.three_point_rate.uci": 0.28300000000000003,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.fta_play.cp": 0.252,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.fta_play.uci": 0.257,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.two_point.cp": 0.537,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.two_point.uci": 0.48700000000000004,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.three_point.cp": 0.336,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.three_point.uci": 0.331,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.free_throw.cp": 0.7829999999999999,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.free_throw.uci": 0.684,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.points_2_pters.cp": 30.6,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.points_2_pters.uci": 41.5,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.points_3_pters.cp": 32.9,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.points_3_pters.uci": 16.7,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.off_rebound.cp": 0.273,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.off_rebound.uci": 0.282,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.def_rebound.cp": 0.718,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.def_rebound.uci": 0.705,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.block.cp": 0.034,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.block.uci": 0.095,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.steals_play.cp": 0.073,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.steals_play.uci": 0.091,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.turnovers_play.cp": 0.18,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.turnovers_play.uci": 0.155,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.personal_fouls_play.cp": 0.223,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.personal_fouls_play.uci": 0.19,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.assists_fgm.cp": 0.485,
+    "cal_poly_vs_uc_irvine_offensive_efficiency.assists_fgm.uci": 0.555,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.possessions_gm.cp": 78.1,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.possessions_gm.uci": 73.0,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.def_efficiency.cp": 1.093,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.def_efficiency.uci": 0.935,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_effective_fg.cp": 0.539,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_effective_fg.uci": 0.449,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_two_point_rate.cp": 0.583,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_two_point_rate.uci": 0.632,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_three_point_rate.cp": 0.41700000000000004,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_three_point_rate.uci": 0.368,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_fta_play.cp": 0.248,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_fta_play.uci": 0.207,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_two_point.cp": 0.5479999999999999,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_two_point.uci": 0.42,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_three_point.cp": 0.35100000000000003,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_three_point.uci": 0.33399999999999996,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_free_throw.cp": 0.727,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_free_throw.uci": 0.71,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_points_2_pters.cp": 41.1,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_points_2_pters.uci": 33.0,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_points_3_pters.cp": 28.4,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_points_3_pters.uci": 22.9,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_off_rebound.cp": 0.282,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_off_rebound.uci": 0.295,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_def_rebound.cp": 0.727,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_def_rebound.uci": 0.718,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_block.cp": 0.051,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_block.uci": 0.063,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_steals_play.cp": 0.084,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_steals_play.uci": 0.08,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_turnovers_play.cp": 0.142,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_turnovers_play.uci": 0.161,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_personal_fouls_play.cp": 0.22899999999999998,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_personal_fouls_play.uci": 0.222,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_assists_fgm.cp": 0.524,
+    "cal_poly_vs_uc_irvine_defensive_efficiency.opp_assists_fgm.uci": 0.54
+  },
+  "sport": "ncaab",
+  "date": "2026-03-05",
+  "slug": "mustangs-anteaters-2026-03-05",
+  "matchup_title": "#258 Cal Poly at #115 UC Irvine",
+  "teams": {
+    "away": "#258 Cal Poly",
+    "home": "#115 UC Irvine",
+    "neutral_site": false
+  },
+  "time_local": "10:00 PM",
+  "location": "Bren Events Center",
+  "urls": {
+    "matchup": "https://www.teamrankings.com/ncaa-basketball/matchup/mustangs-anteaters-2026-03-05",
+    "detail": "https://www.teamrankings.com/ncaa-basketball/matchup/mustangs-anteaters-2026-03-05/efficiency"
+  }
+}

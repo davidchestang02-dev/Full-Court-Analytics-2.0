@@ -1,0 +1,115 @@
+{
+  "sport": "nba",
+  "date": "2026-03-05",
+  "scraped_at_utc": "2026-03-05T22:13:05.971387+00:00",
+  "games": [
+    {
+      "title": "#2 Detroit at #3 San Antonio",
+      "slug": "pistons-spurs-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/pistons-spurs-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Frost Bank Center",
+      "teams": {
+        "away": "#2 Detroit",
+        "home": "#3 San Antonio",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#11 Golden State at #6 Houston",
+      "slug": "warriors-rockets-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/warriors-rockets-2026-03-05",
+      "time_local": "7:30 PM",
+      "location": "Toyota Center",
+      "teams": {
+        "away": "#11 Golden State",
+        "home": "#6 Houston",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#14 Toronto at #9 Minnesota",
+      "slug": "raptors-timberwolves-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/raptors-timberwolves-2026-03-05",
+      "time_local": "8:00 PM",
+      "location": "Target Center",
+      "teams": {
+        "away": "#14 Toronto",
+        "home": "#9 Minnesota",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#15 LA Lakers at #8 Denver",
+      "slug": "lakers-nuggets-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/lakers-nuggets-2026-03-05",
+      "time_local": "10:00 PM",
+      "location": "Ball Arena",
+      "teams": {
+        "away": "#15 LA Lakers",
+        "home": "#8 Denver",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#23 Dallas at #16 Orlando",
+      "slug": "mavericks-magic-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/mavericks-magic-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Kia Center",
+      "teams": {
+        "away": "#23 Dallas",
+        "home": "#16 Orlando",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#24 Chicago at #17 Phoenix",
+      "slug": "bulls-suns-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/bulls-suns-2026-03-05",
+      "time_local": "9:00 PM",
+      "location": "Mortgage Matchup Center",
+      "teams": {
+        "away": "#24 Chicago",
+        "home": "#17 Phoenix",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#29 Brooklyn at #10 Miami",
+      "slug": "nets-heat-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/nets-heat-2026-03-05",
+      "time_local": "7:30 PM",
+      "location": "Kaseya Center",
+      "teams": {
+        "away": "#29 Brooklyn",
+        "home": "#10 Miami",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#25 New Orleans at #28 Sacramento",
+      "slug": "pelicans-kings-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/pelicans-kings-2026-03-05",
+      "time_local": "10:00 PM",
+      "location": "Golden 1 Center",
+      "teams": {
+        "away": "#25 New Orleans",
+        "home": "#28 Sacramento",
+        "neutral_site": false
+      }
+    },
+    {
+      "title": "#27 Utah at #30 Washington",
+      "slug": "jazz-wizards-2026-03-05",
+      "url": "https://www.teamrankings.com/nba/matchup/jazz-wizards-2026-03-05",
+      "time_local": "7:00 PM",
+      "location": "Capital One Arena",
+      "teams": {
+        "away": "#27 Utah",
+        "home": "#30 Washington",
+        "neutral_site": false
+      }
+    }
+  ]
+}

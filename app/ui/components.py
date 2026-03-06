@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
 import streamlit as st
+from .data_access import strip_rank
 
 
 # ----------------- Helpers -----------------
@@ -635,3 +636,320 @@ def render_model_health():
     st.markdown("<div class='fca-title'>Model Health</div>", unsafe_allow_html=True)
     st.markdown("<div class='fca-muted'>Use this page to show data freshness, pipeline status, file availability, and run logs.</div>", unsafe_allow_html=True)
     st.markdown('<div class="fca-card">Coming next: last scrape time, last prediction build time, missing files, and alerts.</div>', unsafe_allow_html=True)
+
+
+# ----------------- Query Param UI Helpers -----------------
+
+def qp_get() -> Dict[str, str]:
+    # streamlit >= 1.32: st.query_params is dict-like
+    try:
+        return dict(st.query_params)
+    except Exception:
+        return {}
+
+
+def qp_set(**kwargs: str) -> None:
+    try:
+        st.query_params.clear()
+        for k, v in kwargs.items():
+            st.query_params[k] = v
+    except Exception:
+        # fallback older streamlit
+        st.experimental_set_query_params(**kwargs)
+
+
+def top_nav(logo_url: str) -> None:
+    qp = qp_get()
+    sport = qp.get("sport", "ncaab")
+    date = qp.get("date", "")
+
+    def link(label: str, page_to: str, extra: Dict[str, str] | None = None) -> str:
+        base = {"page": page_to}
+        if sport:
+            base["sport"] = sport
+        if date:
+            base["date"] = date
+        if extra:
+            base.update(extra)
+        href = "?" + "&".join([f"{k}={_url_escape(v)}" for k, v in base.items() if v is not None])
+        return f'<a class="fca-pill" href="{href}">{label}</a>'
+
+    st.markdown(
+        f"""
+<div class="fca-nav">
+  <div class="brand">
+    <img src="{logo_url}" />
+    <div class="brand-title">Full Court Analytics</div>
+  </div>
+  <div class="navlinks">
+    {link("Home", "home")}
+    {link("Today", "today")}
+    {link("Results", "results")}
+    {link("Model Health", "health")}
+  </div>
+</div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+def hero(title: str, subtitle: str) -> None:
+    st.markdown(
+        f"""
+<div class="fca-hero">
+  <h1>{_html(title)}</h1>
+  <div class="sub">{_html(subtitle)}</div>
+</div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+def landing_league_cards() -> None:
+    leagues = [
+        ("ncaab", "🏀", "NCAAB"),
+        ("nba", "🏀", "NBA"),
+        ("nhl", "🏒", "NHL"),
+        ("mlb", "⚾", "MLB"),
+        ("nfl", "🏈", "NFL"),
+    ]
+    st.markdown('<div class="fca-grid">', unsafe_allow_html=True)
+    for sport, icon, label in leagues:
+        href = f"?page=today&sport={sport}"
+        st.markdown(
+            f"""
+<a class="league-card" href="{href}">
+  <span class="league-icon">{icon}</span>
+  <span>{label}</span>
+</a>
+            """,
+            unsafe_allow_html=True,
+        )
+    st.markdown("</div>", unsafe_allow_html=True)
+
+
+def game_card(
+    sport: str,
+    date: str,
+    g: Dict[str, Any],
+    logo_away: Optional[str] = None,
+    logo_home: Optional[str] = None,
+) -> None:
+    teams = g.get("teams") or {}
+    away = _html(teams.get("away", "Away"))
+    home = _html(teams.get("home", "Home"))
+    time_loc = _html(g.get("time_local") or "")
+    location = _html(g.get("location") or "")
+
+    proj = g.get("proj") or {}
+    market = g.get("market") or {}
+
+    proj_total = proj.get("proj_total")
+    proj_spread = proj.get("proj_spread_home")
+
+    def fmt(x: Any, nd: int = 1) -> str:
+        try:
+            if x is None:
+                return "—"
+            return f"{float(x):.{nd}f}"
+        except Exception:
+            return "—"
+
+    spread_edge = market.get("spread_edge")
+    total_edge = market.get("total_edge")
+
+    href = f"?page=game&sport={sport}&date={date}&slug={_url_escape(g.get('slug') or '')}"
+
+    la = f'<img src="{logo_away}" />' if logo_away else ""
+    lh = f'<img src="{logo_home}" />' if logo_home else ""
+
+    st.markdown(
+        f"""
+<a class="game-card" href="{href}">
+  <div class="game-top">
+    <div class="teamline">{la}<span>{away}</span> <span style="opacity:.75;">@</span> {lh}<span>{home}</span></div>
+    <div class="meta">{time_loc}{(" • " + location) if location else ""}</div>
+  </div>
+
+  <div class="kpis">
+    <div class="kpi">
+      <div class="lab">Proj Total</div>
+      <div class="val">{fmt(proj_total, 1)}</div>
+    </div>
+    <div class="kpi">
+      <div class="lab">Proj Spread (Home)</div>
+      <div class="val">{fmt(proj_spread, 1)}</div>
+    </div>
+    <div class="kpi {'missing' if spread_edge is None else ''}">
+      <div class="lab">Spread Edge</div>
+      <div class="val">{fmt(spread_edge, 2)}</div>
+    </div>
+    <div class="kpi {'missing' if total_edge is None else ''}">
+      <div class="lab">Total Edge</div>
+      <div class="val">{fmt(total_edge, 2)}</div>
+    </div>
+  </div>
+</a>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+def teamrankings_bar_table(
+    left_team: str,
+    right_team: str,
+    rows: List[Tuple[str, Optional[float], Optional[float]]],
+) -> None:
+    left_team = _html(strip_rank(left_team))
+    right_team = _html(strip_rank(right_team))
+
+    st.markdown('<div class="tr-table">', unsafe_allow_html=True)
+    st.markdown(
+        f"""
+<div class="tr-row" style="padding-top:0.4rem;">
+  <div class="tr-val" style="text-align:left;">{left_team}</div>
+  <div class="tr-stat">STAT</div>
+  <div class="tr-val" style="text-align:right;">{right_team}</div>
+</div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    for stat, lv, rv in rows:
+        stat = _html(stat)
+
+        lv_f = _safe_float(lv)
+        rv_f = _safe_float(rv)
+
+        a = 0.0 if lv_f is None else lv_f
+        b = 0.0 if rv_f is None else rv_f
+        denom = abs(a) + abs(b)
+        lp = 0.5 if denom == 0 else abs(a) / denom
+        rp = 1.0 - lp
+
+        if lv_f is None or rv_f is None:
+            lc = "rgba(255,255,255,0.22)"
+            rc = "rgba(255,255,255,0.22)"
+        else:
+            left_wins = lv_f >= rv_f
+            lc = "rgba(20, 220, 140, 0.85)" if left_wins else "rgba(255, 80, 110, 0.85)"
+            rc = "rgba(20, 220, 140, 0.85)" if not left_wins else "rgba(255, 80, 110, 0.85)"
+
+        st.markdown(
+            f"""
+<div class="tr-row">
+  <div>
+    <div class="tr-val">{_fmt(lv_f)}</div>
+    <div class="barwrap"><div class="bar" style="width:{lp*100:.0f}%; background:{lc};"></div></div>
+  </div>
+
+  <div class="tr-stat">{stat}</div>
+
+  <div>
+    <div class="tr-val" style="text-align:right;">{_fmt(rv_f)}</div>
+    <div class="barwrap"><div class="bar" style="width:{rp*100:.0f}%; background:{rc}; margin-left:auto;"></div></div>
+  </div>
+</div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    st.markdown("</div>", unsafe_allow_html=True)
+
+
+def _safe_float(x: Any) -> Optional[float]:
+    try:
+        if x is None:
+            return None
+        return float(x)
+    except Exception:
+        return None
+
+
+def _fmt(x: Optional[float]) -> str:
+    if x is None:
+        return "—"
+    if abs(x) >= 10:
+        return f"{x:.1f}"
+    return f"{x:.3f}"
+
+
+def _html(s: Any) -> str:
+    return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def _url_escape(s: str) -> str:
+    from urllib.parse import quote
+
+    return quote(str(s), safe="")
+
+
+def _url_unescape(s: str) -> str:
+    from urllib.parse import unquote
+
+    return unquote(s)
+
+
+# ----------------- Legacy Page Compatibility -----------------
+
+def set_selected_game(slug: str) -> None:
+    st.session_state["selected_slug"] = slug
+    qp = qp_get()
+    qp_set(
+        page="game",
+        sport=str(st.session_state.get("sport") or qp.get("sport") or "ncaab"),
+        date=str(qp.get("date") or ""),
+        slug=str(slug or ""),
+    )
+
+
+def top_play_card(g: Dict[str, Any], rank: int) -> None:
+    title = g.get("matchup_title") or g.get("slug") or "Matchup"
+    market = g.get("market_edges") or g.get("market") or {}
+    spread_edge = market.get("spread_edge")
+    total_edge = market.get("total_edge")
+    st.markdown(
+        f"""
+<div class="fca-card">
+  <div class="fca-title">#{rank} {title}</div>
+  <div class="fca-muted">Spread Edge: {spread_edge if spread_edge is not None else "—"} • Total Edge: {total_edge if total_edge is not None else "—"}</div>
+</div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+def slate_row(g: Dict[str, Any]) -> None:
+    title = g.get("matchup_title") or g.get("slug") or "Matchup"
+    time_local = g.get("time_local") or ""
+    slug = g.get("slug") or ""
+    c1, c2 = st.columns([5, 1], gap="small")
+    with c1:
+        st.markdown(f"<div class='fca-card'><div class='fca-title'>{title}</div><div class='fca-muted'>{time_local}</div></div>", unsafe_allow_html=True)
+    with c2:
+        if st.button("Open", key=f"legacy_open_{slug}"):
+            set_selected_game(slug)
+
+
+def stat_compare_row(name: str, away_val: Any, home_val: Any, fmt: str = "{:.3f}") -> None:
+    av = _safe_float(away_val)
+    hv = _safe_float(home_val)
+    if av is None:
+        away_txt = "—"
+    else:
+        away_txt = fmt.format(av)
+    if hv is None:
+        home_txt = "—"
+    else:
+        home_txt = fmt.format(hv)
+
+    st.markdown(
+        f"""
+<div class="tr-row">
+  <div class="tr-val">{away_txt}</div>
+  <div class="tr-stat">{_html(name)}</div>
+  <div class="tr-val" style="text-align:right;">{home_txt}</div>
+</div>
+        """,
+        unsafe_allow_html=True,
+    )

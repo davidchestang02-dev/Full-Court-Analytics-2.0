@@ -1,163 +1,227 @@
 from __future__ import annotations
 
 import streamlit as st
-from datetime import date
+from datetime import date as dt_date
+from typing import Any, Dict
 
-from ui.styles import inject_global_styles, set_app_background
+from ui.styles import inject_global_css
 from ui.data_access import (
-    get_available_dates,
-    load_games_for_date,
-    load_game_detail_bundle,
+    list_available_dates,
+    load_combined_daily,
+    load_predictions,
+    load_results,
+    merge_slate_with_preds,
 )
 from ui.components import (
-    render_top_nav,
-    render_landing,
-    render_today,
-    render_game_detail,
-    render_results,
-    render_model_health,
+    qp_get,
+    top_nav,
+    hero,
+    landing_league_cards,
+    game_card,
+    teamrankings_bar_table,
 )
 
-APP_TITLE = "Full Court Analytics"
-APP_SUBTITLE = "AI-driven slate projections + market edge detection (automated pipeline)"
-
-st.set_page_config(
-    page_title="Full Court Analytics",
-    page_icon="images/fca_logo.png",
-    layout="wide",
-    initial_sidebar_state="collapsed",
-)
-
-inject_global_styles()
+LOGO_URL = "https://raw.githubusercontent.com/davidchestang02-dev/full-court-analytics/main/images/fca_logo.png"
+BG_URL = "https://raw.githubusercontent.com/davidchestang02-dev/full-court-analytics/main/images/fca_background_1.png"
 
 
-def _init_state():
-    if "route" not in st.session_state:
-        st.session_state.route = "landing"  # landing | today | detail | results | health
-    if "nav_stack" not in st.session_state:
-        st.session_state.nav_stack = []  # stack of (route, payload)
-    if "sport" not in st.session_state:
-        st.session_state.sport = None
-    if "selected_date" not in st.session_state:
-        st.session_state.selected_date = None
-    if "selected_slug" not in st.session_state:
-        st.session_state.selected_slug = None
+def main() -> None:
+    inject_global_css(bg_url=BG_URL, logo_url=LOGO_URL)
+
+    qp = qp_get()
+    page = qp.get("page", "home")
+    sport = qp.get("sport", "ncaab")
+    date_param = qp.get("date", "")
+
+    top_nav(LOGO_URL)
+    hero("Full Court Analytics", "Model-Driven Betting Intelligence")
+
+    if page == "home":
+        render_home()
+    elif page == "today":
+        render_today(sport=sport, date_str=date_param)
+    elif page == "game":
+        render_game_detail(sport=sport, date_str=date_param, slug=qp.get("slug", ""))
+    elif page == "results":
+        render_results(sport=sport, date_str=date_param)
+    elif page == "health":
+        render_health(sport=sport)
+    else:
+        render_home()
 
 
-def go(route: str, **payload):
-    # push current to stack
-    st.session_state.nav_stack.append(
-        (st.session_state.route, {
-            "sport": st.session_state.sport,
-            "selected_date": st.session_state.selected_date,
-            "selected_slug": st.session_state.selected_slug,
-        })
-    )
-    st.session_state.route = route
-    for k, v in payload.items():
-        setattr(st.session_state, k, v)
-    st.rerun()
+def render_home() -> None:
+    st.markdown("### Select a league")
+    landing_league_cards()
 
 
-def back():
-    if not st.session_state.nav_stack:
-        st.session_state.route = "landing"
-        st.session_state.sport = None
-        st.session_state.selected_date = None
-        st.session_state.selected_slug = None
-        st.rerun()
+def render_today(sport: str, date_str: str) -> None:
+    available = list_available_dates(sport)
+    if not available:
+        st.warning(f"No data found for sport: {sport}")
+        return
 
-    prev_route, prev_payload = st.session_state.nav_stack.pop()
-    st.session_state.route = prev_route
-    st.session_state.sport = prev_payload.get("sport")
-    st.session_state.selected_date = prev_payload.get("selected_date")
-    st.session_state.selected_slug = prev_payload.get("selected_slug")
-    st.rerun()
+    default_date = date_str if date_str in available else available[-1]
+
+    c1, c2 = st.columns([1, 2])
+    with c1:
+        picked = st.date_input(
+            "Date",
+            value=_parse_date(default_date),
+            help="Pick any date with scraped data available.",
+        )
+    picked_str = picked.isoformat()
+
+    if picked_str not in available:
+        st.info("That date isn't stored yet. Showing the closest available date.")
+        picked_str = available[-1]
+
+    with c2:
+        st.markdown(f"**{sport.upper()} - {picked_str}**")
+
+    combined = load_combined_daily(sport, picked_str)
+    preds = load_predictions(sport, picked_str, model_version="baseline_v1")
+
+    if not combined:
+        st.warning("No combined_daily.json available for this date yet.")
+        return
+
+    slate = merge_slate_with_preds(combined, preds)
+    if not slate:
+        st.info("No games were found in the combined slate for this date.")
+        return
+
+    def edge_score(g: Dict[str, Any]) -> float:
+        m = g.get("market") or {}
+        se = m.get("spread_edge")
+        te = m.get("total_edge")
+        se = abs(se) if isinstance(se, (int, float)) else 0.0
+        te = abs(te) if isinstance(te, (int, float)) else 0.0
+        return max(se, te)
+
+    top = sorted(slate, key=edge_score, reverse=True)[:3]
+
+    if any(edge_score(x) > 0 for x in top):
+        st.markdown("### Top Plays")
+        cols = st.columns(3, gap="large")
+        for i, g in enumerate(top):
+            with cols[i]:
+                game_card(sport=sport, date=picked_str, g=g, logo_away=None, logo_home=None)
+
+    st.markdown("### All Games")
+    matchup_labels = [f"{g['teams']['away']} @ {g['teams']['home']}  -  {g.get('time_local', '')}" for g in slate]
+    selected = st.selectbox("Select a matchup", options=list(range(len(slate))), format_func=lambda i: matchup_labels[i])
+
+    g = slate[selected]
+    game_card(sport=sport, date=picked_str, g=g, logo_away=None, logo_home=None)
 
 
-_init_state()
+def render_game_detail(sport: str, date_str: str, slug: str) -> None:
+    if not sport:
+        st.warning("Missing sport.")
+        return
 
-# Background only on landing to keep it premium
-if st.session_state.route == "landing":
-    set_app_background("images/fca_background_1.png")
-else:
-    set_app_background(None)
+    available = list_available_dates(sport)
+    if not available:
+        st.warning(f"No data found for sport: {sport}")
+        return
 
-# Always show a clean top nav (NOT Streamlit sidebar)
-render_top_nav(
-    title=APP_TITLE,
-    subtitle=APP_SUBTITLE,
-    show_back=(st.session_state.route != "landing"),
-    on_back=back,
-    on_home=lambda: go("landing", sport=None, selected_date=None, selected_slug=None),
-    on_today=lambda: go("today"),
-    on_results=lambda: go("results"),
-    on_health=lambda: go("health"),
-)
+    if date_str not in available:
+        date_str = available[-1]
 
-# ---------- ROUTES ----------
-if st.session_state.route == "landing":
-    # landing chooses sport + date
-    available = get_available_dates(st.session_state.sport)
-    default_date = st.session_state.selected_date or (available[-1] if available else date.today().isoformat())
-    render_landing(
-        logo_path="images/fca_logo.png",
-        sport=st.session_state.sport,
-        default_date=default_date,
-        available_dates=available,
-        on_select_sport=lambda sport: go("landing", sport=sport, selected_date=default_date),
-        on_open_today=lambda sport, date_str: go("today", sport=sport, selected_date=date_str),
-    )
+    combined = load_combined_daily(sport, date_str)
+    preds = load_predictions(sport, date_str, model_version="baseline_v1")
+    results = load_results(sport, date_str)
 
-elif st.session_state.route == "today":
-    if not st.session_state.sport:
-        go("landing")
-    if not st.session_state.selected_date:
-        # fall back to latest available or today
-        available = get_available_dates(st.session_state.sport)
-        st.session_state.selected_date = available[-1] if available else date.today().isoformat()
+    if not combined:
+        st.warning("No combined slate found.")
+        return
 
-    games_bundle = load_games_for_date(st.session_state.sport, st.session_state.selected_date)
+    slate = merge_slate_with_preds(combined, preds)
+    g = next((x for x in slate if x.get("slug") == slug), None)
+    if not g:
+        st.warning("Game not found.")
+        return
 
-    render_today(
-        sport=st.session_state.sport,
-        date_str=st.session_state.selected_date,
-        games_bundle=games_bundle,
-        on_change_date=lambda new_date: go("today", selected_date=new_date),
-        on_open_game=lambda slug: go("detail", selected_slug=slug),
-    )
+    away = g["teams"]["away"]
+    home = g["teams"]["home"]
 
-elif st.session_state.route == "detail":
-    if not st.session_state.sport or not st.session_state.selected_date or not st.session_state.selected_slug:
-        go("today")
+    st.markdown(f"## {away} @ {home}")
+    st.caption(f"{sport.upper()} - {date_str} - {g.get('time_local', '')} - {g.get('location', '')}")
 
-    bundle = load_game_detail_bundle(
-        sport=st.session_state.sport,
-        date_str=st.session_state.selected_date,
-        slug=st.session_state.selected_slug,
-    )
+    c1, c2 = st.columns([1, 1], gap="large")
+    with c1:
+        st.markdown("### Model Projection")
+        proj = g.get("proj") or {}
+        st.write(f"**Proj Total:** {proj.get('proj_total', '—')}")
+        st.write(f"**Proj Spread (Home):** {proj.get('proj_spread_home', '—')}")
 
-    render_game_detail(
-        sport=st.session_state.sport,
-        date_str=st.session_state.selected_date,
-        bundle=bundle,
-        on_back_to_today=lambda: go("today"),
-    )
+    with c2:
+        st.markdown("### Market (Closing)")
+        mk = g.get("market") or {}
+        if mk.get("has_market"):
+            st.write(f"**Market Total:** {mk.get('market_total', '—')}")
+            st.write(f"**Market Spread (Home):** {mk.get('market_spread_home', '—')}")
+            st.write(f"**Total Edge:** {mk.get('total_edge', '—')}")
+            st.write(f"**Spread Edge:** {mk.get('spread_edge', '—')}")
+        else:
+            st.caption("No market lines stored yet for this matchup.")
 
-elif st.session_state.route == "results":
-    if not st.session_state.sport:
-        # results can be opened from landing as well
-        go("landing")
-    available = get_available_dates(st.session_state.sport)
-    default_date = st.session_state.selected_date or (available[-1] if available else date.today().isoformat())
-    st.session_state.selected_date = default_date
+    st.markdown("### Team Comparison")
 
-    render_results(
-        sport=st.session_state.sport,
-        date_str=st.session_state.selected_date,
-        on_change_date=lambda d: go("results", selected_date=d),
-        on_open_game=lambda slug: go("detail", selected_slug=slug),
-    )
+    feats = g.get("features") or {}
+    rows = [
+        ("Off Efficiency", feats.get("key_offensive_stats.off_efficiency.uk"), feats.get("key_offensive_stats.off_efficiency.tam")),
+        ("Effective FG%", feats.get("key_offensive_stats.effective_fg.uk"), feats.get("key_offensive_stats.effective_fg.tam")),
+        ("Turnovers/Play", feats.get("key_offensive_stats.turnovers_play.uk"), feats.get("key_offensive_stats.turnovers_play.tam")),
+        ("Off Rebound%", feats.get("key_offensive_stats.off_rebound.uk"), feats.get("key_offensive_stats.off_rebound.tam")),
+        ("Def Efficiency", feats.get("key_defensive_stats.def_efficiency.uk"), feats.get("key_defensive_stats.def_efficiency.tam")),
+        ("Opp eFG%", feats.get("key_defensive_stats.opp_effective_fg.uk"), feats.get("key_defensive_stats.opp_effective_fg.tam")),
+    ]
+    teamrankings_bar_table(away, home, rows)
 
-elif st.session_state.route == "health":
-    render_model_health()
+    if results:
+        rec = None
+        if isinstance(results, dict) and "games" in results:
+            rec = next((x for x in results["games"] if x.get("slug") == slug), None)
+        elif isinstance(results, list):
+            rec = next((x for x in results if x.get("slug") == slug), None)
+
+        if rec:
+            st.markdown("### Final / Grading")
+            st.json(rec.get("grading") or {}, expanded=False)
+
+
+def render_results(sport: str, date_str: str) -> None:
+    available = list_available_dates(sport)
+    if not available:
+        st.warning(f"No data found for sport: {sport}")
+        return
+    if date_str not in available:
+        date_str = available[-1]
+
+    r = load_results(sport, date_str)
+    st.markdown(f"## Results - {sport.upper()} - {date_str}")
+    if not r:
+        st.info("No final results file found for this date yet.")
+        return
+    st.json(r, expanded=False)
+
+
+def render_health(sport: str) -> None:
+    st.markdown("## Model Health")
+    st.caption("Basic diagnostics: data availability, last runs, and missing artifacts.")
+    dates = list_available_dates(sport)
+    st.write({"sport": sport, "dates_found": len(dates), "latest_date": (dates[-1] if dates else None)})
+
+
+def _parse_date(s: str) -> dt_date:
+    try:
+        y, m, d = s.split("-")
+        return dt_date(int(y), int(m), int(d))
+    except Exception:
+        return dt_date.today()
+
+
+if __name__ == "__main__":
+    main()

@@ -5,12 +5,310 @@ from pathlib import Path
 from typing import Optional
 import streamlit as st
 
+REPO_ROOT = Path(__file__).resolve().parents[2]
+LANDING_BG_IMAGE = "images/fca_background_1.png"
+
+
+def _resolve_path(path: str) -> Path:
+    p = Path(path)
+    if p.exists():
+        return p
+    repo_relative = REPO_ROOT / path
+    if repo_relative.exists():
+        return repo_relative
+    return p
+
 
 def _b64(path: str) -> str:
-    p = Path(path)
+    p = _resolve_path(path)
     if not p.exists():
         return ""
     return base64.b64encode(p.read_bytes()).decode("utf-8")
+
+
+def inject_global_css(bg_url: str, logo_url: str) -> None:
+    st.set_page_config(
+        page_title="Full Court Analytics",
+        page_icon=logo_url,
+        layout="wide",
+        initial_sidebar_state="collapsed",
+    )
+
+    st.markdown(
+        f"""
+<style>
+/* ---------- GLOBAL / BACKGROUND ---------- */
+html, body, [data-testid="stAppViewContainer"] {{
+  height: 100%;
+}}
+.stApp {{
+  background-image: url("{bg_url}");
+  background-size: cover;
+  background-position: center 5%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #e8ecff;
+  font-family: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}}
+
+/* IMPORTANT: remove the dark overlay cover */
+.stApp::before {{
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.00);
+  z-index: -1;
+}}
+
+.block-container {{
+  padding-top: 2.25rem !important;
+  max-width: 1400px !important;
+}}
+
+[data-testid="stSidebar"] {{
+  display: none !important;
+}}
+
+/* ---------- TOP NAV ---------- */
+.fca-nav {{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.9rem;
+  padding: 0.85rem 1.0rem;
+  border-radius: 18px;
+  background: rgba(10, 16, 30, 0.55);
+  border: 1px solid rgba(110, 160, 255, 0.20);
+  box-shadow: 0 0 22px rgba(0, 140, 255, 0.08);
+  backdrop-filter: blur(10px);
+  margin-bottom: 1.25rem;
+}}
+.fca-nav .brand {{
+  display:flex; align-items:center; gap:0.75rem;
+}}
+.fca-nav img {{
+  width: 44px; height: 44px; border-radius: 12px;
+  filter: drop-shadow(0 0 14px rgba(80,120,255,0.55));
+}}
+.fca-nav .brand-title {{
+  font-weight: 900;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  text-shadow: 0 0 18px rgba(80,120,255,0.35);
+}}
+.fca-nav .navlinks {{
+  display:flex; align-items:center; gap:0.6rem;
+}}
+.fca-pill {{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding: 0.60rem 1.0rem;
+  border-radius: 999px;
+  text-decoration: none !important;
+  color: #e8ecff !important;
+  background: rgba(15, 22, 40, 0.55);
+  border: 1px solid rgba(110, 160, 255, 0.25);
+  box-shadow: 0 0 18px rgba(0, 140, 255, 0.08);
+  transition: 0.18s ease;
+  font-weight: 700;
+}}
+.fca-pill:hover {{
+  transform: translateY(-1px);
+  border: 1px solid rgba(140, 190, 255, 0.45);
+  box-shadow: 0 0 26px rgba(0, 170, 255, 0.18);
+}}
+
+/* ---------- HEADERS ---------- */
+.fca-hero {{
+  padding: 1.2rem 1.2rem;
+  border-radius: 22px;
+  background: rgba(10, 16, 30, 0.52);
+  border: 1px solid rgba(110, 160, 255, 0.18);
+  box-shadow: 0 0 30px rgba(0, 140, 255, 0.10);
+  backdrop-filter: blur(12px);
+  margin-bottom: 1.25rem;
+}}
+.fca-hero h1 {{
+  margin: 0;
+  font-size: 2.0rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-shadow: 0 0 22px rgba(80,120,255,0.45);
+}}
+.fca-hero .sub {{
+  margin-top: 0.35rem;
+  opacity: 0.92;
+  font-weight: 600;
+}}
+
+/* ---------- CARD GRID ---------- */
+.fca-grid {{
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.9rem;
+}}
+@media (max-width: 1100px) {{
+  .fca-grid {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
+}}
+@media (max-width: 700px) {{
+  .fca-grid {{ grid-template-columns: 1fr; }}
+}}
+
+/* ---------- LEAGUE CARDS ---------- */
+.league-card {{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap: 0.7rem;
+  padding: 1.0rem 1.0rem;
+  border-radius: 18px;
+  text-decoration:none !important;
+  color: #e8ecff !important;
+  background: rgba(10, 16, 30, 0.62);
+  border: 1px solid rgba(110, 160, 255, 0.22);
+  box-shadow: 0 0 22px rgba(0,140,255,0.10);
+  backdrop-filter: blur(12px);
+  transition: 0.18s ease;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+}}
+.league-card:hover {{
+  transform: translateY(-2px);
+  border: 1px solid rgba(140, 190, 255, 0.45);
+  box-shadow: 0 0 34px rgba(0, 190, 255, 0.18);
+}}
+.league-icon {{
+  width: 34px; height: 34px;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.10);
+}}
+
+/* ---------- GAME CARDS ---------- */
+.game-card {{
+  display:block;
+  border-radius: 22px;
+  text-decoration: none !important;
+  color: #e8ecff !important;
+  background: rgba(8, 14, 28, 0.64);
+  border: 1px solid rgba(110, 160, 255, 0.22);
+  box-shadow: 0 0 24px rgba(0, 140, 255, 0.10);
+  backdrop-filter: blur(12px);
+  padding: 0.95rem 1.05rem;
+  transition: 0.18s ease;
+}}
+.game-card:hover {{
+  transform: translateY(-2px);
+  border: 1px solid rgba(140, 190, 255, 0.45);
+  box-shadow: 0 0 34px rgba(0, 190, 255, 0.18);
+}}
+
+.game-top {{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap: 0.75rem;
+}}
+.teamline {{
+  display:flex;
+  align-items:center;
+  gap: 0.55rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+}}
+.teamline img {{
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 10px rgba(90,140,255,0.35));
+}}
+.meta {{
+  opacity: 0.90;
+  font-weight: 650;
+  font-size: 0.92rem;
+}}
+.kpis {{
+  margin-top: 0.65rem;
+  display:grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.55rem;
+}}
+.kpi {{
+  border-radius: 16px;
+  padding: 0.55rem 0.65rem;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.08);
+}}
+.kpi .lab {{
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}}
+.kpi .val {{
+  font-size: 1.05rem;
+  font-weight: 900;
+  margin-top: 0.1rem;
+  text-shadow: 0 0 10px rgba(0, 200, 255, 0.18);
+}}
+.kpi.missing .val {{
+  opacity: 0.50;
+}}
+
+/* ---------- TEAMRANKINGS BAR TABLE ---------- */
+.tr-table {{
+  width: 100%;
+  border-radius: 22px;
+  background: rgba(8, 14, 28, 0.64);
+  border: 1px solid rgba(110, 160, 255, 0.18);
+  box-shadow: 0 0 24px rgba(0, 140, 255, 0.10);
+  backdrop-filter: blur(12px);
+  padding: 0.85rem 1.05rem;
+}}
+.tr-row {{
+  display:grid;
+  grid-template-columns: 1.2fr 1.6fr 1.2fr;
+  gap: 0.9rem;
+  align-items:center;
+  padding: 0.65rem 0.2rem;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}}
+.tr-row:last-child {{
+  border-bottom: none;
+}}
+.tr-stat {{
+  text-align:center;
+  opacity: 0.90;
+  font-weight: 900;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  font-size: 0.80rem;
+}}
+.tr-val {{
+  font-weight: 900;
+  opacity: 0.95;
+}}
+.barwrap {{
+  width: 100%;
+  height: 12px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.08);
+  overflow:hidden;
+}}
+.bar {{
+  height: 100%;
+  border-radius: 999px;
+}}
+</style>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 def set_app_background(image_path: Optional[str]):
@@ -216,3 +514,7 @@ def inject_global_styles():
         """,
         unsafe_allow_html=True,
     )
+
+
+def apply_styles() -> None:
+    inject_global_styles()

@@ -3,7 +3,7 @@ name: Cache TeamRankings Matchups
 on:
   schedule:
     # Daily at 6:15 AM ET (adjust as you like)
-    - cron: "15 11 * * *"
+    - cron: "0"
   workflow_dispatch: {}
 
 permissions:

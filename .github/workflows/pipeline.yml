@@ -2,7 +2,7 @@ name: FCA Pipeline
 
 on:
   schedule:
-    - cron: "0   # 7 AM ET daily
+    - cron: "0"   # 7 AM ET daily
     - cron: "0 "    # every hour
   workflow_dispatch:
 
